@@ -79,7 +79,7 @@ report += ['',f'比較基準（前日上位10を継続選出）：各日{[r["hit
 save(ROOT/'results/july_batch04_summary.json',dict(days=DAYS,evaluations=evaluations,hits=hits,prediction_count=30,precision_at_10=hits/30,cumulative_hits=11+hits,cumulative_prediction_count=120,cumulative_precision_at_10=(11+hits)/120,exact_rank_hits=sum(sum(p["predicted_rank"]==p["actual_rank"] for p in ev["predictions"]) for ev in evaluations),full_tse_universe=False,blind_test=False,all_prediction_actual_prices_retrieved=True,next_days=['2026-07-17','2026-07-21','2026-07-22']))
 (ROOT/'results/july_batch04_report.md').write_text('\n'.join(report)+'\n')
 with (ROOT/'results/july_batch04_predictions.csv').open('w',encoding='utf-8-sig',newline='') as f:
- w=csv.DictWriter(f,fieldnames=list(allrows[0]));w.writeheader();w.writerows(allrows)
+ w=csv.DictWriter(f,fieldnames=list(allrows[0]),lineterminator="\n");w.writeheader();w.writerows(allrows)
 state=json.loads((ROOT/'results/state.json').read_text());state.update(phase='july_prediction',july_completed_batch=4,july_completed_days=sorted(set(state.get('july_completed_days',[])+DAYS)),next_days=['2026-07-17','2026-07-21','2026-07-22'],requires_user_continue=True,july_predictions_created=True,model_status='frozen',screening_prompt_created=False,error_analysis_started=False);save(ROOT/'results/state.json',state)
 files=[ROOT/'data/july_model_frozen.json',ROOT/'data/july_model_v1.json',ROOT/'july_predict.py',ROOT/'results/july_batch04_report.md',ROOT/'results/july_batch04_summary.json',ROOT/'results/july_batch04_predictions.csv',ROOT/'results/july_batch04_baseline.json']
 for day in DAYS:

@@ -1,12 +1,12 @@
 {
-  "created_at_utc": "2026-10-16T12:14:56.423072+00:00",
+  "created_at_utc": "2026-10-16T12:15:39.718153+00:00",
   "files": {
     "data/july_model_frozen.json": "50f1755b888eb1b2eaa57f0a80c2dcef85fca149fe077988a68f63edcfe4c50b",
     "data/july_model_v1.json": "f5df7418010ab4a68bf2c9e0c82fc5ce0f6a0d8b04fcf4a00a7b3e6e264d13ad",
     "july_predict.py": "c5060225df69b56370b1c5ed7617ad04baed1d5dd5b00efbfc27d8a46e8cb874",
     "results/july_batch04_report.md": "dfa553bbf5402ba98096a96ef76b67346d7dabc0c6d9694dedfbee19e6364d0c",
     "results/july_batch04_summary.json": "41bd7d627558c94f35fe473c4012b9a8004981e4785e8e831135717b5f44199c",
-    "results/july_batch04_predictions.csv": "c2555a3c27008100c12b9bdf05f2e708f0c79038190505a91abbbe229d3dc7cc",
+    "results/july_batch04_predictions.csv": "17800dc545be17e4e4280edfca050c65ec795a1953c8d3ea49b47c0b80403566",
     "results/july_batch04_baseline.json": "a79d72359cdf86ebbd1045202b1323105123458ec7a16873879d6b77d69ab43a",
     "results/july_predictions/2026-07-14.json": "e0916e4a8c6c570525701f4330fa092fd9db94c7a66e0b2213891f4b7394bf21",
     "results/july_scores/2026-07-14.json": "3da6bf52a76ca5c54d5c15c62b0460aad0ba6ba14f9fe256e34412f3c7d7f23f",
@@ -25,7 +25,7 @@
     "data/july_actuals/2026-07-16.json": "12d6ff71b29a5e2dca43eab2b8a8175655f1dd47796acc521ac2f99551676d15",
     "build_july_batch04.py": "df3aff03a76a11c1a56e8587cfdde8d32afaf84d5c8f3af927f365579eff91d0",
     "audit_july_batch04.py": "a7ca0531e3444c945796bc2210232b23409f6f488d1063b7fe1dc6a0382597ca",
-    "finalize_july_batch04.py": "85f1011c120201ccb9ecd042888596de6978f76117b7f711263af999c5612338",
+    "finalize_july_batch04.py": "f2cb1810ea58e8ba978477295d12e66a6c1f4d7f9cd4f3d94ef6d1f25cf44ab4",
     "results/july_batch04_audit.json": "4955d5244c9ff8cd1d1e4309b8f3aa4b314b3abe07155c18eb95844f746c9854",
     "evidence/jb4_actual14.json": "0e2fb1bef15eae9d2753cd569bab9deb1e8a98bd497382ceb703b2690f9418e2",
     "evidence/jb4_actual15.json": "7a8d812d615081b240d9a8cd9f84c39126ec180fddd52b504afc1033e86c78fa",
