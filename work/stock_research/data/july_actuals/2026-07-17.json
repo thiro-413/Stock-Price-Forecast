@@ -1,0 +1,133 @@
+{
+  "date": "2026-07-17",
+  "top10_verified": true,
+  "verification_scope": "別集計表との市場・順位・価格算術照合。7/17は別表のETF/ETNを除き6573・1827を日付付き時系列で補完。SHIFT別表は丸め値のため主表の小数値を維持。全東証原票からの独立再ソートではない。",
+  "sources": [
+    "https://kabu.kininew.net/fiveup/8023.html",
+    "https://uiblog.hatenablog.com/entry/2026/07/19/164656",
+    "https://96ut.com/stock/jikei.php?code=6573&year=2026",
+    "https://96ut.com/stock/jikei.php?code=1827&year=2026"
+  ],
+  "top10": [
+    {
+      "code": "5242",
+      "name": "アイズ",
+      "market": "G",
+      "close": 1230.0,
+      "change": 206.0,
+      "return_pct": 20.1171875,
+      "volume": 103200,
+      "reported_return_pct": 20.12,
+      "previous_close": 1024.0,
+      "url": "https://kabu.kininew.net/fiveup/8023.html"
+    },
+    {
+      "code": "150A",
+      "name": "ＪＳＨ",
+      "market": "G",
+      "close": 542.0,
+      "change": 80.0,
+      "return_pct": 17.316017316017316,
+      "volume": 391500,
+      "reported_return_pct": 17.32,
+      "previous_close": 462.0,
+      "url": "https://kabu.kininew.net/fiveup/8023.html"
+    },
+    {
+      "code": "5216",
+      "name": "倉元",
+      "market": "S",
+      "close": 184.0,
+      "change": 27.0,
+      "return_pct": 17.197452229299362,
+      "volume": 8201200,
+      "reported_return_pct": 17.2,
+      "previous_close": 157.0,
+      "url": "https://kabu.kininew.net/fiveup/8023.html"
+    },
+    {
+      "code": "7501",
+      "name": "ティムコ",
+      "market": "S",
+      "close": 1611.0,
+      "change": 201.0,
+      "return_pct": 14.25531914893617,
+      "volume": 8000,
+      "reported_return_pct": 14.26,
+      "previous_close": 1410.0,
+      "url": "https://kabu.kininew.net/fiveup/8023.html"
+    },
+    {
+      "code": "278A",
+      "name": "テラドローン",
+      "market": "G",
+      "close": 13770.0,
+      "change": 1650.0,
+      "return_pct": 13.613861386138614,
+      "volume": 4024700,
+      "reported_return_pct": 13.61,
+      "previous_close": 12120.0,
+      "url": "https://kabu.kininew.net/fiveup/8023.html"
+    },
+    {
+      "code": "7581",
+      "name": "サイゼリヤ",
+      "market": "P",
+      "close": 7600.0,
+      "change": 820.0,
+      "return_pct": 12.094395280235988,
+      "volume": 6483700,
+      "reported_return_pct": 12.09,
+      "previous_close": 6780.0,
+      "url": "https://kabu.kininew.net/fiveup/8023.html"
+    },
+    {
+      "code": "3697",
+      "name": "ＳＨＩＦＴ",
+      "market": "P",
+      "close": 743.4,
+      "change": 63.6,
+      "return_pct": 9.355692850838482,
+      "volume": 15934600,
+      "reported_return_pct": 9.36,
+      "previous_close": 679.8,
+      "url": "https://kabu.kininew.net/fiveup/8023.html"
+    },
+    {
+      "code": "2354",
+      "name": "ＹＥデジタル",
+      "market": "S",
+      "close": 1059.0,
+      "change": 81.0,
+      "return_pct": 8.282208588957054,
+      "volume": 7669100,
+      "reported_return_pct": 8.28,
+      "previous_close": 978.0,
+      "url": "https://kabu.kininew.net/fiveup/8023.html"
+    },
+    {
+      "code": "6573",
+      "name": "ＣＲＡＶＩＡ",
+      "market": "G",
+      "close": 27.0,
+      "change": 2.0,
+      "return_pct": 8.0,
+      "volume": 1326400,
+      "reported_return_pct": 8.0,
+      "previous_close": 25.0,
+      "url": "https://kabu.kininew.net/fiveup/8023.html"
+    },
+    {
+      "code": "1827",
+      "name": "ナカノフドー",
+      "market": "S",
+      "close": 1325.0,
+      "change": 97.0,
+      "return_pct": 7.899022801302932,
+      "volume": 26900,
+      "reported_return_pct": 7.9,
+      "previous_close": 1228.0,
+      "url": "https://kabu.kininew.net/fiveup/8023.html"
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "date": "2026-07-21",
+  "top10_verified": true,
+  "verification_scope": "別集計表との市場・順位・価格算術照合。7/17は別表のETF/ETNを除き6573・1827を日付付き時系列で補完。SHIFT別表は丸め値のため主表の小数値を維持。全東証原票からの独立再ソートではない。",
+  "sources": [
+    "https://kabu.kininew.net/fiveup/8033.html",
+    "https://uiblog.hatenablog.com/entry/2026/07/21/211202"
+  ],
+  "top10": [
+    {
+      "code": "2354",
+      "name": "ＹＥデジタル",
+      "market": "S",
+      "close": 1359.0,
+      "change": 300.0,
+      "return_pct": 28.328611898016998,
+      "volume": 3960300,
+      "reported_return_pct": 28.33,
+      "previous_close": 1059.0,
+      "url": "https://kabu.kininew.net/fiveup/8033.html"
+    },
+    {
+      "code": "150A",
+      "name": "ＪＳＨ",
+      "market": "G",
+      "close": 685.0,
+      "change": 143.0,
+      "return_pct": 26.383763837638377,
+      "volume": 3955900,
+      "reported_return_pct": 26.38,
+      "previous_close": 542.0,
+      "url": "https://kabu.kininew.net/fiveup/8033.html"
+    },
+    {
+      "code": "598A",
+      "name": "チャットプラ",
+      "market": "G",
+      "close": 2784.0,
+      "change": 500.0,
+      "return_pct": 21.891418563922944,
+      "volume": 3538600,
+      "reported_return_pct": 21.89,
+      "previous_close": 2284.0,
+      "url": "https://kabu.kininew.net/fiveup/8033.html"
+    },
+    {
+      "code": "2345",
+      "name": "ホドルワン",
+      "market": "S",
+      "close": 107.0,
+      "change": 19.0,
+      "return_pct": 21.59090909090909,
+      "volume": 4678500,
+      "reported_return_pct": 21.59,
+      "previous_close": 88.0,
+      "url": "https://kabu.kininew.net/fiveup/8033.html"
+    },
+    {
+      "code": "4762",
+      "name": "ＸＮＥＴ",
+      "market": "S",
+      "close": 1990.0,
+      "change": 340.0,
+      "return_pct": 20.606060606060606,
+      "volume": 52300,
+      "reported_return_pct": 20.61,
+      "previous_close": 1650.0,
+      "url": "https://kabu.kininew.net/fiveup/8033.html"
+    },
+    {
+      "code": "9238",
+      "name": "バリューＣ",
+      "market": "G",
+      "close": 472.0,
+      "change": 80.0,
+      "return_pct": 20.408163265306122,
+      "volume": 138700,
+      "reported_return_pct": 20.41,
+      "previous_close": 392.0,
+      "url": "https://kabu.kininew.net/fiveup/8033.html"
+    },
+    {
+      "code": "296A",
+      "name": "令和ＡＨ",
+      "market": "G",
+      "close": 901.0,
+      "change": 150.0,
+      "return_pct": 19.97336884154461,
+      "volume": 880900,
+      "reported_return_pct": 19.97,
+      "previous_close": 751.0,
+      "url": "https://kabu.kininew.net/fiveup/8033.html"
+    },
+    {
+      "code": "285A",
+      "name": "キオクシア",
+      "market": "P",
+      "close": 61060.0,
+      "change": 8950.0,
+      "return_pct": 17.17520629437728,
+      "volume": 50881700,
+      "reported_return_pct": 17.18,
+      "previous_close": 52110.0,
+      "url": "https://kabu.kininew.net/fiveup/8033.html"
+    },
+    {
+      "code": "5242",
+      "name": "アイズ",
+      "market": "G",
+      "close": 1429.0,
+      "change": 199.0,
+      "return_pct": 16.178861788617887,
+      "volume": 109000,
+      "reported_return_pct": 16.18,
+      "previous_close": 1230.0,
+      "url": "https://kabu.kininew.net/fiveup/8033.html"
+    },
+    {
+      "code": "5575",
+      "name": "グロービー",
+      "market": "G",
+      "close": 1087.0,
+      "change": 150.0,
+      "return_pct": 16.008537886873,
+      "volume": 145100,
+      "reported_return_pct": 16.01,
+      "previous_close": 937.0,
+      "url": "https://kabu.kininew.net/fiveup/8033.html"
+    }
+  ]
+}

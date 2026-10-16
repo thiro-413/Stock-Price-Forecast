@@ -1,0 +1,61 @@
+{
+  "old_manifest_file_checks": 290,
+  "parsed_json_count": 1074,
+  "frozen_code_sha256": "c5060225df69b56370b1c5ed7617ad04baed1d5dd5b00efbfc27d8a46e8cb874",
+  "frozen_model_sha256": "f5df7418010ab4a68bf2c9e0c82fc5ce0f6a0d8b04fcf4a00a7b3e6e264d13ad",
+  "days": [
+    {
+      "date": "2026-07-17",
+      "sealed_sha256": "0ca3bcf775ce22cb3d0804dc1e36ceca2a95109c8a8771108ebc0798100054ab",
+      "cutoff_gate": "passed",
+      "input_hash": "passed",
+      "candidate_count": 56,
+      "unverified_exclusions": 8,
+      "hits": 1,
+      "actual_price_count": 10,
+      "no_regular_trade_count": 0
+    },
+    {
+      "date": "2026-07-21",
+      "sealed_sha256": "253aa648506fc7ca4e70568062054313d468c0dc11abcfee902ed9f5cd8f2cf3",
+      "cutoff_gate": "passed",
+      "input_hash": "passed",
+      "candidate_count": 33,
+      "unverified_exclusions": 10,
+      "hits": 1,
+      "actual_price_count": 9,
+      "no_regular_trade_count": 1
+    },
+    {
+      "date": "2026-07-22",
+      "sealed_sha256": "4db0b8e8a31fe85c238e08932899a5986db339e65be8701444c3cfba4f09f325",
+      "cutoff_gate": "passed",
+      "input_hash": "passed",
+      "candidate_count": 192,
+      "unverified_exclusions": 14,
+      "hits": 3,
+      "actual_price_count": 10,
+      "no_regular_trade_count": 0
+    }
+  ],
+  "all_30_actual_statuses_verified": true,
+  "traded_close_count": 29,
+  "no_regular_trade_count": 1,
+  "old_seals_unchanged": true,
+  "full_tse_universe": false,
+  "blind_test": false,
+  "new_evidence_secret_pattern_scan": "passed",
+  "source_retrieval_notes": [
+    "原開示のYahoo403はJPX転載で補完。",
+    "インフキュリオン・岩井コスモは対象日OHLC表の検索保存版で補完。",
+    "7/17実績別表のETF/ETNを除外し6573・1827は日付付き時系列を照合。SHIFT別表の整数丸めは採用しない。",
+    "5078の7/21は立会出来高0。0円終値・0%リターンを作らずnull。",
+    "7/21価格表の取得窓は7/22入力・封印前に補完し174普通株を確認。",
+    "5074探索中に8/14契約中止見出しが偶発表示。予測入力から除外したが非盲検。"
+  ],
+  "next_days": [
+    "2026-07-23",
+    "2026-07-24",
+    "2026-07-27"
+  ]
+}
