@@ -60,6 +60,12 @@
       "file": "evidence/b7_search2.json",
       "original_sha256": "8c77e10d998e36a42c21763f053a4f64be26dbbe14914d5221935cbeb3e135e1",
       "published_sha256": "2dc4f3cc820e78db8ed2da3a7992f64ce5b0ace47ddeb641bd3e736b213f832d"
+    },
+    {
+      "file": "evidence/jb4_find16_7719.json",
+      "original_sha256": null,
+      "published_sha256": "f0980ae2c4a33781836517fb1dc1252e96b934c77e74112483a8b08c8dc6fbd0",
+      "note": "署名付きURLを除去後、公開記録への追記時にパス解決エラーとなったため除去前ハッシュは保存されていない。予測入力に使用しない検索結果。"
     }
   ]
 }

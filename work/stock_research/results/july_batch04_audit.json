@@ -1,0 +1,55 @@
+{
+  "old_manifest_file_checks": 64,
+  "parsed_json_count": 875,
+  "frozen_code_sha256": "c5060225df69b56370b1c5ed7617ad04baed1d5dd5b00efbfc27d8a46e8cb874",
+  "frozen_model_sha256": "f5df7418010ab4a68bf2c9e0c82fc5ce0f6a0d8b04fcf4a00a7b3e6e264d13ad",
+  "days": [
+    {
+      "date": "2026-07-14",
+      "sealed_sha256": "a4c2a35a1ac3e149fef0ec298bd5f3349c561d7fc00b36b4ed5b809243b096a8",
+      "cutoff_gate": "passed",
+      "input_hash": "passed",
+      "candidate_count": 72,
+      "unverified_exclusions": 36,
+      "hits": 2,
+      "actual_price_count": 10
+    },
+    {
+      "date": "2026-07-15",
+      "sealed_sha256": "97a6d9d96f1ee08dc1d4d2e5e224a0d002524276d08f23d0dfe77cb844d12a80",
+      "cutoff_gate": "passed",
+      "input_hash": "passed",
+      "candidate_count": 95,
+      "unverified_exclusions": 32,
+      "hits": 0,
+      "actual_price_count": 10
+    },
+    {
+      "date": "2026-07-16",
+      "sealed_sha256": "c76c5791106b4674642a19358d92ce7a7e31aaa769828d4ac84dccccb0c1ec06",
+      "cutoff_gate": "passed",
+      "input_hash": "passed",
+      "candidate_count": 166,
+      "unverified_exclusions": 31,
+      "hits": 1,
+      "actual_price_count": 10
+    }
+  ],
+  "all_30_prices_verified": true,
+  "old_seals_unchanged": true,
+  "full_tse_universe": false,
+  "blind_test": false,
+  "new_evidence_secret_pattern_scan": "passed",
+  "source_retrieval_notes": [
+    "Yahoo PDF403はJPX転載で補完。東京衡機は会社公開PDFで補完。",
+    "ソーバル・QPSHDの実績は日付付き検索保存版のOHLC列から補完、ジェーソンはTraders表と保存検索の前日行を照合。",
+    "7/14別表のETF600Aを除外、4819を別記事で照合。7/16福証9388を除外、7138を日付付き時系列で照合。",
+    "GO581A、ABEJA5574、セイワ523Aなど原資料を確認しきれなかったニュースのみ候補は除外。保存済み予測に遡及反映しない。",
+    "記事・短信の数値差（4616・7719など）は原資料優先、分類記録を保存。"
+  ],
+  "next_days": [
+    "2026-07-17",
+    "2026-07-21",
+    "2026-07-22"
+  ]
+}

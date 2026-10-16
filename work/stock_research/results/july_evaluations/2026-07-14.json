@@ -1,0 +1,276 @@
+{
+  "date": "2026-07-14",
+  "hits": 2,
+  "precision_at_10": 0.2,
+  "recall_at_10": 0.2,
+  "exact_rank_hits": 1,
+  "predictions": [
+    {
+      "predicted_rank": 1,
+      "code": "3168",
+      "actual_rank": null,
+      "result": "outside_top10",
+      "name": "ＭＥＲＦ",
+      "score": 7.328,
+      "previous_close": 1450.0,
+      "actual_close": 1341.0,
+      "actual_return_pct": -7.517241379310347,
+      "actual_source": "https://96ut.com/stock/jikei.php?code=3168&year=2026",
+      "material_types": [
+        "earnings_up"
+      ],
+      "missing_momentum": false
+    },
+    {
+      "predicted_rank": 2,
+      "code": "4199",
+      "actual_rank": 6,
+      "result": "hit_top10",
+      "name": "ワンプラ",
+      "score": 6.758,
+      "previous_close": 903.0,
+      "actual_close": 1053.0,
+      "actual_return_pct": 16.61129568106312,
+      "actual_source": "https://kabu.kininew.net/fiveup/7994.html",
+      "material_types": [
+        "contract"
+      ],
+      "missing_momentum": false
+    },
+    {
+      "predicted_rank": 3,
+      "code": "3900",
+      "actual_rank": null,
+      "result": "outside_top10",
+      "name": "クラウドＷ",
+      "score": 6.517,
+      "previous_close": 631.0,
+      "actual_close": 618.0,
+      "actual_return_pct": -2.0602218700475405,
+      "actual_source": "https://96ut.com/stock/jikei.php?code=3900&year=2026",
+      "material_types": [
+        "earnings_up"
+      ],
+      "missing_momentum": false
+    },
+    {
+      "predicted_rank": 4,
+      "code": "4076",
+      "actual_rank": null,
+      "result": "outside_top10",
+      "name": "シイエヌエス",
+      "score": 6.512,
+      "previous_close": 1808.0,
+      "actual_close": 1889.0,
+      "actual_return_pct": 4.4800884955752185,
+      "actual_source": "https://96ut.com/stock/jikei.php?code=4076",
+      "material_types": [
+        "earnings_up"
+      ],
+      "missing_momentum": false
+    },
+    {
+      "predicted_rank": 5,
+      "code": "4381",
+      "actual_rank": 5,
+      "result": "hit_top10",
+      "name": "ビープラッツ",
+      "score": 6.0,
+      "previous_close": 551.0,
+      "actual_close": 651.0,
+      "actual_return_pct": 18.148820326678774,
+      "actual_source": "https://kabu.kininew.net/fiveup/7994.html",
+      "material_types": [
+        "contract"
+      ],
+      "missing_momentum": false
+    },
+    {
+      "predicted_rank": 6,
+      "code": "1401",
+      "actual_rank": null,
+      "result": "outside_top10",
+      "name": "エムビーエス",
+      "score": 6,
+      "previous_close": 1356.0,
+      "actual_close": 1301.0,
+      "actual_return_pct": -4.0560471976401224,
+      "actual_source": "https://96ut.com/stock/jikei.php?code=1401&year=2026",
+      "material_types": [
+        "earnings_up"
+      ],
+      "missing_momentum": true
+    },
+    {
+      "predicted_rank": 7,
+      "code": "2186",
+      "actual_rank": null,
+      "result": "outside_top10",
+      "name": "ソーバル",
+      "score": 6,
+      "previous_close": 908.0,
+      "actual_close": 912.0,
+      "actual_return_pct": 0.4405286343612369,
+      "actual_source": "https://minkabu.jp/stock/2186/daily_bar?page=3",
+      "material_types": [
+        "earnings_up"
+      ],
+      "missing_momentum": true
+    },
+    {
+      "predicted_rank": 8,
+      "code": "2305",
+      "actual_rank": null,
+      "result": "outside_top10",
+      "name": "スタジオアリス",
+      "score": 6,
+      "previous_close": 1912.0,
+      "actual_close": 1939.0,
+      "actual_return_pct": 1.4121338912133963,
+      "actual_source": "https://96ut.com/stock/jikei.php?code=2305&year=2026",
+      "material_types": [
+        "earnings_up"
+      ],
+      "missing_momentum": true
+    },
+    {
+      "predicted_rank": 9,
+      "code": "3075",
+      "actual_rank": null,
+      "result": "outside_top10",
+      "name": "銚子丸",
+      "score": 6,
+      "previous_close": 1666.0,
+      "actual_close": 1696.0,
+      "actual_return_pct": 1.8007202881152429,
+      "actual_source": "https://96ut.com/stock/jikei.php?code=3075&year=2026",
+      "material_types": [
+        "earnings_up"
+      ],
+      "missing_momentum": true
+    },
+    {
+      "predicted_rank": 10,
+      "code": "3080",
+      "actual_rank": null,
+      "result": "outside_top10",
+      "name": "ジェーソン",
+      "score": 6,
+      "previous_close": 771.0,
+      "actual_close": 770.0,
+      "actual_return_pct": -0.12970168612191912,
+      "actual_source": "https://www.traders.co.jp/stocks/62_3080/historical",
+      "material_types": [
+        "earnings_up"
+      ],
+      "missing_momentum": true
+    }
+  ],
+  "missed_winners": [
+    {
+      "code": "3996",
+      "name": "サインポスト",
+      "market": "S",
+      "close": 248.0,
+      "change": 50.0,
+      "return_pct": 25.252525252525253,
+      "volume": 1358400,
+      "reported_return_pct": 25.25,
+      "previous_close": 198.0,
+      "url": "https://kabu.kininew.net/fiveup/7994.html",
+      "actual_rank": 1
+    },
+    {
+      "code": "4418",
+      "name": "ＪＤＳＣ",
+      "market": "G",
+      "close": 920.0,
+      "change": 150.0,
+      "return_pct": 19.48051948051948,
+      "volume": 1255800,
+      "reported_return_pct": 19.48,
+      "previous_close": 770.0,
+      "url": "https://kabu.kininew.net/fiveup/7994.html",
+      "actual_rank": 2
+    },
+    {
+      "code": "6836",
+      "name": "ぷらっと",
+      "market": "S",
+      "close": 924.0,
+      "change": 150.0,
+      "return_pct": 19.37984496124031,
+      "volume": 387500,
+      "reported_return_pct": 19.38,
+      "previous_close": 774.0,
+      "url": "https://kabu.kininew.net/fiveup/7994.html",
+      "actual_rank": 3
+    },
+    {
+      "code": "4174",
+      "name": "アピリッツ",
+      "market": "S",
+      "close": 925.0,
+      "change": 150.0,
+      "return_pct": 19.35483870967742,
+      "volume": 725700,
+      "reported_return_pct": 19.35,
+      "previous_close": 775.0,
+      "url": "https://kabu.kininew.net/fiveup/7994.html",
+      "actual_rank": 4
+    },
+    {
+      "code": "3177",
+      "name": "ありがとうＳ",
+      "market": "S",
+      "close": 4090.0,
+      "change": 510.0,
+      "return_pct": 14.245810055865922,
+      "volume": 34300,
+      "reported_return_pct": 14.25,
+      "previous_close": 3580.0,
+      "url": "https://kabu.kininew.net/fiveup/7994.html",
+      "actual_rank": 7
+    },
+    {
+      "code": "3133",
+      "name": "海帆",
+      "market": "G",
+      "close": 91.0,
+      "change": 10.0,
+      "return_pct": 12.345679012345679,
+      "volume": 4009900,
+      "reported_return_pct": 12.35,
+      "previous_close": 81.0,
+      "url": "https://kabu.kininew.net/fiveup/7994.html",
+      "actual_rank": 8
+    },
+    {
+      "code": "3810",
+      "name": "ＣＳＨＤ",
+      "market": "S",
+      "close": 219.0,
+      "change": 24.0,
+      "return_pct": 12.307692307692308,
+      "volume": 5793800,
+      "reported_return_pct": 12.31,
+      "previous_close": 195.0,
+      "url": "https://kabu.kininew.net/fiveup/7994.html",
+      "actual_rank": 9
+    },
+    {
+      "code": "4819",
+      "name": "Ｄガレージ",
+      "market": "P",
+      "close": 2386.0,
+      "change": 257.0,
+      "return_pct": 12.071395021136684,
+      "volume": 803400,
+      "reported_return_pct": 12.07,
+      "previous_close": 2129.0,
+      "url": "https://kabu.kininew.net/fiveup/7994.html",
+      "actual_rank": 10
+    }
+  ],
+  "note": "上位10外の正確な順位は全銘柄実績がない限り算出しない。利益率とは異なる。"
+}

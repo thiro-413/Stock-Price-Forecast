@@ -1,0 +1,132 @@
+{
+  "date": "2026-07-16",
+  "top10_verified": true,
+  "verification_scope": "二次集計表の市場・順位・算術を別集計表と照合。7/14別表のETF600Aを除外し4819を追加記事で補完。7/16福証9388を除外し7138を日付付き時系列で補完。7138と175Aの表示15.97%同率は丸め前の23/144>95/595で7138が上。全東証原票の再ソートではない。",
+  "sources": [
+    "https://kabu.kininew.net/fiveup/8015.html",
+    "https://uiblog.hatenablog.com/entry/2026/07/16/210716",
+    "https://www.traders.co.jp/stocks/63_7138/historical"
+  ],
+  "top10": [
+    {
+      "code": "9238",
+      "name": "バリューＣ",
+      "market": "G",
+      "close": 454.0,
+      "change": 80.0,
+      "return_pct": 21.390374331550802,
+      "volume": 78000,
+      "reported_return_pct": 21.39,
+      "previous_close": 374.0,
+      "url": "https://kabu.kininew.net/fiveup/8015.html"
+    },
+    {
+      "code": "150A",
+      "name": "ＪＳＨ",
+      "market": "G",
+      "close": 462.0,
+      "change": 80.0,
+      "return_pct": 20.94240837696335,
+      "volume": 5100,
+      "reported_return_pct": 20.94,
+      "previous_close": 382.0,
+      "url": "https://kabu.kininew.net/fiveup/8015.html"
+    },
+    {
+      "code": "2354",
+      "name": "ＹＥデジタル",
+      "market": "S",
+      "close": 978.0,
+      "change": 150.0,
+      "return_pct": 18.115942028985508,
+      "volume": 231600,
+      "reported_return_pct": 18.12,
+      "previous_close": 828.0,
+      "url": "https://kabu.kininew.net/fiveup/8015.html"
+    },
+    {
+      "code": "6572",
+      "name": "オープンＧ",
+      "market": "P",
+      "close": 259.0,
+      "change": 39.0,
+      "return_pct": 17.727272727272727,
+      "volume": 2940200,
+      "reported_return_pct": 17.73,
+      "previous_close": 220.0,
+      "url": "https://kabu.kininew.net/fiveup/8015.html"
+    },
+    {
+      "code": "6505",
+      "name": "東洋電",
+      "market": "S",
+      "close": 2369.0,
+      "change": 353.0,
+      "return_pct": 17.509920634920636,
+      "volume": 552200,
+      "reported_return_pct": 17.51,
+      "previous_close": 2016.0,
+      "url": "https://kabu.kininew.net/fiveup/8015.html"
+    },
+    {
+      "code": "157A",
+      "name": "Ｇモンスター",
+      "market": "G",
+      "close": 1015.0,
+      "change": 150.0,
+      "return_pct": 17.341040462427745,
+      "volume": 354000,
+      "reported_return_pct": 17.34,
+      "previous_close": 865.0,
+      "url": "https://kabu.kininew.net/fiveup/8015.html"
+    },
+    {
+      "code": "7581",
+      "name": "サイゼリヤ",
+      "market": "P",
+      "close": 6780.0,
+      "change": 1000.0,
+      "return_pct": 17.301038062283737,
+      "volume": 346400,
+      "reported_return_pct": 17.3,
+      "previous_close": 5780.0,
+      "url": "https://kabu.kininew.net/fiveup/8015.html"
+    },
+    {
+      "code": "6033",
+      "name": "エクストリム",
+      "market": "G",
+      "close": 1648.0,
+      "change": 238.0,
+      "return_pct": 16.879432624113477,
+      "volume": 390000,
+      "reported_return_pct": 16.88,
+      "previous_close": 1410.0,
+      "url": "https://kabu.kininew.net/fiveup/8015.html"
+    },
+    {
+      "code": "7138",
+      "name": "ＴＯＲＩＣＯ",
+      "market": "G",
+      "close": 167.0,
+      "change": 23.0,
+      "return_pct": 15.972222222222221,
+      "volume": 11669500,
+      "reported_return_pct": 15.97,
+      "previous_close": 144.0,
+      "url": "https://kabu.kininew.net/fiveup/8015.html"
+    },
+    {
+      "code": "175A",
+      "name": "ウィルスマ",
+      "market": "G",
+      "close": 690.0,
+      "change": 95.0,
+      "return_pct": 15.966386554621849,
+      "volume": 222100,
+      "reported_return_pct": 15.97,
+      "previous_close": 595.0,
+      "url": "https://kabu.kininew.net/fiveup/8015.html"
+    }
+  ]
+}

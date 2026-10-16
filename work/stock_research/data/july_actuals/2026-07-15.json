@@ -1,0 +1,131 @@
+{
+  "date": "2026-07-15",
+  "top10_verified": true,
+  "verification_scope": "二次集計表の市場・順位・算術を別集計表と照合。7/14別表のETF600Aを除外し4819を追加記事で補完。7/16福証9388を除外し7138を日付付き時系列で補完。7138と175Aの表示15.97%同率は丸め前の23/144>95/595で7138が上。全東証原票の再ソートではない。",
+  "sources": [
+    "https://kabu.kininew.net/fiveup/8006.html",
+    "https://uiblog.hatenablog.com/entry/2026/07/15/201932"
+  ],
+  "top10": [
+    {
+      "code": "4586",
+      "name": "メドレックス",
+      "market": "G",
+      "close": 79.0,
+      "change": 22.0,
+      "return_pct": 38.59649122807018,
+      "volume": 31862400,
+      "reported_return_pct": 38.6,
+      "previous_close": 57.0,
+      "url": "https://kabu.kininew.net/fiveup/8006.html"
+    },
+    {
+      "code": "3133",
+      "name": "海帆",
+      "market": "G",
+      "close": 114.0,
+      "change": 23.0,
+      "return_pct": 25.274725274725274,
+      "volume": 6224000,
+      "reported_return_pct": 25.27,
+      "previous_close": 91.0,
+      "url": "https://kabu.kininew.net/fiveup/8006.html"
+    },
+    {
+      "code": "278A",
+      "name": "テラドローン",
+      "market": "G",
+      "close": 13100.0,
+      "change": 2400.0,
+      "return_pct": 22.429906542056074,
+      "volume": 3747900,
+      "reported_return_pct": 22.43,
+      "previous_close": 10700.0,
+      "url": "https://kabu.kininew.net/fiveup/8006.html"
+    },
+    {
+      "code": "1407",
+      "name": "ウエストＨＤ",
+      "market": "S",
+      "close": 2802.0,
+      "change": 500.0,
+      "return_pct": 21.720243266724587,
+      "volume": 2288300,
+      "reported_return_pct": 21.72,
+      "previous_close": 2302.0,
+      "url": "https://kabu.kininew.net/fiveup/8006.html"
+    },
+    {
+      "code": "581A",
+      "name": "ＧＯ",
+      "market": "G",
+      "close": 2950.0,
+      "change": 500.0,
+      "return_pct": 20.408163265306122,
+      "volume": 5309400,
+      "reported_return_pct": 20.41,
+      "previous_close": 2450.0,
+      "url": "https://kabu.kininew.net/fiveup/8006.html"
+    },
+    {
+      "code": "5575",
+      "name": "グロービー",
+      "market": "G",
+      "close": 889.0,
+      "change": 150.0,
+      "return_pct": 20.29769959404601,
+      "volume": 5700,
+      "reported_return_pct": 20.3,
+      "previous_close": 739.0,
+      "url": "https://kabu.kininew.net/fiveup/8006.html"
+    },
+    {
+      "code": "7888",
+      "name": "三光合成",
+      "market": "P",
+      "close": 924.0,
+      "change": 150.0,
+      "return_pct": 19.37984496124031,
+      "volume": 151100,
+      "reported_return_pct": 19.38,
+      "previous_close": 774.0,
+      "url": "https://kabu.kininew.net/fiveup/8006.html"
+    },
+    {
+      "code": "9326",
+      "name": "関通ＨＤ",
+      "market": "G",
+      "close": 511.0,
+      "change": 80.0,
+      "return_pct": 18.561484918793504,
+      "volume": 45400,
+      "reported_return_pct": 18.56,
+      "previous_close": 431.0,
+      "url": "https://kabu.kininew.net/fiveup/8006.html"
+    },
+    {
+      "code": "4439",
+      "name": "東名",
+      "market": "S",
+      "close": 898.0,
+      "change": 135.0,
+      "return_pct": 17.693315858453474,
+      "volume": 230100,
+      "reported_return_pct": 17.69,
+      "previous_close": 763.0,
+      "url": "https://kabu.kininew.net/fiveup/8006.html"
+    },
+    {
+      "code": "5817",
+      "name": "ＪＭＡＣＳ",
+      "market": "S",
+      "close": 1005.0,
+      "change": 150.0,
+      "return_pct": 17.54385964912281,
+      "volume": 128900,
+      "reported_return_pct": 17.54,
+      "previous_close": 855.0,
+      "url": "https://kabu.kininew.net/fiveup/8006.html"
+    }
+  ]
+}

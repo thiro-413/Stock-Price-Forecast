@@ -1,0 +1,132 @@
+{
+  "date": "2026-07-14",
+  "top10_verified": true,
+  "verification_scope": "二次集計表の市場・順位・算術を別集計表と照合。7/14別表のETF600Aを除外し4819を追加記事で補完。7/16福証9388を除外し7138を日付付き時系列で補完。7138と175Aの表示15.97%同率は丸め前の23/144>95/595で7138が上。全東証原票の再ソートではない。",
+  "sources": [
+    "https://kabu.kininew.net/fiveup/7994.html",
+    "https://uiblog.hatenablog.com/entry/2026/07/14/200205",
+    "https://note.com/rich_weasel6914/n/n83ae744242e5"
+  ],
+  "top10": [
+    {
+      "code": "3996",
+      "name": "サインポスト",
+      "market": "S",
+      "close": 248.0,
+      "change": 50.0,
+      "return_pct": 25.252525252525253,
+      "volume": 1358400,
+      "reported_return_pct": 25.25,
+      "previous_close": 198.0,
+      "url": "https://kabu.kininew.net/fiveup/7994.html"
+    },
+    {
+      "code": "4418",
+      "name": "ＪＤＳＣ",
+      "market": "G",
+      "close": 920.0,
+      "change": 150.0,
+      "return_pct": 19.48051948051948,
+      "volume": 1255800,
+      "reported_return_pct": 19.48,
+      "previous_close": 770.0,
+      "url": "https://kabu.kininew.net/fiveup/7994.html"
+    },
+    {
+      "code": "6836",
+      "name": "ぷらっと",
+      "market": "S",
+      "close": 924.0,
+      "change": 150.0,
+      "return_pct": 19.37984496124031,
+      "volume": 387500,
+      "reported_return_pct": 19.38,
+      "previous_close": 774.0,
+      "url": "https://kabu.kininew.net/fiveup/7994.html"
+    },
+    {
+      "code": "4174",
+      "name": "アピリッツ",
+      "market": "S",
+      "close": 925.0,
+      "change": 150.0,
+      "return_pct": 19.35483870967742,
+      "volume": 725700,
+      "reported_return_pct": 19.35,
+      "previous_close": 775.0,
+      "url": "https://kabu.kininew.net/fiveup/7994.html"
+    },
+    {
+      "code": "4381",
+      "name": "ビープラッツ",
+      "market": "G",
+      "close": 651.0,
+      "change": 100.0,
+      "return_pct": 18.148820326678766,
+      "volume": 59500,
+      "reported_return_pct": 18.15,
+      "previous_close": 551.0,
+      "url": "https://kabu.kininew.net/fiveup/7994.html"
+    },
+    {
+      "code": "4199",
+      "name": "ワンプラ",
+      "market": "G",
+      "close": 1053.0,
+      "change": 150.0,
+      "return_pct": 16.611295681063122,
+      "volume": 27500,
+      "reported_return_pct": 16.61,
+      "previous_close": 903.0,
+      "url": "https://kabu.kininew.net/fiveup/7994.html"
+    },
+    {
+      "code": "3177",
+      "name": "ありがとうＳ",
+      "market": "S",
+      "close": 4090.0,
+      "change": 510.0,
+      "return_pct": 14.245810055865922,
+      "volume": 34300,
+      "reported_return_pct": 14.25,
+      "previous_close": 3580.0,
+      "url": "https://kabu.kininew.net/fiveup/7994.html"
+    },
+    {
+      "code": "3133",
+      "name": "海帆",
+      "market": "G",
+      "close": 91.0,
+      "change": 10.0,
+      "return_pct": 12.345679012345679,
+      "volume": 4009900,
+      "reported_return_pct": 12.35,
+      "previous_close": 81.0,
+      "url": "https://kabu.kininew.net/fiveup/7994.html"
+    },
+    {
+      "code": "3810",
+      "name": "ＣＳＨＤ",
+      "market": "S",
+      "close": 219.0,
+      "change": 24.0,
+      "return_pct": 12.307692307692308,
+      "volume": 5793800,
+      "reported_return_pct": 12.31,
+      "previous_close": 195.0,
+      "url": "https://kabu.kininew.net/fiveup/7994.html"
+    },
+    {
+      "code": "4819",
+      "name": "Ｄガレージ",
+      "market": "P",
+      "close": 2386.0,
+      "change": 257.0,
+      "return_pct": 12.071395021136684,
+      "volume": 803400,
+      "reported_return_pct": 12.07,
+      "previous_close": 2129.0,
+      "url": "https://kabu.kininew.net/fiveup/7994.html"
+    }
+  ]
+}
