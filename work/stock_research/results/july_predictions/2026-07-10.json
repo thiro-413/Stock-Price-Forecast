@@ -1,0 +1,750 @@
+{
+  "payload": {
+    "date": "2026-07-10",
+    "cutoff": "2026-07-10T08:30:00+09:00",
+    "predictions": [
+      {
+        "code": "2341",
+        "name": "アルバイトＴ",
+        "market": "S",
+        "eligible_ordinary": true,
+        "previous_return_pct": 8.09,
+        "evidence_ids": [
+          "price_2026-07-09",
+          "release_2341_2026-07-10"
+        ],
+        "events": [
+          {
+            "evidence_id": "release_2341_2026-07-10",
+            "type": "earnings_up",
+            "first_eligible_session": "2026-07-10"
+          }
+        ],
+        "score": 6.809,
+        "components": {
+          "material": 5,
+          "momentum": 0.8089999999999999,
+          "market": 1,
+          "dilution": 0,
+          "negative": 0,
+          "margin": 0
+        },
+        "missing_momentum": false
+      },
+      {
+        "code": "2698",
+        "name": "キャンドゥ",
+        "market": "S",
+        "eligible_ordinary": true,
+        "previous_return_pct": null,
+        "evidence_ids": [
+          "release_2698_2026-07-10"
+        ],
+        "events": [
+          {
+            "evidence_id": "release_2698_2026-07-10",
+            "type": "earnings_up",
+            "first_eligible_session": "2026-07-10"
+          }
+        ],
+        "score": 6,
+        "components": {
+          "material": 5,
+          "momentum": 0,
+          "market": 1,
+          "dilution": 0,
+          "negative": 0,
+          "margin": 0
+        },
+        "missing_momentum": true
+      },
+      {
+        "code": "2735",
+        "name": "ワッツ",
+        "market": "S",
+        "eligible_ordinary": true,
+        "previous_return_pct": null,
+        "evidence_ids": [
+          "release_2735_2026-07-10"
+        ],
+        "events": [
+          {
+            "evidence_id": "release_2735_2026-07-10",
+            "type": "earnings_up",
+            "first_eligible_session": "2026-07-10"
+          }
+        ],
+        "score": 6,
+        "components": {
+          "material": 5,
+          "momentum": 0,
+          "market": 1,
+          "dilution": 0,
+          "negative": 0,
+          "margin": 0
+        },
+        "missing_momentum": true
+      },
+      {
+        "code": "5018",
+        "name": "ＭＯＲＥＳＣＯ",
+        "market": "S",
+        "eligible_ordinary": true,
+        "previous_return_pct": null,
+        "evidence_ids": [
+          "release_5018_2026-07-10"
+        ],
+        "events": [
+          {
+            "evidence_id": "release_5018_2026-07-10",
+            "type": "earnings_up",
+            "first_eligible_session": "2026-07-10"
+          }
+        ],
+        "score": 6,
+        "components": {
+          "material": 5,
+          "momentum": 0,
+          "market": 1,
+          "dilution": 0,
+          "negative": 0,
+          "margin": 0
+        },
+        "missing_momentum": true
+      },
+      {
+        "code": "7544",
+        "name": "スリーエフ",
+        "market": "S",
+        "eligible_ordinary": true,
+        "previous_return_pct": null,
+        "evidence_ids": [
+          "release_7544_2026-07-10"
+        ],
+        "events": [
+          {
+            "evidence_id": "release_7544_2026-07-10",
+            "type": "earnings_up",
+            "first_eligible_session": "2026-07-10"
+          }
+        ],
+        "score": 6,
+        "components": {
+          "material": 5,
+          "momentum": 0,
+          "market": 1,
+          "dilution": 0,
+          "negative": 0,
+          "margin": 0
+        },
+        "missing_momentum": true
+      },
+      {
+        "code": "8918",
+        "name": "ランド",
+        "market": "S",
+        "eligible_ordinary": true,
+        "previous_return_pct": null,
+        "evidence_ids": [
+          "release_8918_2026-07-10"
+        ],
+        "events": [
+          {
+            "evidence_id": "release_8918_2026-07-10",
+            "type": "earnings_up",
+            "first_eligible_session": "2026-07-10"
+          }
+        ],
+        "score": 6,
+        "components": {
+          "material": 5,
+          "momentum": 0,
+          "market": 1,
+          "dilution": 0,
+          "negative": 0,
+          "margin": 0
+        },
+        "missing_momentum": true
+      },
+      {
+        "code": "9414",
+        "name": "日本ＢＳ放送",
+        "market": "S",
+        "eligible_ordinary": true,
+        "previous_return_pct": null,
+        "evidence_ids": [
+          "release_9414_2026-07-10"
+        ],
+        "events": [
+          {
+            "evidence_id": "release_9414_2026-07-10",
+            "type": "earnings_up",
+            "first_eligible_session": "2026-07-10"
+          }
+        ],
+        "score": 6,
+        "components": {
+          "material": 5,
+          "momentum": 0,
+          "market": 1,
+          "dilution": 0,
+          "negative": 0,
+          "margin": 0
+        },
+        "missing_momentum": true
+      },
+      {
+        "code": "9560",
+        "name": "プログリット",
+        "market": "G",
+        "eligible_ordinary": true,
+        "previous_return_pct": null,
+        "evidence_ids": [
+          "release_9560_2026-07-10"
+        ],
+        "events": [
+          {
+            "evidence_id": "release_9560_2026-07-10",
+            "type": "earnings_up",
+            "first_eligible_session": "2026-07-10"
+          }
+        ],
+        "score": 6,
+        "components": {
+          "material": 5,
+          "momentum": 0,
+          "market": 1,
+          "dilution": 0,
+          "negative": 0,
+          "margin": 0
+        },
+        "missing_momentum": true
+      },
+      {
+        "code": "9903",
+        "name": "カンセキ",
+        "market": "S",
+        "eligible_ordinary": true,
+        "previous_return_pct": null,
+        "evidence_ids": [
+          "release_9903_2026-07-10"
+        ],
+        "events": [
+          {
+            "evidence_id": "release_9903_2026-07-10",
+            "type": "earnings_up",
+            "first_eligible_session": "2026-07-10"
+          }
+        ],
+        "score": 6,
+        "components": {
+          "material": 5,
+          "momentum": 0,
+          "market": 1,
+          "dilution": 0,
+          "negative": 0,
+          "margin": 0
+        },
+        "missing_momentum": true
+      },
+      {
+        "code": "6323",
+        "name": "ローツェ",
+        "market": "P",
+        "eligible_ordinary": true,
+        "previous_return_pct": 5.57,
+        "evidence_ids": [
+          "price_2026-07-09",
+          "release_6323_2026-07-10"
+        ],
+        "events": [
+          {
+            "evidence_id": "release_6323_2026-07-10",
+            "type": "earnings_up",
+            "first_eligible_session": "2026-07-10"
+          }
+        ],
+        "score": 5.557,
+        "components": {
+          "material": 5,
+          "momentum": 0.557,
+          "market": 0,
+          "dilution": 0,
+          "negative": 0,
+          "margin": 0
+        },
+        "missing_momentum": false
+      }
+    ],
+    "model": {
+      "version": "v1.0",
+      "status": "frozen",
+      "training_end": "2026-06-30",
+      "target": "TSE ordinary shares close-to-previous-close top 10",
+      "cutoff": "08:30:00 Asia/Tokyo",
+      "candidate_policy": "Union of verified ordinary shares with previous-session return >=5% in saved broad ranking table, plus every ordinary share in the previous-session-after-close to cutoff news digest. Partial universe, not exhaustive TSE; digest omissions and data access failures reported.",
+      "features": {
+        "material_base": {
+          "earnings_up": 5,
+          "dividend_revival": 4,
+          "dividend_raise": 3,
+          "contract": 4,
+          "capital_alliance": 4,
+          "jv_mou": 2,
+          "acquisition": 3,
+          "buyback": 3,
+          "asset_gain": 2,
+          "monthly_sales": 2,
+          "product": 3,
+          "ipo": 2,
+          "unknown": 0
+        },
+        "freshness": "New event first eligible for today's cutoff: base points; continuation for next two sessions: base*0.5; older:0",
+        "momentum": "clip(previous_session_return_pct/10,-2,3)",
+        "market": "G or S:+1; P:0",
+        "dilution": "-1 when new shares/warrants/convertible bonds explicitly disclosed",
+        "negative": "-4 for forecast reduction, audit disclaimer, listing supervision; -1 for margin restriction",
+        "magnitude": "No discretionary numeric magnitude bonus",
+        "liquidity": "No exclusion by small turnover; target rank and tradability are separate"
+      },
+      "scoring": "material + momentum + market + dilution + negative. If multiple eligible events, maximum positive material base, all explicit penalties once each.",
+      "tie_break": [
+        "previous_session_return_pct descending, missing=-999",
+        "security code ascending"
+      ],
+      "missing_policy": "Missing momentum:0 points and explicit missing flag. Missing longer OHLCV, float, margin balance, 08:30 quotes:unused, not imputed. Unknown material:0. Absent event is absence in retrieved coverage, not proof no news.",
+      "evidence_policy": "Each selected row must have archived original dated release or contemporaneous dated record whose content used is corroborated by dated release; price evidence is prior-session dated table, never current-day result. Reject post-cutoff and unverified revisions. Timestamp precision minutes uses conservative end-of-minute available_at; boundary 08:30 minute excluded without seconds proof.",
+      "limitations": [
+        "Retrospective reconstruction, not historical live forecast",
+        "Some future snippets incidentally exposed before freeze; not blind",
+        "Partial candidate coverage; all-TSE performance claim prohibited",
+        "Heuristic derived qualitatively from June cases, not fitted statistical model"
+      ],
+      "frozen_before": "first July prediction sealing and intentional retrieval of July actual rankings",
+      "screening_prompt_created": false,
+      "artifact_sha256": "c5060225df69b56370b1c5ed7617ad04baed1d5dd5b00efbfc27d8a46e8cb874",
+      "specification_sha256": "f5df7418010ab4a68bf2c9e0c82fc5ce0f6a0d8b04fcf4a00a7b3e6e264d13ad",
+      "frozen_at_utc": "2026-10-16T06:58:26.587234+00:00"
+    },
+    "evidence": [
+      {
+        "id": "price_2026-07-09",
+        "url": "https://kabu.kininew.net/fiveup/7961.html",
+        "available_at": "2026-07-09T23:59:59+09:00",
+        "version_verified": true,
+        "timestamp_evidence": "前営業日の引け後公表日付き価格表。日付精度のため当日末を採用。動的関連欄は不使用。全原票による完全性保証はなし。",
+        "role": "predictor"
+      },
+      {
+        "id": "release_4381_2026-07-09",
+        "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260708/20260708589511.pdf",
+        "available_at": "2026-07-08T15:30:59+09:00",
+        "version_verified": true,
+        "timestamp_evidence": "日付付き原開示本文とTDnet転載一覧時刻・当時記事を照合。コンソーシアム発足と同日マーケットプレイス公開。契約受注とは認定せずproduct3点。",
+        "role": "predictor"
+      },
+      {
+        "id": "release_9348_2026-07-09",
+        "url": "https://d2xlcgjnpyakn4.cloudfront.net/wp-content/uploads/2026/07/SpaceX%E3%80%8C%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%B7%E3%83%83%E3%83%97%E3%80%8D%E3%81%AE%E3%83%9A%E3%82%A4%E3%83%AD%E3%83%BC%E3%83%89%E6%90%AD%E8%BC%89%E6%9E%A0%E3%82%92%E6%B4%BB%E7%94%A8%E3%81%97%E3%81%9F%E6%9C%88%E8%BC%B8%E9%80%81%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%81%AE%E6%8F%90%E4%BE%9B%E9%96%8B%E5%A7%8B%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B.pdf",
+        "available_at": "2026-07-08T15:50:59+09:00",
+        "version_verified": true,
+        "timestamp_evidence": "日付付き原開示本文とTDnet転載一覧時刻・当時記事を照合。SpaceXとの搭載枠購入契約。81億円は同社の受注売上ではなく支払契約総額。contract4点、規模加点なし。",
+        "role": "predictor"
+      },
+      {
+        "id": "release_2997_2026-07-09",
+        "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260708/20260708590007.pdf",
+        "available_at": "2026-07-08T18:30:59+09:00",
+        "version_verified": true,
+        "timestamp_evidence": "日付付き原開示本文とTDnet転載一覧時刻・当時記事を照合。TOB対象企業。買収関連acquisition3点、TOBプレミアム専用加点なし。",
+        "role": "predictor"
+      },
+      {
+        "id": "release_4424_2026-07-01",
+        "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260630/20260629583588.pdf",
+        "available_at": "2026-06-30T15:30:59+09:00",
+        "version_verified": true,
+        "timestamp_evidence": "6/30原開示PDFの純損失縮小を当時記事と照合。営業改善ではなく新株予約権戻入益24百万円。発行ではないため希薄化ペナルティなし",
+        "role": "predictor"
+      },
+      {
+        "id": "release_2341_2026-07-10",
+        "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260709/20260619574612.pdf",
+        "available_at": "2026-07-09T15:30:59+09:00",
+        "version_verified": true,
+        "timestamp_evidence": "7/9原開示本文と日付、TDnet転載一覧・当時記事の公表時刻を照合。1Q経常153.5%増。株式消却を新規買付とは扱わない。",
+        "role": "predictor"
+      },
+      {
+        "id": "release_9720_2026-07-09",
+        "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260708/20260706588007.pdf",
+        "available_at": "2026-07-08T15:30:59+09:00",
+        "version_verified": true,
+        "timestamp_evidence": "日付付き原開示本文とTDnet転載一覧時刻・当時記事を照合。通期経常156.9%増額、固定資産権利変換益あり。",
+        "role": "predictor"
+      },
+      {
+        "id": "release_6323_2026-07-10",
+        "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260709/20260708589778.pdf",
+        "available_at": "2026-07-09T15:30:59+09:00",
+        "version_verified": true,
+        "timestamp_evidence": "7/9原開示本文と日付、TDnet転載一覧・当時記事の公表時刻を照合。1Q経常51.1%増、通期据置。",
+        "role": "predictor"
+      },
+      {
+        "id": "release_2735_2026-07-10",
+        "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260709/20260708589421.pdf",
+        "available_at": "2026-07-09T15:30:59+09:00",
+        "version_verified": true,
+        "timestamp_evidence": "7/9原開示本文と日付、TDnet転載一覧・当時記事の公表時刻を照合。3Q累計経常39.3%増、通期据置。優待は採点項目なし。",
+        "role": "predictor"
+      },
+      {
+        "id": "release_4763_2026-07-10",
+        "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260709/20260708589483.pdf",
+        "available_at": "2026-07-09T15:30:59+09:00",
+        "version_verified": true,
+        "timestamp_evidence": "7/9原開示本文と日付、TDnet転載一覧・当時記事の公表時刻を照合。通期経常3.9%増額、配当1円増額。",
+        "role": "predictor"
+      },
+      {
+        "id": "release_5018_2026-07-10",
+        "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260709/20260707589166.pdf",
+        "available_at": "2026-07-09T16:00:59+09:00",
+        "version_verified": true,
+        "timestamp_evidence": "7/9原開示本文と日付、TDnet転載一覧・当時記事の公表時刻を照合。1Q経常153.2%増、通期据置。",
+        "role": "predictor"
+      },
+      {
+        "id": "release_6227_2026-07-10",
+        "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260709/20260709590378.pdf",
+        "available_at": "2026-07-09T15:30:59+09:00",
+        "version_verified": true,
+        "timestamp_evidence": "7/9原開示本文と日付、TDnet転載一覧・当時記事の公表時刻を照合。大口受注約180億円、売上計上2027/28年6月期。",
+        "role": "predictor"
+      },
+      {
+        "id": "release_2698_2026-07-10",
+        "url": "https://tdnet-pdf.kabutan.jp/20260709/140120260708589902.pdf",
+        "available_at": "2026-07-09T15:30:59+09:00",
+        "version_verified": true,
+        "timestamp_evidence": "7/9原開示本文と日付、TDnet転載一覧・当時記事の公表時刻を照合。1Q経常8.3%増、通期据置。",
+        "role": "predictor"
+      },
+      {
+        "id": "release_4187_2026-07-03",
+        "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260702/20260701585659.pdf",
+        "available_at": "2026-07-02T15:30:59+09:00",
+        "version_verified": true,
+        "timestamp_evidence": "7/2原開示本文と開示一覧・当時記事を照合。日本語PDF文字化けのため同時開示英語原本で上期・通期増額確認。",
+        "role": "predictor"
+      },
+      {
+        "id": "release_6522_2026-07-07",
+        "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260706/20260703587926.pdf",
+        "available_at": "2026-07-06T21:00:59+09:00",
+        "version_verified": true,
+        "timestamp_evidence": "原開示本文の日付・内容、Yahoo転載一覧時刻、当時記事を照合。米国RFID製品販売本格展開、拘束力ある新受注とは認定せずproduct分類。7/7予測時には取得漏れ、保存済み予測に遡及反映しない。",
+        "role": "predictor"
+      },
+      {
+        "id": "release_7544_2026-07-10",
+        "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260709/20260709590228.pdf",
+        "available_at": "2026-07-09T16:00:59+09:00",
+        "version_verified": true,
+        "timestamp_evidence": "7/9原開示本文と日付、TDnet転載一覧・当時記事の公表時刻を照合。1Q経常15.4%増、通期据置。",
+        "role": "predictor"
+      },
+      {
+        "id": "release_8918_2026-07-10",
+        "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260709/20260709590385.pdf",
+        "available_at": "2026-07-09T15:30:59+09:00",
+        "version_verified": true,
+        "timestamp_evidence": "7/9原開示本文と日付、TDnet転載一覧・当時記事の公表時刻を照合。1Q経常黒字転換、通期据置。",
+        "role": "predictor"
+      },
+      {
+        "id": "release_9560_2026-07-10",
+        "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260709/20260708590077.pdf",
+        "available_at": "2026-07-09T15:30:59+09:00",
+        "version_verified": true,
+        "timestamp_evidence": "7/9原開示本文と日付、TDnet転載一覧・当時記事の公表時刻を照合。旧個別経常1424百万円→新連結1440百万円。連結開始による比較範囲変更を伴う数字であり既存事業の上方修正とは認定しないが固定ルールの増益予想分類。",
+        "role": "predictor"
+      },
+      {
+        "id": "release_9903_2026-07-10",
+        "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260709/20260708589499.pdf",
+        "available_at": "2026-07-09T15:30:59+09:00",
+        "version_verified": true,
+        "timestamp_evidence": "7/9原開示本文と日付、TDnet転載一覧・当時記事の公表時刻を照合。1Q経常32%増、通期据置。",
+        "role": "predictor"
+      },
+      {
+        "id": "release_9414_2026-07-10",
+        "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260709/20260708589726.pdf",
+        "available_at": "2026-07-09T15:30:59+09:00",
+        "version_verified": true,
+        "timestamp_evidence": "7/9原開示本文と日付、TDnet転載一覧・当時記事の公表時刻を照合。3Q単独経常25%増という当時記事と短信照合。累計は12.8%減。固定ルールは単独四半期増益もearnings_up。",
+        "role": "predictor"
+      }
+    ],
+    "limitation": "過去再現検証。ハッシュは改変検出用で、事前予測の第三者証明ではない。"
+  },
+  "sha256": "5810520e11360b83011016d29ae3e10aeb792a8659adaffc7b50c915efbf8d5b",
+  "exclusions": [
+    {
+      "record": {
+        "id": "unverified_472A",
+        "url": "https://s.kabutan.jp/",
+        "available_at": "2026-07-09T23:59:59+09:00",
+        "version_verified": false,
+        "timestamp_evidence": "日付付き記事で候補抽出したが原開示照合未了。採点対象から除外。",
+        "role": "predictor"
+      },
+      "reason": "historical_content_version_unverified"
+    },
+    {
+      "record": {
+        "id": "unverified_3070",
+        "url": "https://s.kabutan.jp/",
+        "available_at": "2026-07-09T23:59:59+09:00",
+        "version_verified": false,
+        "timestamp_evidence": "日付付き記事で候補抽出したが原開示照合未了。採点対象から除外。",
+        "role": "predictor"
+      },
+      "reason": "historical_content_version_unverified"
+    },
+    {
+      "record": {
+        "id": "unverified_3093",
+        "url": "https://s.kabutan.jp/",
+        "available_at": "2026-07-09T23:59:59+09:00",
+        "version_verified": false,
+        "timestamp_evidence": "日付付き記事で候補抽出したが原開示照合未了。採点対象から除外。",
+        "role": "predictor"
+      },
+      "reason": "historical_content_version_unverified"
+    },
+    {
+      "record": {
+        "id": "unverified_3382",
+        "url": "https://s.kabutan.jp/",
+        "available_at": "2026-07-09T23:59:59+09:00",
+        "version_verified": false,
+        "timestamp_evidence": "日付付き記事で候補抽出したが原開示照合未了。採点対象から除外。",
+        "role": "predictor"
+      },
+      "reason": "historical_content_version_unverified"
+    },
+    {
+      "record": {
+        "id": "unverified_5932",
+        "url": "https://s.kabutan.jp/",
+        "available_at": "2026-07-09T23:59:59+09:00",
+        "version_verified": false,
+        "timestamp_evidence": "日付付き記事で候補抽出したが原開示照合未了。採点対象から除外。",
+        "role": "predictor"
+      },
+      "reason": "historical_content_version_unverified"
+    },
+    {
+      "record": {
+        "id": "unverified_8570",
+        "url": "https://s.kabutan.jp/",
+        "available_at": "2026-07-09T23:59:59+09:00",
+        "version_verified": false,
+        "timestamp_evidence": "日付付き記事で候補抽出したが原開示照合未了。採点対象から除外。",
+        "role": "predictor"
+      },
+      "reason": "historical_content_version_unverified"
+    },
+    {
+      "record": {
+        "id": "unverified_9983",
+        "url": "https://s.kabutan.jp/",
+        "available_at": "2026-07-09T23:59:59+09:00",
+        "version_verified": false,
+        "timestamp_evidence": "日付付き記事で候補抽出したが原開示照合未了。採点対象から除外。",
+        "role": "predictor"
+      },
+      "reason": "historical_content_version_unverified"
+    },
+    {
+      "record": {
+        "id": "unverified_143A",
+        "url": "https://s.kabutan.jp/",
+        "available_at": "2026-07-09T23:59:59+09:00",
+        "version_verified": false,
+        "timestamp_evidence": "日付付き記事で候補抽出したが原開示照合未了。採点対象から除外。",
+        "role": "predictor"
+      },
+      "reason": "historical_content_version_unverified"
+    },
+    {
+      "record": {
+        "id": "unverified_2222",
+        "url": "https://s.kabutan.jp/",
+        "available_at": "2026-07-09T23:59:59+09:00",
+        "version_verified": false,
+        "timestamp_evidence": "日付付き記事で候補抽出したが原開示照合未了。採点対象から除外。",
+        "role": "predictor"
+      },
+      "reason": "historical_content_version_unverified"
+    },
+    {
+      "record": {
+        "id": "unverified_2449",
+        "url": "https://s.kabutan.jp/",
+        "available_at": "2026-07-09T23:59:59+09:00",
+        "version_verified": false,
+        "timestamp_evidence": "日付付き記事で候補抽出したが原開示照合未了。採点対象から除外。",
+        "role": "predictor"
+      },
+      "reason": "historical_content_version_unverified"
+    },
+    {
+      "record": {
+        "id": "unverified_2791",
+        "url": "https://s.kabutan.jp/",
+        "available_at": "2026-07-09T23:59:59+09:00",
+        "version_verified": false,
+        "timestamp_evidence": "日付付き記事で候補抽出したが原開示照合未了。採点対象から除外。",
+        "role": "predictor"
+      },
+      "reason": "historical_content_version_unverified"
+    },
+    {
+      "record": {
+        "id": "unverified_2809",
+        "url": "https://s.kabutan.jp/",
+        "available_at": "2026-07-09T23:59:59+09:00",
+        "version_verified": false,
+        "timestamp_evidence": "日付付き記事で候補抽出したが原開示照合未了。採点対象から除外。",
+        "role": "predictor"
+      },
+      "reason": "historical_content_version_unverified"
+    },
+    {
+      "record": {
+        "id": "unverified_4527",
+        "url": "https://s.kabutan.jp/",
+        "available_at": "2026-07-09T23:59:59+09:00",
+        "version_verified": false,
+        "timestamp_evidence": "日付付き記事で候補抽出したが原開示照合未了。採点対象から除外。",
+        "role": "predictor"
+      },
+      "reason": "historical_content_version_unverified"
+    },
+    {
+      "record": {
+        "id": "unverified_7157",
+        "url": "https://s.kabutan.jp/",
+        "available_at": "2026-07-09T23:59:59+09:00",
+        "version_verified": false,
+        "timestamp_evidence": "日付付き記事で候補抽出したが原開示照合未了。採点対象から除外。",
+        "role": "predictor"
+      },
+      "reason": "historical_content_version_unverified"
+    },
+    {
+      "record": {
+        "id": "unverified_8016",
+        "url": "https://s.kabutan.jp/",
+        "available_at": "2026-07-09T23:59:59+09:00",
+        "version_verified": false,
+        "timestamp_evidence": "日付付き記事で候補抽出したが原開示照合未了。採点対象から除外。",
+        "role": "predictor"
+      },
+      "reason": "historical_content_version_unverified"
+    },
+    {
+      "record": {
+        "id": "unverified_8125",
+        "url": "https://s.kabutan.jp/",
+        "available_at": "2026-07-09T23:59:59+09:00",
+        "version_verified": false,
+        "timestamp_evidence": "日付付き記事で候補抽出したが原開示照合未了。採点対象から除外。",
+        "role": "predictor"
+      },
+      "reason": "historical_content_version_unverified"
+    },
+    {
+      "record": {
+        "id": "unverified_4728",
+        "url": "https://s.kabutan.jp/",
+        "available_at": "2026-07-09T23:59:59+09:00",
+        "version_verified": false,
+        "timestamp_evidence": "日付付き記事で候補抽出したが原開示照合未了。採点対象から除外。",
+        "role": "predictor"
+      },
+      "reason": "historical_content_version_unverified"
+    },
+    {
+      "record": {
+        "id": "unverified_9765",
+        "url": "https://s.kabutan.jp/",
+        "available_at": "2026-07-09T23:59:59+09:00",
+        "version_verified": false,
+        "timestamp_evidence": "日付付き記事で候補抽出したが原開示照合未了。採点対象から除外。",
+        "role": "predictor"
+      },
+      "reason": "historical_content_version_unverified"
+    },
+    {
+      "record": {
+        "id": "unverified_9602",
+        "url": "https://s.kabutan.jp/",
+        "available_at": "2026-07-09T23:59:59+09:00",
+        "version_verified": false,
+        "timestamp_evidence": "日付付き記事で候補抽出したが原開示照合未了。採点対象から除外。",
+        "role": "predictor"
+      },
+      "reason": "historical_content_version_unverified"
+    },
+    {
+      "record": {
+        "id": "unverified_3097",
+        "url": "https://s.kabutan.jp/",
+        "available_at": "2026-07-09T23:59:59+09:00",
+        "version_verified": false,
+        "timestamp_evidence": "日付付き記事で候補抽出したが原開示照合未了。採点対象から除外。",
+        "role": "predictor"
+      },
+      "reason": "historical_content_version_unverified"
+    },
+    {
+      "record": {
+        "id": "unverified_4825",
+        "url": "https://s.kabutan.jp/",
+        "available_at": "2026-07-09T23:59:59+09:00",
+        "version_verified": false,
+        "timestamp_evidence": "日付付き記事で候補抽出したが原開示照合未了。採点対象から除外。",
+        "role": "predictor"
+      },
+      "reason": "historical_content_version_unverified"
+    },
+    {
+      "record": {
+        "id": "unverified_9716",
+        "url": "https://s.kabutan.jp/",
+        "available_at": "2026-07-09T23:59:59+09:00",
+        "version_verified": false,
+        "timestamp_evidence": "日付付き記事で候補抽出したが原開示照合未了。採点対象から除外。",
+        "role": "predictor"
+      },
+      "reason": "historical_content_version_unverified"
+    }
+  ],
+  "coverage": {
+    "universe": "前日5%以上上昇の東証普通株＋取得ニュース掲載普通株。原開示照合未了のニュースのみ候補は除外",
+    "price_rows": 54,
+    "news_rows": 36,
+    "union_rows": 88,
+    "full_tse": false,
+    "long_ohlcv": false,
+    "revision_archive_limit": "日付付き原開示の内容を当時記事と照合。第三者タイムスタンプによる改訂不存在の証明ではない。",
+    "missing_return": "5%以上表にない銘柄の前日騰落率は未取得、0点。0%と認定しない。",
+    "future_exposure": "非盲検の過去再現。検索の偶発的な将来記事表示あり、入力に不採用。"
+  },
+  "input_sha256": "d7d4d3c3baba2f0800c70d9168be360b765769b1e813c4d0c6b7266676c00385"
+}

@@ -1,0 +1,196 @@
+{
+  "completed_batch": 8,
+  "completed_days": 22,
+  "cumulative_stock_days": 220,
+  "cumulative_unique_stocks": 146,
+  "unknown_cause_rows": 77,
+  "previous_top10_overlap": [
+    {
+      "from": "2026-06-01",
+      "to": "2026-06-02",
+      "intersection": [
+        "550A"
+      ],
+      "hits": 1
+    },
+    {
+      "from": "2026-06-02",
+      "to": "2026-06-03",
+      "intersection": [
+        "8105"
+      ],
+      "hits": 1
+    },
+    {
+      "from": "2026-06-03",
+      "to": "2026-06-04",
+      "intersection": [
+        "3915",
+        "8254"
+      ],
+      "hits": 2
+    },
+    {
+      "from": "2026-06-04",
+      "to": "2026-06-05",
+      "intersection": [
+        "4179",
+        "4378"
+      ],
+      "hits": 2
+    },
+    {
+      "from": "2026-06-05",
+      "to": "2026-06-08",
+      "intersection": [
+        "4378",
+        "4422",
+        "6166",
+        "6955"
+      ],
+      "hits": 4
+    },
+    {
+      "from": "2026-06-08",
+      "to": "2026-06-09",
+      "intersection": [
+        "2393",
+        "4378"
+      ],
+      "hits": 2
+    },
+    {
+      "from": "2026-06-09",
+      "to": "2026-06-10",
+      "intersection": [
+        "6336",
+        "9417"
+      ],
+      "hits": 2
+    },
+    {
+      "from": "2026-06-10",
+      "to": "2026-06-11",
+      "intersection": [
+        "460A",
+        "9444"
+      ],
+      "hits": 2
+    },
+    {
+      "from": "2026-06-11",
+      "to": "2026-06-12",
+      "intersection": [
+        "3825",
+        "4179"
+      ],
+      "hits": 2
+    },
+    {
+      "from": "2026-06-12",
+      "to": "2026-06-15",
+      "intersection": [
+        "4179",
+        "7435"
+      ],
+      "hits": 2
+    },
+    {
+      "from": "2026-06-15",
+      "to": "2026-06-16",
+      "intersection": [
+        "6327",
+        "7084"
+      ],
+      "hits": 2
+    },
+    {
+      "from": "2026-06-16",
+      "to": "2026-06-17",
+      "intersection": [],
+      "hits": 0
+    },
+    {
+      "from": "2026-06-17",
+      "to": "2026-06-18",
+      "intersection": [],
+      "hits": 0
+    },
+    {
+      "from": "2026-06-18",
+      "to": "2026-06-19",
+      "intersection": [
+        "9256"
+      ],
+      "hits": 1
+    },
+    {
+      "from": "2026-06-19",
+      "to": "2026-06-22",
+      "intersection": [
+        "5817",
+        "6217",
+        "9256"
+      ],
+      "hits": 3
+    },
+    {
+      "from": "2026-06-22",
+      "to": "2026-06-23",
+      "intersection": [
+        "149A",
+        "6897",
+        "9256"
+      ],
+      "hits": 3
+    },
+    {
+      "from": "2026-06-23",
+      "to": "2026-06-24",
+      "intersection": [
+        "6897",
+        "9256"
+      ],
+      "hits": 2
+    },
+    {
+      "from": "2026-06-24",
+      "to": "2026-06-25",
+      "intersection": [
+        "584A"
+      ],
+      "hits": 1
+    },
+    {
+      "from": "2026-06-25",
+      "to": "2026-06-26",
+      "intersection": [
+        "2962",
+        "584A",
+        "7352"
+      ],
+      "hits": 3
+    },
+    {
+      "from": "2026-06-26",
+      "to": "2026-06-29",
+      "intersection": [
+        "4395",
+        "584A"
+      ],
+      "hits": 2
+    },
+    {
+      "from": "2026-06-29",
+      "to": "2026-06-30",
+      "intersection": [
+        "2388",
+        "584A",
+        "7815"
+      ],
+      "hits": 3
+    }
+  ],
+  "note": "事後の集合一致。事前予測成績ではない。",
+  "source_table_check": "batch08: 10/10 main and 10/10 secondary matches; PTS tables excluded; secondary agreement is not proof of independent origin"
+}

@@ -1,0 +1,19 @@
+{
+  "execution_date_jst": "2026-10-16",
+  "batch": 5,
+  "price_checks": "passed",
+  "source_value_checks": "30/30 main table and 30/30 secondary table matches",
+  "unknown_causes": 13,
+  "next_batch_requires_user_continue": true,
+  "july_predictions_executed": false,
+  "files": {
+    "data/batch05_rankings.csv": "207b8f71560ab86f400e406eefb8ef097f7a2dce76ef2c2276b00732321e37a9",
+    "data/batch05_analysis.json": "2dbb3db448b1675b9893e516d1e4844c049d43b502df57612a675bbae4623bf7",
+    "results/batch05_data.json": "dd54dadc5f6667123fe82d922f835911ef65636a38a05d332029d1a453dffe66",
+    "results/batch05_report.md": "c13b1a3dd8dafe3a2afe492d8a16213115e67e9144ebc247db3f950542e013b5",
+    "results/batch05_findings.md": "b7413da5c3cc5c4880325f6e0bd1ec9c037605c03e8554b6adefb492b3daab43",
+    "results/batch05_source_checks.json": "d234c07fb22979ea1545aa942366ae9e3bba8dbbf660e8cc0c796e75b5b88c5a",
+    "research.py": "edab04314c591dd7d4a8ee44496d8188e14d0519c9bcd1cf041b2fcb21dc6b94",
+    "finalize_batch05.py": "ca5ac963871195622179e292552550fd53c5622a41a883de13deaa0c8c08f014"
+  }
+}

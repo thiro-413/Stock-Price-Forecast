@@ -1,0 +1,9 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "Internal Error ()\n【turn562474view0】 [wordlim: 200] Source: open({\"ref_id\":\"https://finance.yahoo.co.jp/quote/2698.T/disclosure\",\"lineno\":100}); Total lines: 1\nL0: Failed to fetch https://finance.yahoo.co.jp/quote/2698.T/disclosure: (403) Forbidden\n"
+    }
+  ],
+  "isError": false
+}

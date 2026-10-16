@@ -1,0 +1,276 @@
+{
+  "date": "2026-07-06",
+  "hits": 2,
+  "precision_at_10": 0.2,
+  "recall_at_10": 0.2,
+  "exact_rank_hits": 0,
+  "predictions": [
+    {
+      "predicted_rank": 1,
+      "code": "4596",
+      "actual_rank": 2,
+      "result": "hit_top10",
+      "name": "窪田製薬ＨＤ",
+      "score": 6.0,
+      "previous_close": 87.0,
+      "actual_close": 117.0,
+      "actual_return_pct": 34.48275862068966,
+      "actual_source": "https://kabu.kininew.net/fiveup/7937.html",
+      "material_types": [
+        "contract"
+      ],
+      "missing_momentum": false
+    },
+    {
+      "predicted_rank": 2,
+      "code": "3377",
+      "actual_rank": null,
+      "result": "outside_top10",
+      "name": "バイク王＆カンパニー",
+      "score": 6,
+      "previous_close": 373.0,
+      "actual_close": 371.0,
+      "actual_return_pct": -0.536193029490617,
+      "actual_source": "https://96ut.com/stock/jikei.php?code=3377&year=2026",
+      "material_types": [
+        "earnings_up"
+      ],
+      "missing_momentum": true
+    },
+    {
+      "predicted_rank": 3,
+      "code": "4394",
+      "actual_rank": 8,
+      "result": "hit_top10",
+      "name": "エクスモーション",
+      "score": 6,
+      "previous_close": 450.0,
+      "actual_close": 530.0,
+      "actual_return_pct": 17.777777777777782,
+      "actual_source": "https://kabu.kininew.net/fiveup/7937.html",
+      "material_types": [
+        "earnings_up"
+      ],
+      "missing_momentum": true
+    },
+    {
+      "predicted_rank": 4,
+      "code": "7975",
+      "actual_rank": null,
+      "result": "outside_top10",
+      "name": "リヒトラブ",
+      "score": 6,
+      "previous_close": 1105.0,
+      "actual_close": 1092.0,
+      "actual_return_pct": -1.17647058823529,
+      "actual_source": "https://96ut.com/stock/jikei.php?code=7975&year=2026",
+      "material_types": [
+        "earnings_up"
+      ],
+      "missing_momentum": true
+    },
+    {
+      "predicted_rank": 5,
+      "code": "6264",
+      "actual_rank": null,
+      "result": "outside_top10",
+      "name": "マルマエ",
+      "score": 5.878,
+      "previous_close": 2962.0,
+      "actual_close": 2605.0,
+      "actual_return_pct": -12.052667116812966,
+      "actual_source": "https://96ut.com/stock/jikei.php?code=6264&year=2026",
+      "material_types": [
+        "earnings_up"
+      ],
+      "missing_momentum": false
+    },
+    {
+      "predicted_rank": 6,
+      "code": "265A",
+      "actual_rank": null,
+      "result": "outside_top10",
+      "name": "Ｈｍｃｏｍｍ",
+      "score": 5,
+      "previous_close": 715.0,
+      "actual_close": 801.0,
+      "actual_return_pct": 12.027972027972034,
+      "actual_source": "https://kabu.kininew.net/fiveup/7937.html",
+      "material_types": [
+        "contract"
+      ],
+      "missing_momentum": true
+    },
+    {
+      "predicted_rank": 7,
+      "code": "2678",
+      "actual_rank": null,
+      "result": "outside_top10",
+      "name": "アスクル",
+      "score": 5,
+      "previous_close": 1226.0,
+      "actual_close": 1282.0,
+      "actual_return_pct": 4.567699836867867,
+      "actual_source": "https://96ut.com/stock/jikei.php?code=2678&year=2026",
+      "material_types": [
+        "earnings_up"
+      ],
+      "missing_momentum": true
+    },
+    {
+      "predicted_rank": 8,
+      "code": "340A",
+      "actual_rank": null,
+      "result": "outside_top10",
+      "name": "ジグザグ",
+      "score": 5,
+      "previous_close": 326.0,
+      "actual_close": 336.0,
+      "actual_return_pct": 3.0674846625766916,
+      "actual_source": "https://96ut.com/stock/jikei.php?code=340A&year=2026",
+      "material_types": [
+        "contract"
+      ],
+      "missing_momentum": true
+    },
+    {
+      "predicted_rank": 9,
+      "code": "3612",
+      "actual_rank": null,
+      "result": "outside_top10",
+      "name": "ワールド",
+      "score": 5,
+      "previous_close": 1598.0,
+      "actual_close": 1666.0,
+      "actual_return_pct": 4.255319148936176,
+      "actual_source": "https://96ut.com/stock/jikei.php?code=3612&year=2026",
+      "material_types": [
+        "earnings_up"
+      ],
+      "missing_momentum": true
+    },
+    {
+      "predicted_rank": 10,
+      "code": "9948",
+      "actual_rank": null,
+      "result": "outside_top10",
+      "name": "アークス",
+      "score": 5,
+      "previous_close": 3400.0,
+      "actual_close": 3520.0,
+      "actual_return_pct": 3.529411764705892,
+      "actual_source": "https://96ut.com/stock/jikei.php?code=9948&year=2026",
+      "material_types": [
+        "earnings_up"
+      ],
+      "missing_momentum": true
+    }
+  ],
+  "missed_winners": [
+    {
+      "code": "3133",
+      "name": "海帆",
+      "market": "G",
+      "close": 140.0,
+      "change": 38.0,
+      "return_pct": 37.254901960784316,
+      "volume": 13204900,
+      "reported_return_pct": 37.25,
+      "previous_close": 102.0,
+      "url": "https://kabu.kininew.net/fiveup/7937.html",
+      "actual_rank": 1
+    },
+    {
+      "code": "264A",
+      "name": "Ｓｃｈｏｏ",
+      "market": "G",
+      "close": 345.0,
+      "change": 80.0,
+      "return_pct": 30.18867924528302,
+      "volume": 1050200,
+      "reported_return_pct": 30.19,
+      "previous_close": 265.0,
+      "url": "https://kabu.kininew.net/fiveup/7937.html",
+      "actual_rank": 3
+    },
+    {
+      "code": "4424",
+      "name": "Ａｍａｚｉａ",
+      "market": "G",
+      "close": 352.0,
+      "change": 80.0,
+      "return_pct": 29.41176470588235,
+      "volume": 2605700,
+      "reported_return_pct": 29.41,
+      "previous_close": 272.0,
+      "url": "https://kabu.kininew.net/fiveup/7937.html",
+      "actual_rank": 4
+    },
+    {
+      "code": "3656",
+      "name": "ＫＬａｂ",
+      "market": "P",
+      "close": 241.0,
+      "change": 46.0,
+      "return_pct": 23.58974358974359,
+      "volume": 43286000,
+      "reported_return_pct": 23.59,
+      "previous_close": 195.0,
+      "url": "https://kabu.kininew.net/fiveup/7937.html",
+      "actual_rank": 5
+    },
+    {
+      "code": "584A",
+      "name": "ＬｉＮＫＸ",
+      "market": "G",
+      "close": 3025.0,
+      "change": 503.0,
+      "return_pct": 19.944488501189532,
+      "volume": 2093000,
+      "reported_return_pct": 19.94,
+      "previous_close": 2522.0,
+      "url": "https://kabu.kininew.net/fiveup/7937.html",
+      "actual_rank": 6
+    },
+    {
+      "code": "504A",
+      "name": "イノバセル",
+      "market": "G",
+      "close": 643.0,
+      "change": 100.0,
+      "return_pct": 18.41620626151013,
+      "volume": 9600,
+      "reported_return_pct": 18.42,
+      "previous_close": 543.0,
+      "url": "https://kabu.kininew.net/fiveup/7937.html",
+      "actual_rank": 7
+    },
+    {
+      "code": "1447",
+      "name": "ＳＡＡＦＨＤ",
+      "market": "G",
+      "close": 380.0,
+      "change": 54.0,
+      "return_pct": 16.56441717791411,
+      "volume": 1739100,
+      "reported_return_pct": 16.56,
+      "previous_close": 326.0,
+      "url": "https://kabu.kininew.net/fiveup/7937.html",
+      "actual_rank": 9
+    },
+    {
+      "code": "278A",
+      "name": "テラドローン",
+      "market": "G",
+      "close": 9750.0,
+      "change": 1340.0,
+      "return_pct": 15.933412604042806,
+      "volume": 1155200,
+      "reported_return_pct": 15.93,
+      "previous_close": 8410.0,
+      "url": "https://kabu.kininew.net/fiveup/7937.html",
+      "actual_rank": 10
+    }
+  ],
+  "note": "上位10外の正確な順位は全銘柄実績がない限り算出しない。利益率とは異なる。"
+}

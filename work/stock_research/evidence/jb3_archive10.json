@@ -1,0 +1,9 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "Internal Error ()\n【turn895319view0】 [wordlim: 200] Source: open({\"ref_id\":\"https://kabu.kininew.net/2026/07/page/3\",\"lineno\":0}); Total lines: 1\nL0: URL https://kabu.kininew.net/2026/07/page/3 is not accessible via this tool.\n"
+    }
+  ],
+  "isError": false
+}

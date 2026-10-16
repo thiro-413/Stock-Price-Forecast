@@ -1,0 +1,3271 @@
+{
+  "candidates": [
+    {
+      "code": "5942",
+      "name": "フイルコン",
+      "market": "S",
+      "eligible_ordinary": true,
+      "previous_return_pct": 16.26,
+      "evidence_ids": [
+        "price_2026-07-01",
+        "release_5942_2026-07-02"
+      ],
+      "events": [
+        {
+          "evidence_id": "release_5942_2026-07-02",
+          "type": "earnings_up",
+          "first_eligible_session": "2026-07-02"
+        }
+      ],
+      "score": 7.626,
+      "components": {
+        "material": 5,
+        "momentum": 1.6260000000000001,
+        "market": 1,
+        "dilution": 0,
+        "negative": 0,
+        "margin": 0
+      },
+      "missing_momentum": false
+    },
+    {
+      "code": "9425",
+      "name": "ＲｅＹｕｕ",
+      "market": "S",
+      "eligible_ordinary": true,
+      "previous_return_pct": 30.3,
+      "evidence_ids": [
+        "price_2026-07-01",
+        "release_9425_2026-07-02"
+      ],
+      "events": [
+        {
+          "evidence_id": "release_9425_2026-07-02",
+          "type": "jv_mou",
+          "first_eligible_session": "2026-07-02"
+        }
+      ],
+      "score": 6,
+      "components": {
+        "material": 2,
+        "momentum": 3,
+        "market": 1,
+        "dilution": 0,
+        "negative": 0,
+        "margin": 0
+      },
+      "missing_momentum": false
+    },
+    {
+      "code": "464A",
+      "name": "ＱＰＳホールディングス",
+      "market": "G",
+      "eligible_ordinary": true,
+      "previous_return_pct": null,
+      "evidence_ids": [
+        "release_464A_2026-07-02"
+      ],
+      "events": [
+        {
+          "evidence_id": "release_464A_2026-07-02",
+          "type": "earnings_up",
+          "first_eligible_session": "2026-07-02"
+        }
+      ],
+      "score": 6,
+      "components": {
+        "material": 5,
+        "momentum": 0,
+        "market": 1,
+        "dilution": 0,
+        "negative": 0,
+        "margin": 0
+      },
+      "missing_momentum": true
+    },
+    {
+      "code": "4918",
+      "name": "アイビー化粧品",
+      "market": "S",
+      "eligible_ordinary": true,
+      "previous_return_pct": null,
+      "evidence_ids": [
+        "release_4918_2026-07-02"
+      ],
+      "events": [
+        {
+          "evidence_id": "release_4918_2026-07-02",
+          "type": "earnings_up",
+          "first_eligible_session": "2026-07-02"
+        }
+      ],
+      "score": 6,
+      "components": {
+        "material": 5,
+        "momentum": 0,
+        "market": 1,
+        "dilution": 0,
+        "negative": 0,
+        "margin": 0
+      },
+      "missing_momentum": true
+    },
+    {
+      "code": "7781",
+      "name": "平山ホールディングス",
+      "market": "S",
+      "eligible_ordinary": true,
+      "previous_return_pct": null,
+      "evidence_ids": [
+        "release_7781_2026-07-02"
+      ],
+      "events": [
+        {
+          "evidence_id": "release_7781_2026-07-02",
+          "type": "earnings_up",
+          "first_eligible_session": "2026-07-02"
+        }
+      ],
+      "score": 6,
+      "components": {
+        "material": 5,
+        "momentum": 0,
+        "market": 1,
+        "dilution": 0,
+        "negative": 0,
+        "margin": 0
+      },
+      "missing_momentum": true
+    },
+    {
+      "code": "6573",
+      "name": "ＣＲＡＶＩＡ",
+      "market": "G",
+      "eligible_ordinary": true,
+      "previous_return_pct": 8.0,
+      "evidence_ids": [
+        "price_2026-07-01",
+        "release_6573_2026-07-02"
+      ],
+      "events": [
+        {
+          "evidence_id": "release_6573_2026-07-02",
+          "type": "contract",
+          "first_eligible_session": "2026-07-02"
+        }
+      ],
+      "score": 5.8,
+      "components": {
+        "material": 4,
+        "momentum": 0.8,
+        "market": 1,
+        "dilution": 0,
+        "negative": 0,
+        "margin": 0
+      },
+      "missing_momentum": false
+    },
+    {
+      "code": "5967",
+      "name": "ＴＯＮＥ",
+      "market": "S",
+      "eligible_ordinary": true,
+      "previous_return_pct": 19.23,
+      "evidence_ids": [
+        "price_2026-07-01",
+        "release_5967_2026-07-01"
+      ],
+      "events": [
+        {
+          "evidence_id": "release_5967_2026-07-01",
+          "type": "earnings_up",
+          "first_eligible_session": "2026-07-01"
+        }
+      ],
+      "score": 5.423,
+      "components": {
+        "material": 2.5,
+        "momentum": 1.923,
+        "market": 1,
+        "dilution": 0,
+        "negative": 0,
+        "margin": 0
+      },
+      "missing_momentum": false
+    },
+    {
+      "code": "4167",
+      "name": "ココペリ",
+      "market": "G",
+      "eligible_ordinary": true,
+      "previous_return_pct": null,
+      "evidence_ids": [
+        "release_4167_2026-07-02"
+      ],
+      "events": [
+        {
+          "evidence_id": "release_4167_2026-07-02",
+          "type": "contract",
+          "first_eligible_session": "2026-07-02"
+        }
+      ],
+      "score": 5,
+      "components": {
+        "material": 4,
+        "momentum": 0,
+        "market": 1,
+        "dilution": 0,
+        "negative": 0,
+        "margin": 0
+      },
+      "missing_momentum": true
+    },
+    {
+      "code": "4496",
+      "name": "コマースＯｎｅホールディングス",
+      "market": "G",
+      "eligible_ordinary": true,
+      "previous_return_pct": null,
+      "evidence_ids": [
+        "release_4496_2026-07-02"
+      ],
+      "events": [
+        {
+          "evidence_id": "release_4496_2026-07-02",
+          "type": "contract",
+          "first_eligible_session": "2026-07-02"
+        },
+        {
+          "evidence_id": "release_4496_2026-07-02",
+          "type": "product",
+          "first_eligible_session": "2026-07-02"
+        }
+      ],
+      "score": 5,
+      "components": {
+        "material": 4,
+        "momentum": 0,
+        "market": 1,
+        "dilution": 0,
+        "negative": 0,
+        "margin": 0
+      },
+      "missing_momentum": true
+    },
+    {
+      "code": "6239",
+      "name": "ナガオカ",
+      "market": "S",
+      "eligible_ordinary": true,
+      "previous_return_pct": null,
+      "evidence_ids": [
+        "release_6239_2026-07-02"
+      ],
+      "events": [
+        {
+          "evidence_id": "release_6239_2026-07-02",
+          "type": "contract",
+          "first_eligible_session": "2026-07-02"
+        }
+      ],
+      "score": 5,
+      "components": {
+        "material": 4,
+        "momentum": 0,
+        "market": 1,
+        "dilution": 0,
+        "negative": 0,
+        "margin": 0
+      },
+      "missing_momentum": true
+    },
+    {
+      "code": "6363",
+      "name": "酉島製作所",
+      "market": "P",
+      "eligible_ordinary": true,
+      "previous_return_pct": null,
+      "evidence_ids": [
+        "release_6363_2026-07-02"
+      ],
+      "events": [
+        {
+          "evidence_id": "release_6363_2026-07-02",
+          "type": "earnings_up",
+          "first_eligible_session": "2026-07-02"
+        }
+      ],
+      "score": 5,
+      "components": {
+        "material": 5,
+        "momentum": 0,
+        "market": 0,
+        "dilution": 0,
+        "negative": 0,
+        "margin": 0
+      },
+      "missing_momentum": true
+    },
+    {
+      "code": "7371",
+      "name": "Ｚｅｎｋｅｎ",
+      "market": "G",
+      "eligible_ordinary": true,
+      "previous_return_pct": null,
+      "evidence_ids": [
+        "release_7371_2026-07-02"
+      ],
+      "events": [
+        {
+          "evidence_id": "release_7371_2026-07-02",
+          "type": "contract",
+          "first_eligible_session": "2026-07-02"
+        }
+      ],
+      "score": 5,
+      "components": {
+        "material": 4,
+        "momentum": 0,
+        "market": 1,
+        "dilution": 0,
+        "negative": 0,
+        "margin": 0
+      },
+      "missing_momentum": true
+    },
+    {
+      "code": "4424",
+      "name": "Ａｍａｚｉａ",
+      "market": "G",
+      "eligible_ordinary": true,
+      "previous_return_pct": 14.63,
+      "evidence_ids": [
+        "price_2026-07-01",
+        "release_4424_2026-07-01"
+      ],
+      "events": [
+        {
+          "evidence_id": "release_4424_2026-07-01",
+          "type": "earnings_up",
+          "first_eligible_session": "2026-07-01"
+        }
+      ],
+      "score": 4.963,
+      "components": {
+        "material": 2.5,
+        "momentum": 1.463,
+        "market": 1,
+        "dilution": 0,
+        "negative": 0,
+        "margin": 0
+      },
+      "missing_momentum": false
+    },
+    {
+      "code": "192A",
+      "name": "インテＧ",
+      "market": "G",
+      "eligible_ordinary": true,
+      "previous_return_pct": 11.6,
+      "evidence_ids": [
+        "price_2026-07-01",
+        "release_192A_2026-07-01"
+      ],
+      "events": [
+        {
+          "evidence_id": "release_192A_2026-07-01",
+          "type": "earnings_up",
+          "first_eligible_session": "2026-07-01"
+        }
+      ],
+      "score": 4.66,
+      "components": {
+        "material": 2.5,
+        "momentum": 1.16,
+        "market": 1,
+        "dilution": 0,
+        "negative": 0,
+        "margin": 0
+      },
+      "missing_momentum": false
+    },
+    {
+      "code": "6522",
+      "name": "アスタリスク",
+      "market": "G",
+      "eligible_ordinary": true,
+      "previous_return_pct": 17.29,
+      "evidence_ids": [
+        "price_2026-07-01",
+        "release_6522_2026-07-01"
+      ],
+      "events": [
+        {
+          "evidence_id": "release_6522_2026-07-01",
+          "type": "product",
+          "first_eligible_session": "2026-07-01"
+        }
+      ],
+      "score": 4.229,
+      "components": {
+        "material": 1.5,
+        "momentum": 1.7289999999999999,
+        "market": 1,
+        "dilution": 0,
+        "negative": 0,
+        "margin": 0
+      },
+      "missing_momentum": false
+    },
+    {
+      "code": "4833",
+      "name": "Ｄｅｆコン",
+      "market": "G",
+      "eligible_ordinary": true,
+      "previous_return_pct": 54.05,
+      "evidence_ids": [
+        "price_2026-07-01"
+      ],
+      "events": [],
+      "score": 4,
+      "components": {
+        "material": 0,
+        "momentum": 3,
+        "market": 1,
+        "dilution": 0,
+        "negative": 0,
+        "margin": 0
+      },
+      "missing_momentum": false
+    },
+    {
+      "code": "7041",
+      "name": "ＣＲＧＨＤ",
+      "market": "G",
+      "eligible_ordinary": true,
+      "previous_return_pct": 29.96,
+      "evidence_ids": [
+        "price_2026-07-01"
+      ],
+      "events": [],
+      "score": 3.996,
+      "components": {
+        "material": 0,
+        "momentum": 2.996,
+        "market": 1,
+        "dilution": 0,
+        "negative": 0,
+        "margin": 0
+      },
+      "missing_momentum": false
+    },
+    {
+      "code": "7815",
+      "name": "東京ボード",
+      "market": "S",
+      "eligible_ordinary": true,
+      "previous_return_pct": 27.2,
+      "evidence_ids": [
+        "price_2026-07-01"
+      ],
+      "events": [],
+      "score": 3.72,
+      "components": {
+        "material": 0,
+        "momentum": 2.7199999999999998,
+        "market": 1,
+        "dilution": 0,
+        "negative": 0,
+        "margin": 0
+      },
+      "missing_momentum": false
+    },
+    {
+      "code": "589A",
+      "name": "ネイス",
+      "market": "G",
+      "eligible_ordinary": true,
+      "previous_return_pct": 22.52,
+      "evidence_ids": [
+        "price_2026-07-01"
+      ],
+      "events": [],
+      "score": 3.252,
+      "components": {
+        "material": 0,
+        "momentum": 2.252,
+        "market": 1,
+        "dilution": 0,
+        "negative": 0,
+        "margin": 0
+      },
+      "missing_momentum": false
+    },
+    {
+      "code": "7063",
+      "name": "バードマン",
+      "market": "G",
+      "eligible_ordinary": true,
+      "previous_return_pct": 18.75,
+      "evidence_ids": [
+        "price_2026-07-01"
+      ],
+      "events": [],
+      "score": 2.875,
+      "components": {
+        "material": 0,
+        "momentum": 1.875,
+        "market": 1,
+        "dilution": 0,
+        "negative": 0,
+        "margin": 0
+      },
+      "missing_momentum": false
+    },
+    {
+      "code": "265A",
+      "name": "Ｈｍｃｏｍｍ",
+      "market": "G",
+      "eligible_ordinary": true,
+      "previous_return_pct": 14.37,
+      "evidence_ids": [
+        "price_2026-07-01"
+      ],
+      "events": [],
+      "score": 2.437,
+      "components": {
+        "material": 0,
+        "momentum": 1.4369999999999998,
+        "market": 1,
+        "dilution": 0,
+        "negative": 0,
+        "margin": 0
+      },
+      "missing_momentum": false
+    },
+    {
+      "code": "8894",
+      "name": "レボリュー",
+      "market": "S",
+      "eligible_ordinary": true,
+      "previous_return_pct": 13.04,
+      "evidence_ids": [
+        "price_2026-07-01"
+      ],
+      "events": [],
+      "score": 2.304,
+      "components": {
+        "material": 0,
+        "momentum": 1.3039999999999998,
+        "market": 1,
+        "dilution": 0,
+        "negative": 0,
+        "margin": 0
+      },
+      "missing_momentum": false
+    },
+    {
+      "code": "6837",
+      "name": "京写",
+      "market": "S",
+      "eligible_ordinary": true,
+      "previous_return_pct": 12.94,
+      "evidence_ids": [
+        "price_2026-07-01"
+      ],
+      "events": [],
+      "score": 2.294,
+      "components": {
+        "material": 0,
+        "momentum": 1.294,
+        "market": 1,
+        "dilution": 0,
+        "negative": 0,
+        "margin": 0
+      },
+      "missing_momentum": false
+    },
+    {
+      "code": "330A",
+      "name": "タレントＸ",
+      "market": "G",
+      "eligible_ordinary": true,
+      "previous_return_pct": 12.89,
+      "evidence_ids": [
+        "price_2026-07-01"
+      ],
+      "events": [],
+      "score": 2.289,
+      "components": {
+        "material": 0,
+        "momentum": 1.2890000000000001,
+        "market": 1,
+        "dilution": 0,
+        "negative": 0,
+        "margin": 0
+      },
+      "missing_momentum": false
+    },
+    {
+      "code": "3237",
+      "name": "イントランス",
+      "market": "G",
+      "eligible_ordinary": true,
+      "previous_return_pct": 12.37,
+      "evidence_ids": [
+        "price_2026-07-01"
+      ],
+      "events": [],
+      "score": 2.237,
+      "components": {
+        "material": 0,
+        "momentum": 1.2369999999999999,
+        "market": 1,
+        "dilution": 0,
+        "negative": 0,
+        "margin": 0
+      },
+      "missing_momentum": false
+    },
+    {
+      "code": "2345",
+      "name": "ホドルワン",
+      "market": "S",
+      "eligible_ordinary": true,
+      "previous_return_pct": 11.43,
+      "evidence_ids": [
+        "price_2026-07-01"
+      ],
+      "events": [],
+      "score": 2.143,
+      "components": {
+        "material": 0,
+        "momentum": 1.143,
+        "market": 1,
+        "dilution": 0,
+        "negative": 0,
+        "margin": 0
+      },
+      "missing_momentum": false
+    },
+    {
+      "code": "4414",
+      "name": "フレクト",
+      "market": "G",
+      "eligible_ordinary": true,
+      "previous_return_pct": 11.04,
+      "evidence_ids": [
+        "price_2026-07-01"
+      ],
+      "events": [],
+      "score": 2.104,
+      "components": {
+        "material": 0,
+        "momentum": 1.1039999999999999,
+        "market": 1,
+        "dilution": 0,
+        "negative": 0,
+        "margin": 0
+      },
+      "missing_momentum": false
+    },
+    {
+      "code": "5258",
+      "name": "ＴＭＮ",
+      "market": "G",
+      "eligible_ordinary": true,
+      "previous_return_pct": 10.23,
+      "evidence_ids": [
+        "price_2026-07-01"
+      ],
+      "events": [],
+      "score": 2.023,
+      "components": {
+        "material": 0,
+        "momentum": 1.0230000000000001,
+        "market": 1,
+        "dilution": 0,
+        "negative": 0,
+        "margin": 0
+      },
+      "missing_momentum": false
+    },
+    {
+      "code": "2751",
+      "name": "テンポスホールディングス",
+      "market": "S",
+      "eligible_ordinary": true,
+      "previous_return_pct": null,
+      "evidence_ids": [
+        "release_2751_2026-07-02"
+      ],
+      "events": [
+        {
+          "evidence_id": "release_2751_2026-07-02",
+          "type": "earnings_up",
+          "first_eligible_session": "2026-07-02"
+        }
+      ],
+      "negative_material": true,
+      "score": 2,
+      "components": {
+        "material": 5,
+        "momentum": 0,
+        "market": 1,
+        "dilution": 0,
+        "negative": -4,
+        "margin": 0
+      },
+      "missing_momentum": true
+    },
+    {
+      "code": "3787",
+      "name": "テクノマセマ",
+      "market": "S",
+      "eligible_ordinary": true,
+      "previous_return_pct": 9.44,
+      "evidence_ids": [
+        "price_2026-07-01"
+      ],
+      "events": [],
+      "score": 1.944,
+      "components": {
+        "material": 0,
+        "momentum": 0.944,
+        "market": 1,
+        "dilution": 0,
+        "negative": 0,
+        "margin": 0
+      },
+      "missing_momentum": false
+    },
+    {
+      "code": "4420",
+      "name": "イーソル",
+      "market": "S",
+      "eligible_ordinary": true,
+      "previous_return_pct": 9.01,
+      "evidence_ids": [
+        "price_2026-07-01"
+      ],
+      "events": [],
+      "score": 1.901,
+      "components": {
+        "material": 0,
+        "momentum": 0.901,
+        "market": 1,
+        "dilution": 0,
+        "negative": 0,
+        "margin": 0
+      },
+      "missing_momentum": false
+    },
+    {
+      "code": "3444",
+      "name": "菊池製作",
+      "market": "S",
+      "eligible_ordinary": true,
+      "previous_return_pct": 8.66,
+      "evidence_ids": [
+        "price_2026-07-01"
+      ],
+      "events": [],
+      "score": 1.866,
+      "components": {
+        "material": 0,
+        "momentum": 0.866,
+        "market": 1,
+        "dilution": 0,
+        "negative": 0,
+        "margin": 0
+      },
+      "missing_momentum": false
+    },
+    {
+      "code": "255A",
+      "name": "ＧＬテクノ",
+      "market": "S",
+      "eligible_ordinary": true,
+      "previous_return_pct": 8.54,
+      "evidence_ids": [
+        "price_2026-07-01"
+      ],
+      "events": [],
+      "score": 1.854,
+      "components": {
+        "material": 0,
+        "momentum": 0.8539999999999999,
+        "market": 1,
+        "dilution": 0,
+        "negative": 0,
+        "margin": 0
+      },
+      "missing_momentum": false
+    },
+    {
+      "code": "4238",
+      "name": "ミライアル",
+      "market": "S",
+      "eligible_ordinary": true,
+      "previous_return_pct": 8.3,
+      "evidence_ids": [
+        "price_2026-07-01"
+      ],
+      "events": [],
+      "score": 1.83,
+      "components": {
+        "material": 0,
+        "momentum": 0.8300000000000001,
+        "market": 1,
+        "dilution": 0,
+        "negative": 0,
+        "margin": 0
+      },
+      "missing_momentum": false
+    },
+    {
+      "code": "7480",
+      "name": "スズデン",
+      "market": "S",
+      "eligible_ordinary": true,
+      "previous_return_pct": 8.27,
+      "evidence_ids": [
+        "price_2026-07-01"
+      ],
+      "events": [],
+      "score": 1.827,
+      "components": {
+        "material": 0,
+        "momentum": 0.827,
+        "market": 1,
+        "dilution": 0,
+        "negative": 0,
+        "margin": 0
+      },
+      "missing_momentum": false
+    },
+    {
+      "code": "6336",
+      "name": "石井表記",
+      "market": "S",
+      "eligible_ordinary": true,
+      "previous_return_pct": 8.21,
+      "evidence_ids": [
+        "price_2026-07-01"
+      ],
+      "events": [],
+      "score": 1.821,
+      "components": {
+        "material": 0,
+        "momentum": 0.8210000000000001,
+        "market": 1,
+        "dilution": 0,
+        "negative": 0,
+        "margin": 0
+      },
+      "missing_momentum": false
+    },
+    {
+      "code": "336A",
+      "name": "ダイナマップ",
+      "market": "G",
+      "eligible_ordinary": true,
+      "previous_return_pct": 7.92,
+      "evidence_ids": [
+        "price_2026-07-01"
+      ],
+      "events": [],
+      "score": 1.792,
+      "components": {
+        "material": 0,
+        "momentum": 0.792,
+        "market": 1,
+        "dilution": 0,
+        "negative": 0,
+        "margin": 0
+      },
+      "missing_momentum": false
+    },
+    {
+      "code": "4389",
+      "name": "プロパテＤＢ",
+      "market": "G",
+      "eligible_ordinary": true,
+      "previous_return_pct": 7.92,
+      "evidence_ids": [
+        "price_2026-07-01"
+      ],
+      "events": [],
+      "score": 1.792,
+      "components": {
+        "material": 0,
+        "momentum": 0.792,
+        "market": 1,
+        "dilution": 0,
+        "negative": 0,
+        "margin": 0
+      },
+      "missing_momentum": false
+    },
+    {
+      "code": "3187",
+      "name": "ミラタップ",
+      "market": "G",
+      "eligible_ordinary": true,
+      "previous_return_pct": 7.76,
+      "evidence_ids": [
+        "price_2026-07-01"
+      ],
+      "events": [],
+      "score": 1.776,
+      "components": {
+        "material": 0,
+        "momentum": 0.776,
+        "market": 1,
+        "dilution": 0,
+        "negative": 0,
+        "margin": 0
+      },
+      "missing_momentum": false
+    },
+    {
+      "code": "7760",
+      "name": "ＩＭＶ",
+      "market": "S",
+      "eligible_ordinary": true,
+      "previous_return_pct": 7.52,
+      "evidence_ids": [
+        "price_2026-07-01"
+      ],
+      "events": [],
+      "score": 1.752,
+      "components": {
+        "material": 0,
+        "momentum": 0.752,
+        "market": 1,
+        "dilution": 0,
+        "negative": 0,
+        "margin": 0
+      },
+      "missing_momentum": false
+    },
+    {
+      "code": "3513",
+      "name": "イチカワ",
+      "market": "S",
+      "eligible_ordinary": true,
+      "previous_return_pct": 7.48,
+      "evidence_ids": [
+        "price_2026-07-01"
+      ],
+      "events": [],
+      "score": 1.748,
+      "components": {
+        "material": 0,
+        "momentum": 0.748,
+        "market": 1,
+        "dilution": 0,
+        "negative": 0,
+        "margin": 0
+      },
+      "missing_momentum": false
+    },
+    {
+      "code": "3436",
+      "name": "ＳＵＭＣＯ",
+      "market": "P",
+      "eligible_ordinary": true,
+      "previous_return_pct": 17.37,
+      "evidence_ids": [
+        "price_2026-07-01"
+      ],
+      "events": [],
+      "score": 1.737,
+      "components": {
+        "material": 0,
+        "momentum": 1.737,
+        "market": 0,
+        "dilution": 0,
+        "negative": 0,
+        "margin": 0
+      },
+      "missing_momentum": false
+    },
+    {
+      "code": "4069",
+      "name": "ブルーミーム",
+      "market": "G",
+      "eligible_ordinary": true,
+      "previous_return_pct": 7.25,
+      "evidence_ids": [
+        "price_2026-07-01"
+      ],
+      "events": [],
+      "score": 1.725,
+      "components": {
+        "material": 0,
+        "momentum": 0.725,
+        "market": 1,
+        "dilution": 0,
+        "negative": 0,
+        "margin": 0
+      },
+      "missing_momentum": false
+    },
+    {
+      "code": "6855",
+      "name": "電子材料",
+      "market": "S",
+      "eligible_ordinary": true,
+      "previous_return_pct": 7.12,
+      "evidence_ids": [
+        "price_2026-07-01"
+      ],
+      "events": [],
+      "score": 1.712,
+      "components": {
+        "material": 0,
+        "momentum": 0.712,
+        "market": 1,
+        "dilution": 0,
+        "negative": 0,
+        "margin": 0
+      },
+      "missing_momentum": false
+    },
+    {
+      "code": "6227",
+      "name": "ＡＩメカ",
+      "market": "S",
+      "eligible_ordinary": true,
+      "previous_return_pct": 7.04,
+      "evidence_ids": [
+        "price_2026-07-01"
+      ],
+      "events": [],
+      "score": 1.704,
+      "components": {
+        "material": 0,
+        "momentum": 0.704,
+        "market": 1,
+        "dilution": 0,
+        "negative": 0,
+        "margin": 0
+      },
+      "missing_momentum": false
+    },
+    {
+      "code": "8746",
+      "name": "ｕｎｂａｎｋ",
+      "market": "S",
+      "eligible_ordinary": true,
+      "previous_return_pct": 7.0,
+      "evidence_ids": [
+        "price_2026-07-01"
+      ],
+      "events": [],
+      "score": 1.7,
+      "components": {
+        "material": 0,
+        "momentum": 0.7,
+        "market": 1,
+        "dilution": 0,
+        "negative": 0,
+        "margin": 0
+      },
+      "missing_momentum": false
+    },
+    {
+      "code": "5255",
+      "name": "モンラボ",
+      "market": "G",
+      "eligible_ordinary": true,
+      "previous_return_pct": 6.94,
+      "evidence_ids": [
+        "price_2026-07-01"
+      ],
+      "events": [],
+      "score": 1.694,
+      "components": {
+        "material": 0,
+        "momentum": 0.6940000000000001,
+        "market": 1,
+        "dilution": 0,
+        "negative": 0,
+        "margin": 0
+      },
+      "missing_momentum": false
+    },
+    {
+      "code": "7878",
+      "name": "光・彩",
+      "market": "S",
+      "eligible_ordinary": true,
+      "previous_return_pct": 6.57,
+      "evidence_ids": [
+        "price_2026-07-01"
+      ],
+      "events": [],
+      "score": 1.657,
+      "components": {
+        "material": 0,
+        "momentum": 0.657,
+        "market": 1,
+        "dilution": 0,
+        "negative": 0,
+        "margin": 0
+      },
+      "missing_momentum": false
+    },
+    {
+      "code": "6627",
+      "name": "テラプローブ",
+      "market": "S",
+      "eligible_ordinary": true,
+      "previous_return_pct": 6.4,
+      "evidence_ids": [
+        "price_2026-07-01"
+      ],
+      "events": [],
+      "score": 1.64,
+      "components": {
+        "material": 0,
+        "momentum": 0.64,
+        "market": 1,
+        "dilution": 0,
+        "negative": 0,
+        "margin": 0
+      },
+      "missing_momentum": false
+    },
+    {
+      "code": "5867",
+      "name": "エスネット",
+      "market": "G",
+      "eligible_ordinary": true,
+      "previous_return_pct": 6.19,
+      "evidence_ids": [
+        "price_2026-07-01"
+      ],
+      "events": [],
+      "score": 1.619,
+      "components": {
+        "material": 0,
+        "momentum": 0.619,
+        "market": 1,
+        "dilution": 0,
+        "negative": 0,
+        "margin": 0
+      },
+      "missing_momentum": false
+    },
+    {
+      "code": "7803",
+      "name": "ブシロード",
+      "market": "G",
+      "eligible_ordinary": true,
+      "previous_return_pct": 6.14,
+      "evidence_ids": [
+        "price_2026-07-01"
+      ],
+      "events": [],
+      "score": 1.614,
+      "components": {
+        "material": 0,
+        "momentum": 0.614,
+        "market": 1,
+        "dilution": 0,
+        "negative": 0,
+        "margin": 0
+      },
+      "missing_momentum": false
+    },
+    {
+      "code": "7061",
+      "name": "日本ホスピス",
+      "market": "G",
+      "eligible_ordinary": true,
+      "previous_return_pct": 6.12,
+      "evidence_ids": [
+        "price_2026-07-01"
+      ],
+      "events": [],
+      "score": 1.612,
+      "components": {
+        "material": 0,
+        "momentum": 0.612,
+        "market": 1,
+        "dilution": 0,
+        "negative": 0,
+        "margin": 0
+      },
+      "missing_momentum": false
+    },
+    {
+      "code": "3891",
+      "name": "高度紙",
+      "market": "S",
+      "eligible_ordinary": true,
+      "previous_return_pct": 6.08,
+      "evidence_ids": [
+        "price_2026-07-01"
+      ],
+      "events": [],
+      "score": 1.608,
+      "components": {
+        "material": 0,
+        "momentum": 0.608,
+        "market": 1,
+        "dilution": 0,
+        "negative": 0,
+        "margin": 0
+      },
+      "missing_momentum": false
+    },
+    {
+      "code": "2586",
+      "name": "フルッタ",
+      "market": "G",
+      "eligible_ordinary": true,
+      "previous_return_pct": 5.94,
+      "evidence_ids": [
+        "price_2026-07-01"
+      ],
+      "events": [],
+      "score": 1.594,
+      "components": {
+        "material": 0,
+        "momentum": 0.5940000000000001,
+        "market": 1,
+        "dilution": 0,
+        "negative": 0,
+        "margin": 0
+      },
+      "missing_momentum": false
+    },
+    {
+      "code": "2652",
+      "name": "まんだらけ",
+      "market": "S",
+      "eligible_ordinary": true,
+      "previous_return_pct": 5.88,
+      "evidence_ids": [
+        "price_2026-07-01"
+      ],
+      "events": [],
+      "score": 1.588,
+      "components": {
+        "material": 0,
+        "momentum": 0.588,
+        "market": 1,
+        "dilution": 0,
+        "negative": 0,
+        "margin": 0
+      },
+      "missing_momentum": false
+    },
+    {
+      "code": "9258",
+      "name": "ＣＳ－Ｃ",
+      "market": "G",
+      "eligible_ordinary": true,
+      "previous_return_pct": 5.78,
+      "evidence_ids": [
+        "price_2026-07-01"
+      ],
+      "events": [],
+      "score": 1.578,
+      "components": {
+        "material": 0,
+        "momentum": 0.5780000000000001,
+        "market": 1,
+        "dilution": 0,
+        "negative": 0,
+        "margin": 0
+      },
+      "missing_momentum": false
+    },
+    {
+      "code": "7709",
+      "name": "クボテック",
+      "market": "S",
+      "eligible_ordinary": true,
+      "previous_return_pct": 5.77,
+      "evidence_ids": [
+        "price_2026-07-01"
+      ],
+      "events": [],
+      "score": 1.577,
+      "components": {
+        "material": 0,
+        "momentum": 0.577,
+        "market": 1,
+        "dilution": 0,
+        "negative": 0,
+        "margin": 0
+      },
+      "missing_momentum": false
+    },
+    {
+      "code": "8844",
+      "name": "コスモスイニ",
+      "market": "S",
+      "eligible_ordinary": true,
+      "previous_return_pct": 5.77,
+      "evidence_ids": [
+        "price_2026-07-01"
+      ],
+      "events": [],
+      "score": 1.577,
+      "components": {
+        "material": 0,
+        "momentum": 0.577,
+        "market": 1,
+        "dilution": 0,
+        "negative": 0,
+        "margin": 0
+      },
+      "missing_momentum": false
+    },
+    {
+      "code": "6255",
+      "name": "エヌピーシー",
+      "market": "G",
+      "eligible_ordinary": true,
+      "previous_return_pct": 5.7,
+      "evidence_ids": [
+        "price_2026-07-01"
+      ],
+      "events": [],
+      "score": 1.57,
+      "components": {
+        "material": 0,
+        "momentum": 0.5700000000000001,
+        "market": 1,
+        "dilution": 0,
+        "negative": 0,
+        "margin": 0
+      },
+      "missing_momentum": false
+    },
+    {
+      "code": "5282",
+      "name": "ジオスター",
+      "market": "S",
+      "eligible_ordinary": true,
+      "previous_return_pct": 5.64,
+      "evidence_ids": [
+        "price_2026-07-01"
+      ],
+      "events": [],
+      "score": 1.564,
+      "components": {
+        "material": 0,
+        "momentum": 0.564,
+        "market": 1,
+        "dilution": 0,
+        "negative": 0,
+        "margin": 0
+      },
+      "missing_momentum": false
+    },
+    {
+      "code": "1447",
+      "name": "ＳＡＡＦＨＤ",
+      "market": "G",
+      "eligible_ordinary": true,
+      "previous_return_pct": 5.56,
+      "evidence_ids": [
+        "price_2026-07-01"
+      ],
+      "events": [],
+      "score": 1.556,
+      "components": {
+        "material": 0,
+        "momentum": 0.5559999999999999,
+        "market": 1,
+        "dilution": 0,
+        "negative": 0,
+        "margin": 0
+      },
+      "missing_momentum": false
+    },
+    {
+      "code": "4564",
+      "name": "オンコセラピ",
+      "market": "G",
+      "eligible_ordinary": true,
+      "previous_return_pct": 5.56,
+      "evidence_ids": [
+        "price_2026-07-01"
+      ],
+      "events": [],
+      "score": 1.556,
+      "components": {
+        "material": 0,
+        "momentum": 0.5559999999999999,
+        "market": 1,
+        "dilution": 0,
+        "negative": 0,
+        "margin": 0
+      },
+      "missing_momentum": false
+    },
+    {
+      "code": "4169",
+      "name": "エネチェンジ",
+      "market": "G",
+      "eligible_ordinary": true,
+      "previous_return_pct": 5.38,
+      "evidence_ids": [
+        "price_2026-07-01"
+      ],
+      "events": [],
+      "score": 1.538,
+      "components": {
+        "material": 0,
+        "momentum": 0.538,
+        "market": 1,
+        "dilution": 0,
+        "negative": 0,
+        "margin": 0
+      },
+      "missing_momentum": false
+    },
+    {
+      "code": "9256",
+      "name": "サクシード",
+      "market": "G",
+      "eligible_ordinary": true,
+      "previous_return_pct": 15.21,
+      "evidence_ids": [
+        "price_2026-07-01"
+      ],
+      "events": [],
+      "margin_restriction": true,
+      "score": 1.521,
+      "components": {
+        "material": 0,
+        "momentum": 1.5210000000000001,
+        "market": 1,
+        "dilution": 0,
+        "negative": 0,
+        "margin": -1
+      },
+      "missing_momentum": false
+    },
+    {
+      "code": "5018",
+      "name": "ＭＯＲＥＳＣ",
+      "market": "S",
+      "eligible_ordinary": true,
+      "previous_return_pct": 5.19,
+      "evidence_ids": [
+        "price_2026-07-01"
+      ],
+      "events": [],
+      "score": 1.519,
+      "components": {
+        "material": 0,
+        "momentum": 0.519,
+        "market": 1,
+        "dilution": 0,
+        "negative": 0,
+        "margin": 0
+      },
+      "missing_momentum": false
+    },
+    {
+      "code": "276A",
+      "name": "ククレブ",
+      "market": "G",
+      "eligible_ordinary": true,
+      "previous_return_pct": 5.18,
+      "evidence_ids": [
+        "price_2026-07-01"
+      ],
+      "events": [],
+      "score": 1.518,
+      "components": {
+        "material": 0,
+        "momentum": 0.518,
+        "market": 1,
+        "dilution": 0,
+        "negative": 0,
+        "margin": 0
+      },
+      "missing_momentum": false
+    },
+    {
+      "code": "6590",
+      "name": "芝浦",
+      "market": "P",
+      "eligible_ordinary": true,
+      "previous_return_pct": 15.15,
+      "evidence_ids": [
+        "price_2026-07-01"
+      ],
+      "events": [],
+      "score": 1.515,
+      "components": {
+        "material": 0,
+        "momentum": 1.5150000000000001,
+        "market": 0,
+        "dilution": 0,
+        "negative": 0,
+        "margin": 0
+      },
+      "missing_momentum": false
+    },
+    {
+      "code": "6663",
+      "name": "太洋テクノ",
+      "market": "S",
+      "eligible_ordinary": true,
+      "previous_return_pct": 5.14,
+      "evidence_ids": [
+        "price_2026-07-01"
+      ],
+      "events": [],
+      "score": 1.514,
+      "components": {
+        "material": 0,
+        "momentum": 0.514,
+        "market": 1,
+        "dilution": 0,
+        "negative": 0,
+        "margin": 0
+      },
+      "missing_momentum": false
+    },
+    {
+      "code": "2612",
+      "name": "かどや製油",
+      "market": "S",
+      "eligible_ordinary": true,
+      "previous_return_pct": 5.13,
+      "evidence_ids": [
+        "price_2026-07-01"
+      ],
+      "events": [],
+      "score": 1.513,
+      "components": {
+        "material": 0,
+        "momentum": 0.513,
+        "market": 1,
+        "dilution": 0,
+        "negative": 0,
+        "margin": 0
+      },
+      "missing_momentum": false
+    },
+    {
+      "code": "3840",
+      "name": "パス",
+      "market": "S",
+      "eligible_ordinary": true,
+      "previous_return_pct": 5.0,
+      "evidence_ids": [
+        "price_2026-07-01"
+      ],
+      "events": [],
+      "score": 1.5,
+      "components": {
+        "material": 0,
+        "momentum": 0.5,
+        "market": 1,
+        "dilution": 0,
+        "negative": 0,
+        "margin": 0
+      },
+      "missing_momentum": false
+    },
+    {
+      "code": "6996",
+      "name": "ニチコン",
+      "market": "P",
+      "eligible_ordinary": true,
+      "previous_return_pct": 14.94,
+      "evidence_ids": [
+        "price_2026-07-01"
+      ],
+      "events": [],
+      "score": 1.494,
+      "components": {
+        "material": 0,
+        "momentum": 1.494,
+        "market": 0,
+        "dilution": 0,
+        "negative": 0,
+        "margin": 0
+      },
+      "missing_momentum": false
+    },
+    {
+      "code": "6976",
+      "name": "太陽誘電",
+      "market": "P",
+      "eligible_ordinary": true,
+      "previous_return_pct": 12.43,
+      "evidence_ids": [
+        "price_2026-07-01"
+      ],
+      "events": [],
+      "score": 1.243,
+      "components": {
+        "material": 0,
+        "momentum": 1.2429999999999999,
+        "market": 0,
+        "dilution": 0,
+        "negative": 0,
+        "margin": 0
+      },
+      "missing_momentum": false
+    },
+    {
+      "code": "3445",
+      "name": "ＲＳテクノ",
+      "market": "P",
+      "eligible_ordinary": true,
+      "previous_return_pct": 10.3,
+      "evidence_ids": [
+        "price_2026-07-01"
+      ],
+      "events": [],
+      "score": 1.03,
+      "components": {
+        "material": 0,
+        "momentum": 1.03,
+        "market": 0,
+        "dilution": 0,
+        "negative": 0,
+        "margin": 0
+      },
+      "missing_momentum": false
+    },
+    {
+      "code": "6779",
+      "name": "日電波",
+      "market": "P",
+      "eligible_ordinary": true,
+      "previous_return_pct": 9.78,
+      "evidence_ids": [
+        "price_2026-07-01"
+      ],
+      "events": [],
+      "score": 0.978,
+      "components": {
+        "material": 0,
+        "momentum": 0.978,
+        "market": 0,
+        "dilution": 0,
+        "negative": 0,
+        "margin": 0
+      },
+      "missing_momentum": false
+    },
+    {
+      "code": "429A",
+      "name": "テクセンド",
+      "market": "P",
+      "eligible_ordinary": true,
+      "previous_return_pct": 9.58,
+      "evidence_ids": [
+        "price_2026-07-01"
+      ],
+      "events": [],
+      "score": 0.958,
+      "components": {
+        "material": 0,
+        "momentum": 0.958,
+        "market": 0,
+        "dilution": 0,
+        "negative": 0,
+        "margin": 0
+      },
+      "missing_momentum": false
+    },
+    {
+      "code": "7735",
+      "name": "スクリン",
+      "market": "P",
+      "eligible_ordinary": true,
+      "previous_return_pct": 9.46,
+      "evidence_ids": [
+        "price_2026-07-01"
+      ],
+      "events": [],
+      "score": 0.946,
+      "components": {
+        "material": 0,
+        "momentum": 0.9460000000000001,
+        "market": 0,
+        "dilution": 0,
+        "negative": 0,
+        "margin": 0
+      },
+      "missing_momentum": false
+    },
+    {
+      "code": "7725",
+      "name": "インターアク",
+      "market": "P",
+      "eligible_ordinary": true,
+      "previous_return_pct": 9.06,
+      "evidence_ids": [
+        "price_2026-07-01"
+      ],
+      "events": [],
+      "score": 0.906,
+      "components": {
+        "material": 0,
+        "momentum": 0.906,
+        "market": 0,
+        "dilution": 0,
+        "negative": 0,
+        "margin": 0
+      },
+      "missing_momentum": false
+    },
+    {
+      "code": "4062",
+      "name": "イビデン",
+      "market": "P",
+      "eligible_ordinary": true,
+      "previous_return_pct": 8.27,
+      "evidence_ids": [
+        "price_2026-07-01"
+      ],
+      "events": [],
+      "score": 0.827,
+      "components": {
+        "material": 0,
+        "momentum": 0.827,
+        "market": 0,
+        "dilution": 0,
+        "negative": 0,
+        "margin": 0
+      },
+      "missing_momentum": false
+    },
+    {
+      "code": "6266",
+      "name": "タツモ",
+      "market": "P",
+      "eligible_ordinary": true,
+      "previous_return_pct": 7.64,
+      "evidence_ids": [
+        "price_2026-07-01"
+      ],
+      "events": [],
+      "score": 0.764,
+      "components": {
+        "material": 0,
+        "momentum": 0.764,
+        "market": 0,
+        "dilution": 0,
+        "negative": 0,
+        "margin": 0
+      },
+      "missing_momentum": false
+    },
+    {
+      "code": "6728",
+      "name": "アルバック",
+      "market": "P",
+      "eligible_ordinary": true,
+      "previous_return_pct": 7.59,
+      "evidence_ids": [
+        "price_2026-07-01"
+      ],
+      "events": [],
+      "score": 0.759,
+      "components": {
+        "material": 0,
+        "momentum": 0.759,
+        "market": 0,
+        "dilution": 0,
+        "negative": 0,
+        "margin": 0
+      },
+      "missing_momentum": false
+    },
+    {
+      "code": "6925",
+      "name": "ウシオ電",
+      "market": "P",
+      "eligible_ordinary": true,
+      "previous_return_pct": 7.58,
+      "evidence_ids": [
+        "price_2026-07-01"
+      ],
+      "events": [],
+      "score": 0.758,
+      "components": {
+        "material": 0,
+        "momentum": 0.758,
+        "market": 0,
+        "dilution": 0,
+        "negative": 0,
+        "margin": 0
+      },
+      "missing_momentum": false
+    },
+    {
+      "code": "268A",
+      "name": "リガクＨＤ",
+      "market": "P",
+      "eligible_ordinary": true,
+      "previous_return_pct": 7.44,
+      "evidence_ids": [
+        "price_2026-07-01"
+      ],
+      "events": [],
+      "score": 0.744,
+      "components": {
+        "material": 0,
+        "momentum": 0.744,
+        "market": 0,
+        "dilution": 0,
+        "negative": 0,
+        "margin": 0
+      },
+      "missing_momentum": false
+    },
+    {
+      "code": "6619",
+      "name": "ＷＳＣＯＰＥ",
+      "market": "P",
+      "eligible_ordinary": true,
+      "previous_return_pct": 7.39,
+      "evidence_ids": [
+        "price_2026-07-01"
+      ],
+      "events": [],
+      "score": 0.739,
+      "components": {
+        "material": 0,
+        "momentum": 0.739,
+        "market": 0,
+        "dilution": 0,
+        "negative": 0,
+        "margin": 0
+      },
+      "missing_momentum": false
+    },
+    {
+      "code": "6971",
+      "name": "京セラ",
+      "market": "P",
+      "eligible_ordinary": true,
+      "previous_return_pct": 7.3,
+      "evidence_ids": [
+        "price_2026-07-01"
+      ],
+      "events": [],
+      "score": 0.73,
+      "components": {
+        "material": 0,
+        "momentum": 0.73,
+        "market": 0,
+        "dilution": 0,
+        "negative": 0,
+        "margin": 0
+      },
+      "missing_momentum": false
+    },
+    {
+      "code": "4973",
+      "name": "日本高純度",
+      "market": "P",
+      "eligible_ordinary": true,
+      "previous_return_pct": 7.21,
+      "evidence_ids": [
+        "price_2026-07-01"
+      ],
+      "events": [],
+      "score": 0.721,
+      "components": {
+        "material": 0,
+        "momentum": 0.721,
+        "market": 0,
+        "dilution": 0,
+        "negative": 0,
+        "margin": 0
+      },
+      "missing_momentum": false
+    },
+    {
+      "code": "6966",
+      "name": "三井ハイテク",
+      "market": "P",
+      "eligible_ordinary": true,
+      "previous_return_pct": 6.93,
+      "evidence_ids": [
+        "price_2026-07-01"
+      ],
+      "events": [],
+      "score": 0.693,
+      "components": {
+        "material": 0,
+        "momentum": 0.693,
+        "market": 0,
+        "dilution": 0,
+        "negative": 0,
+        "margin": 0
+      },
+      "missing_momentum": false
+    },
+    {
+      "code": "6962",
+      "name": "大真空",
+      "market": "P",
+      "eligible_ordinary": true,
+      "previous_return_pct": 6.7,
+      "evidence_ids": [
+        "price_2026-07-01"
+      ],
+      "events": [],
+      "score": 0.67,
+      "components": {
+        "material": 0,
+        "momentum": 0.67,
+        "market": 0,
+        "dilution": 0,
+        "negative": 0,
+        "margin": 0
+      },
+      "missing_momentum": false
+    },
+    {
+      "code": "6237",
+      "name": "イワキポンプ",
+      "market": "P",
+      "eligible_ordinary": true,
+      "previous_return_pct": 6.67,
+      "evidence_ids": [
+        "price_2026-07-01"
+      ],
+      "events": [],
+      "score": 0.667,
+      "components": {
+        "material": 0,
+        "momentum": 0.667,
+        "market": 0,
+        "dilution": 0,
+        "negative": 0,
+        "margin": 0
+      },
+      "missing_momentum": false
+    },
+    {
+      "code": "6754",
+      "name": "アンリツ",
+      "market": "P",
+      "eligible_ordinary": true,
+      "previous_return_pct": 6.64,
+      "evidence_ids": [
+        "price_2026-07-01"
+      ],
+      "events": [],
+      "score": 0.664,
+      "components": {
+        "material": 0,
+        "momentum": 0.6639999999999999,
+        "market": 0,
+        "dilution": 0,
+        "negative": 0,
+        "margin": 0
+      },
+      "missing_momentum": false
+    },
+    {
+      "code": "6526",
+      "name": "ソシオネクス",
+      "market": "P",
+      "eligible_ordinary": true,
+      "previous_return_pct": 6.58,
+      "evidence_ids": [
+        "price_2026-07-01"
+      ],
+      "events": [],
+      "score": 0.658,
+      "components": {
+        "material": 0,
+        "momentum": 0.658,
+        "market": 0,
+        "dilution": 0,
+        "negative": 0,
+        "margin": 0
+      },
+      "missing_momentum": false
+    },
+    {
+      "code": "6723",
+      "name": "ルネサス",
+      "market": "P",
+      "eligible_ordinary": true,
+      "previous_return_pct": 6.57,
+      "evidence_ids": [
+        "price_2026-07-01"
+      ],
+      "events": [],
+      "score": 0.657,
+      "components": {
+        "material": 0,
+        "momentum": 0.657,
+        "market": 0,
+        "dilution": 0,
+        "negative": 0,
+        "margin": 0
+      },
+      "missing_momentum": false
+    },
+    {
+      "code": "6134",
+      "name": "ＦＵＪＩ",
+      "market": "P",
+      "eligible_ordinary": true,
+      "previous_return_pct": 6.36,
+      "evidence_ids": [
+        "price_2026-07-01"
+      ],
+      "events": [],
+      "score": 0.636,
+      "components": {
+        "material": 0,
+        "momentum": 0.636,
+        "market": 0,
+        "dilution": 0,
+        "negative": 0,
+        "margin": 0
+      },
+      "missing_momentum": false
+    },
+    {
+      "code": "8011",
+      "name": "三陽商",
+      "market": "P",
+      "eligible_ordinary": true,
+      "previous_return_pct": 6.18,
+      "evidence_ids": [
+        "price_2026-07-01"
+      ],
+      "events": [],
+      "score": 0.618,
+      "components": {
+        "material": 0,
+        "momentum": 0.618,
+        "market": 0,
+        "dilution": 0,
+        "negative": 0,
+        "margin": 0
+      },
+      "missing_momentum": false
+    },
+    {
+      "code": "6027",
+      "name": "弁護士ＣＯＭ",
+      "market": "P",
+      "eligible_ordinary": true,
+      "previous_return_pct": 6.14,
+      "evidence_ids": [
+        "price_2026-07-01"
+      ],
+      "events": [],
+      "score": 0.614,
+      "components": {
+        "material": 0,
+        "momentum": 0.614,
+        "market": 0,
+        "dilution": 0,
+        "negative": 0,
+        "margin": 0
+      },
+      "missing_momentum": false
+    },
+    {
+      "code": "6315",
+      "name": "ＴＯＷＡ",
+      "market": "P",
+      "eligible_ordinary": true,
+      "previous_return_pct": 5.99,
+      "evidence_ids": [
+        "price_2026-07-01"
+      ],
+      "events": [],
+      "score": 0.599,
+      "components": {
+        "material": 0,
+        "momentum": 0.599,
+        "market": 0,
+        "dilution": 0,
+        "negative": 0,
+        "margin": 0
+      },
+      "missing_momentum": false
+    },
+    {
+      "code": "6752",
+      "name": "パナＨＤ",
+      "market": "P",
+      "eligible_ordinary": true,
+      "previous_return_pct": 5.95,
+      "evidence_ids": [
+        "price_2026-07-01"
+      ],
+      "events": [],
+      "score": 0.595,
+      "components": {
+        "material": 0,
+        "momentum": 0.595,
+        "market": 0,
+        "dilution": 0,
+        "negative": 0,
+        "margin": 0
+      },
+      "missing_momentum": false
+    },
+    {
+      "code": "7970",
+      "name": "信越ポリ",
+      "market": "P",
+      "eligible_ordinary": true,
+      "previous_return_pct": 5.79,
+      "evidence_ids": [
+        "price_2026-07-01"
+      ],
+      "events": [],
+      "score": 0.579,
+      "components": {
+        "material": 0,
+        "momentum": 0.579,
+        "market": 0,
+        "dilution": 0,
+        "negative": 0,
+        "margin": 0
+      },
+      "missing_momentum": false
+    },
+    {
+      "code": "4022",
+      "name": "ラサ工",
+      "market": "P",
+      "eligible_ordinary": true,
+      "previous_return_pct": 5.78,
+      "evidence_ids": [
+        "price_2026-07-01"
+      ],
+      "events": [],
+      "score": 0.578,
+      "components": {
+        "material": 0,
+        "momentum": 0.5780000000000001,
+        "market": 0,
+        "dilution": 0,
+        "negative": 0,
+        "margin": 0
+      },
+      "missing_momentum": false
+    },
+    {
+      "code": "8698",
+      "name": "マネックスＧ",
+      "market": "P",
+      "eligible_ordinary": true,
+      "previous_return_pct": 5.77,
+      "evidence_ids": [
+        "price_2026-07-01"
+      ],
+      "events": [],
+      "score": 0.577,
+      "components": {
+        "material": 0,
+        "momentum": 0.577,
+        "market": 0,
+        "dilution": 0,
+        "negative": 0,
+        "margin": 0
+      },
+      "missing_momentum": false
+    },
+    {
+      "code": "7034",
+      "name": "プロレド",
+      "market": "P",
+      "eligible_ordinary": true,
+      "previous_return_pct": 5.69,
+      "evidence_ids": [
+        "price_2026-07-01"
+      ],
+      "events": [],
+      "score": 0.569,
+      "components": {
+        "material": 0,
+        "momentum": 0.5690000000000001,
+        "market": 0,
+        "dilution": 0,
+        "negative": 0,
+        "margin": 0
+      },
+      "missing_momentum": false
+    },
+    {
+      "code": "7245",
+      "name": "大同メ",
+      "market": "P",
+      "eligible_ordinary": true,
+      "previous_return_pct": 5.67,
+      "evidence_ids": [
+        "price_2026-07-01"
+      ],
+      "events": [],
+      "score": 0.567,
+      "components": {
+        "material": 0,
+        "momentum": 0.567,
+        "market": 0,
+        "dilution": 0,
+        "negative": 0,
+        "margin": 0
+      },
+      "missing_momentum": false
+    },
+    {
+      "code": "4004",
+      "name": "レゾナック",
+      "market": "P",
+      "eligible_ordinary": true,
+      "previous_return_pct": 5.54,
+      "evidence_ids": [
+        "price_2026-07-01"
+      ],
+      "events": [],
+      "score": 0.554,
+      "components": {
+        "material": 0,
+        "momentum": 0.554,
+        "market": 0,
+        "dilution": 0,
+        "negative": 0,
+        "margin": 0
+      },
+      "missing_momentum": false
+    },
+    {
+      "code": "6961",
+      "name": "エンプラス",
+      "market": "P",
+      "eligible_ordinary": true,
+      "previous_return_pct": 5.52,
+      "evidence_ids": [
+        "price_2026-07-01"
+      ],
+      "events": [],
+      "score": 0.552,
+      "components": {
+        "material": 0,
+        "momentum": 0.5519999999999999,
+        "market": 0,
+        "dilution": 0,
+        "negative": 0,
+        "margin": 0
+      },
+      "missing_momentum": false
+    },
+    {
+      "code": "6254",
+      "name": "野村マイクロ",
+      "market": "P",
+      "eligible_ordinary": true,
+      "previous_return_pct": 5.49,
+      "evidence_ids": [
+        "price_2026-07-01"
+      ],
+      "events": [],
+      "score": 0.549,
+      "components": {
+        "material": 0,
+        "momentum": 0.549,
+        "market": 0,
+        "dilution": 0,
+        "negative": 0,
+        "margin": 0
+      },
+      "missing_momentum": false
+    },
+    {
+      "code": "6273",
+      "name": "ＳＭＣ",
+      "market": "P",
+      "eligible_ordinary": true,
+      "previous_return_pct": 5.49,
+      "evidence_ids": [
+        "price_2026-07-01"
+      ],
+      "events": [],
+      "score": 0.549,
+      "components": {
+        "material": 0,
+        "momentum": 0.549,
+        "market": 0,
+        "dilution": 0,
+        "negative": 0,
+        "margin": 0
+      },
+      "missing_momentum": false
+    },
+    {
+      "code": "6235",
+      "name": "オプトラン",
+      "market": "P",
+      "eligible_ordinary": true,
+      "previous_return_pct": 5.48,
+      "evidence_ids": [
+        "price_2026-07-01"
+      ],
+      "events": [],
+      "score": 0.548,
+      "components": {
+        "material": 0,
+        "momentum": 0.548,
+        "market": 0,
+        "dilution": 0,
+        "negative": 0,
+        "margin": 0
+      },
+      "missing_momentum": false
+    },
+    {
+      "code": "6997",
+      "name": "日ケミコン",
+      "market": "P",
+      "eligible_ordinary": true,
+      "previous_return_pct": 5.46,
+      "evidence_ids": [
+        "price_2026-07-01"
+      ],
+      "events": [],
+      "score": 0.546,
+      "components": {
+        "material": 0,
+        "momentum": 0.546,
+        "market": 0,
+        "dilution": 0,
+        "negative": 0,
+        "margin": 0
+      },
+      "missing_momentum": false
+    },
+    {
+      "code": "6407",
+      "name": "ＣＫＤ",
+      "market": "P",
+      "eligible_ordinary": true,
+      "previous_return_pct": 5.22,
+      "evidence_ids": [
+        "price_2026-07-01"
+      ],
+      "events": [],
+      "score": 0.522,
+      "components": {
+        "material": 0,
+        "momentum": 0.522,
+        "market": 0,
+        "dilution": 0,
+        "negative": 0,
+        "margin": 0
+      },
+      "missing_momentum": false
+    },
+    {
+      "code": "6525",
+      "name": "コクサイエレ",
+      "market": "P",
+      "eligible_ordinary": true,
+      "previous_return_pct": 5.2,
+      "evidence_ids": [
+        "price_2026-07-01"
+      ],
+      "events": [],
+      "score": 0.52,
+      "components": {
+        "material": 0,
+        "momentum": 0.52,
+        "market": 0,
+        "dilution": 0,
+        "negative": 0,
+        "margin": 0
+      },
+      "missing_momentum": false
+    },
+    {
+      "code": "6480",
+      "name": "トムソン",
+      "market": "P",
+      "eligible_ordinary": true,
+      "previous_return_pct": 5.17,
+      "evidence_ids": [
+        "price_2026-07-01"
+      ],
+      "events": [],
+      "score": 0.517,
+      "components": {
+        "material": 0,
+        "momentum": 0.517,
+        "market": 0,
+        "dilution": 0,
+        "negative": 0,
+        "margin": 0
+      },
+      "missing_momentum": false
+    },
+    {
+      "code": "2802",
+      "name": "味の素",
+      "market": "P",
+      "eligible_ordinary": true,
+      "previous_return_pct": 5.14,
+      "evidence_ids": [
+        "price_2026-07-01"
+      ],
+      "events": [],
+      "score": 0.514,
+      "components": {
+        "material": 0,
+        "momentum": 0.514,
+        "market": 0,
+        "dilution": 0,
+        "negative": 0,
+        "margin": 0
+      },
+      "missing_momentum": false
+    },
+    {
+      "code": "6479",
+      "name": "ミネベア",
+      "market": "P",
+      "eligible_ordinary": true,
+      "previous_return_pct": 5.09,
+      "evidence_ids": [
+        "price_2026-07-01"
+      ],
+      "events": [],
+      "score": 0.509,
+      "components": {
+        "material": 0,
+        "momentum": 0.509,
+        "market": 0,
+        "dilution": 0,
+        "negative": 0,
+        "margin": 0
+      },
+      "missing_momentum": false
+    },
+    {
+      "code": "4461",
+      "name": "一工薬",
+      "market": "P",
+      "eligible_ordinary": true,
+      "previous_return_pct": 5.05,
+      "evidence_ids": [
+        "price_2026-07-01"
+      ],
+      "events": [],
+      "score": 0.505,
+      "components": {
+        "material": 0,
+        "momentum": 0.505,
+        "market": 0,
+        "dilution": 0,
+        "negative": 0,
+        "margin": 0
+      },
+      "missing_momentum": false
+    },
+    {
+      "code": "3133",
+      "name": "海帆",
+      "market": "G",
+      "eligible_ordinary": true,
+      "previous_return_pct": 8.7,
+      "evidence_ids": [
+        "price_2026-07-01"
+      ],
+      "events": [],
+      "negative_material": true,
+      "score": -2.13,
+      "components": {
+        "material": 0,
+        "momentum": 0.8699999999999999,
+        "market": 1,
+        "dilution": 0,
+        "negative": -4,
+        "margin": 0
+      },
+      "missing_momentum": false
+    }
+  ],
+  "rejected_candidates": [
+    {
+      "code": "153A",
+      "name": "カウリス",
+      "market": "G",
+      "eligible_ordinary": true,
+      "previous_return_pct": null,
+      "evidence_ids": [
+        "unverified_153A"
+      ],
+      "events": []
+    },
+    {
+      "code": "212A",
+      "name": "フィットイージー",
+      "market": "P",
+      "eligible_ordinary": true,
+      "previous_return_pct": null,
+      "evidence_ids": [
+        "unverified_212A"
+      ],
+      "events": []
+    },
+    {
+      "code": "2432",
+      "name": "ディー・エヌ・エー",
+      "market": "P",
+      "eligible_ordinary": true,
+      "previous_return_pct": null,
+      "evidence_ids": [
+        "unverified_2432"
+      ],
+      "events": []
+    },
+    {
+      "code": "302A",
+      "name": "ビースタイルホールディングス",
+      "market": "G",
+      "eligible_ordinary": true,
+      "previous_return_pct": null,
+      "evidence_ids": [
+        "unverified_302A"
+      ],
+      "events": []
+    },
+    {
+      "code": "3087",
+      "name": "ドトール・日レスホールディングス",
+      "market": "P",
+      "eligible_ordinary": true,
+      "previous_return_pct": null,
+      "evidence_ids": [
+        "unverified_3087"
+      ],
+      "events": []
+    },
+    {
+      "code": "3099",
+      "name": "三越伊勢丹ホールディングス",
+      "market": "P",
+      "eligible_ordinary": true,
+      "previous_return_pct": null,
+      "evidence_ids": [
+        "unverified_3099"
+      ],
+      "events": []
+    },
+    {
+      "code": "3656",
+      "name": "ＫＬａｂ",
+      "market": "P",
+      "eligible_ordinary": true,
+      "previous_return_pct": null,
+      "evidence_ids": [
+        "unverified_3656"
+      ],
+      "events": []
+    },
+    {
+      "code": "3774",
+      "name": "インターネットイニシアティブ",
+      "market": "P",
+      "eligible_ordinary": true,
+      "previous_return_pct": null,
+      "evidence_ids": [
+        "unverified_3774"
+      ],
+      "events": []
+    },
+    {
+      "code": "4347",
+      "name": "ブロードメディア",
+      "market": "S",
+      "eligible_ordinary": true,
+      "previous_return_pct": null,
+      "evidence_ids": [
+        "unverified_4347"
+      ],
+      "events": []
+    },
+    {
+      "code": "4845",
+      "name": "スカラ",
+      "market": "S",
+      "eligible_ordinary": true,
+      "previous_return_pct": null,
+      "evidence_ids": [
+        "unverified_4845"
+      ],
+      "events": []
+    },
+    {
+      "code": "4882",
+      "name": "ペルセウスプロテオミクス",
+      "market": "G",
+      "eligible_ordinary": true,
+      "previous_return_pct": null,
+      "evidence_ids": [
+        "unverified_4882"
+      ],
+      "events": []
+    },
+    {
+      "code": "5204",
+      "name": "石塚硝子",
+      "market": "S",
+      "eligible_ordinary": true,
+      "previous_return_pct": null,
+      "evidence_ids": [
+        "unverified_5204"
+      ],
+      "events": []
+    },
+    {
+      "code": "5589",
+      "name": "オートサーバー",
+      "market": "S",
+      "eligible_ordinary": true,
+      "previous_return_pct": null,
+      "evidence_ids": [
+        "unverified_5589"
+      ],
+      "events": []
+    },
+    {
+      "code": "5618",
+      "name": "ナイル",
+      "market": "G",
+      "eligible_ordinary": true,
+      "previous_return_pct": null,
+      "evidence_ids": [
+        "unverified_5618"
+      ],
+      "events": []
+    },
+    {
+      "code": "6071",
+      "name": "ＩＢＪ",
+      "market": "P",
+      "eligible_ordinary": true,
+      "previous_return_pct": null,
+      "evidence_ids": [
+        "unverified_6071"
+      ],
+      "events": []
+    },
+    {
+      "code": "7173",
+      "name": "東京きらぼしフィナンシャルグループ",
+      "market": "P",
+      "eligible_ordinary": true,
+      "previous_return_pct": null,
+      "evidence_ids": [
+        "unverified_7173"
+      ],
+      "events": []
+    },
+    {
+      "code": "7359",
+      "name": "東京通信グループ",
+      "market": "G",
+      "eligible_ordinary": true,
+      "previous_return_pct": null,
+      "evidence_ids": [
+        "unverified_7359"
+      ],
+      "events": []
+    },
+    {
+      "code": "7984",
+      "name": "コクヨ",
+      "market": "P",
+      "eligible_ordinary": true,
+      "previous_return_pct": null,
+      "evidence_ids": [
+        "unverified_7984"
+      ],
+      "events": []
+    },
+    {
+      "code": "8002",
+      "name": "丸紅",
+      "market": "P",
+      "eligible_ordinary": true,
+      "previous_return_pct": null,
+      "evidence_ids": [
+        "unverified_8002"
+      ],
+      "events": []
+    },
+    {
+      "code": "8023",
+      "name": "ＤＡＩＫＯ　ＸＴＥＣＨ",
+      "market": "S",
+      "eligible_ordinary": true,
+      "previous_return_pct": null,
+      "evidence_ids": [
+        "unverified_8023"
+      ],
+      "events": []
+    },
+    {
+      "code": "8031",
+      "name": "三井物産",
+      "market": "P",
+      "eligible_ordinary": true,
+      "previous_return_pct": null,
+      "evidence_ids": [
+        "unverified_8031"
+      ],
+      "events": []
+    },
+    {
+      "code": "8233",
+      "name": "高島屋",
+      "market": "P",
+      "eligible_ordinary": true,
+      "previous_return_pct": null,
+      "evidence_ids": [
+        "unverified_8233"
+      ],
+      "events": []
+    },
+    {
+      "code": "8237",
+      "name": "松屋",
+      "market": "P",
+      "eligible_ordinary": true,
+      "previous_return_pct": null,
+      "evidence_ids": [
+        "unverified_8237"
+      ],
+      "events": []
+    },
+    {
+      "code": "8242",
+      "name": "エイチ・ツー・オー　リテイリング",
+      "market": "P",
+      "eligible_ordinary": true,
+      "previous_return_pct": null,
+      "evidence_ids": [
+        "unverified_8242"
+      ],
+      "events": []
+    },
+    {
+      "code": "7564",
+      "name": "ワークマン",
+      "market": "S",
+      "eligible_ordinary": true,
+      "previous_return_pct": null,
+      "evidence_ids": [
+        "unverified_7564"
+      ],
+      "events": []
+    },
+    {
+      "code": "7643",
+      "name": "ダイイチ",
+      "market": "S",
+      "eligible_ordinary": true,
+      "previous_return_pct": null,
+      "evidence_ids": [
+        "unverified_7643"
+      ],
+      "events": []
+    },
+    {
+      "code": "7683",
+      "name": "ダブルエー",
+      "market": "P",
+      "eligible_ordinary": true,
+      "previous_return_pct": null,
+      "evidence_ids": [
+        "unverified_7683"
+      ],
+      "events": []
+    },
+    {
+      "code": "6059",
+      "name": "ウチヤマホールディングス",
+      "market": "S",
+      "eligible_ordinary": true,
+      "previous_return_pct": null,
+      "evidence_ids": [
+        "unverified_6059"
+      ],
+      "events": []
+    }
+  ],
+  "evidence_gate": {
+    "cutoff": "2026-07-02T08:30:00+09:00",
+    "accepted": [
+      {
+        "id": "price_2026-07-01",
+        "url": "https://kabu.kininew.net/fiveup/7907.html",
+        "available_at": "2026-07-01T23:59:59+09:00",
+        "version_verified": true,
+        "timestamp_evidence": "前営業日の引け後公表日付き価格表。日付精度のため当日末を採用。動的関連欄は不使用。全原票による完全性保証はなし。",
+        "role": "predictor"
+      },
+      {
+        "id": "release_9425_2026-07-02",
+        "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260701/20260701586030.pdf",
+        "available_at": "2026-07-01T16:00:59+09:00",
+        "version_verified": true,
+        "timestamp_evidence": "7/1原開示PDF本文・日付とTDnet転載一覧時刻を照合。非拘束の株式取得基本合意。確定買収として扱わずMOU2点。完了予定は将来。",
+        "role": "predictor"
+      },
+      {
+        "id": "release_5967_2026-07-01",
+        "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260630/20260630584524.pdf",
+        "available_at": "2026-06-30T15:30:59+09:00",
+        "version_verified": true,
+        "timestamp_evidence": "原開示の経常1180→1473百万円・増配を確認。6/30 15:30開示一覧・当時記事照合",
+        "role": "predictor"
+      },
+      {
+        "id": "release_6522_2026-07-01",
+        "url": "https://prtimes.jp/main/html/rd/p/000000058.000031440.html",
+        "available_at": "2026-06-30T12:00:59+09:00",
+        "version_verified": true,
+        "timestamp_evidence": "公式PR6/30 12:00と当日報道を照合。6/30朝には未公開、最初の8:30入力日は7/1",
+        "role": "predictor"
+      },
+      {
+        "id": "release_5942_2026-07-02",
+        "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260701/20260701585367.pdf",
+        "available_at": "2026-07-01T14:00:59+09:00",
+        "version_verified": true,
+        "timestamp_evidence": "7/1原開示PDF本文・日付とTDnet転載一覧時刻を照合。場中14時上方修正。7/1朝には不可、初回入力7/2。",
+        "role": "predictor"
+      },
+      {
+        "id": "release_4424_2026-07-01",
+        "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260630/20260629583588.pdf",
+        "available_at": "2026-06-30T15:30:59+09:00",
+        "version_verified": true,
+        "timestamp_evidence": "6/30原開示PDFの純損失縮小を当時記事と照合。営業改善ではなく新株予約権戻入益24百万円。発行ではないため希薄化ペナルティなし",
+        "role": "predictor"
+      },
+      {
+        "id": "release_192A_2026-07-01",
+        "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260630/20260629583893.pdf",
+        "available_at": "2026-06-30T15:30:59+09:00",
+        "version_verified": true,
+        "timestamp_evidence": "TDnet転載PDFの6/30日付と翌期経常318百万円149.5%増・配当50円を確認。Yahoo開示一覧15:30と当時記事を照合",
+        "role": "predictor"
+      },
+      {
+        "id": "release_6573_2026-07-02",
+        "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260701/20260630585301.pdf",
+        "available_at": "2026-07-01T15:30:59+09:00",
+        "version_verified": true,
+        "timestamp_evidence": "7/1原開示PDF本文・日付とTDnet転載一覧時刻を照合。広告運用受託。業績影響軽微の記載を保存。",
+        "role": "predictor"
+      },
+      {
+        "id": "release_2751_2026-07-02",
+        "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260701/20260701585705.pdf",
+        "available_at": "2026-07-01T16:30:59+09:00",
+        "version_verified": true,
+        "timestamp_evidence": "7/1原開示PDF本文・日付とTDnet転載一覧時刻を照合。経常増額と純利益減額が混在。上方修正5点と下方修正-4点を併用。",
+        "role": "predictor"
+      },
+      {
+        "id": "release_4167_2026-07-02",
+        "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260701/20260630584864.pdf",
+        "available_at": "2026-07-01T15:30:59+09:00",
+        "version_verified": true,
+        "timestamp_evidence": "7/1原開示PDF本文・日付とTDnet転載一覧時刻を照合。千葉信金へのシステム採用・利用開始。",
+        "role": "predictor"
+      },
+      {
+        "id": "release_4496_2026-07-02",
+        "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260701/20260701586148.pdf",
+        "available_at": "2026-07-01T15:30:59+09:00",
+        "version_verified": true,
+        "timestamp_evidence": "7/1原開示PDF本文・日付とTDnet転載一覧時刻を照合。決済業務提携契約・サービス開始。業績影響軽微。",
+        "role": "predictor"
+      },
+      {
+        "id": "release_464A_2026-07-02",
+        "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260701/20260701586130.pdf",
+        "available_at": "2026-07-01T16:00:59+09:00",
+        "version_verified": true,
+        "timestamp_evidence": "7/1原開示PDF本文・日付とTDnet転載一覧時刻を照合。経常600→1100百万円。補助金計上前倒し等、営業赤字は残る。",
+        "role": "predictor"
+      },
+      {
+        "id": "release_4918_2026-07-02",
+        "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260701/20260629583787.pdf",
+        "available_at": "2026-07-01T16:00:59+09:00",
+        "version_verified": true,
+        "timestamp_evidence": "7/1原開示PDF本文・日付とTDnet転載一覧時刻を照合。経常200→330百万円。原材料確保・記念新製品発売見通し。",
+        "role": "predictor"
+      },
+      {
+        "id": "release_6239_2026-07-02",
+        "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260701/20260701585941.pdf",
+        "available_at": "2026-07-01T17:00:59+09:00",
+        "version_verified": true,
+        "timestamp_evidence": "7/1原開示PDF本文・日付とTDnet転載一覧時刻を照合。子会社の受注約5.7億円、納期2027年4月。",
+        "role": "predictor"
+      },
+      {
+        "id": "release_6363_2026-07-02",
+        "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260701/20260630583928.pdf",
+        "available_at": "2026-07-01T15:30:59+09:00",
+        "version_verified": true,
+        "timestamp_evidence": "7/1原開示PDF本文・日付とTDnet転載一覧時刻を照合。買収完了に伴う予想増額。負ののれん含む特別利益32億円。",
+        "role": "predictor"
+      },
+      {
+        "id": "release_7371_2026-07-02",
+        "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260701/20260701585576.pdf",
+        "available_at": "2026-07-01T15:30:59+09:00",
+        "version_verified": true,
+        "timestamp_evidence": "7/1原開示PDF本文・日付とTDnet転載一覧時刻を照合。三十三銀行との人材紹介の業務提携契約。",
+        "role": "predictor"
+      },
+      {
+        "id": "release_7781_2026-07-02",
+        "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260701/20260701586352.pdf",
+        "available_at": "2026-07-01T17:20:59+09:00",
+        "version_verified": true,
+        "timestamp_evidence": "7/1原開示PDF本文・日付とTDnet転載一覧時刻を照合。経常1349→1778百万円。受注・効率改善等。",
+        "role": "predictor"
+      }
+    ],
+    "rejected": [
+      {
+        "record": {
+          "id": "unverified_153A",
+          "url": "https://s.kabutan.jp/",
+          "available_at": "2026-07-01T23:59:59+09:00",
+          "version_verified": false,
+          "timestamp_evidence": "日付付き記事で候補抽出したが原開示照合未了。採点対象から除外。",
+          "role": "predictor"
+        },
+        "reason": "historical_content_version_unverified"
+      },
+      {
+        "record": {
+          "id": "unverified_212A",
+          "url": "https://s.kabutan.jp/",
+          "available_at": "2026-07-01T23:59:59+09:00",
+          "version_verified": false,
+          "timestamp_evidence": "日付付き記事で候補抽出したが原開示照合未了。採点対象から除外。",
+          "role": "predictor"
+        },
+        "reason": "historical_content_version_unverified"
+      },
+      {
+        "record": {
+          "id": "unverified_2432",
+          "url": "https://s.kabutan.jp/",
+          "available_at": "2026-07-01T23:59:59+09:00",
+          "version_verified": false,
+          "timestamp_evidence": "日付付き記事で候補抽出したが原開示照合未了。採点対象から除外。",
+          "role": "predictor"
+        },
+        "reason": "historical_content_version_unverified"
+      },
+      {
+        "record": {
+          "id": "unverified_302A",
+          "url": "https://s.kabutan.jp/",
+          "available_at": "2026-07-01T23:59:59+09:00",
+          "version_verified": false,
+          "timestamp_evidence": "日付付き記事で候補抽出したが原開示照合未了。採点対象から除外。",
+          "role": "predictor"
+        },
+        "reason": "historical_content_version_unverified"
+      },
+      {
+        "record": {
+          "id": "unverified_3087",
+          "url": "https://s.kabutan.jp/",
+          "available_at": "2026-07-01T23:59:59+09:00",
+          "version_verified": false,
+          "timestamp_evidence": "日付付き記事で候補抽出したが原開示照合未了。採点対象から除外。",
+          "role": "predictor"
+        },
+        "reason": "historical_content_version_unverified"
+      },
+      {
+        "record": {
+          "id": "unverified_3099",
+          "url": "https://s.kabutan.jp/",
+          "available_at": "2026-07-01T23:59:59+09:00",
+          "version_verified": false,
+          "timestamp_evidence": "日付付き記事で候補抽出したが原開示照合未了。採点対象から除外。",
+          "role": "predictor"
+        },
+        "reason": "historical_content_version_unverified"
+      },
+      {
+        "record": {
+          "id": "unverified_3656",
+          "url": "https://s.kabutan.jp/",
+          "available_at": "2026-07-01T23:59:59+09:00",
+          "version_verified": false,
+          "timestamp_evidence": "日付付き記事で候補抽出したが原開示照合未了。採点対象から除外。",
+          "role": "predictor"
+        },
+        "reason": "historical_content_version_unverified"
+      },
+      {
+        "record": {
+          "id": "unverified_3774",
+          "url": "https://s.kabutan.jp/",
+          "available_at": "2026-07-01T23:59:59+09:00",
+          "version_verified": false,
+          "timestamp_evidence": "日付付き記事で候補抽出したが原開示照合未了。採点対象から除外。",
+          "role": "predictor"
+        },
+        "reason": "historical_content_version_unverified"
+      },
+      {
+        "record": {
+          "id": "unverified_4347",
+          "url": "https://s.kabutan.jp/",
+          "available_at": "2026-07-01T23:59:59+09:00",
+          "version_verified": false,
+          "timestamp_evidence": "日付付き記事で候補抽出したが原開示照合未了。採点対象から除外。",
+          "role": "predictor"
+        },
+        "reason": "historical_content_version_unverified"
+      },
+      {
+        "record": {
+          "id": "unverified_4845",
+          "url": "https://s.kabutan.jp/",
+          "available_at": "2026-07-01T23:59:59+09:00",
+          "version_verified": false,
+          "timestamp_evidence": "日付付き記事で候補抽出したが原開示照合未了。採点対象から除外。",
+          "role": "predictor"
+        },
+        "reason": "historical_content_version_unverified"
+      },
+      {
+        "record": {
+          "id": "unverified_4882",
+          "url": "https://s.kabutan.jp/",
+          "available_at": "2026-07-01T23:59:59+09:00",
+          "version_verified": false,
+          "timestamp_evidence": "日付付き記事で候補抽出したが原開示照合未了。採点対象から除外。",
+          "role": "predictor"
+        },
+        "reason": "historical_content_version_unverified"
+      },
+      {
+        "record": {
+          "id": "unverified_5204",
+          "url": "https://s.kabutan.jp/",
+          "available_at": "2026-07-01T23:59:59+09:00",
+          "version_verified": false,
+          "timestamp_evidence": "日付付き記事で候補抽出したが原開示照合未了。採点対象から除外。",
+          "role": "predictor"
+        },
+        "reason": "historical_content_version_unverified"
+      },
+      {
+        "record": {
+          "id": "unverified_5589",
+          "url": "https://s.kabutan.jp/",
+          "available_at": "2026-07-01T23:59:59+09:00",
+          "version_verified": false,
+          "timestamp_evidence": "日付付き記事で候補抽出したが原開示照合未了。採点対象から除外。",
+          "role": "predictor"
+        },
+        "reason": "historical_content_version_unverified"
+      },
+      {
+        "record": {
+          "id": "unverified_5618",
+          "url": "https://s.kabutan.jp/",
+          "available_at": "2026-07-01T23:59:59+09:00",
+          "version_verified": false,
+          "timestamp_evidence": "日付付き記事で候補抽出したが原開示照合未了。採点対象から除外。",
+          "role": "predictor"
+        },
+        "reason": "historical_content_version_unverified"
+      },
+      {
+        "record": {
+          "id": "unverified_6071",
+          "url": "https://s.kabutan.jp/",
+          "available_at": "2026-07-01T23:59:59+09:00",
+          "version_verified": false,
+          "timestamp_evidence": "日付付き記事で候補抽出したが原開示照合未了。採点対象から除外。",
+          "role": "predictor"
+        },
+        "reason": "historical_content_version_unverified"
+      },
+      {
+        "record": {
+          "id": "unverified_7173",
+          "url": "https://s.kabutan.jp/",
+          "available_at": "2026-07-01T23:59:59+09:00",
+          "version_verified": false,
+          "timestamp_evidence": "日付付き記事で候補抽出したが原開示照合未了。採点対象から除外。",
+          "role": "predictor"
+        },
+        "reason": "historical_content_version_unverified"
+      },
+      {
+        "record": {
+          "id": "unverified_7359",
+          "url": "https://s.kabutan.jp/",
+          "available_at": "2026-07-01T23:59:59+09:00",
+          "version_verified": false,
+          "timestamp_evidence": "日付付き記事で候補抽出したが原開示照合未了。採点対象から除外。",
+          "role": "predictor"
+        },
+        "reason": "historical_content_version_unverified"
+      },
+      {
+        "record": {
+          "id": "unverified_7984",
+          "url": "https://s.kabutan.jp/",
+          "available_at": "2026-07-01T23:59:59+09:00",
+          "version_verified": false,
+          "timestamp_evidence": "日付付き記事で候補抽出したが原開示照合未了。採点対象から除外。",
+          "role": "predictor"
+        },
+        "reason": "historical_content_version_unverified"
+      },
+      {
+        "record": {
+          "id": "unverified_8002",
+          "url": "https://s.kabutan.jp/",
+          "available_at": "2026-07-01T23:59:59+09:00",
+          "version_verified": false,
+          "timestamp_evidence": "日付付き記事で候補抽出したが原開示照合未了。採点対象から除外。",
+          "role": "predictor"
+        },
+        "reason": "historical_content_version_unverified"
+      },
+      {
+        "record": {
+          "id": "unverified_8023",
+          "url": "https://s.kabutan.jp/",
+          "available_at": "2026-07-01T23:59:59+09:00",
+          "version_verified": false,
+          "timestamp_evidence": "日付付き記事で候補抽出したが原開示照合未了。採点対象から除外。",
+          "role": "predictor"
+        },
+        "reason": "historical_content_version_unverified"
+      },
+      {
+        "record": {
+          "id": "unverified_8031",
+          "url": "https://s.kabutan.jp/",
+          "available_at": "2026-07-01T23:59:59+09:00",
+          "version_verified": false,
+          "timestamp_evidence": "日付付き記事で候補抽出したが原開示照合未了。採点対象から除外。",
+          "role": "predictor"
+        },
+        "reason": "historical_content_version_unverified"
+      },
+      {
+        "record": {
+          "id": "unverified_8233",
+          "url": "https://s.kabutan.jp/",
+          "available_at": "2026-07-01T23:59:59+09:00",
+          "version_verified": false,
+          "timestamp_evidence": "日付付き記事で候補抽出したが原開示照合未了。採点対象から除外。",
+          "role": "predictor"
+        },
+        "reason": "historical_content_version_unverified"
+      },
+      {
+        "record": {
+          "id": "unverified_8237",
+          "url": "https://s.kabutan.jp/",
+          "available_at": "2026-07-01T23:59:59+09:00",
+          "version_verified": false,
+          "timestamp_evidence": "日付付き記事で候補抽出したが原開示照合未了。採点対象から除外。",
+          "role": "predictor"
+        },
+        "reason": "historical_content_version_unverified"
+      },
+      {
+        "record": {
+          "id": "unverified_8242",
+          "url": "https://s.kabutan.jp/",
+          "available_at": "2026-07-01T23:59:59+09:00",
+          "version_verified": false,
+          "timestamp_evidence": "日付付き記事で候補抽出したが原開示照合未了。採点対象から除外。",
+          "role": "predictor"
+        },
+        "reason": "historical_content_version_unverified"
+      },
+      {
+        "record": {
+          "id": "unverified_7564",
+          "url": "https://s.kabutan.jp/",
+          "available_at": "2026-07-01T23:59:59+09:00",
+          "version_verified": false,
+          "timestamp_evidence": "日付付き記事で候補抽出したが原開示照合未了。採点対象から除外。",
+          "role": "predictor"
+        },
+        "reason": "historical_content_version_unverified"
+      },
+      {
+        "record": {
+          "id": "unverified_7643",
+          "url": "https://s.kabutan.jp/",
+          "available_at": "2026-07-01T23:59:59+09:00",
+          "version_verified": false,
+          "timestamp_evidence": "日付付き記事で候補抽出したが原開示照合未了。採点対象から除外。",
+          "role": "predictor"
+        },
+        "reason": "historical_content_version_unverified"
+      },
+      {
+        "record": {
+          "id": "unverified_7683",
+          "url": "https://s.kabutan.jp/",
+          "available_at": "2026-07-01T23:59:59+09:00",
+          "version_verified": false,
+          "timestamp_evidence": "日付付き記事で候補抽出したが原開示照合未了。採点対象から除外。",
+          "role": "predictor"
+        },
+        "reason": "historical_content_version_unverified"
+      },
+      {
+        "record": {
+          "id": "unverified_6059",
+          "url": "https://s.kabutan.jp/",
+          "available_at": "2026-07-01T23:59:59+09:00",
+          "version_verified": false,
+          "timestamp_evidence": "日付付き記事で候補抽出したが原開示照合未了。採点対象から除外。",
+          "role": "predictor"
+        },
+        "reason": "historical_content_version_unverified"
+      }
+    ]
+  },
+  "input_sha256": "bf908c4f7562da32a1ee78d24f898739f640c8f1bad9bdf694ba31d8bdfd7b25"
+}

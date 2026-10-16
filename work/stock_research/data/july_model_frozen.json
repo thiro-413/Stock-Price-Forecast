@@ -1,0 +1,50 @@
+{
+  "version": "v1.0",
+  "status": "frozen",
+  "training_end": "2026-06-30",
+  "target": "TSE ordinary shares close-to-previous-close top 10",
+  "cutoff": "08:30:00 Asia/Tokyo",
+  "candidate_policy": "Union of verified ordinary shares with previous-session return >=5% in saved broad ranking table, plus every ordinary share in the previous-session-after-close to cutoff news digest. Partial universe, not exhaustive TSE; digest omissions and data access failures reported.",
+  "features": {
+    "material_base": {
+      "earnings_up": 5,
+      "dividend_revival": 4,
+      "dividend_raise": 3,
+      "contract": 4,
+      "capital_alliance": 4,
+      "jv_mou": 2,
+      "acquisition": 3,
+      "buyback": 3,
+      "asset_gain": 2,
+      "monthly_sales": 2,
+      "product": 3,
+      "ipo": 2,
+      "unknown": 0
+    },
+    "freshness": "New event first eligible for today's cutoff: base points; continuation for next two sessions: base*0.5; older:0",
+    "momentum": "clip(previous_session_return_pct/10,-2,3)",
+    "market": "G or S:+1; P:0",
+    "dilution": "-1 when new shares/warrants/convertible bonds explicitly disclosed",
+    "negative": "-4 for forecast reduction, audit disclaimer, listing supervision; -1 for margin restriction",
+    "magnitude": "No discretionary numeric magnitude bonus",
+    "liquidity": "No exclusion by small turnover; target rank and tradability are separate"
+  },
+  "scoring": "material + momentum + market + dilution + negative. If multiple eligible events, maximum positive material base, all explicit penalties once each.",
+  "tie_break": [
+    "previous_session_return_pct descending, missing=-999",
+    "security code ascending"
+  ],
+  "missing_policy": "Missing momentum:0 points and explicit missing flag. Missing longer OHLCV, float, margin balance, 08:30 quotes:unused, not imputed. Unknown material:0. Absent event is absence in retrieved coverage, not proof no news.",
+  "evidence_policy": "Each selected row must have archived original dated release or contemporaneous dated record whose content used is corroborated by dated release; price evidence is prior-session dated table, never current-day result. Reject post-cutoff and unverified revisions. Timestamp precision minutes uses conservative end-of-minute available_at; boundary 08:30 minute excluded without seconds proof.",
+  "limitations": [
+    "Retrospective reconstruction, not historical live forecast",
+    "Some future snippets incidentally exposed before freeze; not blind",
+    "Partial candidate coverage; all-TSE performance claim prohibited",
+    "Heuristic derived qualitatively from June cases, not fitted statistical model"
+  ],
+  "frozen_before": "first July prediction sealing and intentional retrieval of July actual rankings",
+  "screening_prompt_created": false,
+  "artifact_sha256": "c5060225df69b56370b1c5ed7617ad04baed1d5dd5b00efbfc27d8a46e8cb874",
+  "specification_sha256": "f5df7418010ab4a68bf2c9e0c82fc5ce0f6a0d8b04fcf4a00a7b3e6e264d13ad",
+  "frozen_at_utc": "2026-10-16T06:58:26.587234+00:00"
+}

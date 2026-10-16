@@ -1,0 +1,65 @@
+{
+  "note": "出典ページに含まれた署名付き一時URLのX-Amz認証パラメータを公開用コピーで除去。モデル・予測・実績は未変更。原記録のハッシュと公開版ハッシュを下記に保持。",
+  "sanitized_files": [
+    {
+      "file": "evidence/b5_primary2.json",
+      "original_sha256": "f375bbd94acb73f324bd09f29349369038cb832e4d58133c330f047048c4512c",
+      "published_sha256": "f4b5c0cbd29ed4190fd329193d13b61a28b67099f827450e7aa8af3d8c9adb62"
+    },
+    {
+      "file": "evidence/b2_materials1.json",
+      "original_sha256": "a2349226bf74b313861585364389c145ac184784f8b1703b24ec021631eef2fe",
+      "published_sha256": "6af8214e71c96a80a791b65c1c48d49fcfa564116e7b90071594a50e4d8b56a8"
+    },
+    {
+      "file": "evidence/b7_search1.json",
+      "original_sha256": "626384510cd73567f956badf213c655d43c8f98715ea0bddaa6e16936654b9f9",
+      "published_sha256": "e720dbe66c5e5ea2a72fd20ae1f400c2bfeb7480b75f9de538ef6e8daf3d010a"
+    },
+    {
+      "file": "evidence/b4_target1.json",
+      "original_sha256": "e2c7d8ec65b5cc1adec3f99a2762fabf7b6d0cbb6f8cb931ba9e3e8b3f299d63",
+      "published_sha256": "cff4bde98f36d805473e52fcffcf62ecba74d77fa107df01cdb9a1a1fc9bb462"
+    },
+    {
+      "file": "evidence/b4_materials1.json",
+      "original_sha256": "47b51067bd600c17b79aa2ea101d603dbccc7638ef328c33c151399b794509b8",
+      "published_sha256": "0e816d0ab4120e7a6e798a4f8f42c111f8702505536febac97304ee1a015b559"
+    },
+    {
+      "file": "evidence/b2_target2.json",
+      "original_sha256": "4078327f28d828c88ec61a0bdca31ed9beaa60d463a88deccb926bd2ea1ba704",
+      "published_sha256": "4d41f82acb4f3a04c2e480a46de6cd292777f36b615ccef83bc45dd8ab6971c9"
+    },
+    {
+      "file": "evidence/b3_primary2.json",
+      "original_sha256": "a0adc7ed520a8a38c3a53a026ef9b1912a7ebfef34c9f20cf48da6b59d576dea",
+      "published_sha256": "0bc530d881f9ee369606fa91be1c1a1531e07498e4811fe1fc866a489d2d3e61"
+    },
+    {
+      "file": "evidence/b2_materials2.json",
+      "original_sha256": "ba678ee91c55464e5034f43c913cf5133791eab536d3ac459f18edc20b5fc4e5",
+      "published_sha256": "bdf1fac092282b98441b8cb70c4af96616f1ba939b163aefc2c3188d3971f79c"
+    },
+    {
+      "file": "evidence/b8_07.json",
+      "original_sha256": "000e9c111db32f73a412c9bc0f5099a87edfa4141ed29aaaa41527307c5fe367",
+      "published_sha256": "a4dad379473293b47d6cd866f6ff597682e16302f5f0eaa8698f3558425d12e0"
+    },
+    {
+      "file": "evidence/b7_05.json",
+      "original_sha256": "eb9bedbb97cb9751d5f5289e6ddaa4e79c8f9aec083709c4f4f2f78852392b9c",
+      "published_sha256": "967194f691be9ed7982397a099e008ce21575a843e4d5af206ca4cff639af877"
+    },
+    {
+      "file": "evidence/b7_primary0.json",
+      "original_sha256": "8c7cc779a240aa7fddcc425ae3e6bf2c56ff9f56d906ae30301dc0d692a1581d",
+      "published_sha256": "120e0ce5c4e699d8e6a7b4bdf44d0fc1a6b808b94fec7c016a9b77c6baafc566"
+    },
+    {
+      "file": "evidence/b7_search2.json",
+      "original_sha256": "8c77e10d998e36a42c21763f053a4f64be26dbbe14914d5221935cbeb3e135e1",
+      "published_sha256": "2dc4f3cc820e78db8ed2da3a7992f64ce5b0ace47ddeb641bd3e736b213f832d"
+    }
+  ]
+}

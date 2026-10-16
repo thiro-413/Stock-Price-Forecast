@@ -1,0 +1,26 @@
+{
+  "scope": "June top10 retrospective review",
+  "checks": "22 days / 220 rows / 146 unique stock codes",
+  "limitations": [
+    "full universe raw prices not fully obtained",
+    "long OHLCV incomplete",
+    "historical predictor versions incomplete"
+  ],
+  "files": {
+    "results/batch01_data.json": "766dbd3d5c5393b97b353b470c8e41d1d93e187b9149a26ca8185d1f2a3065dc",
+    "results/batch02_data.json": "10aa77ee7d098e5c8f8bc405d9144f8369f8c30d3645c24b44c8d3c100971f8b",
+    "results/batch03_data.json": "aeb66e89d66ee13302ae51153b7d67ce193911469d0b1c3c677cbf22a4d67d83",
+    "results/batch04_data.json": "8c3f34ec9b2aeb97bb980b1886945a6a0270ca48dae93711fa57663516d69aab",
+    "results/batch05_data.json": "dd54dadc5f6667123fe82d922f835911ef65636a38a05d332029d1a453dffe66",
+    "results/batch06_data.json": "504659b33c97fe71749b9d02e8303ec7ba909ed788991d688e572f8891b08486",
+    "results/batch07_data.json": "55f377825adf22462c0c4aa4f63f04139b0ee1a3e18a841e5afe7bee3d72f08d",
+    "results/batch08_data.json": "ed96ea2cc56ab2c90883a291aa0d0ad6783f547e6c830d80f4df5aab114448b4",
+    "results/june_summary.json": "950b05311b4fb325e18f7b0f20ebe5dfa826b7f761b8b87e851efe4baf4d1266",
+    "results/june_data.json": "66ee0fe4e16fe23902f42ddd8f2a8b1756a84b0b6ecf9730a66ac36657889b73",
+    "results/june_data.csv": "559203d4cf84a629da04bd1a698494f8eab6dad4a9bb6dfcbc29bbc989f4c56d",
+    "results/june_learning_summary.md": "280f9a5e1275b231e9c202e49548390bb08a67b6207dcf89f77baa43a1f64aab",
+    "finalize_june.py": "ba6ab2532e4f2cd6de4e5390048010dafda2e26854e692e50b4c37e3832dc8a7",
+    "research.py": "6a5f625a2c61de00510700be07676a3806d10f4af4c060a724e89b2e0b2a3e2d",
+    "PROTOCOL.md": "dbc5bf46718e49ee1b277cfa7c8e55d18338ddcf0566812831700f2a4da3d8d0"
+  }
+}

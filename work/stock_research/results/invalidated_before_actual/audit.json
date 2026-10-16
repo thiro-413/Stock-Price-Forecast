@@ -1,0 +1,5 @@
+{
+  "date": "2026-07-03",
+  "reason": "Web line-window omitted first six ranking rows. Detected and repaired before intentional actual July3 retrieval. First seal invalidated, preserved immutable. Fixed model unchanged.",
+  "invalid_seal": "b57f5662d811e2ca1a545a07bbeafa78515fed1c677256dfbd42126adb7b9dfd"
+}

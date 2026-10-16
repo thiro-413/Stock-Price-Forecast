@@ -1,0 +1,287 @@
+{
+  "date": "2026-07-07",
+  "hits": 1,
+  "precision_at_10": 0.1,
+  "recall_at_10": 0.1,
+  "exact_rank_hits": 0,
+  "predictions": [
+    {
+      "predicted_rank": 1,
+      "code": "265A",
+      "actual_rank": null,
+      "result": "outside_top10",
+      "name": "Ｈｍｃｏｍｍ",
+      "score": 6.203,
+      "previous_close": 801.0,
+      "actual_close": 769.0,
+      "actual_return_pct": -3.995006242197252,
+      "actual_source": "https://96ut.com/stock/jikei.php?code=265A&year=2026",
+      "material_types": [
+        "contract"
+      ],
+      "missing_momentum": false
+    },
+    {
+      "predicted_rank": 2,
+      "code": "4596",
+      "actual_rank": null,
+      "result": "outside_top10",
+      "name": "窪田製薬ＨＤ",
+      "score": 6.0,
+      "previous_close": 117.0,
+      "actual_close": 78.0,
+      "actual_return_pct": -33.333333333333336,
+      "actual_source": "https://96ut.com/stock/jikei.php?code=4596&year=2026",
+      "material_types": [
+        "contract"
+      ],
+      "missing_momentum": false
+    },
+    {
+      "predicted_rank": 3,
+      "code": "6093",
+      "actual_rank": null,
+      "result": "outside_top10",
+      "name": "ミトラグループ",
+      "score": 6,
+      "previous_close": 164.0,
+      "actual_close": 167.0,
+      "actual_return_pct": 1.8292682926829285,
+      "actual_source": "https://96ut.com/stock/jikei.php?code=6093",
+      "material_types": [
+        "earnings_up"
+      ],
+      "missing_momentum": true
+    },
+    {
+      "predicted_rank": 4,
+      "code": "9972",
+      "actual_rank": null,
+      "result": "outside_top10",
+      "name": "アルテック",
+      "score": 6,
+      "previous_close": 274.0,
+      "actual_close": 290.0,
+      "actual_return_pct": 5.8394160583941535,
+      "actual_source": "https://kabu.kininew.net/fiveup/7945.html",
+      "material_types": [
+        "earnings_up"
+      ],
+      "missing_momentum": true
+    },
+    {
+      "predicted_rank": 5,
+      "code": "4394",
+      "actual_rank": null,
+      "result": "outside_top10",
+      "name": "エクスＭ",
+      "score": 5.278,
+      "previous_close": 530.0,
+      "actual_close": 559.0,
+      "actual_return_pct": 5.471698113207557,
+      "actual_source": "https://kabu.kininew.net/fiveup/7945.html",
+      "material_types": [
+        "earnings_up"
+      ],
+      "missing_momentum": false
+    },
+    {
+      "predicted_rank": 6,
+      "code": "241A",
+      "actual_rank": null,
+      "result": "outside_top10",
+      "name": "ＲＯＸＸ",
+      "score": 5,
+      "previous_close": 420.0,
+      "actual_close": 433.0,
+      "actual_return_pct": 3.0952380952380842,
+      "actual_source": "https://96ut.com/stock/jikei.php?code=241A&year=2026",
+      "material_types": [
+        "contract"
+      ],
+      "missing_momentum": true
+    },
+    {
+      "predicted_rank": 7,
+      "code": "3186",
+      "actual_rank": null,
+      "result": "outside_top10",
+      "name": "ネクステージ",
+      "score": 5,
+      "previous_close": 4130.0,
+      "actual_close": 3805.0,
+      "actual_return_pct": -7.869249394673128,
+      "actual_source": "https://96ut.com/stock/jikei.php?code=3186",
+      "material_types": [
+        "earnings_up"
+      ],
+      "missing_momentum": true
+    },
+    {
+      "predicted_rank": 8,
+      "code": "4284",
+      "actual_rank": null,
+      "result": "outside_top10",
+      "name": "ソルクシーズ",
+      "score": 5,
+      "previous_close": 434.0,
+      "actual_close": 447.0,
+      "actual_return_pct": 2.995391705069128,
+      "actual_source": "https://96ut.com/stock/jikei.php?code=4284&year=2026",
+      "material_types": [
+        "contract"
+      ],
+      "missing_momentum": true
+    },
+    {
+      "predicted_rank": 9,
+      "code": "4591",
+      "actual_rank": 1,
+      "result": "hit_top10",
+      "name": "リボミック",
+      "score": 5,
+      "previous_close": 68.0,
+      "actual_close": 98.0,
+      "actual_return_pct": 44.11764705882353,
+      "actual_source": "https://kabu.kininew.net/fiveup/7945.html",
+      "material_types": [
+        "contract"
+      ],
+      "missing_momentum": true
+    },
+    {
+      "predicted_rank": 10,
+      "code": "264A",
+      "actual_rank": null,
+      "result": "outside_top10",
+      "name": "Ｓｃｈｏｏ",
+      "score": 4,
+      "previous_close": 345.0,
+      "actual_close": 300.0,
+      "actual_return_pct": -13.043478260869568,
+      "actual_source": "https://96ut.com/stock/jikei.php?code=264A&year=2026",
+      "material_types": [],
+      "missing_momentum": false
+    }
+  ],
+  "missed_winners": [
+    {
+      "code": "6522",
+      "name": "アスタリスク",
+      "market": "G",
+      "close": 2096.0,
+      "change": 400.0,
+      "return_pct": 23.58490566037736,
+      "volume": 68000,
+      "reported_return_pct": 23.58,
+      "previous_close": 1696.0,
+      "url": "https://kabu.kininew.net/fiveup/7945.html",
+      "actual_rank": 2
+    },
+    {
+      "code": "550A",
+      "name": "ソフトテック",
+      "market": "S",
+      "close": 2638.0,
+      "change": 500.0,
+      "return_pct": 23.386342376052387,
+      "volume": 79700,
+      "reported_return_pct": 23.39,
+      "previous_close": 2138.0,
+      "url": "https://kabu.kininew.net/fiveup/7945.html",
+      "actual_rank": 3
+    },
+    {
+      "code": "584A",
+      "name": "ＬｉＮＫＸ",
+      "market": "G",
+      "close": 3725.0,
+      "change": 700.0,
+      "return_pct": 23.140495867768596,
+      "volume": 3621300,
+      "reported_return_pct": 23.14,
+      "previous_close": 3025.0,
+      "url": "https://kabu.kininew.net/fiveup/7945.html",
+      "actual_rank": 4
+    },
+    {
+      "code": "3625",
+      "name": "テックファム",
+      "market": "G",
+      "close": 643.0,
+      "change": 100.0,
+      "return_pct": 18.41620626151013,
+      "volume": 339000,
+      "reported_return_pct": 18.42,
+      "previous_close": 543.0,
+      "url": "https://kabu.kininew.net/fiveup/7945.html",
+      "actual_rank": 5
+    },
+    {
+      "code": "4199",
+      "name": "ワンプラ",
+      "market": "G",
+      "close": 770.0,
+      "change": 100.0,
+      "return_pct": 14.925373134328359,
+      "volume": 84000,
+      "reported_return_pct": 14.93,
+      "previous_close": 670.0,
+      "url": "https://kabu.kininew.net/fiveup/7945.html",
+      "actual_rank": 6
+    },
+    {
+      "code": "7360",
+      "name": "オンデック",
+      "market": "G",
+      "close": 703.0,
+      "change": 90.0,
+      "return_pct": 14.681892332789559,
+      "volume": 41300,
+      "reported_return_pct": 14.68,
+      "previous_close": 613.0,
+      "url": "https://kabu.kininew.net/fiveup/7945.html",
+      "actual_rank": 7
+    },
+    {
+      "code": "505A",
+      "name": "ギークリー",
+      "market": "S",
+      "close": 1280.0,
+      "change": 128.0,
+      "return_pct": 11.11111111111111,
+      "volume": 131600,
+      "reported_return_pct": 11.11,
+      "previous_close": 1152.0,
+      "url": "https://kabu.kininew.net/fiveup/7945.html",
+      "actual_rank": 8
+    },
+    {
+      "code": "340A",
+      "name": "ジグザグ",
+      "market": "G",
+      "close": 368.0,
+      "change": 32.0,
+      "return_pct": 9.523809523809524,
+      "volume": 42900,
+      "reported_return_pct": 9.52,
+      "previous_close": 336.0,
+      "url": "https://kabu.kininew.net/fiveup/7945.html",
+      "actual_rank": 9
+    },
+    {
+      "code": "7477",
+      "name": "ムラキ",
+      "market": "S",
+      "close": 1995.0,
+      "change": 165.0,
+      "return_pct": 9.01639344262295,
+      "volume": 3300,
+      "reported_return_pct": 9.02,
+      "previous_close": 1830.0,
+      "url": "https://kabu.kininew.net/fiveup/7945.html",
+      "actual_rank": 10
+    }
+  ],
+  "note": "上位10外の正確な順位は全銘柄実績がない限り算出しない。利益率とは異なる。"
+}

@@ -1,0 +1,131 @@
+{
+  "date": "2026-07-06",
+  "top10_verified": true,
+  "verification_scope": "二次集計表の市場・順位・算術を確認。別集計表と照合。7/6は9170除外後278Aを別表で補充、7/8は9170除外後6696を別表で補充。7/7は別表に全市場10位までしかなく340A・7477の価格を別日足表でも確認。全東証原票の再ソートではない。",
+  "sources": [
+    "https://kabu.kininew.net/fiveup/7937.html",
+    "https://stock.f-frontier.com/2026/07/06/234302/"
+  ],
+  "top10": [
+    {
+      "code": "3133",
+      "name": "海帆",
+      "market": "G",
+      "close": 140.0,
+      "change": 38.0,
+      "return_pct": 37.254901960784316,
+      "volume": 13204900,
+      "reported_return_pct": 37.25,
+      "previous_close": 102.0,
+      "url": "https://kabu.kininew.net/fiveup/7937.html"
+    },
+    {
+      "code": "4596",
+      "name": "窪田製薬ＨＤ",
+      "market": "G",
+      "close": 117.0,
+      "change": 30.0,
+      "return_pct": 34.48275862068966,
+      "volume": 870600,
+      "reported_return_pct": 34.48,
+      "previous_close": 87.0,
+      "url": "https://kabu.kininew.net/fiveup/7937.html"
+    },
+    {
+      "code": "264A",
+      "name": "Ｓｃｈｏｏ",
+      "market": "G",
+      "close": 345.0,
+      "change": 80.0,
+      "return_pct": 30.18867924528302,
+      "volume": 1050200,
+      "reported_return_pct": 30.19,
+      "previous_close": 265.0,
+      "url": "https://kabu.kininew.net/fiveup/7937.html"
+    },
+    {
+      "code": "4424",
+      "name": "Ａｍａｚｉａ",
+      "market": "G",
+      "close": 352.0,
+      "change": 80.0,
+      "return_pct": 29.41176470588235,
+      "volume": 2605700,
+      "reported_return_pct": 29.41,
+      "previous_close": 272.0,
+      "url": "https://kabu.kininew.net/fiveup/7937.html"
+    },
+    {
+      "code": "3656",
+      "name": "ＫＬａｂ",
+      "market": "P",
+      "close": 241.0,
+      "change": 46.0,
+      "return_pct": 23.58974358974359,
+      "volume": 43286000,
+      "reported_return_pct": 23.59,
+      "previous_close": 195.0,
+      "url": "https://kabu.kininew.net/fiveup/7937.html"
+    },
+    {
+      "code": "584A",
+      "name": "ＬｉＮＫＸ",
+      "market": "G",
+      "close": 3025.0,
+      "change": 503.0,
+      "return_pct": 19.944488501189532,
+      "volume": 2093000,
+      "reported_return_pct": 19.94,
+      "previous_close": 2522.0,
+      "url": "https://kabu.kininew.net/fiveup/7937.html"
+    },
+    {
+      "code": "504A",
+      "name": "イノバセル",
+      "market": "G",
+      "close": 643.0,
+      "change": 100.0,
+      "return_pct": 18.41620626151013,
+      "volume": 9600,
+      "reported_return_pct": 18.42,
+      "previous_close": 543.0,
+      "url": "https://kabu.kininew.net/fiveup/7937.html"
+    },
+    {
+      "code": "4394",
+      "name": "エクスＭ",
+      "market": "G",
+      "close": 530.0,
+      "change": 80.0,
+      "return_pct": 17.77777777777778,
+      "volume": 32100,
+      "reported_return_pct": 17.78,
+      "previous_close": 450.0,
+      "url": "https://kabu.kininew.net/fiveup/7937.html"
+    },
+    {
+      "code": "1447",
+      "name": "ＳＡＡＦＨＤ",
+      "market": "G",
+      "close": 380.0,
+      "change": 54.0,
+      "return_pct": 16.56441717791411,
+      "volume": 1739100,
+      "reported_return_pct": 16.56,
+      "previous_close": 326.0,
+      "url": "https://kabu.kininew.net/fiveup/7937.html"
+    },
+    {
+      "code": "278A",
+      "name": "テラドローン",
+      "market": "G",
+      "close": 9750.0,
+      "change": 1340.0,
+      "return_pct": 15.933412604042806,
+      "volume": 1155200,
+      "reported_return_pct": 15.93,
+      "previous_close": 8410.0,
+      "url": "https://kabu.kininew.net/fiveup/7937.html"
+    }
+  ]
+}

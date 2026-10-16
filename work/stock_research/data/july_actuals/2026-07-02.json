@@ -1,0 +1,131 @@
+{
+  "date": "2026-07-02",
+  "top10_verified": true,
+  "verification_scope": "二次集計表の市場・順位・算術と別表を照合。全原票再ソートではない。7/1別表は地方単独3260を除外し5942を補充、5942は別の日足データも照合。",
+  "sources": [
+    "https://kabu.kininew.net/fiveup/7915.html",
+    "https://uiblog.hatenablog.com/entry/2026/07/02/205304"
+  ],
+  "top10": [
+    {
+      "code": "7063",
+      "name": "バードマン",
+      "market": "G",
+      "close": 106.0,
+      "change": 30.0,
+      "return_pct": 39.473684210526315,
+      "volume": 5476800,
+      "reported_return_pct": 39.47,
+      "previous_close": 76.0,
+      "url": "https://kabu.kininew.net/fiveup/7915.html"
+    },
+    {
+      "code": "7602",
+      "name": "レダックス",
+      "market": "S",
+      "close": 191.0,
+      "change": 50.0,
+      "return_pct": 35.46099290780142,
+      "volume": 75200,
+      "reported_return_pct": 35.46,
+      "previous_close": 141.0,
+      "url": "https://kabu.kininew.net/fiveup/7915.html"
+    },
+    {
+      "code": "9941",
+      "name": "太洋物産",
+      "market": "S",
+      "close": 1431.0,
+      "change": 300.0,
+      "return_pct": 26.52519893899204,
+      "volume": 1028500,
+      "reported_return_pct": 26.53,
+      "previous_close": 1131.0,
+      "url": "https://kabu.kininew.net/fiveup/7915.html"
+    },
+    {
+      "code": "6522",
+      "name": "アスタリスク",
+      "market": "G",
+      "close": 1960.0,
+      "change": 400.0,
+      "return_pct": 25.641025641025642,
+      "volume": 3872600,
+      "reported_return_pct": 25.64,
+      "previous_close": 1560.0,
+      "url": "https://kabu.kininew.net/fiveup/7915.html"
+    },
+    {
+      "code": "4935",
+      "name": "リベルタ",
+      "market": "S",
+      "close": 308.0,
+      "change": 58.0,
+      "return_pct": 23.2,
+      "volume": 8235000,
+      "reported_return_pct": 23.2,
+      "previous_close": 250.0,
+      "url": "https://kabu.kininew.net/fiveup/7915.html"
+    },
+    {
+      "code": "3070",
+      "name": "ジェリビンズ",
+      "market": "G",
+      "close": 80.0,
+      "change": 13.0,
+      "return_pct": 19.402985074626866,
+      "volume": 5592000,
+      "reported_return_pct": 19.4,
+      "previous_close": 67.0,
+      "url": "https://kabu.kininew.net/fiveup/7915.html"
+    },
+    {
+      "code": "4918",
+      "name": "アイビー",
+      "market": "S",
+      "close": 351.0,
+      "change": 56.0,
+      "return_pct": 18.983050847457626,
+      "volume": 1074900,
+      "reported_return_pct": 18.98,
+      "previous_close": 295.0,
+      "url": "https://kabu.kininew.net/fiveup/7915.html"
+    },
+    {
+      "code": "2438",
+      "name": "アスカネット",
+      "market": "G",
+      "close": 369.0,
+      "change": 58.0,
+      "return_pct": 18.64951768488746,
+      "volume": 4377300,
+      "reported_return_pct": 18.65,
+      "previous_close": 311.0,
+      "url": "https://kabu.kininew.net/fiveup/7915.html"
+    },
+    {
+      "code": "7376",
+      "name": "ＢＣＣ",
+      "market": "G",
+      "close": 1096.0,
+      "change": 150.0,
+      "return_pct": 15.856236786469344,
+      "volume": 35900,
+      "reported_return_pct": 15.86,
+      "previous_close": 946.0,
+      "url": "https://kabu.kininew.net/fiveup/7915.html"
+    },
+    {
+      "code": "7878",
+      "name": "光・彩",
+      "market": "S",
+      "close": 1796.0,
+      "change": 238.0,
+      "return_pct": 15.27599486521181,
+      "volume": 85000,
+      "reported_return_pct": 15.28,
+      "previous_close": 1558.0,
+      "url": "https://kabu.kininew.net/fiveup/7915.html"
+    }
+  ]
+}

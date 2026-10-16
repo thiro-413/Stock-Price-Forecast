@@ -1,0 +1,17 @@
+{
+  "execution_date_jst": "2026-10-16",
+  "batch": 2,
+  "price_checks": "passed",
+  "source_value_checks": "30/30 matched saved source tables",
+  "unknown_causes": 12,
+  "next_batch_requires_user_continue": true,
+  "july_predictions_executed": false,
+  "files": {
+    "data/batch02_rankings.csv": "7679edabff90193d8f5dd1391e81fd27451619759205a85abd6fccbee04c9a72",
+    "data/batch02_analysis.json": "bd80c697e44c8830260553ec28385acdf234b02a918dceec8c0c12e1ec2f56a4",
+    "results/batch02_data.json": "10aa77ee7d098e5c8f8bc405d9144f8369f8c30d3645c24b44c8d3c100971f8b",
+    "results/batch02_report.md": "ae8ea56a315cb7e8901275969b60c18a89f636dff03eff892efcf9181fa762ad",
+    "results/batch02_findings.md": "4d4b39598115145f62e329ec2863de475dc1679c00ea490f03e218d81f126946",
+    "research.py": "f381a3afe4fcb472bb626dc401a861eb68d0168cbc6dda1feb1837651eb8c8ad"
+  }
+}

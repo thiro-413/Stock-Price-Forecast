@@ -1,0 +1,131 @@
+{
+  "date": "2026-07-07",
+  "top10_verified": true,
+  "verification_scope": "二次集計表の市場・順位・算術を確認。別集計表と照合。7/6は9170除外後278Aを別表で補充、7/8は9170除外後6696を別表で補充。7/7は別表に全市場10位までしかなく340A・7477の価格を別日足表でも確認。全東証原票の再ソートではない。",
+  "sources": [
+    "https://kabu.kininew.net/fiveup/7945.html",
+    "https://uiblog.hatenablog.com/entry/2026/07/07/232547"
+  ],
+  "top10": [
+    {
+      "code": "4591",
+      "name": "リボミック",
+      "market": "G",
+      "close": 98.0,
+      "change": 30.0,
+      "return_pct": 44.11764705882353,
+      "volume": 27160600,
+      "reported_return_pct": 44.12,
+      "previous_close": 68.0,
+      "url": "https://kabu.kininew.net/fiveup/7945.html"
+    },
+    {
+      "code": "6522",
+      "name": "アスタリスク",
+      "market": "G",
+      "close": 2096.0,
+      "change": 400.0,
+      "return_pct": 23.58490566037736,
+      "volume": 68000,
+      "reported_return_pct": 23.58,
+      "previous_close": 1696.0,
+      "url": "https://kabu.kininew.net/fiveup/7945.html"
+    },
+    {
+      "code": "550A",
+      "name": "ソフトテック",
+      "market": "S",
+      "close": 2638.0,
+      "change": 500.0,
+      "return_pct": 23.386342376052387,
+      "volume": 79700,
+      "reported_return_pct": 23.39,
+      "previous_close": 2138.0,
+      "url": "https://kabu.kininew.net/fiveup/7945.html"
+    },
+    {
+      "code": "584A",
+      "name": "ＬｉＮＫＸ",
+      "market": "G",
+      "close": 3725.0,
+      "change": 700.0,
+      "return_pct": 23.140495867768596,
+      "volume": 3621300,
+      "reported_return_pct": 23.14,
+      "previous_close": 3025.0,
+      "url": "https://kabu.kininew.net/fiveup/7945.html"
+    },
+    {
+      "code": "3625",
+      "name": "テックファム",
+      "market": "G",
+      "close": 643.0,
+      "change": 100.0,
+      "return_pct": 18.41620626151013,
+      "volume": 339000,
+      "reported_return_pct": 18.42,
+      "previous_close": 543.0,
+      "url": "https://kabu.kininew.net/fiveup/7945.html"
+    },
+    {
+      "code": "4199",
+      "name": "ワンプラ",
+      "market": "G",
+      "close": 770.0,
+      "change": 100.0,
+      "return_pct": 14.925373134328359,
+      "volume": 84000,
+      "reported_return_pct": 14.93,
+      "previous_close": 670.0,
+      "url": "https://kabu.kininew.net/fiveup/7945.html"
+    },
+    {
+      "code": "7360",
+      "name": "オンデック",
+      "market": "G",
+      "close": 703.0,
+      "change": 90.0,
+      "return_pct": 14.681892332789559,
+      "volume": 41300,
+      "reported_return_pct": 14.68,
+      "previous_close": 613.0,
+      "url": "https://kabu.kininew.net/fiveup/7945.html"
+    },
+    {
+      "code": "505A",
+      "name": "ギークリー",
+      "market": "S",
+      "close": 1280.0,
+      "change": 128.0,
+      "return_pct": 11.11111111111111,
+      "volume": 131600,
+      "reported_return_pct": 11.11,
+      "previous_close": 1152.0,
+      "url": "https://kabu.kininew.net/fiveup/7945.html"
+    },
+    {
+      "code": "340A",
+      "name": "ジグザグ",
+      "market": "G",
+      "close": 368.0,
+      "change": 32.0,
+      "return_pct": 9.523809523809524,
+      "volume": 42900,
+      "reported_return_pct": 9.52,
+      "previous_close": 336.0,
+      "url": "https://kabu.kininew.net/fiveup/7945.html"
+    },
+    {
+      "code": "7477",
+      "name": "ムラキ",
+      "market": "S",
+      "close": 1995.0,
+      "change": 165.0,
+      "return_pct": 9.01639344262295,
+      "volume": 3300,
+      "reported_return_pct": 9.02,
+      "previous_close": 1830.0,
+      "url": "https://kabu.kininew.net/fiveup/7945.html"
+    }
+  ]
+}

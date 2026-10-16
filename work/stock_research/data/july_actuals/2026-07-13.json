@@ -1,0 +1,131 @@
+{
+  "date": "2026-07-13",
+  "top10_verified": true,
+  "verification_scope": "二次集計表の市場・順位・算術を別集計表と照合。7/13別表の名証単独3808とETN2068を除外して9331・3168を補充し確認。9399は東証外国普通株として対象内。全東証原票の再ソートではない。",
+  "sources": [
+    "https://kabu.kininew.net/fiveup/7982.html",
+    "https://stock.f-frontier.com/2026/07/13/234366/"
+  ],
+  "top10": [
+    {
+      "code": "4381",
+      "name": "ビープラッツ",
+      "market": "G",
+      "close": 551.0,
+      "change": 239.0,
+      "return_pct": 76.6025641025641,
+      "volume": 1987800,
+      "reported_return_pct": 76.6,
+      "previous_close": 312.0,
+      "url": "https://kabu.kininew.net/fiveup/7982.html"
+    },
+    {
+      "code": "5240",
+      "name": "ｍｏｎｏＡＩ",
+      "market": "G",
+      "close": 230.0,
+      "change": 50.0,
+      "return_pct": 27.77777777777778,
+      "volume": 8476100,
+      "reported_return_pct": 27.78,
+      "previous_close": 180.0,
+      "url": "https://kabu.kininew.net/fiveup/7982.html"
+    },
+    {
+      "code": "4199",
+      "name": "ワンプラ",
+      "market": "G",
+      "close": 903.0,
+      "change": 135.0,
+      "return_pct": 17.578125,
+      "volume": 199600,
+      "reported_return_pct": 17.58,
+      "previous_close": 768.0,
+      "url": "https://kabu.kininew.net/fiveup/7982.html"
+    },
+    {
+      "code": "7453",
+      "name": "良品計画",
+      "market": "P",
+      "close": 4233.0,
+      "change": 610.0,
+      "return_pct": 16.836875517526913,
+      "volume": 16883700,
+      "reported_return_pct": 16.84,
+      "previous_close": 3623.0,
+      "url": "https://kabu.kininew.net/fiveup/7982.html"
+    },
+    {
+      "code": "6573",
+      "name": "ＣＲＡＶＩＡ",
+      "market": "G",
+      "close": 28.0,
+      "change": 4.0,
+      "return_pct": 16.666666666666668,
+      "volume": 4974900,
+      "reported_return_pct": 16.67,
+      "previous_close": 24.0,
+      "url": "https://kabu.kininew.net/fiveup/7982.html"
+    },
+    {
+      "code": "6814",
+      "name": "古野電",
+      "market": "P",
+      "close": 7390.0,
+      "change": 1000.0,
+      "return_pct": 15.64945226917058,
+      "volume": 1082200,
+      "reported_return_pct": 15.65,
+      "previous_close": 6390.0,
+      "url": "https://kabu.kininew.net/fiveup/7982.html"
+    },
+    {
+      "code": "195A",
+      "name": "マスカットＧ",
+      "market": "G",
+      "close": 762.0,
+      "change": 100.0,
+      "return_pct": 15.105740181268882,
+      "volume": 39100,
+      "reported_return_pct": 15.11,
+      "previous_close": 662.0,
+      "url": "https://kabu.kininew.net/fiveup/7982.html"
+    },
+    {
+      "code": "6227",
+      "name": "ＡＩメカ",
+      "market": "S",
+      "close": 7790.0,
+      "change": 1000.0,
+      "return_pct": 14.727540500736376,
+      "volume": 4280900,
+      "reported_return_pct": 14.73,
+      "previous_close": 6790.0,
+      "url": "https://kabu.kininew.net/fiveup/7982.html"
+    },
+    {
+      "code": "9331",
+      "name": "キャスター",
+      "market": "G",
+      "close": 810.0,
+      "change": 95.0,
+      "return_pct": 13.286713286713287,
+      "volume": 22300,
+      "reported_return_pct": 13.29,
+      "previous_close": 715.0,
+      "url": "https://kabu.kininew.net/fiveup/7982.html"
+    },
+    {
+      "code": "3168",
+      "name": "ＭＥＲＦ",
+      "market": "S",
+      "close": 1450.0,
+      "change": 170.0,
+      "return_pct": 13.28125,
+      "volume": 729600,
+      "reported_return_pct": 13.28,
+      "previous_close": 1280.0,
+      "url": "https://kabu.kininew.net/fiveup/7982.html"
+    }
+  ]
+}

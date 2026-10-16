@@ -1,0 +1,32 @@
+{
+  "date": "2026-06-12",
+  "url": "https://uiblog.hatenablog.com/entry/2026/06/12/190006",
+  "section": "値上がり率上位",
+  "status": "rejected",
+  "reason": "上昇欄が前日6/11の上位10件と同じ。主表・6/12当日報道・JPX立会市場原票の確認例と不一致。見出し日付だけで実績日付としない。",
+  "primary_spot_checks": [
+    {
+      "code": "6264",
+      "close": 2315,
+      "change": 400,
+      "volume": 2083000,
+      "page": 19
+    },
+    {
+      "code": "7878",
+      "close": 1346,
+      "change": 300,
+      "volume": 8900,
+      "page": 91
+    },
+    {
+      "code": "9236",
+      "close": 1104,
+      "change": 150,
+      "volume": 45900,
+      "page": 150
+    }
+  ],
+  "scope": "Primary checks cover selected rows only, not entire universe",
+  "jpx_url": "https://www.jpx.co.jp/markets/statistics-equities/daily/t13vrt000001fdwx-att/stq_20260612.pdf"
+}

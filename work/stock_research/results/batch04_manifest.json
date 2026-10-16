@@ -1,0 +1,20 @@
+{
+  "execution_date_jst": "2026-10-16",
+  "batch": 4,
+  "price_checks": "passed",
+  "source_value_checks": "30/30 main table, 20/20 eligible cross-table checks",
+  "unknown_causes": 6,
+  "next_batch_requires_user_continue": true,
+  "july_predictions_executed": false,
+  "files": {
+    "data/batch04_rankings.csv": "97f462d163268b046cafce709a94a8a7bb241a0aa9733d109c9adcb97fb67fd0",
+    "data/batch04_analysis.json": "2c2d5eabe7593eebeb6eaf64e1ba5fc931ce636e5d47c1ee3ad3ae4a0e85dd17",
+    "results/batch04_data.json": "8c3f34ec9b2aeb97bb980b1886945a6a0270ca48dae93711fa57663516d69aab",
+    "results/batch04_report.md": "49a3f5727ce353be25938533b3561eae5765ad7fde429a4b64789563991f8c9e",
+    "results/batch04_findings.md": "c3e081031536e692a94616bb96abb5b81234c72a0da7d4bb3fe4cf90b4341ab4",
+    "results/batch04_source_checks.json": "f64c422fe41dd454dd40716b0915ce5faa495fc6662e095c386782741884e3ef",
+    "results/batch04_source_quality.json": "9c0171ff73d462c39430880d6c959167059077b636a2f514db9a79bbcc27c41b",
+    "research.py": "dad530cd2f8a06cdbee82d39db1c964935cc9e2378c36c503e58142b32f14236",
+    "finalize_batch04.py": "196bb2d5bd71c4cc382d2e7effab6c8161940f211fb2de7557d97d22f3be0204"
+  }
+}

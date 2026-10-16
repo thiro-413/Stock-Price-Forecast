@@ -1,0 +1,9 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "Internal Error ()\n【turn125768view0】 [wordlim: 200] Source: open({\"ref_id\":\"https://finance.yahoo.co.jp/quote/2683.T/history?from=20260710&to=20260713&timeFrame=d&page=1\",\"lineno\":null}); Total lines: 1\nL0: URL https://finance.yahoo.co.jp/quote/2683.T/history?from=20260710&page=1&timeFrame=d&to=20260713 is not accessible via this tool.\n"
+    }
+  ],
+  "isError": false
+}

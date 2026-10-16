@@ -1,0 +1,276 @@
+{
+  "date": "2026-07-01",
+  "hits": 2,
+  "precision_at_10": 0.2,
+  "recall_at_10": 0.2,
+  "exact_rank_hits": 0,
+  "predictions": [
+    {
+      "predicted_rank": 1,
+      "code": "6522",
+      "actual_rank": 9,
+      "result": "hit_top10",
+      "name": "アスタリスク",
+      "score": 6.913,
+      "previous_close": 1330.0,
+      "actual_close": 1560.0,
+      "actual_return_pct": 17.29323308270676,
+      "actual_source": "https://kabu.kininew.net/fiveup/7907.html",
+      "material_types": [
+        "product"
+      ],
+      "missing_momentum": false
+    },
+    {
+      "predicted_rank": 2,
+      "code": "192A",
+      "actual_rank": null,
+      "result": "outside_top10",
+      "name": "インテグループ",
+      "score": 6,
+      "previous_close": 1224.0,
+      "actual_close": 1366.0,
+      "actual_return_pct": 11.601307189542487,
+      "actual_source": "https://kabu.kininew.net/fiveup/7907.html",
+      "material_types": [
+        "earnings_up"
+      ],
+      "missing_momentum": true
+    },
+    {
+      "predicted_rank": 3,
+      "code": "3494",
+      "actual_rank": null,
+      "result": "outside_top10",
+      "name": "マリオン",
+      "score": 6,
+      "previous_close": 352.0,
+      "actual_close": 360.0,
+      "actual_return_pct": 2.2727272727272707,
+      "actual_source": "https://www.traders.co.jp/stocks/62_3494/historical",
+      "material_types": [
+        "earnings_up"
+      ],
+      "missing_momentum": true
+    },
+    {
+      "predicted_rank": 4,
+      "code": "4424",
+      "actual_rank": null,
+      "result": "outside_top10",
+      "name": "Ａｍａｚｉａ",
+      "score": 6,
+      "previous_close": 205.0,
+      "actual_close": 235.0,
+      "actual_return_pct": 14.634146341463406,
+      "actual_source": "https://kabu.kininew.net/fiveup/7907.html",
+      "material_types": [
+        "earnings_up"
+      ],
+      "missing_momentum": true
+    },
+    {
+      "predicted_rank": 5,
+      "code": "5967",
+      "actual_rank": 6,
+      "result": "hit_top10",
+      "name": "ＴＯＮＥ",
+      "score": 6,
+      "previous_close": 416.0,
+      "actual_close": 496.0,
+      "actual_return_pct": 19.23076923076923,
+      "actual_source": "https://kabu.kininew.net/fiveup/7907.html",
+      "material_types": [
+        "earnings_up"
+      ],
+      "missing_momentum": true
+    },
+    {
+      "predicted_rank": 6,
+      "code": "7487",
+      "actual_rank": null,
+      "result": "outside_top10",
+      "name": "小津産業",
+      "score": 6,
+      "previous_close": 1772.0,
+      "actual_close": 1790.0,
+      "actual_return_pct": 1.0158013544018019,
+      "actual_source": "https://96ut.com/stock/jikei.php?code=7487&year=2026",
+      "material_types": [
+        "earnings_up"
+      ],
+      "missing_momentum": true
+    },
+    {
+      "predicted_rank": 7,
+      "code": "9253",
+      "actual_rank": null,
+      "result": "outside_top10",
+      "name": "スローガン",
+      "score": 6,
+      "previous_close": 798.0,
+      "actual_close": 718.0,
+      "actual_return_pct": -10.025062656641603,
+      "actual_source": "https://96ut.com/stock/jikei.php?code=9253&year=2026",
+      "material_types": [
+        "earnings_up"
+      ],
+      "missing_momentum": true
+    },
+    {
+      "predicted_rank": 8,
+      "code": "2685",
+      "actual_rank": null,
+      "result": "outside_top10",
+      "name": "アンドエスティＨＤ",
+      "score": 5,
+      "previous_close": 3465.0,
+      "actual_close": 3370.0,
+      "actual_return_pct": -2.741702741702745,
+      "actual_source": "https://www.traders.co.jp/stocks/61_2685/historical/2",
+      "material_types": [
+        "earnings_up"
+      ],
+      "missing_momentum": true
+    },
+    {
+      "predicted_rank": 9,
+      "code": "2926",
+      "actual_rank": null,
+      "result": "outside_top10",
+      "name": "篠崎屋",
+      "score": 5,
+      "previous_close": 101.0,
+      "actual_close": 101.0,
+      "actual_return_pct": 0.0,
+      "actual_source": "https://96ut.com/stock/jikei.php?code=2926&year=2026",
+      "material_types": [
+        "dividend_revival"
+      ],
+      "missing_momentum": true
+    },
+    {
+      "predicted_rank": 10,
+      "code": "2975",
+      "actual_rank": null,
+      "result": "outside_top10",
+      "name": "スター・マイカ・ホールディングス",
+      "score": 5,
+      "previous_close": 1609.0,
+      "actual_close": 1445.0,
+      "actual_return_pct": -10.192666252330639,
+      "actual_source": "https://www.traders.co.jp/stocks/61_2975/historical/2",
+      "material_types": [
+        "earnings_up"
+      ],
+      "missing_momentum": true
+    }
+  ],
+  "missed_winners": [
+    {
+      "code": "4833",
+      "name": "Ｄｅｆコン",
+      "market": "G",
+      "close": 57.0,
+      "change": 20.0,
+      "return_pct": 54.054054054054056,
+      "volume": 27380000,
+      "reported_return_pct": 54.05,
+      "previous_close": 37.0,
+      "url": "https://kabu.kininew.net/fiveup/7907.html",
+      "actual_rank": 1
+    },
+    {
+      "code": "9425",
+      "name": "ＲｅＹｕｕ",
+      "market": "S",
+      "close": 215.0,
+      "change": 50.0,
+      "return_pct": 30.303030303030305,
+      "volume": 2417700,
+      "reported_return_pct": 30.3,
+      "previous_close": 165.0,
+      "url": "https://kabu.kininew.net/fiveup/7907.html",
+      "actual_rank": 2
+    },
+    {
+      "code": "7041",
+      "name": "ＣＲＧＨＤ",
+      "market": "G",
+      "close": 347.0,
+      "change": 80.0,
+      "return_pct": 29.9625468164794,
+      "volume": 35700,
+      "reported_return_pct": 29.96,
+      "previous_close": 267.0,
+      "url": "https://kabu.kininew.net/fiveup/7907.html",
+      "actual_rank": 3
+    },
+    {
+      "code": "7815",
+      "name": "東京ボード",
+      "market": "S",
+      "close": 491.0,
+      "change": 105.0,
+      "return_pct": 27.202072538860104,
+      "volume": 939400,
+      "reported_return_pct": 27.2,
+      "previous_close": 386.0,
+      "url": "https://kabu.kininew.net/fiveup/7907.html",
+      "actual_rank": 4
+    },
+    {
+      "code": "589A",
+      "name": "ネイス",
+      "market": "G",
+      "close": 2176.0,
+      "change": 400.0,
+      "return_pct": 22.52252252252252,
+      "volume": 40600,
+      "reported_return_pct": 22.52,
+      "previous_close": 1776.0,
+      "url": "https://kabu.kininew.net/fiveup/7907.html",
+      "actual_rank": 5
+    },
+    {
+      "code": "7063",
+      "name": "バードマン",
+      "market": "G",
+      "close": 76.0,
+      "change": 12.0,
+      "return_pct": 18.75,
+      "volume": 4017700,
+      "reported_return_pct": 18.75,
+      "previous_close": 64.0,
+      "url": "https://kabu.kininew.net/fiveup/7907.html",
+      "actual_rank": 7
+    },
+    {
+      "code": "3436",
+      "name": "ＳＵＭＣＯ",
+      "market": "P",
+      "close": 4729.0,
+      "change": 700.0,
+      "return_pct": 17.37403822288409,
+      "volume": 28967100,
+      "reported_return_pct": 17.37,
+      "previous_close": 4029.0,
+      "url": "https://kabu.kininew.net/fiveup/7907.html",
+      "actual_rank": 8
+    },
+    {
+      "code": "5942",
+      "name": "フイルコン",
+      "market": "S",
+      "close": 715.0,
+      "change": 100.0,
+      "return_pct": 16.260162601626018,
+      "volume": 835700,
+      "reported_return_pct": 16.26,
+      "previous_close": 615.0,
+      "url": "https://kabu.kininew.net/fiveup/7907.html",
+      "actual_rank": 10
+    }
+  ],
+  "note": "上位10外の正確な順位は全銘柄実績がない限り算出しない。利益率とは異なる。"
+}

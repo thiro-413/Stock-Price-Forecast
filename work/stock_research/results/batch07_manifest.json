@@ -1,0 +1,21 @@
+{
+  "execution_date_jst": "2026-10-16",
+  "batch": 7,
+  "price_checks": "passed",
+  "source_value_checks": "30/30 main and 30/30 secondary table matches",
+  "unknown_causes": 12,
+  "next_batch_requires_user_continue": true,
+  "july_predictions_executed": false,
+  "full_universe_resort": false,
+  "long_ohlcv_complete": false,
+  "files": {
+    "data/batch07_rankings.csv": "be9589b4fbdaf3d0f45f2077639c277214fa203eb7153ea93ad17c76f3675378",
+    "data/batch07_analysis.json": "1d58a293f0bfb388a61aa17138a83016c2d2c70c12f4a18080ea2df56ec5847b",
+    "results/batch07_data.json": "55f377825adf22462c0c4aa4f63f04139b0ee1a3e18a841e5afe7bee3d72f08d",
+    "results/batch07_report.md": "59ca027883b9433c78f53cc9d1ee27d3b88737a133dcfc2871b0459bfc2854f1",
+    "results/batch07_findings.md": "752769fd67a65c464e33cca4ae0c2eda4ba73f1aaab2fc7871ebcc0eb5533cb8",
+    "results/batch07_source_checks.json": "7ceb4fdfa74bbe0b5486238a800ad795b1d75052006308c652b8a8624679e4da",
+    "research.py": "d6f5708a9f1a7781d872ccff48f5dc98b3700c89e2e5642425bcbbd80a4a582c",
+    "finalize_batch07.py": "79c4dab545471cc162b2050e749743675997064a31c5b34325decc6627c22f0f"
+  }
+}

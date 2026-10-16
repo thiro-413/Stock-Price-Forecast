@@ -1,0 +1,289 @@
+{
+  "date": "2026-07-13",
+  "hits": 1,
+  "precision_at_10": 0.1,
+  "recall_at_10": 0.1,
+  "exact_rank_hits": 1,
+  "predictions": [
+    {
+      "predicted_rank": 1,
+      "code": "4381",
+      "actual_rank": 1,
+      "result": "hit_top10",
+      "name": "ビープラッツ",
+      "score": 8,
+      "previous_close": 312.0,
+      "actual_close": 551.0,
+      "actual_return_pct": 76.6025641025641,
+      "actual_source": "https://kabu.kininew.net/fiveup/7982.html",
+      "material_types": [
+        "contract"
+      ],
+      "missing_momentum": false
+    },
+    {
+      "predicted_rank": 2,
+      "code": "2669",
+      "actual_rank": null,
+      "result": "outside_top10",
+      "name": "カネ美食品",
+      "score": 6,
+      "previous_close": 4020.0,
+      "actual_close": 4035.0,
+      "actual_return_pct": 0.3731343283582156,
+      "actual_source": "https://96ut.com/stock/jikei.php?code=2669&year=2026",
+      "material_types": [
+        "earnings_up"
+      ],
+      "missing_momentum": true
+    },
+    {
+      "predicted_rank": 3,
+      "code": "2683",
+      "actual_rank": null,
+      "result": "outside_top10",
+      "name": "魚喜",
+      "score": 6,
+      "previous_close": 1008.0,
+      "actual_close": 1013.0,
+      "actual_return_pct": 0.49603174603174427,
+      "actual_source": "https://minkabu.jp/stock/2683/chart",
+      "material_types": [
+        "earnings_up"
+      ],
+      "missing_momentum": true
+    },
+    {
+      "predicted_rank": 4,
+      "code": "2999",
+      "actual_rank": null,
+      "result": "outside_top10",
+      "name": "ホームポジション",
+      "score": 6,
+      "previous_close": 595.0,
+      "actual_close": 631.0,
+      "actual_return_pct": 6.050420168067228,
+      "actual_source": "https://kabu.kininew.net/fiveup/7982.html",
+      "material_types": [
+        "earnings_up"
+      ],
+      "missing_momentum": true
+    },
+    {
+      "predicted_rank": 5,
+      "code": "3454",
+      "actual_rank": null,
+      "result": "outside_top10",
+      "name": "ファーストブラザーズ",
+      "score": 6,
+      "previous_close": 1240.0,
+      "actual_close": 1254.0,
+      "actual_return_pct": 1.1290322580645107,
+      "actual_source": "https://96ut.com/stock/jikei.php?code=3454",
+      "material_types": [
+        "earnings_up"
+      ],
+      "missing_momentum": true
+    },
+    {
+      "predicted_rank": 6,
+      "code": "3996",
+      "actual_rank": null,
+      "result": "outside_top10",
+      "name": "サインポスト",
+      "score": 6,
+      "previous_close": 190.0,
+      "actual_close": 198.0,
+      "actual_return_pct": 4.210526315789465,
+      "actual_source": "https://96ut.com/stock/jikei.php?code=3996&year=2026",
+      "material_types": [
+        "earnings_up"
+      ],
+      "missing_momentum": true
+    },
+    {
+      "predicted_rank": 7,
+      "code": "4176",
+      "actual_rank": null,
+      "result": "outside_top10",
+      "name": "ココナラ",
+      "score": 6,
+      "previous_close": 270.0,
+      "actual_close": 261.0,
+      "actual_return_pct": -3.3333333333333326,
+      "actual_source": "https://96ut.com/stock/jikei.php?code=4176&year=2026",
+      "material_types": [
+        "earnings_up"
+      ],
+      "missing_momentum": true
+    },
+    {
+      "predicted_rank": 8,
+      "code": "4829",
+      "actual_rank": null,
+      "result": "outside_top10",
+      "name": "日本エンタープライズ",
+      "score": 6,
+      "previous_close": 105.0,
+      "actual_close": 106.0,
+      "actual_return_pct": 0.952380952380949,
+      "actual_source": "https://96ut.com/stock/jikei.php?code=4829&year=2026",
+      "material_types": [
+        "earnings_up"
+      ],
+      "missing_momentum": true
+    },
+    {
+      "predicted_rank": 9,
+      "code": "4992",
+      "actual_rank": null,
+      "result": "outside_top10",
+      "name": "北興化学工業",
+      "score": 6,
+      "previous_close": 2082.0,
+      "actual_close": 1990.0,
+      "actual_return_pct": -4.418828049951973,
+      "actual_source": "https://96ut.com/stock/jikei.php?code=4992&year=2026",
+      "material_types": [
+        "earnings_up"
+      ],
+      "missing_momentum": true
+    },
+    {
+      "predicted_rank": 10,
+      "code": "5967",
+      "actual_rank": null,
+      "result": "outside_top10",
+      "name": "ＴＯＮＥ",
+      "score": 6,
+      "previous_close": 479.0,
+      "actual_close": 479.0,
+      "actual_return_pct": 0.0,
+      "actual_source": "https://96ut.com/stock/jikei.php?code=5967&year=2026",
+      "material_types": [
+        "earnings_up"
+      ],
+      "missing_momentum": true
+    }
+  ],
+  "missed_winners": [
+    {
+      "code": "5240",
+      "name": "ｍｏｎｏＡＩ",
+      "market": "G",
+      "close": 230.0,
+      "change": 50.0,
+      "return_pct": 27.77777777777778,
+      "volume": 8476100,
+      "reported_return_pct": 27.78,
+      "previous_close": 180.0,
+      "url": "https://kabu.kininew.net/fiveup/7982.html",
+      "actual_rank": 2
+    },
+    {
+      "code": "4199",
+      "name": "ワンプラ",
+      "market": "G",
+      "close": 903.0,
+      "change": 135.0,
+      "return_pct": 17.578125,
+      "volume": 199600,
+      "reported_return_pct": 17.58,
+      "previous_close": 768.0,
+      "url": "https://kabu.kininew.net/fiveup/7982.html",
+      "actual_rank": 3
+    },
+    {
+      "code": "7453",
+      "name": "良品計画",
+      "market": "P",
+      "close": 4233.0,
+      "change": 610.0,
+      "return_pct": 16.836875517526913,
+      "volume": 16883700,
+      "reported_return_pct": 16.84,
+      "previous_close": 3623.0,
+      "url": "https://kabu.kininew.net/fiveup/7982.html",
+      "actual_rank": 4
+    },
+    {
+      "code": "6573",
+      "name": "ＣＲＡＶＩＡ",
+      "market": "G",
+      "close": 28.0,
+      "change": 4.0,
+      "return_pct": 16.666666666666668,
+      "volume": 4974900,
+      "reported_return_pct": 16.67,
+      "previous_close": 24.0,
+      "url": "https://kabu.kininew.net/fiveup/7982.html",
+      "actual_rank": 5
+    },
+    {
+      "code": "6814",
+      "name": "古野電",
+      "market": "P",
+      "close": 7390.0,
+      "change": 1000.0,
+      "return_pct": 15.64945226917058,
+      "volume": 1082200,
+      "reported_return_pct": 15.65,
+      "previous_close": 6390.0,
+      "url": "https://kabu.kininew.net/fiveup/7982.html",
+      "actual_rank": 6
+    },
+    {
+      "code": "195A",
+      "name": "マスカットＧ",
+      "market": "G",
+      "close": 762.0,
+      "change": 100.0,
+      "return_pct": 15.105740181268882,
+      "volume": 39100,
+      "reported_return_pct": 15.11,
+      "previous_close": 662.0,
+      "url": "https://kabu.kininew.net/fiveup/7982.html",
+      "actual_rank": 7
+    },
+    {
+      "code": "6227",
+      "name": "ＡＩメカ",
+      "market": "S",
+      "close": 7790.0,
+      "change": 1000.0,
+      "return_pct": 14.727540500736376,
+      "volume": 4280900,
+      "reported_return_pct": 14.73,
+      "previous_close": 6790.0,
+      "url": "https://kabu.kininew.net/fiveup/7982.html",
+      "actual_rank": 8
+    },
+    {
+      "code": "9331",
+      "name": "キャスター",
+      "market": "G",
+      "close": 810.0,
+      "change": 95.0,
+      "return_pct": 13.286713286713287,
+      "volume": 22300,
+      "reported_return_pct": 13.29,
+      "previous_close": 715.0,
+      "url": "https://kabu.kininew.net/fiveup/7982.html",
+      "actual_rank": 9
+    },
+    {
+      "code": "3168",
+      "name": "ＭＥＲＦ",
+      "market": "S",
+      "close": 1450.0,
+      "change": 170.0,
+      "return_pct": 13.28125,
+      "volume": 729600,
+      "reported_return_pct": 13.28,
+      "previous_close": 1280.0,
+      "url": "https://kabu.kininew.net/fiveup/7982.html",
+      "actual_rank": 10
+    }
+  ],
+  "note": "上位10外の正確な順位は全銘柄実績がない限り算出しない。利益率とは異なる。"
+}

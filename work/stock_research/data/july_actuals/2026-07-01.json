@@ -1,0 +1,131 @@
+{
+  "date": "2026-07-01",
+  "top10_verified": true,
+  "verification_scope": "二次集計表の市場・順位・算術と別表を照合。全原票再ソートではない。7/1別表は地方単独3260を除外し5942を補充、5942は別の日足データも照合。",
+  "sources": [
+    "https://kabu.kininew.net/fiveup/7907.html",
+    "https://uiblog.hatenablog.com/entry/2026/07/01/183242"
+  ],
+  "top10": [
+    {
+      "code": "4833",
+      "name": "Ｄｅｆコン",
+      "market": "G",
+      "close": 57.0,
+      "change": 20.0,
+      "return_pct": 54.054054054054056,
+      "volume": 27380000,
+      "reported_return_pct": 54.05,
+      "previous_close": 37.0,
+      "url": "https://kabu.kininew.net/fiveup/7907.html"
+    },
+    {
+      "code": "9425",
+      "name": "ＲｅＹｕｕ",
+      "market": "S",
+      "close": 215.0,
+      "change": 50.0,
+      "return_pct": 30.303030303030305,
+      "volume": 2417700,
+      "reported_return_pct": 30.3,
+      "previous_close": 165.0,
+      "url": "https://kabu.kininew.net/fiveup/7907.html"
+    },
+    {
+      "code": "7041",
+      "name": "ＣＲＧＨＤ",
+      "market": "G",
+      "close": 347.0,
+      "change": 80.0,
+      "return_pct": 29.9625468164794,
+      "volume": 35700,
+      "reported_return_pct": 29.96,
+      "previous_close": 267.0,
+      "url": "https://kabu.kininew.net/fiveup/7907.html"
+    },
+    {
+      "code": "7815",
+      "name": "東京ボード",
+      "market": "S",
+      "close": 491.0,
+      "change": 105.0,
+      "return_pct": 27.202072538860104,
+      "volume": 939400,
+      "reported_return_pct": 27.2,
+      "previous_close": 386.0,
+      "url": "https://kabu.kininew.net/fiveup/7907.html"
+    },
+    {
+      "code": "589A",
+      "name": "ネイス",
+      "market": "G",
+      "close": 2176.0,
+      "change": 400.0,
+      "return_pct": 22.52252252252252,
+      "volume": 40600,
+      "reported_return_pct": 22.52,
+      "previous_close": 1776.0,
+      "url": "https://kabu.kininew.net/fiveup/7907.html"
+    },
+    {
+      "code": "5967",
+      "name": "ＴＯＮＥ",
+      "market": "S",
+      "close": 496.0,
+      "change": 80.0,
+      "return_pct": 19.23076923076923,
+      "volume": 55100,
+      "reported_return_pct": 19.23,
+      "previous_close": 416.0,
+      "url": "https://kabu.kininew.net/fiveup/7907.html"
+    },
+    {
+      "code": "7063",
+      "name": "バードマン",
+      "market": "G",
+      "close": 76.0,
+      "change": 12.0,
+      "return_pct": 18.75,
+      "volume": 4017700,
+      "reported_return_pct": 18.75,
+      "previous_close": 64.0,
+      "url": "https://kabu.kininew.net/fiveup/7907.html"
+    },
+    {
+      "code": "3436",
+      "name": "ＳＵＭＣＯ",
+      "market": "P",
+      "close": 4729.0,
+      "change": 700.0,
+      "return_pct": 17.37403822288409,
+      "volume": 28967100,
+      "reported_return_pct": 17.37,
+      "previous_close": 4029.0,
+      "url": "https://kabu.kininew.net/fiveup/7907.html"
+    },
+    {
+      "code": "6522",
+      "name": "アスタリスク",
+      "market": "G",
+      "close": 1560.0,
+      "change": 230.0,
+      "return_pct": 17.293233082706767,
+      "volume": 7011100,
+      "reported_return_pct": 17.29,
+      "previous_close": 1330.0,
+      "url": "https://kabu.kininew.net/fiveup/7907.html"
+    },
+    {
+      "code": "5942",
+      "name": "フイルコン",
+      "market": "S",
+      "close": 715.0,
+      "change": 100.0,
+      "return_pct": 16.260162601626018,
+      "volume": 835700,
+      "reported_return_pct": 16.26,
+      "previous_close": 615.0,
+      "url": "https://kabu.kininew.net/fiveup/7907.html"
+    }
+  ]
+}

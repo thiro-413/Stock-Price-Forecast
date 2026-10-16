@@ -1,0 +1,91 @@
+{
+  "days": 22,
+  "stock_days": 220,
+  "unique_stocks": 146,
+  "markets": {
+    "G": 86,
+    "S": 101,
+    "P": 33
+  },
+  "evidence_grades": {
+    "B": 91,
+    "U": 77,
+    "A/B": 20,
+    "A": 32
+  },
+  "unknown_rows": 77,
+  "unknown_pct": 35.0,
+  "previous_top10_overlap": {
+    "transitions": 21,
+    "total_intersections": 40,
+    "mean_hits": 1.9047619047619047,
+    "median_hits": 2,
+    "min_hits": 0,
+    "max_hits": 4,
+    "frequency": {
+      "1": 4,
+      "2": 10,
+      "4": 1,
+      "0": 2,
+      "3": 4
+    },
+    "note": "学習期間の事後集合比較。封印済み事前予測成績ではない。"
+  },
+  "most_frequent_top10_stocks": [
+    {
+      "code": "4179",
+      "name": "ジーネクスト",
+      "stock_days": 7
+    },
+    {
+      "code": "9256",
+      "name": "サクシード",
+      "stock_days": 6
+    },
+    {
+      "code": "584A",
+      "name": "ＬｉＮＫＸ",
+      "stock_days": 5
+    },
+    {
+      "code": "6659",
+      "name": "メディアＬ",
+      "stock_days": 4
+    },
+    {
+      "code": "4378",
+      "name": "CINC",
+      "stock_days": 4
+    },
+    {
+      "code": "3915",
+      "name": "テラスカイ",
+      "stock_days": 3
+    },
+    {
+      "code": "550A",
+      "name": "ソフトテック",
+      "stock_days": 3
+    },
+    {
+      "code": "6522",
+      "name": "アスタリスク",
+      "stock_days": 3
+    },
+    {
+      "code": "9331",
+      "name": "キャスター",
+      "stock_days": 3
+    },
+    {
+      "code": "9417",
+      "name": "スマバ",
+      "stock_days": 3
+    }
+  ],
+  "july_predictions_executed": false,
+  "full_universe_resort_complete": false,
+  "long_history_complete": false,
+  "model_frozen": false,
+  "screening_prompt_created": false
+}

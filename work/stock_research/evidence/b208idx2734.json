@@ -1,0 +1,9 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "Internal Error ()\n【turn899873view0】 [wordlim: 200] Source: open({\"ref_id\":\"https://finance.yahoo.co.jp/quote/2734.T/disclosure?disclosureDate=2026-07-07\",\"lineno\":null}); Total lines: 1\nL0: URL https://finance.yahoo.co.jp/quote/2734.T/disclosure?disclosureDate=2026-07-07 is not accessible via this tool.\n"
+    }
+  ],
+  "isError": false
+}

@@ -1,0 +1,131 @@
+{
+  "date": "2026-07-10",
+  "top10_verified": true,
+  "verification_scope": "二次集計表の市場・順位・算術を別集計表と照合。7/13別表の名証単独3808とETN2068を除外して9331・3168を補充し確認。9399は東証外国普通株として対象内。全東証原票の再ソートではない。",
+  "sources": [
+    "https://kabu.kininew.net/fiveup/7970.html",
+    "https://uiblog.hatenablog.com/entry/2026/07/12/092445"
+  ],
+  "top10": [
+    {
+      "code": "5240",
+      "name": "ｍｏｎｏＡＩ",
+      "market": "G",
+      "close": 180.0,
+      "change": 50.0,
+      "return_pct": 38.46153846153846,
+      "volume": 5601300,
+      "reported_return_pct": 38.46,
+      "previous_close": 130.0,
+      "url": "https://kabu.kininew.net/fiveup/7970.html"
+    },
+    {
+      "code": "4381",
+      "name": "ビープラッツ",
+      "market": "G",
+      "close": 312.0,
+      "change": 80.0,
+      "return_pct": 34.48275862068966,
+      "volume": 5700,
+      "reported_return_pct": 34.48,
+      "previous_close": 232.0,
+      "url": "https://kabu.kininew.net/fiveup/7970.html"
+    },
+    {
+      "code": "4424",
+      "name": "Ａｍａｚｉａ",
+      "market": "G",
+      "close": 396.0,
+      "change": 80.0,
+      "return_pct": 25.31645569620253,
+      "volume": 4322500,
+      "reported_return_pct": 25.32,
+      "previous_close": 316.0,
+      "url": "https://kabu.kininew.net/fiveup/7970.html"
+    },
+    {
+      "code": "4833",
+      "name": "Ｄｅｆコン",
+      "market": "G",
+      "close": 60.0,
+      "change": 12.0,
+      "return_pct": 25.0,
+      "volume": 11363700,
+      "reported_return_pct": 25.0,
+      "previous_close": 48.0,
+      "url": "https://kabu.kininew.net/fiveup/7970.html"
+    },
+    {
+      "code": "2997",
+      "name": "ストレジ王",
+      "market": "G",
+      "close": 1337.0,
+      "change": 238.0,
+      "return_pct": 21.656050955414013,
+      "volume": 673000,
+      "reported_return_pct": 21.66,
+      "previous_close": 1099.0,
+      "url": "https://kabu.kininew.net/fiveup/7970.html"
+    },
+    {
+      "code": "5018",
+      "name": "ＭＯＲＥＳＣ",
+      "market": "S",
+      "close": 2320.0,
+      "change": 400.0,
+      "return_pct": 20.833333333333332,
+      "volume": 37800,
+      "reported_return_pct": 20.83,
+      "previous_close": 1920.0,
+      "url": "https://kabu.kininew.net/fiveup/7970.html"
+    },
+    {
+      "code": "9399",
+      "name": "ビート",
+      "market": "S",
+      "close": 18.0,
+      "change": 3.0,
+      "return_pct": 20.0,
+      "volume": 7045106,
+      "reported_return_pct": 20.0,
+      "previous_close": 15.0,
+      "url": "https://kabu.kininew.net/fiveup/7970.html"
+    },
+    {
+      "code": "6327",
+      "name": "北川精機",
+      "market": "S",
+      "close": 6130.0,
+      "change": 1000.0,
+      "return_pct": 19.49317738791423,
+      "volume": 1057100,
+      "reported_return_pct": 19.49,
+      "previous_close": 5130.0,
+      "url": "https://kabu.kininew.net/fiveup/7970.html"
+    },
+    {
+      "code": "6227",
+      "name": "ＡＩメカ",
+      "market": "S",
+      "close": 6790.0,
+      "change": 1000.0,
+      "return_pct": 17.271157167530223,
+      "volume": 69800,
+      "reported_return_pct": 17.27,
+      "previous_close": 5790.0,
+      "url": "https://kabu.kininew.net/fiveup/7970.html"
+    },
+    {
+      "code": "472A",
+      "name": "ミラティブ",
+      "market": "G",
+      "close": 562.0,
+      "change": 80.0,
+      "return_pct": 16.597510373443985,
+      "volume": 111300,
+      "reported_return_pct": 16.6,
+      "previous_close": 482.0,
+      "url": "https://kabu.kininew.net/fiveup/7970.html"
+    }
+  ]
+}

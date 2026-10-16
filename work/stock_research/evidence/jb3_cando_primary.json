@@ -1,0 +1,9 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "Internal Error ()\n【turn659362view0】 [wordlim: 200] Source: open({\"ref_id\":\"https://www.cando-web.co.jp/corporate/ir/finance/\",\"lineno\":null}); Total lines: 1\nL0: URL https://www.cando-web.co.jp/corporate/ir/finance/ is not accessible via this tool.\n"
+    }
+  ],
+  "isError": false
+}

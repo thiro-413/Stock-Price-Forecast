@@ -1,0 +1,131 @@
+{
+  "date": "2026-07-03",
+  "top10_verified": true,
+  "verification_scope": "二次集計表の市場・順位・算術と別表を照合。全原票再ソートではない。7/1別表は地方単独3260を除外し5942を補充、5942は別の日足データも照合。",
+  "sources": [
+    "https://kabu.kininew.net/fiveup/7923.html",
+    "https://uiblog.hatenablog.com/entry/2026/07/04/104206"
+  ],
+  "top10": [
+    {
+      "code": "4596",
+      "name": "窪田製薬ＨＤ",
+      "market": "G",
+      "close": 87.0,
+      "change": 30.0,
+      "return_pct": 52.63157894736842,
+      "volume": 762000,
+      "reported_return_pct": 52.63,
+      "previous_close": 57.0,
+      "url": "https://kabu.kininew.net/fiveup/7923.html"
+    },
+    {
+      "code": "3133",
+      "name": "海帆",
+      "market": "G",
+      "close": 102.0,
+      "change": 30.0,
+      "return_pct": 41.666666666666664,
+      "volume": 10225800,
+      "reported_return_pct": 41.67,
+      "previous_close": 72.0,
+      "url": "https://kabu.kininew.net/fiveup/7923.html"
+    },
+    {
+      "code": "9425",
+      "name": "ＲｅＹｕｕ",
+      "market": "S",
+      "close": 261.0,
+      "change": 51.0,
+      "return_pct": 24.285714285714285,
+      "volume": 4389100,
+      "reported_return_pct": 24.29,
+      "previous_close": 210.0,
+      "url": "https://kabu.kininew.net/fiveup/7923.html"
+    },
+    {
+      "code": "6634",
+      "name": "ＪＮグループ",
+      "market": "S",
+      "close": 83.0,
+      "change": 16.0,
+      "return_pct": 23.880597014925375,
+      "volume": 5591600,
+      "reported_return_pct": 23.88,
+      "previous_close": 67.0,
+      "url": "https://kabu.kininew.net/fiveup/7923.html"
+    },
+    {
+      "code": "2492",
+      "name": "インフォＭＴ",
+      "market": "P",
+      "close": 479.0,
+      "change": 79.0,
+      "return_pct": 19.75,
+      "volume": 8572500,
+      "reported_return_pct": 19.75,
+      "previous_close": 400.0,
+      "url": "https://kabu.kininew.net/fiveup/7923.html"
+    },
+    {
+      "code": "9444",
+      "name": "トーシンＨＤ",
+      "market": "S",
+      "close": 259.0,
+      "change": 39.0,
+      "return_pct": 17.727272727272727,
+      "volume": 598100,
+      "reported_return_pct": 17.73,
+      "previous_close": 220.0,
+      "url": "https://kabu.kininew.net/fiveup/7923.html"
+    },
+    {
+      "code": "504A",
+      "name": "イノバセル",
+      "market": "G",
+      "close": 543.0,
+      "change": 80.0,
+      "return_pct": 17.278617710583152,
+      "volume": 12900,
+      "reported_return_pct": 17.28,
+      "previous_close": 463.0,
+      "url": "https://kabu.kininew.net/fiveup/7923.html"
+    },
+    {
+      "code": "4575",
+      "name": "ＣＡＮＢＡＳ",
+      "market": "G",
+      "close": 690.0,
+      "change": 100.0,
+      "return_pct": 16.949152542372882,
+      "volume": 1350200,
+      "reported_return_pct": 16.95,
+      "previous_close": 590.0,
+      "url": "https://kabu.kininew.net/fiveup/7923.html"
+    },
+    {
+      "code": "4935",
+      "name": "リベルタ",
+      "market": "S",
+      "close": 360.0,
+      "change": 52.0,
+      "return_pct": 16.883116883116884,
+      "volume": 6598200,
+      "reported_return_pct": 16.88,
+      "previous_close": 308.0,
+      "url": "https://kabu.kininew.net/fiveup/7923.html"
+    },
+    {
+      "code": "6166",
+      "name": "中村超硬",
+      "market": "G",
+      "close": 930.0,
+      "change": 131.0,
+      "return_pct": 16.39549436795995,
+      "volume": 1920200,
+      "reported_return_pct": 16.4,
+      "previous_close": 799.0,
+      "url": "https://kabu.kininew.net/fiveup/7923.html"
+    }
+  ]
+}

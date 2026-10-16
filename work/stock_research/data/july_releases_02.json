@@ -1,0 +1,146 @@
+{
+  "192A": {
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260630/20260629583893.pdf",
+    "at": "2026-06-30T15:30:59+09:00",
+    "first": "2026-07-01",
+    "verified_by": "TDnet転載PDFの6/30日付と翌期経常318百万円149.5%増・配当50円を確認。Yahoo開示一覧15:30と当時記事を照合"
+  },
+  "4424": {
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260630/20260629583588.pdf",
+    "at": "2026-06-30T15:30:59+09:00",
+    "first": "2026-07-01",
+    "verified_by": "6/30原開示PDFの純損失縮小を当時記事と照合。営業改善ではなく新株予約権戻入益24百万円。発行ではないため希薄化ペナルティなし"
+  },
+  "5967": {
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260630/20260630584524.pdf",
+    "at": "2026-06-30T15:30:59+09:00",
+    "first": "2026-07-01",
+    "verified_by": "原開示の経常1180→1473百万円・増配を確認。6/30 15:30開示一覧・当時記事照合"
+  },
+  "7487": {
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260630/20260629583211.pdf",
+    "at": "2026-06-30T17:00:59+09:00",
+    "first": "2026-07-01",
+    "verified_by": "6/30原開示の経常670→808百万円を確認。17:00記事と開示一覧照合"
+  },
+  "3494": {
+    "url": "https://assets.minkabu.jp/news/article_media_content/urn:newsml:tdnet.info:20260626581900/140120260626581900.pdf",
+    "at": "2026-06-30T15:30:59+09:00",
+    "first": "2026-07-01",
+    "verified_by": "原開示6/30経常2.5%増額410百万円と増配確認。掲載時刻15:30照合。増額後も前年比減益"
+  },
+  "9253": {
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260630/20260629583871.pdf",
+    "at": "2026-06-30T15:30:59+09:00",
+    "first": "2026-07-01",
+    "verified_by": "原開示6/30第1四半期経常314百万円3.8%増・通期297を確認。開示一覧15:30照合。通期修正なし"
+  },
+  "2685": {
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260630/20260626582474.pdf",
+    "at": "2026-06-30T15:30:59+09:00",
+    "first": "2026-07-01",
+    "verified_by": "6/30原開示第1四半期経常増益を確認。15:30決算記事と開示一覧照合"
+  },
+  "2935": {
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260630/20260630584098.pdf",
+    "at": "2026-06-30T15:50:59+09:00",
+    "first": "2026-07-01",
+    "verified_by": "原開示6/30経常711百万円12.2%増を確認。15:50記事・一覧照合。同時刻ストックオプション発行あり"
+  },
+  "2975": {
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260630/20260629582825.pdf",
+    "at": "2026-06-30T15:30:59+09:00",
+    "first": "2026-07-01",
+    "verified_by": "原開示6/30中間期経常増益と15:30開示一覧を照合"
+  },
+  "6522": {
+    "url": "https://prtimes.jp/main/html/rd/p/000000058.000031440.html",
+    "at": "2026-06-30T12:00:59+09:00",
+    "first": "2026-07-01",
+    "verified_by": "公式PR6/30 12:00と当日報道を照合。6/30朝には未公開、最初の8:30入力日は7/1"
+  },
+  "546A": {
+    "url": "https://www2.jpx.co.jp/disc/546A0/140120260626582510.pdf",
+    "at": "2026-06-29T17:00:59+09:00",
+    "first": "2026-06-30",
+    "verified_by": "6月調査で原開示・時刻照合済み。今回もPDF確認"
+  },
+  "2926": {
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260630/20260629583313.pdf",
+    "at": "2026-06-30T15:30:59+09:00",
+    "first": "2026-07-01",
+    "verified_by": "6/30原開示の復配3円を確認、同時刻TDnet一覧・当時記事照合"
+  },
+  "9425": {
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260701/20260701586030.pdf",
+    "at": "2026-07-01T16:00:59+09:00",
+    "first": "2026-07-02",
+    "verified_by": "7/1原開示PDF本文・日付とTDnet転載一覧時刻を照合。非拘束の株式取得基本合意。確定買収として扱わずMOU2点。完了予定は将来。"
+  },
+  "2751": {
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260701/20260701585705.pdf",
+    "at": "2026-07-01T16:30:59+09:00",
+    "first": "2026-07-02",
+    "verified_by": "7/1原開示PDF本文・日付とTDnet転載一覧時刻を照合。経常増額と純利益減額が混在。上方修正5点と下方修正-4点を併用。"
+  },
+  "464A": {
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260701/20260701586130.pdf",
+    "at": "2026-07-01T16:00:59+09:00",
+    "first": "2026-07-02",
+    "verified_by": "7/1原開示PDF本文・日付とTDnet転載一覧時刻を照合。経常600→1100百万円。補助金計上前倒し等、営業赤字は残る。"
+  },
+  "4918": {
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260701/20260629583787.pdf",
+    "at": "2026-07-01T16:00:59+09:00",
+    "first": "2026-07-02",
+    "verified_by": "7/1原開示PDF本文・日付とTDnet転載一覧時刻を照合。経常200→330百万円。原材料確保・記念新製品発売見通し。"
+  },
+  "7781": {
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260701/20260701586352.pdf",
+    "at": "2026-07-01T17:20:59+09:00",
+    "first": "2026-07-02",
+    "verified_by": "7/1原開示PDF本文・日付とTDnet転載一覧時刻を照合。経常1349→1778百万円。受注・効率改善等。"
+  },
+  "6573": {
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260701/20260630585301.pdf",
+    "at": "2026-07-01T15:30:59+09:00",
+    "first": "2026-07-02",
+    "verified_by": "7/1原開示PDF本文・日付とTDnet転載一覧時刻を照合。広告運用受託。業績影響軽微の記載を保存。"
+  },
+  "5942": {
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260701/20260701585367.pdf",
+    "at": "2026-07-01T14:00:59+09:00",
+    "first": "2026-07-02",
+    "verified_by": "7/1原開示PDF本文・日付とTDnet転載一覧時刻を照合。場中14時上方修正。7/1朝には不可、初回入力7/2。"
+  },
+  "6239": {
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260701/20260701585941.pdf",
+    "at": "2026-07-01T17:00:59+09:00",
+    "first": "2026-07-02",
+    "verified_by": "7/1原開示PDF本文・日付とTDnet転載一覧時刻を照合。子会社の受注約5.7億円、納期2027年4月。"
+  },
+  "4496": {
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260701/20260701586148.pdf",
+    "at": "2026-07-01T15:30:59+09:00",
+    "first": "2026-07-02",
+    "verified_by": "7/1原開示PDF本文・日付とTDnet転載一覧時刻を照合。決済業務提携契約・サービス開始。業績影響軽微。"
+  },
+  "7371": {
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260701/20260701585576.pdf",
+    "at": "2026-07-01T15:30:59+09:00",
+    "first": "2026-07-02",
+    "verified_by": "7/1原開示PDF本文・日付とTDnet転載一覧時刻を照合。三十三銀行との人材紹介の業務提携契約。"
+  },
+  "4167": {
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260701/20260630584864.pdf",
+    "at": "2026-07-01T15:30:59+09:00",
+    "first": "2026-07-02",
+    "verified_by": "7/1原開示PDF本文・日付とTDnet転載一覧時刻を照合。千葉信金へのシステム採用・利用開始。"
+  },
+  "6363": {
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260701/20260630583928.pdf",
+    "at": "2026-07-01T15:30:59+09:00",
+    "first": "2026-07-02",
+    "verified_by": "7/1原開示PDF本文・日付とTDnet転載一覧時刻を照合。買収完了に伴う予想増額。負ののれん含む特別利益32億円。"
+  }
+}

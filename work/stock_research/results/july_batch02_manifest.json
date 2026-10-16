@@ -1,0 +1,26 @@
+{
+  "created_at_utc": "2026-10-16T09:33:19.544950+00:00",
+  "files": {
+    "data/july_model_frozen.json": "50f1755b888eb1b2eaa57f0a80c2dcef85fca149fe077988a68f63edcfe4c50b",
+    "data/july_model_v1.json": "f5df7418010ab4a68bf2c9e0c82fc5ce0f6a0d8b04fcf4a00a7b3e6e264d13ad",
+    "july_predict.py": "c5060225df69b56370b1c5ed7617ad04baed1d5dd5b00efbfc27d8a46e8cb874",
+    "results/july_batch02_report.md": "2b2252dceb1c8016924d8debee14fa4344e89b5ccd4d86fe354cdf8980ae4137",
+    "results/july_batch02_summary.json": "21714967432f028026b636b3fc1adb149ebfd33bdfa22e49124609589db87248",
+    "results/july_batch02_predictions.csv": "8fc60c8564d327a2c34d6e514ed8f0d768f72fb03764619e06a969e16c5dde9a",
+    "results/july_predictions/2026-07-06.json": "bb45ae5178684f03a5c2ae2203ec9a8a4526648861fbf0e0b082ba99ded34fb3",
+    "results/july_scores/2026-07-06.json": "0e4c265a295021cb765c4e53d3679c9d587aef9ceee20098229c9c3cc2e52e1a",
+    "results/july_evaluations/2026-07-06.json": "c68b55c6a8d01f87318b9084f6cf97631cf47453d3c3b86fb9ef5baab85bfacf",
+    "data/july_inputs/2026-07-06.json": "6eef2652b84d707dd92c490f49cbe5f2c51d51cf7848fdbd11c346a168318b9d",
+    "data/july_actuals/2026-07-06.json": "c32891cbc26fb99a649f7954f3443155b230dc03b9debd081fb73e346a2e3de3",
+    "results/july_predictions/2026-07-07.json": "c43f63c3437d0801b5539915d41abc7eab4d45418cabb6a02b2ffe8ed5b8ce3d",
+    "results/july_scores/2026-07-07.json": "145cbb98976f0c79bbb6e9143c16808230f97a86938f6576c89a058bf0f261aa",
+    "results/july_evaluations/2026-07-07.json": "1ed4e9374b37fb7335fbc1da3caf1c9ca0a862b69e32e830cadc64a1004cb6fe",
+    "data/july_inputs/2026-07-07.json": "b5257eb34f8a6418aed46d067a77121df0910f260eb178c4b7e1221cf8d9b183",
+    "data/july_actuals/2026-07-07.json": "5c64078b2a12cc279863cbac79b4c6d45901349a86c518798272ef10f36039d3",
+    "results/july_predictions/2026-07-08.json": "0080a58331a0dd225d20204fec6a0c59314167f6196ca4c3d6bdf94f0212d816",
+    "results/july_scores/2026-07-08.json": "2557270f36d0ba78b108049d6f35bc1ddb49023549921d7c04e22d551cd1d4c0",
+    "results/july_evaluations/2026-07-08.json": "6291aff4cb2c877b5aa3eff67b1da280d9f46fde0f38fcbac2daf7126957fac0",
+    "data/july_inputs/2026-07-08.json": "f04a5c7b28fcab2e3051d82fd0f5f5a29174e86e2269155b61d2a5d301f6fc47",
+    "data/july_actuals/2026-07-08.json": "38fc7ee58508460c8d3b5538a99ca245b248b8ca30f8aa7f84b8301da09e8890"
+  }
+}

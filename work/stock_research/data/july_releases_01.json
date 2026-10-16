@@ -1,0 +1,74 @@
+{
+  "192A": {
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260630/20260629583893.pdf",
+    "at": "2026-06-30T15:30:59+09:00",
+    "first": "2026-07-01",
+    "verified_by": "TDnet転載PDFの6/30日付と翌期経常318百万円149.5%増・配当50円を確認。Yahoo開示一覧15:30と当時記事を照合"
+  },
+  "4424": {
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260630/20260629583588.pdf",
+    "at": "2026-06-30T15:30:59+09:00",
+    "first": "2026-07-01",
+    "verified_by": "6/30原開示PDFの純損失縮小を当時記事と照合。営業改善ではなく新株予約権戻入益24百万円。発行ではないため希薄化ペナルティなし"
+  },
+  "5967": {
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260630/20260630584524.pdf",
+    "at": "2026-06-30T15:30:59+09:00",
+    "first": "2026-07-01",
+    "verified_by": "原開示の経常1180→1473百万円・増配を確認。6/30 15:30開示一覧・当時記事照合"
+  },
+  "7487": {
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260630/20260629583211.pdf",
+    "at": "2026-06-30T17:00:59+09:00",
+    "first": "2026-07-01",
+    "verified_by": "6/30原開示の経常670→808百万円を確認。17:00記事と開示一覧照合"
+  },
+  "3494": {
+    "url": "https://assets.minkabu.jp/news/article_media_content/urn:newsml:tdnet.info:20260626581900/140120260626581900.pdf",
+    "at": "2026-06-30T15:30:59+09:00",
+    "first": "2026-07-01",
+    "verified_by": "原開示6/30経常2.5%増額410百万円と増配確認。掲載時刻15:30照合。増額後も前年比減益"
+  },
+  "9253": {
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260630/20260629583871.pdf",
+    "at": "2026-06-30T15:30:59+09:00",
+    "first": "2026-07-01",
+    "verified_by": "原開示6/30第1四半期経常314百万円3.8%増・通期297を確認。開示一覧15:30照合。通期修正なし"
+  },
+  "2685": {
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260630/20260626582474.pdf",
+    "at": "2026-06-30T15:30:59+09:00",
+    "first": "2026-07-01",
+    "verified_by": "6/30原開示第1四半期経常増益を確認。15:30決算記事と開示一覧照合"
+  },
+  "2935": {
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260630/20260630584098.pdf",
+    "at": "2026-06-30T15:50:59+09:00",
+    "first": "2026-07-01",
+    "verified_by": "原開示6/30経常711百万円12.2%増を確認。15:50記事・一覧照合。同時刻ストックオプション発行あり"
+  },
+  "2975": {
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260630/20260629582825.pdf",
+    "at": "2026-06-30T15:30:59+09:00",
+    "first": "2026-07-01",
+    "verified_by": "原開示6/30中間期経常増益と15:30開示一覧を照合"
+  },
+  "6522": {
+    "url": "https://prtimes.jp/main/html/rd/p/000000058.000031440.html",
+    "at": "2026-06-30T12:00:59+09:00",
+    "first": "2026-07-01",
+    "verified_by": "公式PR6/30 12:00と当日報道を照合。6/30朝には未公開、最初の8:30入力日は7/1"
+  },
+  "546A": {
+    "url": "https://www2.jpx.co.jp/disc/546A0/140120260626582510.pdf",
+    "at": "2026-06-29T17:00:59+09:00",
+    "first": "2026-06-30",
+    "verified_by": "6月調査で原開示・時刻照合済み。今回もPDF確認"
+  },
+  "2926": {
+    "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260630/20260629583313.pdf",
+    "at": "2026-06-30T15:30:59+09:00",
+    "first": "2026-07-01",
+    "verified_by": "6/30原開示の復配3円を確認、同時刻TDnet一覧・当時記事照合"
+  }
+}
