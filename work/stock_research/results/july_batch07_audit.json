@@ -1,0 +1,56 @@
+{
+  "old_manifest_file_checks": 744,
+  "old_seals_unchanged": true,
+  "days": [
+    {
+      "date": "2026-07-28",
+      "seal": "dfa4937e73070b1f751f1d5dad2a3d303bdfe76767177ea100180f5ccbf2f9ba",
+      "input_sha256": "b913eee678e29db0c6c347b885427aedc50044eba285dc27c15addbc722f36a6",
+      "cutoff_gate": "passed",
+      "candidate_count": 170,
+      "unverified_exclusions": 4,
+      "hits": 1,
+      "traded_closes": 10
+    },
+    {
+      "date": "2026-07-29",
+      "seal": "11010f4d66c907315907d61a0a7ad414169bf168e6f5f3216ab2401ca7b35c1c",
+      "input_sha256": "e271cb845b551fbee56f793e90ea45d29a7c1593f71fe29a0f88b40356aef9ca",
+      "cutoff_gate": "passed",
+      "candidate_count": 51,
+      "unverified_exclusions": 9,
+      "hits": 2,
+      "traded_closes": 10
+    },
+    {
+      "date": "2026-07-30",
+      "seal": "b19632ad9474f56aa6e6376cb0ecc4c6406f0bb6cf47bc60b312834924686088",
+      "input_sha256": "c7f5ad1211e143dde31e29e331641ea02fb8b5129a51d9838782c3c88237f4fc",
+      "cutoff_gate": "passed",
+      "candidate_count": 130,
+      "unverified_exclusions": 13,
+      "hits": 0,
+      "traded_closes": 10
+    }
+  ],
+  "all_30_actual_statuses_verified": true,
+  "traded_close_count": 30,
+  "no_regular_trade_count": 0,
+  "top10_corroborated_each_day": 10,
+  "frozen_code_sha256": "c5060225df69b56370b1c5ed7617ad04baed1d5dd5b00efbfc27d8a46e8cb874",
+  "frozen_model_sha256": "f5df7418010ab4a68bf2c9e0c82fc5ce0f6a0d8b04fcf4a00a7b3e6e264d13ad",
+  "full_tse_universe": false,
+  "blind_test": false,
+  "new_evidence_secret_pattern_scan": "passed",
+  "new_redactions": 0,
+  "notes": [
+    "原資料の公表日と取得日を区別。7102画像PDFと6042文字化けを原PDF画像で確認。6501はJPX転載で照合。",
+    "7/28別表の名証3260とETF1366/1357、7/29のETN2034を除外。不足は時系列で照合、SHIFTは小数原値を使用。",
+    "28日封印後の検索で29日結果の偶発表示あり。入力不採用だが非盲検。",
+    "4888の独立した研究契約と基本合意を別証拠・別鮮度で保持。",
+    "2311と6663の予想修正混在には固定ルールの-4を併用。"
+  ],
+  "next_days": [
+    "2026-07-31"
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "date": "2026-07-29",
+  "top10_verified": true,
+  "verification_scope": "別集計表と照合。7/28の名証3260・ETF1366/1357、7/29のETN2034を除外し、不足3/1銘柄を日付付き時系列で補完。7/30は別表10件一致。全原票独自再ソートではない。",
+  "sources": [
+    "https://kabu.kininew.net/fiveup/8087.html",
+    "https://uiblog.hatenablog.com/entry/2026/07/29/180402",
+    "https://96ut.com/stock/jikei.php?code=6522&year=2026"
+  ],
+  "top10": [
+    {
+      "code": "3907",
+      "name": "シリコンスタ",
+      "market": "S",
+      "close": 1318.0,
+      "change": 300.0,
+      "return_pct": 29.469548133595286,
+      "volume": 1610300,
+      "reported_return_pct": 29.47,
+      "previous_close": 1018.0,
+      "url": "https://kabu.kininew.net/fiveup/8087.html"
+    },
+    {
+      "code": "2767",
+      "name": "円谷フィＨＤ",
+      "market": "P",
+      "close": 2330.0,
+      "change": 400.0,
+      "return_pct": 20.72538860103627,
+      "volume": 3630000,
+      "reported_return_pct": 20.73,
+      "previous_close": 1930.0,
+      "url": "https://kabu.kininew.net/fiveup/8087.html"
+    },
+    {
+      "code": "9697",
+      "name": "カプコン",
+      "market": "P",
+      "close": 4229.0,
+      "change": 700.0,
+      "return_pct": 19.835647492207425,
+      "volume": 17555400,
+      "reported_return_pct": 19.84,
+      "previous_close": 3529.0,
+      "url": "https://kabu.kininew.net/fiveup/8087.html"
+    },
+    {
+      "code": "504A",
+      "name": "イノバセル",
+      "market": "G",
+      "close": 553.0,
+      "change": 80.0,
+      "return_pct": 16.913319238900634,
+      "volume": 559000,
+      "reported_return_pct": 16.91,
+      "previous_close": 473.0,
+      "url": "https://kabu.kininew.net/fiveup/8087.html"
+    },
+    {
+      "code": "6337",
+      "name": "テセック",
+      "market": "S",
+      "close": 2496.0,
+      "change": 316.0,
+      "return_pct": 14.495412844036696,
+      "volume": 879600,
+      "reported_return_pct": 14.5,
+      "previous_close": 2180.0,
+      "url": "https://kabu.kininew.net/fiveup/8087.html"
+    },
+    {
+      "code": "9227",
+      "name": "マイクロ波",
+      "market": "G",
+      "close": 922.0,
+      "change": 105.0,
+      "return_pct": 12.851897184822521,
+      "volume": 3410400,
+      "reported_return_pct": 12.85,
+      "previous_close": 817.0,
+      "url": "https://kabu.kininew.net/fiveup/8087.html"
+    },
+    {
+      "code": "9766",
+      "name": "コナミＧ",
+      "market": "P",
+      "close": 22705.0,
+      "change": 2565.0,
+      "return_pct": 12.735849056603774,
+      "volume": 1829500,
+      "reported_return_pct": 12.74,
+      "previous_close": 20140.0,
+      "url": "https://kabu.kininew.net/fiveup/8087.html"
+    },
+    {
+      "code": "8218",
+      "name": "コメリ",
+      "market": "P",
+      "close": 4065.0,
+      "change": 435.0,
+      "return_pct": 11.983471074380166,
+      "volume": 563400,
+      "reported_return_pct": 11.98,
+      "previous_close": 3630.0,
+      "url": "https://kabu.kininew.net/fiveup/8087.html"
+    },
+    {
+      "code": "5285",
+      "name": "ヤマックス",
+      "market": "S",
+      "close": 1487.0,
+      "change": 159.0,
+      "return_pct": 11.97289156626506,
+      "volume": 731300,
+      "reported_return_pct": 11.97,
+      "previous_close": 1328.0,
+      "url": "https://kabu.kininew.net/fiveup/8087.html"
+    },
+    {
+      "code": "6522",
+      "name": "アスタリスク",
+      "market": "G",
+      "close": 1632.0,
+      "change": 173.0,
+      "return_pct": 11.85743660041124,
+      "volume": 1647200,
+      "reported_return_pct": 11.86,
+      "previous_close": 1459.0,
+      "url": "https://kabu.kininew.net/fiveup/8087.html"
+    }
+  ]
+}

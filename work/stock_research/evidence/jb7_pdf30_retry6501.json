@@ -1,0 +1,9 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "Internal Error ()\n【turn111859view0】 [wordlim: 200] Source: open({\"ref_id\":\"https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260729/20260729501771.pdf\",\"lineno\":null}); Total lines: 1\nL0: Failed to fetch https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260729/20260729501771.pdf: (403) Forbidden\n"
+    }
+  ],
+  "isError": false
+}

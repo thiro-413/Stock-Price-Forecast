@@ -1,0 +1,12 @@
+{
+  "source": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260728/20260727500101.pdf",
+  "source_text_file": "evidence/jb7_pdf29_7102.json",
+  "method": "7/29封印前の原資料照合時、画像のみPDFの第1ページをweb screenshotで目視確認。記録の作成時点は封印後。",
+  "visual_verified": {
+    "company": "日本車輌製造株式会社",
+    "published_date": "2026-07-28",
+    "ordinary_profit_million_yen_previous": 1594,
+    "ordinary_profit_million_yen_current": 2851,
+    "growth_percent": 78.8
+  }
+}

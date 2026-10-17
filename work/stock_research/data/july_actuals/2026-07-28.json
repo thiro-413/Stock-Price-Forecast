@@ -1,0 +1,134 @@
+{
+  "date": "2026-07-28",
+  "top10_verified": true,
+  "verification_scope": "別集計表と照合。7/28の名証3260・ETF1366/1357、7/29のETN2034を除外し、不足3/1銘柄を日付付き時系列で補完。7/30は別表10件一致。全原票独自再ソートではない。",
+  "sources": [
+    "https://kabu.kininew.net/fiveup/8078.html",
+    "https://uiblog.hatenablog.com/entry/2026/07/28/191951",
+    "https://96ut.com/stock/jikei.php?code=4370",
+    "https://minkabu.jp/stock/3697/daily_bar?page=3",
+    "https://96ut.com/stock/jikei.php?code=3778&year=2026"
+  ],
+  "top10": [
+    {
+      "code": "7063",
+      "name": "バードマン",
+      "market": "G",
+      "close": 118.0,
+      "change": 28.0,
+      "return_pct": 31.11111111111111,
+      "volume": 4624800,
+      "reported_return_pct": 31.11,
+      "previous_close": 90.0,
+      "url": "https://kabu.kininew.net/fiveup/8078.html"
+    },
+    {
+      "code": "2767",
+      "name": "円谷フィＨＤ",
+      "market": "P",
+      "close": 1930.0,
+      "change": 400.0,
+      "return_pct": 26.143790849673202,
+      "volume": 318900,
+      "reported_return_pct": 26.14,
+      "previous_close": 1530.0,
+      "url": "https://kabu.kininew.net/fiveup/8078.html"
+    },
+    {
+      "code": "8995",
+      "name": "誠建設",
+      "market": "S",
+      "close": 1093.0,
+      "change": 150.0,
+      "return_pct": 15.906680805938494,
+      "volume": 39000,
+      "reported_return_pct": 15.91,
+      "previous_close": 943.0,
+      "url": "https://kabu.kininew.net/fiveup/8078.html"
+    },
+    {
+      "code": "3054",
+      "name": "ハイパー",
+      "market": "S",
+      "close": 276.0,
+      "change": 31.0,
+      "return_pct": 12.653061224489797,
+      "volume": 2718400,
+      "reported_return_pct": 12.65,
+      "previous_close": 245.0,
+      "url": "https://kabu.kininew.net/fiveup/8078.html"
+    },
+    {
+      "code": "9441",
+      "name": "ベルパーク",
+      "market": "S",
+      "close": 2827.0,
+      "change": 292.0,
+      "return_pct": 11.518737672583827,
+      "volume": 75000,
+      "reported_return_pct": 11.52,
+      "previous_close": 2535.0,
+      "url": "https://kabu.kininew.net/fiveup/8078.html"
+    },
+    {
+      "code": "7069",
+      "name": "サイバーバズ",
+      "market": "G",
+      "close": 674.0,
+      "change": 66.0,
+      "return_pct": 10.855263157894736,
+      "volume": 17900,
+      "reported_return_pct": 10.86,
+      "previous_close": 608.0,
+      "url": "https://kabu.kininew.net/fiveup/8078.html"
+    },
+    {
+      "code": "9337",
+      "name": "トリドリ",
+      "market": "G",
+      "close": 1666.0,
+      "change": 159.0,
+      "return_pct": 10.550763105507631,
+      "volume": 72000,
+      "reported_return_pct": 10.55,
+      "previous_close": 1507.0,
+      "url": "https://kabu.kininew.net/fiveup/8078.html"
+    },
+    {
+      "code": "4370",
+      "name": "モビルス",
+      "market": "G",
+      "close": 325.0,
+      "change": 24.0,
+      "return_pct": 7.973421926910299,
+      "volume": 4300,
+      "reported_return_pct": 7.97,
+      "previous_close": 301.0,
+      "url": "https://kabu.kininew.net/fiveup/8078.html"
+    },
+    {
+      "code": "3697",
+      "name": "ＳＨＩＦＴ",
+      "market": "P",
+      "close": 950.0,
+      "change": 67.8,
+      "return_pct": 7.685332124234867,
+      "volume": 19244100,
+      "reported_return_pct": 7.69,
+      "previous_close": 882.2,
+      "url": "https://kabu.kininew.net/fiveup/8078.html"
+    },
+    {
+      "code": "3778",
+      "name": "さくらネット",
+      "market": "P",
+      "close": 3100.0,
+      "change": 200.0,
+      "return_pct": 6.896551724137931,
+      "volume": 6262300,
+      "reported_return_pct": 6.9,
+      "previous_close": 2900.0,
+      "url": "https://kabu.kininew.net/fiveup/8078.html"
+    }
+  ]
+}

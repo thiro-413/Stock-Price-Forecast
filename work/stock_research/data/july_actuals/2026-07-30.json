@@ -1,0 +1,131 @@
+{
+  "date": "2026-07-30",
+  "top10_verified": true,
+  "verification_scope": "別集計表と照合。7/28の名証3260・ETF1366/1357、7/29のETN2034を除外し、不足3/1銘柄を日付付き時系列で補完。7/30は別表10件一致。全原票独自再ソートではない。",
+  "sources": [
+    "https://kabu.kininew.net/fiveup/8096.html",
+    "https://uiblog.hatenablog.com/entry/2026/07/30/213445"
+  ],
+  "top10": [
+    {
+      "code": "7740",
+      "name": "タムロン",
+      "market": "P",
+      "close": 1434.0,
+      "change": 300.0,
+      "return_pct": 26.455026455026456,
+      "volume": 753800,
+      "reported_return_pct": 26.46,
+      "previous_close": 1134.0,
+      "url": "https://kabu.kininew.net/fiveup/8096.html"
+    },
+    {
+      "code": "2737",
+      "name": "トーメンデバ",
+      "market": "P",
+      "close": 17150.0,
+      "change": 3000.0,
+      "return_pct": 21.20141342756184,
+      "volume": 172500,
+      "reported_return_pct": 21.2,
+      "previous_close": 14150.0,
+      "url": "https://kabu.kininew.net/fiveup/8096.html"
+    },
+    {
+      "code": "6364",
+      "name": "ＡＩＲＭＡＮ",
+      "market": "P",
+      "close": 2373.0,
+      "change": 400.0,
+      "return_pct": 20.27369488089204,
+      "volume": 490200,
+      "reported_return_pct": 20.27,
+      "previous_close": 1973.0,
+      "url": "https://kabu.kininew.net/fiveup/8096.html"
+    },
+    {
+      "code": "4461",
+      "name": "一工薬",
+      "market": "P",
+      "close": 10330.0,
+      "change": 1500.0,
+      "return_pct": 16.987542468856173,
+      "volume": 230800,
+      "reported_return_pct": 16.99,
+      "previous_close": 8830.0,
+      "url": "https://kabu.kininew.net/fiveup/8096.html"
+    },
+    {
+      "code": "6862",
+      "name": "ミナトＨＤ",
+      "market": "S",
+      "close": 1829.0,
+      "change": 262.0,
+      "return_pct": 16.719846841097638,
+      "volume": 1135400,
+      "reported_return_pct": 16.72,
+      "previous_close": 1567.0,
+      "url": "https://kabu.kininew.net/fiveup/8096.html"
+    },
+    {
+      "code": "6349",
+      "name": "小森",
+      "market": "P",
+      "close": 1932.0,
+      "change": 259.0,
+      "return_pct": 15.481171548117155,
+      "volume": 1257700,
+      "reported_return_pct": 15.48,
+      "previous_close": 1673.0,
+      "url": "https://kabu.kininew.net/fiveup/8096.html"
+    },
+    {
+      "code": "6337",
+      "name": "テセック",
+      "market": "S",
+      "close": 2815.0,
+      "change": 319.0,
+      "return_pct": 12.780448717948717,
+      "volume": 518400,
+      "reported_return_pct": 12.78,
+      "previous_close": 2496.0,
+      "url": "https://kabu.kininew.net/fiveup/8096.html"
+    },
+    {
+      "code": "8254",
+      "name": "さいか屋",
+      "market": "S",
+      "close": 355.0,
+      "change": 40.0,
+      "return_pct": 12.698412698412698,
+      "volume": 766400,
+      "reported_return_pct": 12.7,
+      "previous_close": 315.0,
+      "url": "https://kabu.kininew.net/fiveup/8096.html"
+    },
+    {
+      "code": "5103",
+      "name": "昭和ＨＤ",
+      "market": "S",
+      "close": 9.0,
+      "change": 1.0,
+      "return_pct": 12.5,
+      "volume": 3122400,
+      "reported_return_pct": 12.5,
+      "previous_close": 8.0,
+      "url": "https://kabu.kininew.net/fiveup/8096.html"
+    },
+    {
+      "code": "3997",
+      "name": "Ｔワークス",
+      "market": "S",
+      "close": 411.0,
+      "change": 41.0,
+      "return_pct": 11.08108108108108,
+      "volume": 758200,
+      "reported_return_pct": 11.08,
+      "previous_close": 370.0,
+      "url": "https://kabu.kininew.net/fiveup/8096.html"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "Internal Error ()\n【turn802115view0】 [wordlim: 200] Source: open({\"ref_id\":\"https://96ut.com/stock/jikei.php?code=4370&year=2026\",\"lineno\":95}); Total lines: 1\nL0: URL https://96ut.com/stock/jikei.php?code=4370&year=2026 is not accessible via this tool.\n"
+    }
+  ],
+  "isError": false
+}

@@ -4,12 +4,13 @@
   "standard_trading_days_per_batch": 3,
   "count_across_phases": true,
   "count_final_short_batch_as_one": true,
-  "completed_batches_in_chat": 1,
+  "completed_batches_in_chat": 2,
   "completed_batch_ids_in_chat": [
-    "july_prediction_batch06"
+    "july_prediction_batch06",
+    "july_prediction_batch07"
   ],
   "counting_starts": "current_new_chat",
   "next_authorized_batch": [],
   "handoff_prepared": false,
-  "note": "引き継ぎ後の新チャットで7/23・24・27を完了し1回。次の7/28・29・30は続行回答待ち。予測比較・不的中原因分析をまたいで7回ごとに引き継ぐ。"
+  "note": "新チャットで第6・7回を完了し2/7。次の7/31（最終1日）は続行回答待ち。予測比較・不的中原因分析をまたいで7回ごとに引き継ぐ。"
 }

@@ -1,0 +1,21 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": " (https://www2.jpx.co.jp/disc/60420/140120260723598701.pdf)\n【turn123448view0】<<ImageDisplayed>>"
+    }
+  ],
+  "visual_verified": {
+    "date": "2026-07-29",
+    "company": "株式会社ニッキ",
+    "interim_ordinary_profit_million_yen": [
+      400,
+      600
+    ],
+    "full_year_ordinary_profit_million_yen": [
+      650,
+      750
+    ],
+    "method": "原PDF第1ページ画像を目視確認。テキスト抽出文字化けを補完。"
+  }
+}
