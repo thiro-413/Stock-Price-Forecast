@@ -1,0 +1,2716 @@
+{
+  "note": "予測30件と実績上位10の30件を役割別に記録。的中4件は両方に現れ、誤りはFP26＋FN26＝52件。candidate_rankは部分母集団の採点順位であり全市場順位ではない。",
+  "records": [
+    {
+      "date": "2026-07-01",
+      "role": "prediction",
+      "status": "hit",
+      "code": "6522",
+      "name": "アスタリスク",
+      "predicted_rank": 1,
+      "actual_rank": 9,
+      "candidate_rank": 1,
+      "score": 6.913,
+      "components": {
+        "material": 3,
+        "momentum": 2.913,
+        "market": 1,
+        "dilution": 0,
+        "negative": 0,
+        "margin": 0
+      },
+      "previous_return_pct": 29.13,
+      "missing_momentum": false,
+      "actual_return_pct": 17.29323308270676,
+      "top10_return_boundary_pct": 16.260162601626018,
+      "return_gap_to_boundary_pct": 1.0330704810807418,
+      "mechanism": "hit",
+      "observation": "RFID展開の初回材料3点と前日29.13%で採用、17.29%上昇し的中。翌日の反応や寄付での購入可能性まで保証しない。",
+      "identified_event_timing": "see_sealed_evidence",
+      "timing_applies_to_event_only": true,
+      "economic_cause_status": "not_identified",
+      "hypothesis": "材料種別・鮮度・期待差・市場反応の区別が必要。売却動機と寄与率は未確定。",
+      "evidence_files": [
+        "data/july_inputs/2026-07-01.json",
+        "results/july_evaluations/2026-07-01.json"
+      ],
+      "source_ids": [],
+      "sources": [
+        {
+          "id": "price_2026-06-30",
+          "url": "https://kabu.kininew.net/fiveup/7898.html",
+          "available_at": "2026-06-30T23:59:59+09:00",
+          "version_verified": true,
+          "timestamp_evidence": "前営業日の引け後公表日付き価格表。日付精度のため当日末を採用。動的関連欄は不使用。全原票による完全性保証はなし。",
+          "role": "predictor"
+        },
+        {
+          "id": "release_6522_2026-07-01",
+          "url": "https://prtimes.jp/main/html/rd/p/000000058.000031440.html",
+          "available_at": "2026-06-30T12:00:59+09:00",
+          "version_verified": true,
+          "timestamp_evidence": "公式PR6/30 12:00と当日報道を照合。6/30朝には未公開、最初の8:30入力日は7/1",
+          "role": "predictor"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-01",
+      "role": "prediction",
+      "status": "false_positive",
+      "code": "192A",
+      "name": "インテグループ",
+      "predicted_rank": 2,
+      "actual_rank": null,
+      "candidate_rank": 2,
+      "score": 6,
+      "components": {
+        "material": 5,
+        "momentum": 0,
+        "market": 1,
+        "dilution": 0,
+        "negative": 0,
+        "margin": 0
+      },
+      "previous_return_pct": null,
+      "missing_momentum": true,
+      "actual_return_pct": 11.601307189542487,
+      "top10_return_boundary_pct": 16.260162601626018,
+      "return_gap_to_boundary_pct": -4.658855412083531,
+      "mechanism": "rank_target",
+      "observation": "翌期経常149.5%増見通し・初配当という原材料は確認済み。11.60%上昇したが当日10位16.26%に未達。方向予測の失敗とは区別。",
+      "identified_event_timing": "see_sealed_evidence",
+      "timing_applies_to_event_only": true,
+      "economic_cause_status": "not_identified",
+      "hypothesis": "材料種別・鮮度・期待差・市場反応の区別が必要。売却動機と寄与率は未確定。",
+      "evidence_files": [
+        "data/july_inputs/2026-07-01.json",
+        "results/july_evaluations/2026-07-01.json"
+      ],
+      "source_ids": [],
+      "sources": [
+        {
+          "id": "release_192A_2026-07-01",
+          "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260630/20260629583893.pdf",
+          "available_at": "2026-06-30T15:30:59+09:00",
+          "version_verified": true,
+          "timestamp_evidence": "TDnet転載PDFの6/30日付と翌期経常318百万円149.5%増・配当50円を確認。Yahoo開示一覧15:30と当時記事を照合",
+          "role": "predictor"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-01",
+      "role": "prediction",
+      "status": "false_positive",
+      "code": "3494",
+      "name": "マリオン",
+      "predicted_rank": 3,
+      "actual_rank": null,
+      "candidate_rank": 3,
+      "score": 6,
+      "components": {
+        "material": 5,
+        "momentum": 0,
+        "market": 1,
+        "dilution": 0,
+        "negative": 0,
+        "margin": 0
+      },
+      "previous_return_pct": null,
+      "missing_momentum": true,
+      "actual_return_pct": 2.2727272727272707,
+      "top10_return_boundary_pct": 16.260162601626018,
+      "return_gap_to_boundary_pct": -13.987435328898748,
+      "mechanism": "coarse_material",
+      "observation": "経常予想の増額は2.5%で、増額後も前年比減益。業績改善を一律5点とするため高順位だが、上昇は2.27%。小幅修正と大幅修正を同点にする設計上の区別不足。",
+      "identified_event_timing": "see_sealed_evidence",
+      "timing_applies_to_event_only": true,
+      "economic_cause_status": "not_identified",
+      "hypothesis": "材料種別・鮮度・期待差・市場反応の区別が必要。売却動機と寄与率は未確定。",
+      "evidence_files": [
+        "data/july_inputs/2026-07-01.json",
+        "results/july_evaluations/2026-07-01.json"
+      ],
+      "source_ids": [],
+      "sources": [
+        {
+          "id": "release_3494_2026-07-01",
+          "url": "https://assets.minkabu.jp/news/article_media_content/urn:newsml:tdnet.info:20260626581900/140120260626581900.pdf",
+          "available_at": "2026-06-30T15:30:59+09:00",
+          "version_verified": true,
+          "timestamp_evidence": "原開示6/30経常2.5%増額410百万円と増配確認。掲載時刻15:30照合。増額後も前年比減益",
+          "role": "predictor"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-01",
+      "role": "prediction",
+      "status": "false_positive",
+      "code": "4424",
+      "name": "Ａｍａｚｉａ",
+      "predicted_rank": 4,
+      "actual_rank": null,
+      "candidate_rank": 4,
+      "score": 6,
+      "components": {
+        "material": 5,
+        "momentum": 0,
+        "market": 1,
+        "dilution": 0,
+        "negative": 0,
+        "margin": 0
+      },
+      "previous_return_pct": null,
+      "missing_momentum": true,
+      "actual_return_pct": 14.634146341463406,
+      "top10_return_boundary_pct": 16.260162601626018,
+      "return_gap_to_boundary_pct": -1.6260162601626114,
+      "mechanism": "earnings_quality",
+      "observation": "主因は新株予約権戻入益で営業改善ではない。固定ルールではearnings_up5点、14.63%上昇したが上位10外。補助対象採択も引け記事にあるが、寄与率は分離不能。",
+      "identified_event_timing": "see_sealed_evidence",
+      "timing_applies_to_event_only": true,
+      "economic_cause_status": "not_identified",
+      "hypothesis": "材料種別・鮮度・期待差・市場反応の区別が必要。売却動機と寄与率は未確定。",
+      "evidence_files": [
+        "data/july_inputs/2026-07-01.json",
+        "results/july_evaluations/2026-07-01.json"
+      ],
+      "source_ids": [],
+      "sources": [
+        {
+          "id": "release_4424_2026-07-01",
+          "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260630/20260629583588.pdf",
+          "available_at": "2026-06-30T15:30:59+09:00",
+          "version_verified": true,
+          "timestamp_evidence": "6/30原開示PDFの純損失縮小を当時記事と照合。営業改善ではなく新株予約権戻入益24百万円。発行ではないため希薄化ペナルティなし",
+          "role": "predictor"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-01",
+      "role": "prediction",
+      "status": "hit",
+      "code": "5967",
+      "name": "ＴＯＮＥ",
+      "predicted_rank": 5,
+      "actual_rank": 6,
+      "candidate_rank": 5,
+      "score": 6,
+      "components": {
+        "material": 5,
+        "momentum": 0,
+        "market": 1,
+        "dilution": 0,
+        "negative": 0,
+        "margin": 0
+      },
+      "previous_return_pct": null,
+      "missing_momentum": true,
+      "actual_return_pct": 19.23076923076923,
+      "top10_return_boundary_pct": 16.260162601626018,
+      "return_gap_to_boundary_pct": 2.9706066291432123,
+      "mechanism": "hit",
+      "observation": "業績上方修正・増配を確認し採用、19.23%上昇して的中。材料の存在が同点銘柄全ての的中を意味しない対照例。",
+      "identified_event_timing": "see_sealed_evidence",
+      "timing_applies_to_event_only": true,
+      "economic_cause_status": "not_identified",
+      "hypothesis": "材料種別・鮮度・期待差・市場反応の区別が必要。売却動機と寄与率は未確定。",
+      "evidence_files": [
+        "data/july_inputs/2026-07-01.json",
+        "results/july_evaluations/2026-07-01.json"
+      ],
+      "source_ids": [],
+      "sources": [
+        {
+          "id": "release_5967_2026-07-01",
+          "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260630/20260630584524.pdf",
+          "available_at": "2026-06-30T15:30:59+09:00",
+          "version_verified": true,
+          "timestamp_evidence": "原開示の経常1180→1473百万円・増配を確認。6/30 15:30開示一覧・当時記事照合",
+          "role": "predictor"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-01",
+      "role": "prediction",
+      "status": "false_positive",
+      "code": "7487",
+      "name": "小津産業",
+      "predicted_rank": 6,
+      "actual_rank": null,
+      "candidate_rank": 6,
+      "score": 6,
+      "components": {
+        "material": 5,
+        "momentum": 0,
+        "market": 1,
+        "dilution": 0,
+        "negative": 0,
+        "margin": 0
+      },
+      "previous_return_pct": null,
+      "missing_momentum": true,
+      "actual_return_pct": 1.0158013544018019,
+      "top10_return_boundary_pct": 16.260162601626018,
+      "return_gap_to_boundary_pct": -15.244361247224216,
+      "mechanism": "coarse_material",
+      "observation": "経常670→808百万円への修正で5点。前日騰落率欠損のまま同点コード順で採用し、結果は1.02%上昇。期待との差や投資家反応を計測していない。",
+      "identified_event_timing": "see_sealed_evidence",
+      "timing_applies_to_event_only": true,
+      "economic_cause_status": "not_identified",
+      "hypothesis": "材料種別・鮮度・期待差・市場反応の区別が必要。売却動機と寄与率は未確定。",
+      "evidence_files": [
+        "data/july_inputs/2026-07-01.json",
+        "results/july_evaluations/2026-07-01.json"
+      ],
+      "source_ids": [],
+      "sources": [
+        {
+          "id": "release_7487_2026-07-01",
+          "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260630/20260629583211.pdf",
+          "available_at": "2026-06-30T17:00:59+09:00",
+          "version_verified": true,
+          "timestamp_evidence": "6/30原開示の経常670→808百万円を確認。17:00記事と開示一覧照合",
+          "role": "predictor"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-01",
+      "role": "prediction",
+      "status": "false_positive",
+      "code": "9253",
+      "name": "スローガン",
+      "predicted_rank": 7,
+      "actual_rank": null,
+      "candidate_rank": 7,
+      "score": 6,
+      "components": {
+        "material": 5,
+        "momentum": 0,
+        "market": 1,
+        "dilution": 0,
+        "negative": 0,
+        "margin": 0
+      },
+      "previous_return_pct": null,
+      "missing_momentum": true,
+      "actual_return_pct": -10.025062656641603,
+      "top10_return_boundary_pct": 16.260162601626018,
+      "return_gap_to_boundary_pct": -26.285225258267623,
+      "mechanism": "expectation_unknown",
+      "observation": "第1四半期経常3.8%増・通期修正なしに5点、結果は10.03%下落。高進捗から上方修正期待があったかは未計測で、失望売りとは断定しない。",
+      "identified_event_timing": "see_sealed_evidence",
+      "timing_applies_to_event_only": true,
+      "economic_cause_status": "not_identified",
+      "hypothesis": "材料種別・鮮度・期待差・市場反応の区別が必要。売却動機と寄与率は未確定。",
+      "evidence_files": [
+        "data/july_inputs/2026-07-01.json",
+        "results/july_evaluations/2026-07-01.json"
+      ],
+      "source_ids": [],
+      "sources": [
+        {
+          "id": "release_9253_2026-07-01",
+          "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260630/20260629583871.pdf",
+          "available_at": "2026-06-30T15:30:59+09:00",
+          "version_verified": true,
+          "timestamp_evidence": "原開示6/30第1四半期経常314百万円3.8%増・通期297を確認。開示一覧15:30照合。通期修正なし",
+          "role": "predictor"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-01",
+      "role": "prediction",
+      "status": "false_positive",
+      "code": "2685",
+      "name": "アンドエスティＨＤ",
+      "predicted_rank": 8,
+      "actual_rank": null,
+      "candidate_rank": 8,
+      "score": 5,
+      "components": {
+        "material": 5,
+        "momentum": 0,
+        "market": 0,
+        "dilution": 0,
+        "negative": 0,
+        "margin": 0
+      },
+      "previous_return_pct": null,
+      "missing_momentum": true,
+      "actual_return_pct": -2.741702741702745,
+      "top10_return_boundary_pct": 16.260162601626018,
+      "return_gap_to_boundary_pct": -19.001865343328763,
+      "mechanism": "expectation_unknown",
+      "observation": "第1四半期経常増益を5点としたが2.74%下落。コンセンサス・既存店動向等を比較しておらず、増益と株価サプライズを同一視できない。",
+      "identified_event_timing": "see_sealed_evidence",
+      "timing_applies_to_event_only": true,
+      "economic_cause_status": "not_identified",
+      "hypothesis": "材料種別・鮮度・期待差・市場反応の区別が必要。売却動機と寄与率は未確定。",
+      "evidence_files": [
+        "data/july_inputs/2026-07-01.json",
+        "results/july_evaluations/2026-07-01.json"
+      ],
+      "source_ids": [],
+      "sources": [
+        {
+          "id": "release_2685_2026-07-01",
+          "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260630/20260626582474.pdf",
+          "available_at": "2026-06-30T15:30:59+09:00",
+          "version_verified": true,
+          "timestamp_evidence": "6/30原開示第1四半期経常増益を確認。15:30決算記事と開示一覧照合",
+          "role": "predictor"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-01",
+      "role": "prediction",
+      "status": "false_positive",
+      "code": "2926",
+      "name": "篠崎屋",
+      "predicted_rank": 9,
+      "actual_rank": null,
+      "candidate_rank": 9,
+      "score": 5,
+      "components": {
+        "material": 4,
+        "momentum": 0,
+        "market": 1,
+        "dilution": 0,
+        "negative": 0,
+        "margin": 0
+      },
+      "previous_return_pct": null,
+      "missing_momentum": true,
+      "actual_return_pct": 0.0,
+      "top10_return_boundary_pct": 16.260162601626018,
+      "return_gap_to_boundary_pct": -16.260162601626018,
+      "mechanism": "coarse_material",
+      "observation": "復配3円を4点、市場1点で採用したが終値101円のまま。復配という分類は正しくても、配当の新規性・事前期待・売買需給は定量入力にない。",
+      "identified_event_timing": "see_sealed_evidence",
+      "timing_applies_to_event_only": true,
+      "economic_cause_status": "not_identified",
+      "hypothesis": "材料種別・鮮度・期待差・市場反応の区別が必要。売却動機と寄与率は未確定。",
+      "evidence_files": [
+        "data/july_inputs/2026-07-01.json",
+        "results/july_evaluations/2026-07-01.json"
+      ],
+      "source_ids": [],
+      "sources": [
+        {
+          "id": "release_2926_2026-07-01",
+          "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260630/20260629583313.pdf",
+          "available_at": "2026-06-30T15:30:59+09:00",
+          "version_verified": true,
+          "timestamp_evidence": "6/30原開示の復配3円を確認、同時刻TDnet一覧・当時記事照合",
+          "role": "predictor"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-01",
+      "role": "prediction",
+      "status": "false_positive",
+      "code": "2975",
+      "name": "スター・マイカ・ホールディングス",
+      "predicted_rank": 10,
+      "actual_rank": null,
+      "candidate_rank": 10,
+      "score": 5,
+      "components": {
+        "material": 5,
+        "momentum": 0,
+        "market": 0,
+        "dilution": 0,
+        "negative": 0,
+        "margin": 0
+      },
+      "previous_return_pct": null,
+      "missing_momentum": true,
+      "actual_return_pct": -10.192666252330639,
+      "top10_return_boundary_pct": 16.260162601626018,
+      "return_gap_to_boundary_pct": -26.452828853956657,
+      "mechanism": "expectation_unknown",
+      "observation": "中間経常増益を5点で採用したが10.19%下落。利益の前年対比だけでは市場期待との差を説明できず、織り込みや利益確定は仮説に留める。",
+      "identified_event_timing": "see_sealed_evidence",
+      "timing_applies_to_event_only": true,
+      "economic_cause_status": "not_identified",
+      "hypothesis": "材料種別・鮮度・期待差・市場反応の区別が必要。売却動機と寄与率は未確定。",
+      "evidence_files": [
+        "data/july_inputs/2026-07-01.json",
+        "results/july_evaluations/2026-07-01.json"
+      ],
+      "source_ids": [],
+      "sources": [
+        {
+          "id": "release_2975_2026-07-01",
+          "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260630/20260629582825.pdf",
+          "available_at": "2026-06-30T15:30:59+09:00",
+          "version_verified": true,
+          "timestamp_evidence": "原開示6/30中間期経常増益と15:30開示一覧を照合",
+          "role": "predictor"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-01",
+      "role": "actual_top10",
+      "status": "false_negative",
+      "code": "4833",
+      "name": "Ｄｅｆコン",
+      "predicted_rank": null,
+      "actual_rank": 1,
+      "candidate_rank": 24,
+      "score": 2.212,
+      "components": {
+        "material": 0,
+        "momentum": 1.212,
+        "market": 1,
+        "dilution": 0,
+        "negative": 0,
+        "margin": 0
+      },
+      "previous_return_pct": 12.12,
+      "missing_momentum": false,
+      "actual_return_pct": 54.054054054054056,
+      "top10_return_boundary_pct": 16.260162601626018,
+      "score_gap_to_tenth": 2.788,
+      "selection_stage": "eligible_below_top10",
+      "mechanism": "material_capture",
+      "observation": "6/30 16:00の業績予想公表は当時の取得済みダイジェストにも載っていたが、入力には原開示・材料が未付与。今回原PDFで経常172～2513百万円を確認。勢いのみ2.212点では24位。情報未公開ではなく材料照合・反映漏れ。",
+      "identified_event_timing": "known_before_cutoff",
+      "timing_applies_to_event_only": true,
+      "economic_cause_status": "not_identified",
+      "hypothesis": "未取得情報・場中材料・分類不足・需給/地合いを区別し、未照合の因果は保留。",
+      "evidence_files": [
+        "data/july_inputs/2026-07-01.json",
+        "results/july_scores/2026-07-01.json",
+        "data/july_actuals/2026-07-01.json",
+        "evidence/je1_primary_checks.json",
+        "evidence/july_start_j1_inputs02.json"
+      ],
+      "source_ids": [
+        "def",
+        "digest01"
+      ],
+      "sources": [
+        {
+          "url": "https://tdnet-pdf.kabutan.jp/20260630/140120260626581691.pdf",
+          "published_at": "2026-06-30T16:00:59+09:00",
+          "verification": "原PDF＋当時記事。レンジ中央値を確定値としない。"
+        },
+        {
+          "url": "https://s.kabutan.jp/news/n202606301113/",
+          "published_at": "2026-06-30T20:00:59+09:00",
+          "verification": "保存済み当時ニュースで4833の掲載確認。"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-01",
+      "role": "actual_top10",
+      "status": "false_negative",
+      "code": "9425",
+      "name": "ＲｅＹｕｕ",
+      "predicted_rank": null,
+      "actual_rank": 2,
+      "candidate_rank": null,
+      "score": null,
+      "components": null,
+      "previous_return_pct": null,
+      "missing_momentum": null,
+      "actual_return_pct": 30.303030303030305,
+      "top10_return_boundary_pct": 16.260162601626018,
+      "score_gap_to_tenth": null,
+      "selection_stage": "absent_from_union",
+      "mechanism": "universe_capture",
+      "observation": "6/30 18:00企業発信で蓄電池設備・土地の権利取得を確認したが当日候補に不在。長期保有運用目的ではなく権利譲渡による収益化であり、7/1・2の別会社株式取得MOUと区別。",
+      "identified_event_timing": "known_before_cutoff",
+      "timing_applies_to_event_only": true,
+      "economic_cause_status": "not_identified",
+      "hypothesis": "未取得情報・場中材料・分類不足・需給/地合いを区別し、未照合の因果は保留。",
+      "evidence_files": [
+        "data/july_inputs/2026-07-01.json",
+        "results/july_scores/2026-07-01.json",
+        "data/july_actuals/2026-07-01.json",
+        "evidence/je1_primary_discovery.json"
+      ],
+      "source_ids": [
+        "reyuu"
+      ],
+      "sources": [
+        {
+          "url": "https://prtimes.jp/main/html/rd/p/000000091.000111823.html",
+          "published_at": "2026-06-30T18:00:59+09:00",
+          "verification": "企業発信。TDnet一覧は16:00、ここでは確認したPR18:00を採用。"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-01",
+      "role": "actual_top10",
+      "status": "false_negative",
+      "code": "7041",
+      "name": "ＣＲＧＨＤ",
+      "predicted_rank": null,
+      "actual_rank": 3,
+      "candidate_rank": null,
+      "score": null,
+      "components": null,
+      "previous_return_pct": null,
+      "missing_momentum": null,
+      "actual_return_pct": 29.9625468164794,
+      "top10_return_boundary_pct": 16.260162601626018,
+      "score_gap_to_tenth": null,
+      "selection_stage": "absent_from_union",
+      "mechanism": "intraday_event",
+      "observation": "優待導入の原PDFは7/1日付、開示一覧15:00と当時15:50記事で場中公表を確認。08:30にはこの新材料は利用不可。他の予兆まで存在しなかったとは断定しない。",
+      "identified_event_timing": "after_cutoff",
+      "timing_applies_to_event_only": true,
+      "economic_cause_status": "not_identified",
+      "hypothesis": "未取得情報・場中材料・分類不足・需給/地合いを区別し、未照合の因果は保留。",
+      "evidence_files": [
+        "data/july_inputs/2026-07-01.json",
+        "results/july_scores/2026-07-01.json",
+        "data/july_actuals/2026-07-01.json",
+        "evidence/je1_timing_verification.json"
+      ],
+      "source_ids": [
+        "crg"
+      ],
+      "sources": [
+        {
+          "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260701/20260630584902.pdf",
+          "published_at": "2026-07-01T15:00:59+09:00",
+          "verification": "原PDF＋取得一覧と当時記事。"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-01",
+      "role": "actual_top10",
+      "status": "false_negative",
+      "code": "7815",
+      "name": "東京ボード",
+      "predicted_rank": null,
+      "actual_rank": 4,
+      "candidate_rank": 14,
+      "score": 3.614,
+      "components": {
+        "material": 0,
+        "momentum": 2.614,
+        "market": 1,
+        "dilution": 0,
+        "negative": 0,
+        "margin": 0
+      },
+      "previous_return_pct": 26.14,
+      "missing_momentum": false,
+      "actual_return_pct": 27.202072538860104,
+      "top10_return_boundary_pct": 16.260162601626018,
+      "score_gap_to_tenth": 1.3860000000000001,
+      "selection_stage": "eligible_below_top10",
+      "mechanism": "material_capture",
+      "observation": "候補14位、前日26.14%の勢いのみ3.614点。6/26不動産売却・特別利益の当時報道はあるが入力に材料なし。原開示の独立再確認は未了で、材料不足と持続性の仮説を分ける。",
+      "identified_event_timing": "older_event_reported",
+      "timing_applies_to_event_only": true,
+      "economic_cause_status": "not_identified",
+      "hypothesis": "未取得情報・場中材料・分類不足・需給/地合いを区別し、未照合の因果は保留。",
+      "evidence_files": [
+        "data/july_inputs/2026-07-01.json",
+        "results/july_scores/2026-07-01.json",
+        "data/july_actuals/2026-07-01.json",
+        "evidence/je1_market_context.json"
+      ],
+      "source_ids": [
+        "old_news"
+      ],
+      "sources": [
+        {
+          "url": "https://s.kabutan.jp/news/n202606290017/",
+          "published_at": "2026-06-29",
+          "verification": "当時記事による二次確認、原開示再照合未了。"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-01",
+      "role": "actual_top10",
+      "status": "false_negative",
+      "code": "589A",
+      "name": "ネイス",
+      "predicted_rank": null,
+      "actual_rank": 5,
+      "candidate_rank": null,
+      "score": null,
+      "components": null,
+      "previous_return_pct": null,
+      "missing_momentum": null,
+      "actual_return_pct": 22.52252252252252,
+      "top10_return_boundary_pct": 16.260162601626018,
+      "score_gap_to_tenth": null,
+      "selection_stage": "absent_from_union",
+      "mechanism": "universe_design",
+      "observation": "6/30上場のIPO翌日。前日の初値・終値はあっても前々日の終値がなく、前日比5%以上表では拾いにくい。取得ニュース側も補完しなかった。IPO継続枠の網羅性不足、公開価格比を前日比へ代入しない。",
+      "identified_event_timing": "known_ipo_date_secondary",
+      "timing_applies_to_event_only": true,
+      "economic_cause_status": "not_identified",
+      "hypothesis": "未取得情報・場中材料・分類不足・需給/地合いを区別し、未照合の因果は保留。",
+      "evidence_files": [
+        "data/july_inputs/2026-07-01.json",
+        "results/july_scores/2026-07-01.json",
+        "data/july_actuals/2026-07-01.json",
+        "evidence/je1_context.json"
+      ],
+      "source_ids": [
+        "stop01"
+      ],
+      "sources": [
+        {
+          "url": "https://kabu.kininew.net/stopdaka/7905.html",
+          "published_at": "2026-07-01",
+          "verification": "当日後の個人集計。材料欄は因果の証明ではない。"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-01",
+      "role": "actual_top10",
+      "status": "hit",
+      "code": "5967",
+      "name": "ＴＯＮＥ",
+      "predicted_rank": 5,
+      "actual_rank": 6,
+      "candidate_rank": 5,
+      "score": 6,
+      "components": {
+        "material": 5,
+        "momentum": 0,
+        "market": 1,
+        "dilution": 0,
+        "negative": 0,
+        "margin": 0
+      },
+      "previous_return_pct": null,
+      "missing_momentum": true,
+      "actual_return_pct": 19.23076923076923,
+      "top10_return_boundary_pct": 16.260162601626018,
+      "score_gap_to_tenth": -1,
+      "selection_stage": "selected",
+      "mechanism": "hit",
+      "observation": "業績上方修正・増配を確認し採用、19.23%上昇して的中。材料の存在が同点銘柄全ての的中を意味しない対照例。",
+      "identified_event_timing": "known_before_cutoff",
+      "timing_applies_to_event_only": true,
+      "economic_cause_status": "not_identified",
+      "hypothesis": "未取得情報・場中材料・分類不足・需給/地合いを区別し、未照合の因果は保留。",
+      "evidence_files": [
+        "data/july_inputs/2026-07-01.json",
+        "results/july_scores/2026-07-01.json",
+        "data/july_actuals/2026-07-01.json"
+      ],
+      "source_ids": [],
+      "sources": []
+    },
+    {
+      "date": "2026-07-01",
+      "role": "actual_top10",
+      "status": "false_negative",
+      "code": "7063",
+      "name": "バードマン",
+      "predicted_rank": null,
+      "actual_rank": 7,
+      "candidate_rank": null,
+      "score": null,
+      "components": null,
+      "previous_return_pct": null,
+      "missing_momentum": null,
+      "actual_return_pct": 18.75,
+      "top10_return_boundary_pct": 16.260162601626018,
+      "score_gap_to_tenth": null,
+      "selection_stage": "absent_from_union",
+      "mechanism": "universe_unknown",
+      "observation": "候補不在。7/1の事務所設立について企業発信は確認できるが公開時刻未確定。7/2の蓄電池開示を1日の原因へ遡って使わない。1日の上昇原因・朝の利用可能性は未確定。",
+      "identified_event_timing": "timing_unresolved",
+      "timing_applies_to_event_only": true,
+      "economic_cause_status": "not_identified",
+      "hypothesis": "未取得情報・場中材料・分類不足・需給/地合いを区別し、未照合の因果は保留。",
+      "evidence_files": [
+        "data/july_inputs/2026-07-01.json",
+        "results/july_scores/2026-07-01.json",
+        "data/july_actuals/2026-07-01.json",
+        "evidence/je1_older_events.json"
+      ],
+      "source_ids": [
+        "birdman_old"
+      ],
+      "sources": [
+        {
+          "url": "https://birdman.tokyo/news-category/entertainment-next/",
+          "published_at": "2026-07-01 date only",
+          "verification": "企業ページで設立日確認。公開時刻と独立した初回本文版は不明。"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-01",
+      "role": "actual_top10",
+      "status": "false_negative",
+      "code": "3436",
+      "name": "ＳＵＭＣＯ",
+      "predicted_rank": null,
+      "actual_rank": 8,
+      "candidate_rank": null,
+      "score": null,
+      "components": null,
+      "previous_return_pct": null,
+      "missing_momentum": null,
+      "actual_return_pct": 17.37403822288409,
+      "top10_return_boundary_pct": 16.260162601626018,
+      "score_gap_to_tenth": null,
+      "selection_stage": "absent_from_union",
+      "mechanism": "sector_coverage",
+      "observation": "候補不在。引け後の材料表は半導体テーマへの波及と説明するが、朝の海外材料・セクター感応度を独立検証していない。テーマは事後仮説で買い需要の因果は不明。",
+      "identified_event_timing": "timing_unresolved",
+      "timing_applies_to_event_only": true,
+      "economic_cause_status": "not_identified",
+      "hypothesis": "未取得情報・場中材料・分類不足・需給/地合いを区別し、未照合の因果は保留。",
+      "evidence_files": [
+        "data/july_inputs/2026-07-01.json",
+        "results/july_scores/2026-07-01.json",
+        "data/july_actuals/2026-07-01.json",
+        "evidence/je1_context.json"
+      ],
+      "source_ids": [
+        "stop01"
+      ],
+      "sources": [
+        {
+          "url": "https://kabu.kininew.net/stopdaka/7905.html",
+          "published_at": "2026-07-01",
+          "verification": "当日後の個人集計。材料欄は因果の証明ではない。"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-01",
+      "role": "actual_top10",
+      "status": "hit",
+      "code": "6522",
+      "name": "アスタリスク",
+      "predicted_rank": 1,
+      "actual_rank": 9,
+      "candidate_rank": 1,
+      "score": 6.913,
+      "components": {
+        "material": 3,
+        "momentum": 2.913,
+        "market": 1,
+        "dilution": 0,
+        "negative": 0,
+        "margin": 0
+      },
+      "previous_return_pct": 29.13,
+      "missing_momentum": false,
+      "actual_return_pct": 17.293233082706767,
+      "top10_return_boundary_pct": 16.260162601626018,
+      "score_gap_to_tenth": -1.9130000000000003,
+      "selection_stage": "selected",
+      "mechanism": "hit",
+      "observation": "RFID展開の初回材料3点と前日29.13%で採用、17.29%上昇し的中。翌日の反応や寄付での購入可能性まで保証しない。",
+      "identified_event_timing": "known_before_cutoff",
+      "timing_applies_to_event_only": true,
+      "economic_cause_status": "not_identified",
+      "hypothesis": "未取得情報・場中材料・分類不足・需給/地合いを区別し、未照合の因果は保留。",
+      "evidence_files": [
+        "data/july_inputs/2026-07-01.json",
+        "results/july_scores/2026-07-01.json",
+        "data/july_actuals/2026-07-01.json"
+      ],
+      "source_ids": [],
+      "sources": []
+    },
+    {
+      "date": "2026-07-01",
+      "role": "actual_top10",
+      "status": "false_negative",
+      "code": "5942",
+      "name": "フイルコン",
+      "predicted_rank": null,
+      "actual_rank": 10,
+      "candidate_rank": null,
+      "score": null,
+      "components": null,
+      "previous_return_pct": null,
+      "missing_momentum": null,
+      "actual_return_pct": 16.260162601626018,
+      "top10_return_boundary_pct": 16.260162601626018,
+      "score_gap_to_tenth": null,
+      "selection_stage": "absent_from_union",
+      "mechanism": "intraday_event",
+      "observation": "7/1 14:00の業績修正を原開示・一覧・当時記事で確認。朝の入力外の場中材料。翌2日には取得できたが予測1位から反落した。",
+      "identified_event_timing": "after_cutoff",
+      "timing_applies_to_event_only": true,
+      "economic_cause_status": "not_identified",
+      "hypothesis": "未取得情報・場中材料・分類不足・需給/地合いを区別し、未照合の因果は保留。",
+      "evidence_files": [
+        "data/july_inputs/2026-07-01.json",
+        "results/july_scores/2026-07-01.json",
+        "data/july_actuals/2026-07-01.json",
+        "data/july_releases_02.json"
+      ],
+      "source_ids": [
+        "filcon"
+      ],
+      "sources": [
+        {
+          "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260701/20260701585367.pdf",
+          "published_at": "2026-07-01T14:00:59+09:00",
+          "verification": "7/1原開示PDF本文・日付とTDnet転載一覧時刻を照合。場中14時上方修正。7/1朝には不可、初回入力7/2。"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-02",
+      "role": "prediction",
+      "status": "false_positive",
+      "code": "5942",
+      "name": "フイルコン",
+      "predicted_rank": 1,
+      "actual_rank": null,
+      "candidate_rank": 1,
+      "score": 7.626,
+      "components": {
+        "material": 5,
+        "momentum": 1.6260000000000001,
+        "market": 1,
+        "dilution": 0,
+        "negative": 0,
+        "margin": 0
+      },
+      "previous_return_pct": 16.26,
+      "missing_momentum": false,
+      "actual_return_pct": -9.370629370629368,
+      "top10_return_boundary_pct": 15.27599486521181,
+      "return_gap_to_boundary_pct": -24.64662423584118,
+      "mechanism": "reaction_lag",
+      "observation": "7/1 14:00発表後に当日16.26%上昇。翌朝に新鮮な材料5点と前日上昇点を重ねて1位としたが、7/2は9.37%下落。朝の初回採用日と市場の初回反応日が異なる設計上の問題。売却動機は不明。",
+      "identified_event_timing": "see_sealed_evidence",
+      "timing_applies_to_event_only": true,
+      "economic_cause_status": "not_identified",
+      "hypothesis": "材料種別・鮮度・期待差・市場反応の区別が必要。売却動機と寄与率は未確定。",
+      "evidence_files": [
+        "data/july_inputs/2026-07-02.json",
+        "results/july_evaluations/2026-07-02.json"
+      ],
+      "source_ids": [],
+      "sources": [
+        {
+          "id": "price_2026-07-01",
+          "url": "https://kabu.kininew.net/fiveup/7907.html",
+          "available_at": "2026-07-01T23:59:59+09:00",
+          "version_verified": true,
+          "timestamp_evidence": "前営業日の引け後公表日付き価格表。日付精度のため当日末を採用。動的関連欄は不使用。全原票による完全性保証はなし。",
+          "role": "predictor"
+        },
+        {
+          "id": "release_5942_2026-07-02",
+          "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260701/20260701585367.pdf",
+          "available_at": "2026-07-01T14:00:59+09:00",
+          "version_verified": true,
+          "timestamp_evidence": "7/1原開示PDF本文・日付とTDnet転載一覧時刻を照合。場中14時上方修正。7/1朝には不可、初回入力7/2。",
+          "role": "predictor"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-02",
+      "role": "prediction",
+      "status": "false_positive",
+      "code": "9425",
+      "name": "ＲｅＹｕｕ",
+      "predicted_rank": 2,
+      "actual_rank": null,
+      "candidate_rank": 2,
+      "score": 6,
+      "components": {
+        "material": 2,
+        "momentum": 3,
+        "market": 1,
+        "dilution": 0,
+        "negative": 0,
+        "margin": 0
+      },
+      "previous_return_pct": 30.3,
+      "missing_momentum": false,
+      "actual_return_pct": -2.3255813953488413,
+      "top10_return_boundary_pct": 15.27599486521181,
+      "return_gap_to_boundary_pct": -17.601576260560652,
+      "mechanism": "reaction_lag",
+      "observation": "前日30.30%上昇の勢い3点と7/1のネクスト・セキュリティ基本合意2点で採用し2.33%下落。前日上昇の報道材料は6/30蓄電池権利取得で、別材料を混同しない。",
+      "identified_event_timing": "see_sealed_evidence",
+      "timing_applies_to_event_only": true,
+      "economic_cause_status": "not_identified",
+      "hypothesis": "材料種別・鮮度・期待差・市場反応の区別が必要。売却動機と寄与率は未確定。",
+      "evidence_files": [
+        "data/july_inputs/2026-07-02.json",
+        "results/july_evaluations/2026-07-02.json"
+      ],
+      "source_ids": [],
+      "sources": [
+        {
+          "id": "price_2026-07-01",
+          "url": "https://kabu.kininew.net/fiveup/7907.html",
+          "available_at": "2026-07-01T23:59:59+09:00",
+          "version_verified": true,
+          "timestamp_evidence": "前営業日の引け後公表日付き価格表。日付精度のため当日末を採用。動的関連欄は不使用。全原票による完全性保証はなし。",
+          "role": "predictor"
+        },
+        {
+          "id": "release_9425_2026-07-02",
+          "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260701/20260701586030.pdf",
+          "available_at": "2026-07-01T16:00:59+09:00",
+          "version_verified": true,
+          "timestamp_evidence": "7/1原開示PDF本文・日付とTDnet転載一覧時刻を照合。非拘束の株式取得基本合意。確定買収として扱わずMOU2点。完了予定は将来。",
+          "role": "predictor"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-02",
+      "role": "prediction",
+      "status": "false_positive",
+      "code": "464A",
+      "name": "ＱＰＳホールディングス",
+      "predicted_rank": 3,
+      "actual_rank": null,
+      "candidate_rank": 3,
+      "score": 6,
+      "components": {
+        "material": 5,
+        "momentum": 0,
+        "market": 1,
+        "dilution": 0,
+        "negative": 0,
+        "margin": 0
+      },
+      "previous_return_pct": null,
+      "missing_momentum": true,
+      "actual_return_pct": 3.9308176100628867,
+      "top10_return_boundary_pct": 15.27599486521181,
+      "return_gap_to_boundary_pct": -11.345177255148924,
+      "mechanism": "earnings_quality",
+      "observation": "経常600→1100百万円だが補助金計上前倒し等で営業赤字は残る。5点で採用し3.93%上昇、上位10外。経常増額の質・継続性を分けない設計。",
+      "identified_event_timing": "see_sealed_evidence",
+      "timing_applies_to_event_only": true,
+      "economic_cause_status": "not_identified",
+      "hypothesis": "材料種別・鮮度・期待差・市場反応の区別が必要。売却動機と寄与率は未確定。",
+      "evidence_files": [
+        "data/july_inputs/2026-07-02.json",
+        "results/july_evaluations/2026-07-02.json"
+      ],
+      "source_ids": [],
+      "sources": [
+        {
+          "id": "release_464A_2026-07-02",
+          "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260701/20260701586130.pdf",
+          "available_at": "2026-07-01T16:00:59+09:00",
+          "version_verified": true,
+          "timestamp_evidence": "7/1原開示PDF本文・日付とTDnet転載一覧時刻を照合。経常600→1100百万円。補助金計上前倒し等、営業赤字は残る。",
+          "role": "predictor"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-02",
+      "role": "prediction",
+      "status": "hit",
+      "code": "4918",
+      "name": "アイビー化粧品",
+      "predicted_rank": 4,
+      "actual_rank": 7,
+      "candidate_rank": 4,
+      "score": 6,
+      "components": {
+        "material": 5,
+        "momentum": 0,
+        "market": 1,
+        "dilution": 0,
+        "negative": 0,
+        "margin": 0
+      },
+      "previous_return_pct": null,
+      "missing_momentum": true,
+      "actual_return_pct": 18.983050847457616,
+      "top10_return_boundary_pct": 15.27599486521181,
+      "return_gap_to_boundary_pct": 3.707055982245805,
+      "mechanism": "hit",
+      "observation": "経常200→330百万円への増額を初回5点で採用、18.98%上昇し的中。業績改善の全例が外れたわけではない。",
+      "identified_event_timing": "see_sealed_evidence",
+      "timing_applies_to_event_only": true,
+      "economic_cause_status": "not_identified",
+      "hypothesis": "材料種別・鮮度・期待差・市場反応の区別が必要。売却動機と寄与率は未確定。",
+      "evidence_files": [
+        "data/july_inputs/2026-07-02.json",
+        "results/july_evaluations/2026-07-02.json"
+      ],
+      "source_ids": [],
+      "sources": [
+        {
+          "id": "release_4918_2026-07-02",
+          "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260701/20260629583787.pdf",
+          "available_at": "2026-07-01T16:00:59+09:00",
+          "version_verified": true,
+          "timestamp_evidence": "7/1原開示PDF本文・日付とTDnet転載一覧時刻を照合。経常200→330百万円。原材料確保・記念新製品発売見通し。",
+          "role": "predictor"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-02",
+      "role": "prediction",
+      "status": "false_positive",
+      "code": "7781",
+      "name": "平山ホールディングス",
+      "predicted_rank": 5,
+      "actual_rank": null,
+      "candidate_rank": 5,
+      "score": 6,
+      "components": {
+        "material": 5,
+        "momentum": 0,
+        "market": 1,
+        "dilution": 0,
+        "negative": 0,
+        "margin": 0
+      },
+      "previous_return_pct": null,
+      "missing_momentum": true,
+      "actual_return_pct": 11.48197596795728,
+      "top10_return_boundary_pct": 15.27599486521181,
+      "return_gap_to_boundary_pct": -3.7940188972545297,
+      "mechanism": "rank_target",
+      "observation": "経常1349→1778百万円の増額を5点で採用。11.48%上昇したが10位15.28%に未達。良い方向と上位10の相対順位は別。",
+      "identified_event_timing": "see_sealed_evidence",
+      "timing_applies_to_event_only": true,
+      "economic_cause_status": "not_identified",
+      "hypothesis": "材料種別・鮮度・期待差・市場反応の区別が必要。売却動機と寄与率は未確定。",
+      "evidence_files": [
+        "data/july_inputs/2026-07-02.json",
+        "results/july_evaluations/2026-07-02.json"
+      ],
+      "source_ids": [],
+      "sources": [
+        {
+          "id": "release_7781_2026-07-02",
+          "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260701/20260701586352.pdf",
+          "available_at": "2026-07-01T17:20:59+09:00",
+          "version_verified": true,
+          "timestamp_evidence": "7/1原開示PDF本文・日付とTDnet転載一覧時刻を照合。経常1349→1778百万円。受注・効率改善等。",
+          "role": "predictor"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-02",
+      "role": "prediction",
+      "status": "false_positive",
+      "code": "6573",
+      "name": "ＣＲＡＶＩＡ",
+      "predicted_rank": 6,
+      "actual_rank": null,
+      "candidate_rank": 6,
+      "score": 5.8,
+      "components": {
+        "material": 4,
+        "momentum": 0.8,
+        "market": 1,
+        "dilution": 0,
+        "negative": 0,
+        "margin": 0
+      },
+      "previous_return_pct": 8.0,
+      "missing_momentum": false,
+      "actual_return_pct": -7.4074074074074066,
+      "top10_return_boundary_pct": 15.27599486521181,
+      "return_gap_to_boundary_pct": -22.68340227261922,
+      "mechanism": "impact_scale",
+      "observation": "広告運用受託をcontract4点。原資料で業績影響軽微と確認していたが減点規則がなく、前日8%の勢いと併せ採用、結果7.41%下落。契約金額・利益寄与の区別不足。",
+      "identified_event_timing": "see_sealed_evidence",
+      "timing_applies_to_event_only": true,
+      "economic_cause_status": "not_identified",
+      "hypothesis": "材料種別・鮮度・期待差・市場反応の区別が必要。売却動機と寄与率は未確定。",
+      "evidence_files": [
+        "data/july_inputs/2026-07-02.json",
+        "results/july_evaluations/2026-07-02.json"
+      ],
+      "source_ids": [],
+      "sources": [
+        {
+          "id": "price_2026-07-01",
+          "url": "https://kabu.kininew.net/fiveup/7907.html",
+          "available_at": "2026-07-01T23:59:59+09:00",
+          "version_verified": true,
+          "timestamp_evidence": "前営業日の引け後公表日付き価格表。日付精度のため当日末を採用。動的関連欄は不使用。全原票による完全性保証はなし。",
+          "role": "predictor"
+        },
+        {
+          "id": "release_6573_2026-07-02",
+          "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260701/20260630585301.pdf",
+          "available_at": "2026-07-01T15:30:59+09:00",
+          "version_verified": true,
+          "timestamp_evidence": "7/1原開示PDF本文・日付とTDnet転載一覧時刻を照合。広告運用受託。業績影響軽微の記載を保存。",
+          "role": "predictor"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-02",
+      "role": "prediction",
+      "status": "false_positive",
+      "code": "5967",
+      "name": "ＴＯＮＥ",
+      "predicted_rank": 7,
+      "actual_rank": null,
+      "candidate_rank": 7,
+      "score": 5.423,
+      "components": {
+        "material": 2.5,
+        "momentum": 1.923,
+        "market": 1,
+        "dilution": 0,
+        "negative": 0,
+        "margin": 0
+      },
+      "previous_return_pct": 19.23,
+      "missing_momentum": false,
+      "actual_return_pct": -3.2258064516129004,
+      "top10_return_boundary_pct": 15.27599486521181,
+      "return_gap_to_boundary_pct": -18.50180131682471,
+      "mechanism": "continuation",
+      "observation": "前日の的中後、半減した材料2.5点と前日19.23%の勢いで再採用、3.23%下落。1日の継続仮定が外れた事実は確認できるが、反落の売却主体は不明。",
+      "identified_event_timing": "see_sealed_evidence",
+      "timing_applies_to_event_only": true,
+      "economic_cause_status": "not_identified",
+      "hypothesis": "材料種別・鮮度・期待差・市場反応の区別が必要。売却動機と寄与率は未確定。",
+      "evidence_files": [
+        "data/july_inputs/2026-07-02.json",
+        "results/july_evaluations/2026-07-02.json"
+      ],
+      "source_ids": [],
+      "sources": [
+        {
+          "id": "price_2026-07-01",
+          "url": "https://kabu.kininew.net/fiveup/7907.html",
+          "available_at": "2026-07-01T23:59:59+09:00",
+          "version_verified": true,
+          "timestamp_evidence": "前営業日の引け後公表日付き価格表。日付精度のため当日末を採用。動的関連欄は不使用。全原票による完全性保証はなし。",
+          "role": "predictor"
+        },
+        {
+          "id": "release_5967_2026-07-01",
+          "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260630/20260630584524.pdf",
+          "available_at": "2026-06-30T15:30:59+09:00",
+          "version_verified": true,
+          "timestamp_evidence": "原開示の経常1180→1473百万円・増配を確認。6/30 15:30開示一覧・当時記事照合",
+          "role": "predictor"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-02",
+      "role": "prediction",
+      "status": "false_positive",
+      "code": "4167",
+      "name": "ココペリ",
+      "predicted_rank": 8,
+      "actual_rank": null,
+      "candidate_rank": 8,
+      "score": 5,
+      "components": {
+        "material": 4,
+        "momentum": 0,
+        "market": 1,
+        "dilution": 0,
+        "negative": 0,
+        "margin": 0
+      },
+      "previous_return_pct": null,
+      "missing_momentum": true,
+      "actual_return_pct": 4.982206405693956,
+      "top10_return_boundary_pct": 15.27599486521181,
+      "return_gap_to_boundary_pct": -10.293788459517854,
+      "mechanism": "rank_target",
+      "observation": "千葉信金のシステム採用をcontract4点とした。4.98%上昇したが15.28%の境界に未達。表の5%以上掲載基準と上位10判定も混同しない。",
+      "identified_event_timing": "see_sealed_evidence",
+      "timing_applies_to_event_only": true,
+      "economic_cause_status": "not_identified",
+      "hypothesis": "材料種別・鮮度・期待差・市場反応の区別が必要。売却動機と寄与率は未確定。",
+      "evidence_files": [
+        "data/july_inputs/2026-07-02.json",
+        "results/july_evaluations/2026-07-02.json"
+      ],
+      "source_ids": [],
+      "sources": [
+        {
+          "id": "release_4167_2026-07-02",
+          "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260701/20260630584864.pdf",
+          "available_at": "2026-07-01T15:30:59+09:00",
+          "version_verified": true,
+          "timestamp_evidence": "7/1原開示PDF本文・日付とTDnet転載一覧時刻を照合。千葉信金へのシステム採用・利用開始。",
+          "role": "predictor"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-02",
+      "role": "prediction",
+      "status": "false_positive",
+      "code": "4496",
+      "name": "コマースＯｎｅホールディングス",
+      "predicted_rank": 9,
+      "actual_rank": null,
+      "candidate_rank": 9,
+      "score": 5,
+      "components": {
+        "material": 4,
+        "momentum": 0,
+        "market": 1,
+        "dilution": 0,
+        "negative": 0,
+        "margin": 0
+      },
+      "previous_return_pct": null,
+      "missing_momentum": true,
+      "actual_return_pct": 1.3210039630118908,
+      "top10_return_boundary_pct": 15.27599486521181,
+      "return_gap_to_boundary_pct": -13.95499090219992,
+      "mechanism": "impact_scale",
+      "observation": "提携・サービス開始の最大4点を採用。業績影響軽微と確認していたが加点は同じで、上昇は1.32%。契約の存在と短期利益インパクトを分ける必要がある。",
+      "identified_event_timing": "see_sealed_evidence",
+      "timing_applies_to_event_only": true,
+      "economic_cause_status": "not_identified",
+      "hypothesis": "材料種別・鮮度・期待差・市場反応の区別が必要。売却動機と寄与率は未確定。",
+      "evidence_files": [
+        "data/july_inputs/2026-07-02.json",
+        "results/july_evaluations/2026-07-02.json"
+      ],
+      "source_ids": [],
+      "sources": [
+        {
+          "id": "release_4496_2026-07-02",
+          "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260701/20260701586148.pdf",
+          "available_at": "2026-07-01T15:30:59+09:00",
+          "version_verified": true,
+          "timestamp_evidence": "7/1原開示PDF本文・日付とTDnet転載一覧時刻を照合。決済業務提携契約・サービス開始。業績影響軽微。",
+          "role": "predictor"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-02",
+      "role": "prediction",
+      "status": "false_positive",
+      "code": "6239",
+      "name": "ナガオカ",
+      "predicted_rank": 10,
+      "actual_rank": null,
+      "candidate_rank": 10,
+      "score": 5,
+      "components": {
+        "material": 4,
+        "momentum": 0,
+        "market": 1,
+        "dilution": 0,
+        "negative": 0,
+        "margin": 0
+      },
+      "previous_return_pct": null,
+      "missing_momentum": true,
+      "actual_return_pct": 0.2272727272727204,
+      "top10_return_boundary_pct": 15.27599486521181,
+      "return_gap_to_boundary_pct": -15.048722137939091,
+      "mechanism": "impact_scale",
+      "observation": "子会社受注約5.7億円、納期2027年4月をcontract4点で採用。0.23%上昇に留まる。将来納期・利益率・既存受注残対比は採点にない。",
+      "identified_event_timing": "see_sealed_evidence",
+      "timing_applies_to_event_only": true,
+      "economic_cause_status": "not_identified",
+      "hypothesis": "材料種別・鮮度・期待差・市場反応の区別が必要。売却動機と寄与率は未確定。",
+      "evidence_files": [
+        "data/july_inputs/2026-07-02.json",
+        "results/july_evaluations/2026-07-02.json"
+      ],
+      "source_ids": [],
+      "sources": [
+        {
+          "id": "release_6239_2026-07-02",
+          "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260701/20260701585941.pdf",
+          "available_at": "2026-07-01T17:00:59+09:00",
+          "version_verified": true,
+          "timestamp_evidence": "7/1原開示PDF本文・日付とTDnet転載一覧時刻を照合。子会社の受注約5.7億円、納期2027年4月。",
+          "role": "predictor"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-02",
+      "role": "actual_top10",
+      "status": "false_negative",
+      "code": "7063",
+      "name": "バードマン",
+      "predicted_rank": null,
+      "actual_rank": 1,
+      "candidate_rank": 20,
+      "score": 2.875,
+      "components": {
+        "material": 0,
+        "momentum": 1.875,
+        "market": 1,
+        "dilution": 0,
+        "negative": 0,
+        "margin": 0
+      },
+      "previous_return_pct": 18.75,
+      "missing_momentum": false,
+      "actual_return_pct": 39.473684210526315,
+      "top10_return_boundary_pct": 15.27599486521181,
+      "score_gap_to_tenth": 2.125,
+      "selection_stage": "eligible_below_top10",
+      "mechanism": "intraday_event",
+      "observation": "候補20位、前日18.75%の勢いのみ2.875点。蓄電池設備完工・運用開始は7/2 11:30開示で当日朝には不可。候補内順位不足と場中新材料を分ける。",
+      "identified_event_timing": "after_cutoff",
+      "timing_applies_to_event_only": true,
+      "economic_cause_status": "not_identified",
+      "hypothesis": "未取得情報・場中材料・分類不足・需給/地合いを区別し、未照合の因果は保留。",
+      "evidence_files": [
+        "data/july_inputs/2026-07-02.json",
+        "results/july_scores/2026-07-02.json",
+        "data/july_actuals/2026-07-02.json",
+        "data/july_releases_03.json"
+      ],
+      "source_ids": [
+        "birdman"
+      ],
+      "sources": [
+        {
+          "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260702/20260702586749.pdf",
+          "published_at": "2026-07-02T11:30:59+09:00",
+          "verification": "7/2原開示本文と開示一覧・当時記事を照合。蓄電池設備完工と7/4運用開始予定。場中公表のため初回入力7/3。"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-02",
+      "role": "actual_top10",
+      "status": "false_negative",
+      "code": "7602",
+      "name": "レダックス",
+      "predicted_rank": null,
+      "actual_rank": 2,
+      "candidate_rank": null,
+      "score": null,
+      "components": null,
+      "previous_return_pct": null,
+      "missing_momentum": null,
+      "actual_return_pct": 35.46099290780142,
+      "top10_return_boundary_pct": 15.27599486521181,
+      "score_gap_to_tenth": null,
+      "selection_stage": "absent_from_union",
+      "mechanism": "universe_capture",
+      "observation": "7/1 17:20契約開示は7/2朝に利用可能だったが候補不在。旧記録も取得漏れを明記しており、原開示は3日準備時に補完済み。翌朝公表不能ではない。",
+      "identified_event_timing": "known_before_cutoff",
+      "timing_applies_to_event_only": true,
+      "economic_cause_status": "not_identified",
+      "hypothesis": "未取得情報・場中材料・分類不足・需給/地合いを区別し、未照合の因果は保留。",
+      "evidence_files": [
+        "data/july_inputs/2026-07-02.json",
+        "results/july_scores/2026-07-02.json",
+        "data/july_actuals/2026-07-02.json",
+        "data/july_releases_03.json"
+      ],
+      "source_ids": [
+        "redax"
+      ],
+      "sources": [
+        {
+          "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260701/20260701586395.pdf",
+          "published_at": "2026-07-01T17:20:59+09:00",
+          "verification": "業務委託契約の原開示7/1と17:20一覧照合。7/2入力時には材料未収集のため不採用だった。今回補完、過去予測は変更しない。"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-02",
+      "role": "actual_top10",
+      "status": "false_negative",
+      "code": "9941",
+      "name": "太洋物産",
+      "predicted_rank": null,
+      "actual_rank": 3,
+      "candidate_rank": null,
+      "score": null,
+      "components": null,
+      "previous_return_pct": null,
+      "missing_momentum": null,
+      "actual_return_pct": 26.52519893899204,
+      "top10_return_boundary_pct": 15.27599486521181,
+      "score_gap_to_tenth": null,
+      "selection_stage": "absent_from_union",
+      "mechanism": "universe_capture",
+      "observation": "7/2 07:30の企業発信で6/30決議後の堀江氏取締役就任を確認。候補不在で、朝の企業PRの取得範囲不足。就任の発生日と発信時刻を区別し、因果の全説明とはしない。",
+      "identified_event_timing": "known_before_cutoff",
+      "timing_applies_to_event_only": true,
+      "economic_cause_status": "not_identified",
+      "hypothesis": "未取得情報・場中材料・分類不足・需給/地合いを区別し、未照合の因果は保留。",
+      "evidence_files": [
+        "data/july_inputs/2026-07-02.json",
+        "results/july_scores/2026-07-02.json",
+        "data/july_actuals/2026-07-02.json",
+        "evidence/je1_primary_bodies.json"
+      ],
+      "source_ids": [
+        "taiyo"
+      ],
+      "sources": [
+        {
+          "url": "https://prtimes.jp/main/html/rd/p/000000003.000186427.html",
+          "published_at": "2026-07-02T07:30:59+09:00",
+          "verification": "企業発信。6/30決議と7/2公表を区別。"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-02",
+      "role": "actual_top10",
+      "status": "false_negative",
+      "code": "6522",
+      "name": "アスタリスク",
+      "predicted_rank": null,
+      "actual_rank": 4,
+      "candidate_rank": 15,
+      "score": 4.229,
+      "components": {
+        "material": 1.5,
+        "momentum": 1.7289999999999999,
+        "market": 1,
+        "dilution": 0,
+        "negative": 0,
+        "margin": 0
+      },
+      "previous_return_pct": 17.29,
+      "missing_momentum": false,
+      "actual_return_pct": 25.641025641025642,
+      "top10_return_boundary_pct": 15.27599486521181,
+      "score_gap_to_tenth": 0.7709999999999999,
+      "selection_stage": "eligible_below_top10",
+      "mechanism": "freshness_rule",
+      "observation": "候補15位4.229点。RFID材料3点が翌日1.5点に減り、当日最下位採用5点を下回った。材料は確認済みで取得漏れではなく半減規則と選出順位の問題。",
+      "identified_event_timing": "known_before_cutoff",
+      "timing_applies_to_event_only": true,
+      "economic_cause_status": "not_identified",
+      "hypothesis": "未取得情報・場中材料・分類不足・需給/地合いを区別し、未照合の因果は保留。",
+      "evidence_files": [
+        "data/july_inputs/2026-07-02.json",
+        "results/july_scores/2026-07-02.json",
+        "data/july_actuals/2026-07-02.json",
+        "data/july_releases_01.json"
+      ],
+      "source_ids": [
+        "asterisk"
+      ],
+      "sources": [
+        {
+          "url": "https://prtimes.jp/main/html/rd/p/000000058.000031440.html",
+          "published_at": "2026-06-30T12:00:59+09:00",
+          "verification": "公式PR6/30 12:00と当日報道を照合。6/30朝には未公開、最初の8:30入力日は7/1"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-02",
+      "role": "actual_top10",
+      "status": "false_negative",
+      "code": "4935",
+      "name": "リベルタ",
+      "predicted_rank": null,
+      "actual_rank": 5,
+      "candidate_rank": null,
+      "score": null,
+      "components": null,
+      "previous_return_pct": null,
+      "missing_momentum": null,
+      "actual_return_pct": 23.2,
+      "top10_return_boundary_pct": 15.27599486521181,
+      "score_gap_to_tenth": null,
+      "selection_stage": "absent_from_union",
+      "mechanism": "intraday_event",
+      "observation": "候補不在。7/2 12:00の企業PRで電動ファンウェアを確認したが発売自体は5月から順次。朝にはこの発信は使えず、新発売の初報とも断定しない。上昇との因果は未確定。",
+      "identified_event_timing": "after_cutoff_reissued_product",
+      "timing_applies_to_event_only": true,
+      "economic_cause_status": "not_identified",
+      "hypothesis": "未取得情報・場中材料・分類不足・需給/地合いを区別し、未照合の因果は保留。",
+      "evidence_files": [
+        "data/july_inputs/2026-07-02.json",
+        "results/july_scores/2026-07-02.json",
+        "data/july_actuals/2026-07-02.json",
+        "evidence/je1_primary_bodies.json"
+      ],
+      "source_ids": [
+        "liberta"
+      ],
+      "sources": [
+        {
+          "url": "https://prtimes.jp/main/html/rd/p/000000268.000052173.html",
+          "published_at": "2026-07-02T12:00:59+09:00",
+          "verification": "企業発信。発売は5月から、7/2を発売初日としない。"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-02",
+      "role": "actual_top10",
+      "status": "false_negative",
+      "code": "3070",
+      "name": "ジェリビンズ",
+      "predicted_rank": null,
+      "actual_rank": 6,
+      "candidate_rank": null,
+      "score": null,
+      "components": null,
+      "previous_return_pct": null,
+      "missing_momentum": null,
+      "actual_return_pct": 19.402985074626866,
+      "top10_return_boundary_pct": 15.27599486521181,
+      "score_gap_to_tenth": null,
+      "selection_stage": "absent_from_union",
+      "mechanism": "universe_unknown",
+      "observation": "候補不在。7/2付独占販売契約の検索結果はあるが、元の原開示本文・初回公表時刻を本回では確認できず、当日朝に使えたとの判定を留保する。",
+      "identified_event_timing": "timing_unresolved",
+      "timing_applies_to_event_only": true,
+      "economic_cause_status": "not_identified",
+      "hypothesis": "未取得情報・場中材料・分類不足・需給/地合いを区別し、未照合の因果は保留。",
+      "evidence_files": [
+        "data/july_inputs/2026-07-02.json",
+        "results/july_scores/2026-07-02.json",
+        "data/july_actuals/2026-07-02.json",
+        "evidence/je1_primary_links.json"
+      ],
+      "source_ids": [
+        "search_contract"
+      ],
+      "sources": [
+        {
+          "url": "https://finance.yahoo.co.jp/quote/3070.T/disclosure",
+          "published_at": null,
+          "verification": "原契約本文・初回公表時刻未照合、検索候補のみ。"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-02",
+      "role": "actual_top10",
+      "status": "hit",
+      "code": "4918",
+      "name": "アイビー",
+      "predicted_rank": 4,
+      "actual_rank": 7,
+      "candidate_rank": 4,
+      "score": 6,
+      "components": {
+        "material": 5,
+        "momentum": 0,
+        "market": 1,
+        "dilution": 0,
+        "negative": 0,
+        "margin": 0
+      },
+      "previous_return_pct": null,
+      "missing_momentum": true,
+      "actual_return_pct": 18.983050847457626,
+      "top10_return_boundary_pct": 15.27599486521181,
+      "score_gap_to_tenth": -1,
+      "selection_stage": "selected",
+      "mechanism": "hit",
+      "observation": "経常200→330百万円への増額を初回5点で採用、18.98%上昇し的中。業績改善の全例が外れたわけではない。",
+      "identified_event_timing": "known_before_cutoff",
+      "timing_applies_to_event_only": true,
+      "economic_cause_status": "not_identified",
+      "hypothesis": "未取得情報・場中材料・分類不足・需給/地合いを区別し、未照合の因果は保留。",
+      "evidence_files": [
+        "data/july_inputs/2026-07-02.json",
+        "results/july_scores/2026-07-02.json",
+        "data/july_actuals/2026-07-02.json"
+      ],
+      "source_ids": [],
+      "sources": []
+    },
+    {
+      "date": "2026-07-02",
+      "role": "actual_top10",
+      "status": "false_negative",
+      "code": "2438",
+      "name": "アスカネット",
+      "predicted_rank": null,
+      "actual_rank": 8,
+      "candidate_rank": null,
+      "score": null,
+      "components": null,
+      "previous_return_pct": null,
+      "missing_momentum": null,
+      "actual_return_pct": 18.64951768488746,
+      "top10_return_boundary_pct": 15.27599486521181,
+      "score_gap_to_tenth": null,
+      "selection_stage": "absent_from_union",
+      "mechanism": "intraday_event",
+      "observation": "候補不在。7/2公式事例と当日10:54記事で採用の報道を確認。原ページは日付のみで初回公開時刻不明、少なくとも既存の朝入力適格性は未立証。翌朝には使用可。",
+      "identified_event_timing": "first_publication_unresolved_intraday_report",
+      "timing_applies_to_event_only": true,
+      "economic_cause_status": "not_identified",
+      "hypothesis": "未取得情報・場中材料・分類不足・需給/地合いを区別し、未照合の因果は保留。",
+      "evidence_files": [
+        "data/july_inputs/2026-07-02.json",
+        "results/july_scores/2026-07-02.json",
+        "data/july_actuals/2026-07-02.json",
+        "data/july_releases_03.json"
+      ],
+      "source_ids": [
+        "asukanet"
+      ],
+      "sources": [
+        {
+          "url": "https://asukanet.co.jp/contents/news/2026/20260702.html",
+          "published_at": "2026-07-02T23:59:59+09:00",
+          "verification": "日付付き公式導入事例と7/2 10:54当時報道を照合。日付精度のみのため7/2末を採用。導入採用=contract。"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-02",
+      "role": "actual_top10",
+      "status": "false_negative",
+      "code": "7376",
+      "name": "ＢＣＣ",
+      "predicted_rank": null,
+      "actual_rank": 9,
+      "candidate_rank": null,
+      "score": null,
+      "components": null,
+      "previous_return_pct": null,
+      "missing_momentum": null,
+      "actual_return_pct": 15.856236786469344,
+      "top10_return_boundary_pct": 15.27599486521181,
+      "score_gap_to_tenth": null,
+      "selection_stage": "absent_from_union",
+      "mechanism": "universe_unknown",
+      "observation": "候補不在。確認した当日ストップ高表も材料不明。低時価総額という属性だけでは上昇原因を特定できず、買い煽り・踏み上げと断定しない。",
+      "identified_event_timing": "timing_unresolved",
+      "timing_applies_to_event_only": true,
+      "economic_cause_status": "not_identified",
+      "hypothesis": "未取得情報・場中材料・分類不足・需給/地合いを区別し、未照合の因果は保留。",
+      "evidence_files": [
+        "data/july_inputs/2026-07-02.json",
+        "results/july_scores/2026-07-02.json",
+        "data/july_actuals/2026-07-02.json",
+        "evidence/je1_context.json"
+      ],
+      "source_ids": [
+        "stop02"
+      ],
+      "sources": [
+        {
+          "url": "https://kabu.kininew.net/stopdaka/7913.html",
+          "published_at": "2026-07-02",
+          "verification": "当日後の個人集計、材料不明を保持。"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-02",
+      "role": "actual_top10",
+      "status": "false_negative",
+      "code": "7878",
+      "name": "光・彩",
+      "predicted_rank": null,
+      "actual_rank": 10,
+      "candidate_rank": 48,
+      "score": 1.657,
+      "components": {
+        "material": 0,
+        "momentum": 0.657,
+        "market": 1,
+        "dilution": 0,
+        "negative": 0,
+        "margin": 0
+      },
+      "previous_return_pct": 6.57,
+      "missing_momentum": false,
+      "actual_return_pct": 15.27599486521181,
+      "top10_return_boundary_pct": 15.27599486521181,
+      "score_gap_to_tenth": 3.343,
+      "selection_stage": "eligible_below_top10",
+      "mechanism": "momentum_underweighted",
+      "observation": "候補48位1.657点、前日6.57%の勢い以外は材料なし。新規材料の初回時刻は確認できず、過去好業績・需給の説明は仮説。モデルがこの継続上昇を低く採点した事実を記録。",
+      "identified_event_timing": "timing_unresolved",
+      "timing_applies_to_event_only": true,
+      "economic_cause_status": "not_identified",
+      "hypothesis": "未取得情報・場中材料・分類不足・需給/地合いを区別し、未照合の因果は保留。",
+      "evidence_files": [
+        "data/july_inputs/2026-07-02.json",
+        "results/july_scores/2026-07-02.json",
+        "data/july_actuals/2026-07-02.json",
+        "evidence/je1_market_context.json"
+      ],
+      "source_ids": [
+        "search_misc"
+      ],
+      "sources": [
+        {
+          "url": "https://news.livedoor.com/article/detail/31718292/",
+          "published_at": null,
+          "verification": "当日の上昇確認、材料の確定には使わない。"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-03",
+      "role": "prediction",
+      "status": "false_positive",
+      "code": "7063",
+      "name": "バードマン",
+      "predicted_rank": 1,
+      "actual_rank": null,
+      "candidate_rank": 1,
+      "score": 7,
+      "components": {
+        "material": 3,
+        "momentum": 3,
+        "market": 1,
+        "dilution": 0,
+        "negative": 0,
+        "margin": 0
+      },
+      "previous_return_pct": 39.47,
+      "missing_momentum": false,
+      "actual_return_pct": -18.867924528301884,
+      "top10_return_boundary_pct": 16.39549436795995,
+      "return_gap_to_boundary_pct": -35.26341889626184,
+      "mechanism": "reaction_lag",
+      "observation": "蓄電池設備の7/2 11:30発表と当日39.47%上昇を翌朝初回3点＋勢い上限3点で採用したが18.87%下落。場中反応済み材料を翌朝も全点とする問題を確認。",
+      "identified_event_timing": "see_sealed_evidence",
+      "timing_applies_to_event_only": true,
+      "economic_cause_status": "not_identified",
+      "hypothesis": "材料種別・鮮度・期待差・市場反応の区別が必要。売却動機と寄与率は未確定。",
+      "evidence_files": [
+        "data/july_inputs/2026-07-03.json",
+        "results/july_evaluations/2026-07-03.json"
+      ],
+      "source_ids": [],
+      "sources": [
+        {
+          "id": "price_2026-07-02",
+          "url": "https://kabu.kininew.net/fiveup/7915.html",
+          "available_at": "2026-07-02T23:59:59+09:00",
+          "version_verified": true,
+          "timestamp_evidence": "前営業日の引け後公表日付き価格表。日付精度のため当日末を採用。動的関連欄は不使用。全原票による完全性保証はなし。",
+          "role": "predictor"
+        },
+        {
+          "id": "release_7063_2026-07-03",
+          "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260702/20260702586749.pdf",
+          "available_at": "2026-07-02T11:30:59+09:00",
+          "version_verified": true,
+          "timestamp_evidence": "7/2原開示本文と開示一覧・当時記事を照合。蓄電池設備完工と7/4運用開始予定。場中公表のため初回入力7/3。",
+          "role": "predictor"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-03",
+      "role": "prediction",
+      "status": "false_positive",
+      "code": "2438",
+      "name": "アスカネット",
+      "predicted_rank": 2,
+      "actual_rank": null,
+      "candidate_rank": 2,
+      "score": 6.865,
+      "components": {
+        "material": 4,
+        "momentum": 1.8649999999999998,
+        "market": 1,
+        "dilution": 0,
+        "negative": 0,
+        "margin": 0
+      },
+      "previous_return_pct": 18.65,
+      "missing_momentum": false,
+      "actual_return_pct": -3.5230352303523005,
+      "top10_return_boundary_pct": 16.39549436795995,
+      "return_gap_to_boundary_pct": -19.91852959831225,
+      "mechanism": "reaction_lag",
+      "observation": "7/2公式導入事例と10:54報道、当日18.65%上昇を受け採用し3.52%下落。入力は日付精度で7/2末だが、実際の報道は場中で初回反応済み。",
+      "identified_event_timing": "see_sealed_evidence",
+      "timing_applies_to_event_only": true,
+      "economic_cause_status": "not_identified",
+      "hypothesis": "材料種別・鮮度・期待差・市場反応の区別が必要。売却動機と寄与率は未確定。",
+      "evidence_files": [
+        "data/july_inputs/2026-07-03.json",
+        "results/july_evaluations/2026-07-03.json"
+      ],
+      "source_ids": [],
+      "sources": [
+        {
+          "id": "price_2026-07-02",
+          "url": "https://kabu.kininew.net/fiveup/7915.html",
+          "available_at": "2026-07-02T23:59:59+09:00",
+          "version_verified": true,
+          "timestamp_evidence": "前営業日の引け後公表日付き価格表。日付精度のため当日末を採用。動的関連欄は不使用。全原票による完全性保証はなし。",
+          "role": "predictor"
+        },
+        {
+          "id": "release_2438_2026-07-03",
+          "url": "https://asukanet.co.jp/contents/news/2026/20260702.html",
+          "available_at": "2026-07-02T23:59:59+09:00",
+          "version_verified": true,
+          "timestamp_evidence": "日付付き公式導入事例と7/2 10:54当時報道を照合。日付精度のみのため7/2末を採用。導入採用=contract。",
+          "role": "predictor"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-03",
+      "role": "prediction",
+      "status": "false_positive",
+      "code": "7602",
+      "name": "レダックス",
+      "predicted_rank": 3,
+      "actual_rank": null,
+      "candidate_rank": 3,
+      "score": 6.0,
+      "components": {
+        "material": 2.0,
+        "momentum": 3,
+        "market": 1,
+        "dilution": 0,
+        "negative": 0,
+        "margin": 0
+      },
+      "previous_return_pct": 35.46,
+      "missing_momentum": false,
+      "actual_return_pct": -13.089005235602091,
+      "top10_return_boundary_pct": 16.39549436795995,
+      "return_gap_to_boundary_pct": -29.484499603562043,
+      "mechanism": "acquisition_lag",
+      "observation": "7/1 17:20の契約を7/2には取得できず、7/3には半点2点と前日35.46%の勢いで採用して13.09%下落。取得の遅れと反応日のずれを分ける。",
+      "identified_event_timing": "see_sealed_evidence",
+      "timing_applies_to_event_only": true,
+      "economic_cause_status": "not_identified",
+      "hypothesis": "材料種別・鮮度・期待差・市場反応の区別が必要。売却動機と寄与率は未確定。",
+      "evidence_files": [
+        "data/july_inputs/2026-07-03.json",
+        "results/july_evaluations/2026-07-03.json"
+      ],
+      "source_ids": [],
+      "sources": [
+        {
+          "id": "price_2026-07-02",
+          "url": "https://kabu.kininew.net/fiveup/7915.html",
+          "available_at": "2026-07-02T23:59:59+09:00",
+          "version_verified": true,
+          "timestamp_evidence": "前営業日の引け後公表日付き価格表。日付精度のため当日末を採用。動的関連欄は不使用。全原票による完全性保証はなし。",
+          "role": "predictor"
+        },
+        {
+          "id": "release_7602_2026-07-02",
+          "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260701/20260701586395.pdf",
+          "available_at": "2026-07-01T17:20:59+09:00",
+          "version_verified": true,
+          "timestamp_evidence": "業務委託契約の原開示7/1と17:20一覧照合。7/2入力時には材料未収集のため不採用だった。今回補完、過去予測は変更しない。",
+          "role": "predictor"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-03",
+      "role": "prediction",
+      "status": "false_positive",
+      "code": "2493",
+      "name": "イーサポートリンク",
+      "predicted_rank": 4,
+      "actual_rank": null,
+      "candidate_rank": 4,
+      "score": 6,
+      "components": {
+        "material": 5,
+        "momentum": 0,
+        "market": 1,
+        "dilution": 0,
+        "negative": 0,
+        "margin": 0
+      },
+      "previous_return_pct": null,
+      "missing_momentum": true,
+      "actual_return_pct": 0.5364806866952732,
+      "top10_return_boundary_pct": 16.39549436795995,
+      "return_gap_to_boundary_pct": -15.859013681264678,
+      "mechanism": "coarse_material",
+      "observation": "中間経常119.6%増・通期据置を5点。0.54%上昇に留まり、増益率だけでは上位10を予測できなかった。市場期待比は未取得。",
+      "identified_event_timing": "see_sealed_evidence",
+      "timing_applies_to_event_only": true,
+      "economic_cause_status": "not_identified",
+      "hypothesis": "材料種別・鮮度・期待差・市場反応の区別が必要。売却動機と寄与率は未確定。",
+      "evidence_files": [
+        "data/july_inputs/2026-07-03.json",
+        "results/july_evaluations/2026-07-03.json"
+      ],
+      "source_ids": [],
+      "sources": [
+        {
+          "id": "release_2493_2026-07-03",
+          "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260702/20260702586621.pdf",
+          "available_at": "2026-07-02T15:30:59+09:00",
+          "version_verified": true,
+          "timestamp_evidence": "7/2原開示本文と開示一覧・当時記事を照合。中間経常144百万円119.6%増、通期修正なし。",
+          "role": "predictor"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-03",
+      "role": "prediction",
+      "status": "false_positive",
+      "code": "3549",
+      "name": "クスリのアオキホールディングス",
+      "predicted_rank": 5,
+      "actual_rank": null,
+      "candidate_rank": 5,
+      "score": 6,
+      "components": {
+        "material": 5,
+        "momentum": 0,
+        "market": 1,
+        "dilution": 0,
+        "negative": 0,
+        "margin": 0
+      },
+      "previous_return_pct": null,
+      "missing_momentum": true,
+      "actual_return_pct": 1.300813008130075,
+      "top10_return_boundary_pct": 16.39549436795995,
+      "return_gap_to_boundary_pct": -15.094681359829877,
+      "mechanism": "rank_target",
+      "observation": "翌期増益・増配を5点。1.30%上昇したが10位16.40%に未達。原英語短信のTokyo Standardを保持し、市場区分を現在の思い込みで変更しない。",
+      "identified_event_timing": "see_sealed_evidence",
+      "timing_applies_to_event_only": true,
+      "economic_cause_status": "not_identified",
+      "hypothesis": "材料種別・鮮度・期待差・市場反応の区別が必要。売却動機と寄与率は未確定。",
+      "evidence_files": [
+        "data/july_inputs/2026-07-03.json",
+        "results/july_evaluations/2026-07-03.json"
+      ],
+      "source_ids": [],
+      "sources": [
+        {
+          "id": "release_3549_2026-07-03",
+          "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260702/20260702587015.pdf",
+          "available_at": "2026-07-02T15:30:59+09:00",
+          "version_verified": true,
+          "timestamp_evidence": "7/2原開示本文と開示一覧・当時記事を照合。翌期経常増益・増配。原開示でTokyo Standard確認。",
+          "role": "predictor"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-03",
+      "role": "prediction",
+      "status": "false_positive",
+      "code": "4918",
+      "name": "アイビー",
+      "predicted_rank": 6,
+      "actual_rank": null,
+      "candidate_rank": 6,
+      "score": 5.398,
+      "components": {
+        "material": 2.5,
+        "momentum": 1.8980000000000001,
+        "market": 1,
+        "dilution": 0,
+        "negative": 0,
+        "margin": 0
+      },
+      "previous_return_pct": 18.98,
+      "missing_momentum": false,
+      "actual_return_pct": 0.5698005698005604,
+      "top10_return_boundary_pct": 16.39549436795995,
+      "return_gap_to_boundary_pct": -15.825693798159392,
+      "mechanism": "continuation",
+      "observation": "前日的中後、材料半点2.5と勢い1.898で再採用。0.57%上昇で上位10外。前日と同じ材料でも翌日の順位は続かなかった。",
+      "identified_event_timing": "see_sealed_evidence",
+      "timing_applies_to_event_only": true,
+      "economic_cause_status": "not_identified",
+      "hypothesis": "材料種別・鮮度・期待差・市場反応の区別が必要。売却動機と寄与率は未確定。",
+      "evidence_files": [
+        "data/july_inputs/2026-07-03.json",
+        "results/july_evaluations/2026-07-03.json"
+      ],
+      "source_ids": [],
+      "sources": [
+        {
+          "id": "price_2026-07-02",
+          "url": "https://kabu.kininew.net/fiveup/7915.html",
+          "available_at": "2026-07-02T23:59:59+09:00",
+          "version_verified": true,
+          "timestamp_evidence": "前営業日の引け後公表日付き価格表。日付精度のため当日末を採用。動的関連欄は不使用。全原票による完全性保証はなし。",
+          "role": "predictor"
+        },
+        {
+          "id": "release_4918_2026-07-02",
+          "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260701/20260629583787.pdf",
+          "available_at": "2026-07-01T16:00:59+09:00",
+          "version_verified": true,
+          "timestamp_evidence": "7/1原開示PDF本文・日付とTDnet転載一覧時刻を照合。経常200→330百万円。原材料確保・記念新製品発売見通し。",
+          "role": "predictor"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-03",
+      "role": "prediction",
+      "status": "false_positive",
+      "code": "6522",
+      "name": "アスタリスク",
+      "predicted_rank": 7,
+      "actual_rank": null,
+      "candidate_rank": 7,
+      "score": 5.064,
+      "components": {
+        "material": 1.5,
+        "momentum": 2.564,
+        "market": 1,
+        "dilution": 0,
+        "negative": 0,
+        "margin": 0
+      },
+      "previous_return_pct": 25.64,
+      "missing_momentum": false,
+      "actual_return_pct": -0.5102040816326481,
+      "top10_return_boundary_pct": 16.39549436795995,
+      "return_gap_to_boundary_pct": -16.9056984495926,
+      "mechanism": "continuation",
+      "observation": "6/30公表RFID材料の半点1.5と前日25.64%の勢いで再採用、0.51%下落。短い継続モデルの限界であり、規制や買い戻しが原因とは未確認。",
+      "identified_event_timing": "see_sealed_evidence",
+      "timing_applies_to_event_only": true,
+      "economic_cause_status": "not_identified",
+      "hypothesis": "材料種別・鮮度・期待差・市場反応の区別が必要。売却動機と寄与率は未確定。",
+      "evidence_files": [
+        "data/july_inputs/2026-07-03.json",
+        "results/july_evaluations/2026-07-03.json"
+      ],
+      "source_ids": [],
+      "sources": [
+        {
+          "id": "price_2026-07-02",
+          "url": "https://kabu.kininew.net/fiveup/7915.html",
+          "available_at": "2026-07-02T23:59:59+09:00",
+          "version_verified": true,
+          "timestamp_evidence": "前営業日の引け後公表日付き価格表。日付精度のため当日末を採用。動的関連欄は不使用。全原票による完全性保証はなし。",
+          "role": "predictor"
+        },
+        {
+          "id": "release_6522_2026-07-01",
+          "url": "https://prtimes.jp/main/html/rd/p/000000058.000031440.html",
+          "available_at": "2026-06-30T12:00:59+09:00",
+          "version_verified": true,
+          "timestamp_evidence": "公式PR6/30 12:00と当日報道を照合。6/30朝には未公開、最初の8:30入力日は7/1",
+          "role": "predictor"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-03",
+      "role": "prediction",
+      "status": "false_positive",
+      "code": "4187",
+      "name": "大阪有機化学工業",
+      "predicted_rank": 8,
+      "actual_rank": null,
+      "candidate_rank": 8,
+      "score": 5,
+      "components": {
+        "material": 5,
+        "momentum": 0,
+        "market": 0,
+        "dilution": 0,
+        "negative": 0,
+        "margin": 0
+      },
+      "previous_return_pct": null,
+      "missing_momentum": true,
+      "actual_return_pct": -0.170068027210879,
+      "top10_return_boundary_pct": 16.39549436795995,
+      "return_gap_to_boundary_pct": -16.56556239517083,
+      "mechanism": "expectation_unknown",
+      "observation": "原英語資料の上期・通期増額で5点。0.17%下落し上位10外。市場期待・寄付価格・セクター調整後の超過収益を未取得。",
+      "identified_event_timing": "see_sealed_evidence",
+      "timing_applies_to_event_only": true,
+      "economic_cause_status": "not_identified",
+      "hypothesis": "材料種別・鮮度・期待差・市場反応の区別が必要。売却動機と寄与率は未確定。",
+      "evidence_files": [
+        "data/july_inputs/2026-07-03.json",
+        "results/july_evaluations/2026-07-03.json"
+      ],
+      "source_ids": [],
+      "sources": [
+        {
+          "id": "release_4187_2026-07-03",
+          "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260702/20260701585659.pdf",
+          "available_at": "2026-07-02T15:30:59+09:00",
+          "version_verified": true,
+          "timestamp_evidence": "7/2原開示本文と開示一覧・当時記事を照合。日本語PDF文字化けのため同時開示英語原本で上期・通期増額確認。",
+          "role": "predictor"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-03",
+      "role": "prediction",
+      "status": "hit",
+      "code": "4596",
+      "name": "窪田製薬ホールディングス",
+      "predicted_rank": 9,
+      "actual_rank": 1,
+      "candidate_rank": 9,
+      "score": 5,
+      "components": {
+        "material": 4,
+        "momentum": 0,
+        "market": 1,
+        "dilution": 0,
+        "negative": 0,
+        "margin": 0
+      },
+      "previous_return_pct": null,
+      "missing_momentum": true,
+      "actual_return_pct": 52.63157894736843,
+      "top10_return_boundary_pct": 16.39549436795995,
+      "return_gap_to_boundary_pct": 36.236084579408484,
+      "mechanism": "hit",
+      "observation": "契約対価入金を4点で採用、52.63%上昇し実績1位。ただし返金条件があり即時収益確定と同義ではない。別のマイルストーン銘柄との値動き差は原因未確定。",
+      "identified_event_timing": "see_sealed_evidence",
+      "timing_applies_to_event_only": true,
+      "economic_cause_status": "not_identified",
+      "hypothesis": "材料種別・鮮度・期待差・市場反応の区別が必要。売却動機と寄与率は未確定。",
+      "evidence_files": [
+        "data/july_inputs/2026-07-03.json",
+        "results/july_evaluations/2026-07-03.json"
+      ],
+      "source_ids": [],
+      "sources": [
+        {
+          "id": "release_4596_2026-07-03",
+          "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260702/20260507517556.pdf",
+          "available_at": "2026-07-02T15:30:59+09:00",
+          "version_verified": true,
+          "timestamp_evidence": "7/2原開示本文と開示一覧・当時記事を照合。契約に基づく対価入金。即時の収益認識とは異なり返金条件あり。",
+          "role": "predictor"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-03",
+      "role": "prediction",
+      "status": "false_positive",
+      "code": "4890",
+      "name": "坪田ラボ",
+      "predicted_rank": 10,
+      "actual_rank": null,
+      "candidate_rank": 10,
+      "score": 5,
+      "components": {
+        "material": 4,
+        "momentum": 0,
+        "market": 1,
+        "dilution": 0,
+        "negative": 0,
+        "margin": 0
+      },
+      "previous_return_pct": null,
+      "missing_momentum": true,
+      "actual_return_pct": -1.2396694214875992,
+      "top10_return_boundary_pct": 16.39549436795995,
+      "return_gap_to_boundary_pct": -17.63516378944755,
+      "mechanism": "impact_scale",
+      "observation": "最終マイルストーン達成だが業績織込済み・影響軽微を原資料で確認。contract4点で採用し1.24%下落。入金/開発進展の見出しだけでは利益サプライズを測れない。",
+      "identified_event_timing": "see_sealed_evidence",
+      "timing_applies_to_event_only": true,
+      "economic_cause_status": "not_identified",
+      "hypothesis": "材料種別・鮮度・期待差・市場反応の区別が必要。売却動機と寄与率は未確定。",
+      "evidence_files": [
+        "data/july_inputs/2026-07-03.json",
+        "results/july_evaluations/2026-07-03.json"
+      ],
+      "source_ids": [],
+      "sources": [
+        {
+          "id": "release_4890_2026-07-03",
+          "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260702/20260702586763.pdf",
+          "available_at": "2026-07-02T15:30:59+09:00",
+          "version_verified": true,
+          "timestamp_evidence": "7/2原開示本文と開示一覧・当時記事を照合。最終マイルストーン達成、業績織込済み・影響軽微。",
+          "role": "predictor"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-03",
+      "role": "actual_top10",
+      "status": "hit",
+      "code": "4596",
+      "name": "窪田製薬ＨＤ",
+      "predicted_rank": 9,
+      "actual_rank": 1,
+      "candidate_rank": 9,
+      "score": 5,
+      "components": {
+        "material": 4,
+        "momentum": 0,
+        "market": 1,
+        "dilution": 0,
+        "negative": 0,
+        "margin": 0
+      },
+      "previous_return_pct": null,
+      "missing_momentum": true,
+      "actual_return_pct": 52.63157894736842,
+      "top10_return_boundary_pct": 16.39549436795995,
+      "score_gap_to_tenth": 0,
+      "selection_stage": "selected",
+      "mechanism": "hit",
+      "observation": "契約対価入金を4点で採用、52.63%上昇し実績1位。ただし返金条件があり即時収益確定と同義ではない。別のマイルストーン銘柄との値動き差は原因未確定。",
+      "identified_event_timing": "known_before_cutoff",
+      "timing_applies_to_event_only": true,
+      "economic_cause_status": "not_identified",
+      "hypothesis": "未取得情報・場中材料・分類不足・需給/地合いを区別し、未照合の因果は保留。",
+      "evidence_files": [
+        "data/july_inputs/2026-07-03.json",
+        "results/july_scores/2026-07-03.json",
+        "data/july_actuals/2026-07-03.json"
+      ],
+      "source_ids": [],
+      "sources": []
+    },
+    {
+      "date": "2026-07-03",
+      "role": "actual_top10",
+      "status": "false_negative",
+      "code": "3133",
+      "name": "海帆",
+      "predicted_rank": null,
+      "actual_rank": 2,
+      "candidate_rank": null,
+      "score": null,
+      "components": null,
+      "previous_return_pct": null,
+      "missing_momentum": null,
+      "actual_return_pct": 41.666666666666664,
+      "top10_return_boundary_pct": 16.39549436795995,
+      "score_gap_to_tenth": null,
+      "selection_stage": "absent_from_union",
+      "mechanism": "universe_unknown",
+      "observation": "候補不在。個人集計に著名投資家への言及があるが、本人の当時投稿と時刻を確認していない。SNS起点の需給説を事実として採用しない。",
+      "identified_event_timing": "timing_unresolved",
+      "timing_applies_to_event_only": true,
+      "economic_cause_status": "not_identified",
+      "hypothesis": "未取得情報・場中材料・分類不足・需給/地合いを区別し、未照合の因果は保留。",
+      "evidence_files": [
+        "data/july_inputs/2026-07-03.json",
+        "results/july_scores/2026-07-03.json",
+        "data/july_actuals/2026-07-03.json",
+        "evidence/je1_followup_search.json"
+      ],
+      "source_ids": [
+        "stop03"
+      ],
+      "sources": [
+        {
+          "url": "https://kabu.kininew.net/stopdaka/7921.html",
+          "published_at": "2026-07-03",
+          "verification": "当日後の個人集計、SNS原投稿は未照合。"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-03",
+      "role": "actual_top10",
+      "status": "false_negative",
+      "code": "9425",
+      "name": "ＲｅＹｕｕ",
+      "predicted_rank": null,
+      "actual_rank": 3,
+      "candidate_rank": 17,
+      "score": 3,
+      "components": {
+        "material": 2,
+        "momentum": 0,
+        "market": 1,
+        "dilution": 0,
+        "negative": 0,
+        "margin": 0
+      },
+      "previous_return_pct": null,
+      "missing_momentum": true,
+      "actual_return_pct": 24.285714285714285,
+      "top10_return_boundary_pct": 16.39549436795995,
+      "score_gap_to_tenth": 2,
+      "selection_stage": "eligible_below_top10",
+      "mechanism": "taxonomy_weight",
+      "observation": "あいプロの非拘束MOUを2点、市場1点で候補17位3点。7/1のネクスト・セキュリティMOUと独立した発表。確定買収3点へ事後変更せず、MOU配点が相対順位を押し下げたことを記録。",
+      "identified_event_timing": "known_before_cutoff",
+      "timing_applies_to_event_only": true,
+      "economic_cause_status": "not_identified",
+      "hypothesis": "未取得情報・場中材料・分類不足・需給/地合いを区別し、未照合の因果は保留。",
+      "evidence_files": [
+        "data/july_inputs/2026-07-03.json",
+        "results/july_scores/2026-07-03.json",
+        "data/july_actuals/2026-07-03.json",
+        "data/july_releases_03.json"
+      ],
+      "source_ids": [
+        "reyuu_mou"
+      ],
+      "sources": [
+        {
+          "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260702/20260702586640.pdf",
+          "published_at": "2026-07-02T16:00:59+09:00",
+          "verification": "7/2原開示本文と開示一覧・当時記事を照合。あいプロ買収の非拘束基本合意。確定買収と区別しMOU=2点。"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-03",
+      "role": "actual_top10",
+      "status": "false_negative",
+      "code": "6634",
+      "name": "ＪＮグループ",
+      "predicted_rank": null,
+      "actual_rank": 4,
+      "candidate_rank": 47,
+      "score": 1.806,
+      "components": {
+        "material": 0,
+        "momentum": 0.806,
+        "market": 1,
+        "dilution": 0,
+        "negative": 0,
+        "margin": 0
+      },
+      "previous_return_pct": 8.06,
+      "missing_momentum": false,
+      "actual_return_pct": 23.880597014925375,
+      "top10_return_boundary_pct": 16.39549436795995,
+      "score_gap_to_tenth": 3.194,
+      "selection_stage": "eligible_below_top10",
+      "mechanism": "momentum_underweighted",
+      "observation": "候補47位1.806点、前日8.06%の勢いのみ。今回照合した資料で当日上昇の確定材料を同定できず、需給・心理の断定を保留。",
+      "identified_event_timing": "timing_unresolved",
+      "timing_applies_to_event_only": true,
+      "economic_cause_status": "not_identified",
+      "hypothesis": "未取得情報・場中材料・分類不足・需給/地合いを区別し、未照合の因果は保留。",
+      "evidence_files": [
+        "data/july_inputs/2026-07-03.json",
+        "results/july_scores/2026-07-03.json",
+        "data/july_actuals/2026-07-03.json"
+      ],
+      "source_ids": [],
+      "sources": []
+    },
+    {
+      "date": "2026-07-03",
+      "role": "actual_top10",
+      "status": "false_negative",
+      "code": "2492",
+      "name": "インフォＭＴ",
+      "predicted_rank": null,
+      "actual_rank": 5,
+      "candidate_rank": 150,
+      "score": 0.526,
+      "components": {
+        "material": 0,
+        "momentum": 0.526,
+        "market": 0,
+        "dilution": 0,
+        "negative": 0,
+        "margin": 0
+      },
+      "previous_return_pct": 5.26,
+      "missing_momentum": false,
+      "actual_return_pct": 19.75,
+      "top10_return_boundary_pct": 16.39549436795995,
+      "score_gap_to_tenth": 4.474,
+      "selection_stage": "eligible_below_top10",
+      "mechanism": "material_capture",
+      "observation": "候補150位0.526点。7/2 16:01提出・16:04記事のオアシス5.07%保有は取得済み朝ニュースにもあるが入力に未付与。原EDINET本文は本回未取得のため二次照合の暫定判定。義務発生日6/25を公表日としない。",
+      "identified_event_timing": "known_before_cutoff_secondary",
+      "timing_applies_to_event_only": true,
+      "economic_cause_status": "not_identified",
+      "hypothesis": "未取得情報・場中材料・分類不足・需給/地合いを区別し、未照合の因果は保留。",
+      "evidence_files": [
+        "data/july_inputs/2026-07-03.json",
+        "results/july_scores/2026-07-03.json",
+        "data/july_actuals/2026-07-03.json",
+        "evidence/je1_timing_verification.json",
+        "evidence/july2post1.json"
+      ],
+      "source_ids": [
+        "oasis",
+        "digest03"
+      ],
+      "sources": [
+        {
+          "url": "https://s.kabutan.jp/news/n202607020904/",
+          "published_at": "2026-07-02T16:04:59+09:00",
+          "verification": "同時代記事＋提出時刻別表、原EDINET未取得。義務発生日6/25とは別。"
+        },
+        {
+          "url": "https://s.kabutan.jp/news/n202607030100/",
+          "published_at": "2026-07-03T07:30:59+09:00",
+          "verification": "予測準備時に保存された朝ニュース。2492の見出しを確認。"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-03",
+      "role": "actual_top10",
+      "status": "false_negative",
+      "code": "9444",
+      "name": "トーシンＨＤ",
+      "predicted_rank": null,
+      "actual_rank": 6,
+      "candidate_rank": null,
+      "score": null,
+      "components": null,
+      "previous_return_pct": null,
+      "missing_momentum": null,
+      "actual_return_pct": 17.727272727272727,
+      "top10_return_boundary_pct": 16.39549436795995,
+      "score_gap_to_tenth": null,
+      "selection_stage": "absent_from_union",
+      "mechanism": "universe_unknown",
+      "observation": "候補不在。複数の当日表で上昇を確認できても、値動きを説明する日時付き原材料は今回未同定。情報不足のまま保持。",
+      "identified_event_timing": "timing_unresolved",
+      "timing_applies_to_event_only": true,
+      "economic_cause_status": "not_identified",
+      "hypothesis": "未取得情報・場中材料・分類不足・需給/地合いを区別し、未照合の因果は保留。",
+      "evidence_files": [
+        "data/july_inputs/2026-07-03.json",
+        "results/july_scores/2026-07-03.json",
+        "data/july_actuals/2026-07-03.json",
+        "evidence/je1_followup_search.json"
+      ],
+      "source_ids": [
+        "stop03"
+      ],
+      "sources": [
+        {
+          "url": "https://kabu.kininew.net/stopdaka/7921.html",
+          "published_at": "2026-07-03",
+          "verification": "当日後の個人集計、SNS原投稿は未照合。"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-03",
+      "role": "actual_top10",
+      "status": "false_negative",
+      "code": "504A",
+      "name": "イノバセル",
+      "predicted_rank": null,
+      "actual_rank": 7,
+      "candidate_rank": 25,
+      "score": 2.184,
+      "components": {
+        "material": 0,
+        "momentum": 1.184,
+        "market": 1,
+        "dilution": 0,
+        "negative": 0,
+        "margin": 0
+      },
+      "previous_return_pct": 11.84,
+      "missing_momentum": false,
+      "actual_return_pct": 17.278617710583152,
+      "top10_return_boundary_pct": 16.39549436795995,
+      "score_gap_to_tenth": 2.816,
+      "selection_stage": "eligible_below_top10",
+      "mechanism": "taxonomy_missing",
+      "observation": "FDAのIND審査完了・治験組入れ承認は原開示確認済みだが、製品販売承認ではなく専用分類がなくunknown0点。候補25位2.184点。分類の未整備と正しい承認段階の区別を両方保持。",
+      "identified_event_timing": "known_before_cutoff",
+      "timing_applies_to_event_only": true,
+      "economic_cause_status": "not_identified",
+      "hypothesis": "未取得情報・場中材料・分類不足・需給/地合いを区別し、未照合の因果は保留。",
+      "evidence_files": [
+        "data/july_inputs/2026-07-03.json",
+        "results/july_scores/2026-07-03.json",
+        "data/july_actuals/2026-07-03.json",
+        "data/july_releases_03.json"
+      ],
+      "source_ids": [
+        "innova"
+      ],
+      "sources": [
+        {
+          "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260702/20260702586992.pdf",
+          "published_at": "2026-07-02T16:00:59+09:00",
+          "verification": "7/2原開示本文と開示一覧・当時記事を照合。FDAの治験組入れ承認、製品販売承認ではない。固定モデルに治験進展の専用項目がないためunknown=0。"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-03",
+      "role": "actual_top10",
+      "status": "false_negative",
+      "code": "4575",
+      "name": "ＣＡＮＢＡＳ",
+      "predicted_rank": null,
+      "actual_rank": 8,
+      "candidate_rank": null,
+      "score": null,
+      "components": null,
+      "previous_return_pct": null,
+      "missing_momentum": null,
+      "actual_return_pct": 16.949152542372882,
+      "top10_return_boundary_pct": 16.39549436795995,
+      "score_gap_to_tenth": null,
+      "selection_stage": "absent_from_union",
+      "mechanism": "universe_unknown",
+      "observation": "候補不在。6/30赤字拡大見通しは取得記事にあるが3日ニュース候補へ持ち越されず。当日材料表も不明。悪材料下の上昇を楽観・買い戻しで説明しない。",
+      "identified_event_timing": "timing_unresolved",
+      "timing_applies_to_event_only": true,
+      "economic_cause_status": "not_identified",
+      "hypothesis": "未取得情報・場中材料・分類不足・需給/地合いを区別し、未照合の因果は保留。",
+      "evidence_files": [
+        "data/july_inputs/2026-07-03.json",
+        "results/july_scores/2026-07-03.json",
+        "data/july_actuals/2026-07-03.json",
+        "evidence/july_start_j1_inputs02.json",
+        "evidence/je1_followup_search.json"
+      ],
+      "source_ids": [
+        "digest01",
+        "stop03"
+      ],
+      "sources": [
+        {
+          "url": "https://s.kabutan.jp/news/n202606301113/",
+          "published_at": "2026-06-30T20:00:59+09:00",
+          "verification": "保存済み当時ニュースで4833の掲載確認。"
+        },
+        {
+          "url": "https://kabu.kininew.net/stopdaka/7921.html",
+          "published_at": "2026-07-03",
+          "verification": "当日後の個人集計、SNS原投稿は未照合。"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-03",
+      "role": "actual_top10",
+      "status": "false_negative",
+      "code": "4935",
+      "name": "リベルタ",
+      "predicted_rank": null,
+      "actual_rank": 9,
+      "candidate_rank": 15,
+      "score": 3.32,
+      "components": {
+        "material": 0,
+        "momentum": 2.32,
+        "market": 1,
+        "dilution": 0,
+        "negative": 0,
+        "margin": 0
+      },
+      "previous_return_pct": 23.2,
+      "missing_momentum": false,
+      "actual_return_pct": 16.883116883116884,
+      "top10_return_boundary_pct": 16.39549436795995,
+      "score_gap_to_tenth": 1.6800000000000002,
+      "selection_stage": "eligible_below_top10",
+      "mechanism": "material_capture",
+      "observation": "候補15位3.32点、前日23.20%と市場点だけ。7/2正午の製品PRは翌朝には利用可能だったが材料未反映。ただし5月から発売の再告知で、固定ルールの新規材料加点対象かは未確定。",
+      "identified_event_timing": "known_before_cutoff",
+      "timing_applies_to_event_only": true,
+      "economic_cause_status": "not_identified",
+      "hypothesis": "未取得情報・場中材料・分類不足・需給/地合いを区別し、未照合の因果は保留。",
+      "evidence_files": [
+        "data/july_inputs/2026-07-03.json",
+        "results/july_scores/2026-07-03.json",
+        "data/july_actuals/2026-07-03.json",
+        "evidence/je1_primary_bodies.json"
+      ],
+      "source_ids": [
+        "liberta"
+      ],
+      "sources": [
+        {
+          "url": "https://prtimes.jp/main/html/rd/p/000000268.000052173.html",
+          "published_at": "2026-07-02T12:00:59+09:00",
+          "verification": "企業発信。発売は5月から、7/2を発売初日としない。"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-03",
+      "role": "actual_top10",
+      "status": "false_negative",
+      "code": "6166",
+      "name": "中村超硬",
+      "predicted_rank": null,
+      "actual_rank": 10,
+      "candidate_rank": 23,
+      "score": 2.431,
+      "components": {
+        "material": 0,
+        "momentum": 1.431,
+        "market": 1,
+        "dilution": 0,
+        "negative": 0,
+        "margin": 0
+      },
+      "previous_return_pct": 14.31,
+      "missing_momentum": false,
+      "actual_return_pct": 16.39549436795995,
+      "top10_return_boundary_pct": 16.39549436795995,
+      "score_gap_to_tenth": 2.569,
+      "selection_stage": "eligible_below_top10",
+      "mechanism": "older_material_capture",
+      "observation": "候補23位2.431点、前日14.31%の勢いのみ。今回6/26原開示でZeo Nextと芝浦工大の研究を照合。7/3は初回適格6/29から4営業日経過し、仮に入力しても固定鮮度規則の加点0。取得補完だけで的中が増えるとはいえない。",
+      "identified_event_timing": "known_before_cutoff",
+      "timing_applies_to_event_only": true,
+      "economic_cause_status": "not_identified",
+      "hypothesis": "未取得情報・場中材料・分類不足・需給/地合いを区別し、未照合の因果は保留。",
+      "evidence_files": [
+        "data/july_inputs/2026-07-03.json",
+        "results/july_scores/2026-07-03.json",
+        "data/july_actuals/2026-07-03.json",
+        "evidence/je1_primary_bodies.json"
+      ],
+      "source_ids": [
+        "nakamura"
+      ],
+      "sources": [
+        {
+          "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260626/20260626581913.pdf",
+          "published_at": "2026-06-26T15:30:59+09:00",
+          "verification": "原PDF＋開示一覧。初回適格日は6/29、7/3は年齢4で0点。"
+        }
+      ]
+    }
+  ]
+}

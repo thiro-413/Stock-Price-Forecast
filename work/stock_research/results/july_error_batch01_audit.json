@@ -1,0 +1,28 @@
+{
+  "old_manifest_file_checks": 1190,
+  "all_22_seals_and_inputs_unchanged": true,
+  "original_model_and_month_summary_unchanged": true,
+  "days": [
+    "2026-07-01",
+    "2026-07-02",
+    "2026-07-03"
+  ],
+  "role_records": 60,
+  "false_positive_count": 26,
+  "false_negative_count": 26,
+  "hits": 4,
+  "eligible_winners": 15,
+  "missed_eligible": 11,
+  "missed_absent": 15,
+  "all_original_prices_and_components_matched": true,
+  "decisive_event_timing_checks": "passed",
+  "source_paths_and_csv_checks": "passed",
+  "causal_attribution_proven": false,
+  "secret_pattern_scan": "passed",
+  "redactions_this_run": 0,
+  "next_days": [
+    "2026-07-06",
+    "2026-07-07",
+    "2026-07-08"
+  ]
+}

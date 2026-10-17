@@ -1,0 +1,143 @@
+{
+  "note": "分析時に新取得した資料は診断専用。原公表日時と取得時刻を区別し、予測へ遡及投入しない。検索結果・AI要約だけで原開示照合済みとしない。",
+  "sources": {
+    "def": {
+      "file": "evidence/je1_primary_checks.json",
+      "url": "https://tdnet-pdf.kabutan.jp/20260630/140120260626581691.pdf",
+      "published_at": "2026-06-30T16:00:59+09:00",
+      "verification": "原PDF＋当時記事。レンジ中央値を確定値としない。"
+    },
+    "digest01": {
+      "file": "evidence/july_start_j1_inputs02.json",
+      "url": "https://s.kabutan.jp/news/n202606301113/",
+      "published_at": "2026-06-30T20:00:59+09:00",
+      "verification": "保存済み当時ニュースで4833の掲載確認。"
+    },
+    "reyuu": {
+      "file": "evidence/je1_primary_discovery.json",
+      "url": "https://prtimes.jp/main/html/rd/p/000000091.000111823.html",
+      "published_at": "2026-06-30T18:00:59+09:00",
+      "verification": "企業発信。TDnet一覧は16:00、ここでは確認したPR18:00を採用。"
+    },
+    "crg": {
+      "file": "evidence/je1_timing_verification.json",
+      "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260701/20260630584902.pdf",
+      "published_at": "2026-07-01T15:00:59+09:00",
+      "verification": "原PDF＋取得一覧と当時記事。"
+    },
+    "old_news": {
+      "file": "evidence/je1_market_context.json",
+      "url": "https://s.kabutan.jp/news/n202606290017/",
+      "published_at": "2026-06-29",
+      "verification": "当時記事による二次確認、原開示再照合未了。"
+    },
+    "stop01": {
+      "file": "evidence/je1_context.json",
+      "url": "https://kabu.kininew.net/stopdaka/7905.html",
+      "published_at": "2026-07-01",
+      "verification": "当日後の個人集計。材料欄は因果の証明ではない。"
+    },
+    "stop02": {
+      "file": "evidence/je1_context.json",
+      "url": "https://kabu.kininew.net/stopdaka/7913.html",
+      "published_at": "2026-07-02",
+      "verification": "当日後の個人集計、材料不明を保持。"
+    },
+    "stop03": {
+      "file": "evidence/je1_followup_search.json",
+      "url": "https://kabu.kininew.net/stopdaka/7921.html",
+      "published_at": "2026-07-03",
+      "verification": "当日後の個人集計、SNS原投稿は未照合。"
+    },
+    "birdman_old": {
+      "file": "evidence/je1_older_events.json",
+      "url": "https://birdman.tokyo/news-category/entertainment-next/",
+      "published_at": "2026-07-01 date only",
+      "verification": "企業ページで設立日確認。公開時刻と独立した初回本文版は不明。"
+    },
+    "taiyo": {
+      "file": "evidence/je1_primary_bodies.json",
+      "url": "https://prtimes.jp/main/html/rd/p/000000003.000186427.html",
+      "published_at": "2026-07-02T07:30:59+09:00",
+      "verification": "企業発信。6/30決議と7/2公表を区別。"
+    },
+    "liberta": {
+      "file": "evidence/je1_primary_bodies.json",
+      "url": "https://prtimes.jp/main/html/rd/p/000000268.000052173.html",
+      "published_at": "2026-07-02T12:00:59+09:00",
+      "verification": "企業発信。発売は5月から、7/2を発売初日としない。"
+    },
+    "oasis": {
+      "file": "evidence/je1_timing_verification.json",
+      "url": "https://s.kabutan.jp/news/n202607020904/",
+      "published_at": "2026-07-02T16:04:59+09:00",
+      "verification": "同時代記事＋提出時刻別表、原EDINET未取得。義務発生日6/25とは別。"
+    },
+    "digest03": {
+      "file": "evidence/july2post1.json",
+      "url": "https://s.kabutan.jp/news/n202607030100/",
+      "published_at": "2026-07-03T07:30:59+09:00",
+      "verification": "予測準備時に保存された朝ニュース。2492の見出しを確認。"
+    },
+    "search_contract": {
+      "file": "evidence/je1_primary_links.json",
+      "url": "https://finance.yahoo.co.jp/quote/3070.T/disclosure",
+      "published_at": null,
+      "verification": "原契約本文・初回公表時刻未照合、検索候補のみ。"
+    },
+    "search_misc": {
+      "file": "evidence/je1_market_context.json",
+      "url": "https://news.livedoor.com/article/detail/31718292/",
+      "published_at": null,
+      "verification": "当日の上昇確認、材料の確定には使わない。"
+    },
+    "nakamura": {
+      "file": "evidence/je1_primary_bodies.json",
+      "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260626/20260626581913.pdf",
+      "published_at": "2026-06-26T15:30:59+09:00",
+      "verification": "原PDF＋開示一覧。初回適格日は6/29、7/3は年齢4で0点。"
+    },
+    "filcon": {
+      "file": "data/july_releases_02.json",
+      "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260701/20260701585367.pdf",
+      "published_at": "2026-07-01T14:00:59+09:00",
+      "verification": "7/1原開示PDF本文・日付とTDnet転載一覧時刻を照合。場中14時上方修正。7/1朝には不可、初回入力7/2。"
+    },
+    "birdman": {
+      "file": "data/july_releases_03.json",
+      "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260702/20260702586749.pdf",
+      "published_at": "2026-07-02T11:30:59+09:00",
+      "verification": "7/2原開示本文と開示一覧・当時記事を照合。蓄電池設備完工と7/4運用開始予定。場中公表のため初回入力7/3。"
+    },
+    "redax": {
+      "file": "data/july_releases_03.json",
+      "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260701/20260701586395.pdf",
+      "published_at": "2026-07-01T17:20:59+09:00",
+      "verification": "業務委託契約の原開示7/1と17:20一覧照合。7/2入力時には材料未収集のため不採用だった。今回補完、過去予測は変更しない。"
+    },
+    "asterisk": {
+      "file": "data/july_releases_01.json",
+      "url": "https://prtimes.jp/main/html/rd/p/000000058.000031440.html",
+      "published_at": "2026-06-30T12:00:59+09:00",
+      "verification": "公式PR6/30 12:00と当日報道を照合。6/30朝には未公開、最初の8:30入力日は7/1"
+    },
+    "asukanet": {
+      "file": "data/july_releases_03.json",
+      "url": "https://asukanet.co.jp/contents/news/2026/20260702.html",
+      "published_at": "2026-07-02T23:59:59+09:00",
+      "verification": "日付付き公式導入事例と7/2 10:54当時報道を照合。日付精度のみのため7/2末を採用。導入採用=contract。"
+    },
+    "reyuu_mou": {
+      "file": "data/july_releases_03.json",
+      "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260702/20260702586640.pdf",
+      "published_at": "2026-07-02T16:00:59+09:00",
+      "verification": "7/2原開示本文と開示一覧・当時記事を照合。あいプロ買収の非拘束基本合意。確定買収と区別しMOU=2点。"
+    },
+    "innova": {
+      "file": "data/july_releases_03.json",
+      "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260702/20260702586992.pdf",
+      "published_at": "2026-07-02T16:00:59+09:00",
+      "verification": "7/2原開示本文と開示一覧・当時記事を照合。FDAの治験組入れ承認、製品販売承認ではない。固定モデルに治験進展の専用項目がないためunknown=0。"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "created_at_utc": "2026-10-17T12:10:49.564146+00:00",
+  "files": {
+    "analyze_july_errors01.py": "2838e8f04961cf01e4cb4de5b97546ddf120f2a9d77986857b4c9691bf082034",
+    "audit_july_errors01.py": "343605fe461f2c940cab8226b723c268388c90ac2600dc431fc68b090617aa3f",
+    "evidence/je1_context.json": "15a206e0637b8ac2b92cc08e94ba44ec67cb5372a15176f8d82e982b4812b4b0",
+    "evidence/je1_crg_index.json": "154e7bc8ec6645f8b6eaef0dd6d89a87647f935c9b39c4d87305e83711f923fa",
+    "evidence/je1_discovery.json": "06f62fb4750d7efa588b19d227c4b994e7b6cf313c6315b8a8d6562ebe8c43ef",
+    "evidence/je1_final_checks.json": "317dac303360209d61042d18a9e6f60d5fa590c1f34dbfffcd66c0744d33e38c",
+    "evidence/je1_followup_search.json": "abbe860aedab34f88e15330ded189444b1e08fe36e08a26f66bb84bf82eadc95",
+    "evidence/je1_market_context.json": "ab0b4048a3a9526bed5127dde9271129d71ffe70cd3948663c7ed735dc62ea50",
+    "evidence/je1_material_search.json": "436a3e4086ad98d0d7a0f4af7b34daef43aefb10735e01cdc1aca9750a38f179",
+    "evidence/je1_older_events.json": "0ba7455c72d686178323d119158888c92bb16c098b95611d3d40671db817789b",
+    "evidence/je1_primary_bodies.json": "6f25f03b2408e22eff6087d3de795764f95bf4a3983f037cbbd0580f58b451ac",
+    "evidence/je1_primary_checks.json": "94cbf53e71be91807f1d4783ce0d23a33fa434e29ea92d28f01b76e3d1735957",
+    "evidence/je1_primary_discovery.json": "6e41211252435e595baa05dd08829838b81c51880e34be53f1407389b3cff866",
+    "evidence/je1_primary_links.json": "b9ccefe0b755deee9bdeb986856e5303ac5405ca2f3cb35d7b9542799f1bcec9",
+    "evidence/je1_timing_search.json": "2c5d0b8532ab958cb5c6d8dd27b0697dbd59e10860655d0b5051de6303f9d578",
+    "evidence/je1_timing_verification.json": "252fc319a0ad47a4f496b22db793cf0f018a7228b167506cd8576b96dffaeee2",
+    "results/july_error_batch01_acquisition_ledger.json": "a64719c846517240a4ad0498fb409b6e7a00ca1abf9f812114d93a100834b675",
+    "results/july_error_batch01_audit.json": "6dc6ce51d53139ff6ab6176dbd5822e1476a3877ef5ef27b5ee4fe21b3564df0",
+    "results/july_error_batch01_cases.csv": "1c5e9b208c1c23f68c65d5f90501b8f8a39d51e57d79bfbbfeb2604c83ac56af",
+    "results/july_error_batch01_cases.json": "b000de34860f9700a848f92b208bc8662f7db461d4288146f575cd29561d54be",
+    "results/july_error_batch01_report.md": "d174bd1638f306787703a10ee77bea45783d8c024e6ca747b3aaa67f302a466c",
+    "results/july_error_batch01_sources.json": "5b9930f0dc8ac04d71d6e8788e1d4534661723faf593d75d3913223b760bda13",
+    "results/july_error_batch01_summary.json": "c608cdb4b49b8d4262d7e5e3b53c2cfecfa3b4abd841ceaabb173622a36fbede"
+  }
+}

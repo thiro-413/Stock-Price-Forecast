@@ -1,0 +1,91 @@
+{
+  "days": [
+    "2026-07-01",
+    "2026-07-02",
+    "2026-07-03"
+  ],
+  "analysis_batch": 1,
+  "analyzed_sessions": 3,
+  "prediction_count": 30,
+  "hits": 4,
+  "false_positives": 26,
+  "false_negatives": 26,
+  "error_records": 52,
+  "record_count": 60,
+  "eligible_winners": 15,
+  "candidate_recall": 0.5,
+  "missed_winner_stages": {
+    "eligible_below_top10": 11,
+    "absent_from_union": 15
+  },
+  "false_positive_up": 12,
+  "false_positive_flat": 1,
+  "false_positive_down": 13,
+  "daily": [
+    {
+      "date": "2026-07-01",
+      "hits": 2,
+      "false_positives": 8,
+      "false_negatives": 8,
+      "eligible_winners": 4,
+      "candidate_recall": 0.4,
+      "missed_winner_stages": {
+        "eligible_below_top10": 2,
+        "absent_from_union": 6
+      },
+      "score_threshold": 5,
+      "top10_return_boundary_pct": 16.260162601626018,
+      "false_positive_up": 4,
+      "false_positive_flat": 1,
+      "false_positive_down": 3,
+      "missing_momentum_in_predictions": 9
+    },
+    {
+      "date": "2026-07-02",
+      "hits": 1,
+      "false_positives": 9,
+      "false_negatives": 9,
+      "eligible_winners": 4,
+      "candidate_recall": 0.4,
+      "missed_winner_stages": {
+        "eligible_below_top10": 3,
+        "absent_from_union": 6
+      },
+      "score_threshold": 5,
+      "top10_return_boundary_pct": 15.27599486521181,
+      "false_positive_up": 5,
+      "false_positive_flat": 0,
+      "false_positive_down": 4,
+      "missing_momentum_in_predictions": 6
+    },
+    {
+      "date": "2026-07-03",
+      "hits": 1,
+      "false_positives": 9,
+      "false_negatives": 9,
+      "eligible_winners": 7,
+      "candidate_recall": 0.7,
+      "missed_winner_stages": {
+        "absent_from_union": 3,
+        "eligible_below_top10": 6
+      },
+      "score_threshold": 5,
+      "top10_return_boundary_pct": 16.39549436795995,
+      "false_positive_up": 3,
+      "false_positive_flat": 0,
+      "false_positive_down": 6,
+      "missing_momentum_in_predictions": 5
+    }
+  ],
+  "model_modified": false,
+  "sealed_artifacts_modified": false,
+  "causal_attribution_proven": false,
+  "full_tse_universe": false,
+  "blind_test": false,
+  "screening_prompt_created": false,
+  "next_days": [
+    "2026-07-06",
+    "2026-07-07",
+    "2026-07-08"
+  ]
+}

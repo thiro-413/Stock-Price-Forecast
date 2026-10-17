@@ -1,0 +1,75 @@
+{
+  "note": "ファイル保存時刻。原公表時刻・ツール実行の厳密な取得時刻とは異なる。分析用の事後取得で第三者による事前予測証明ではない。",
+  "files": [
+    {
+      "file": "evidence/je1_context.json",
+      "saved_at_utc": "2026-10-17T12:01:44.844176+00:00",
+      "sha256": "15a206e0637b8ac2b92cc08e94ba44ec67cb5372a15176f8d82e982b4812b4b0"
+    },
+    {
+      "file": "evidence/je1_crg_index.json",
+      "saved_at_utc": "2026-10-17T12:03:08.340311+00:00",
+      "sha256": "154e7bc8ec6645f8b6eaef0dd6d89a87647f935c9b39c4d87305e83711f923fa"
+    },
+    {
+      "file": "evidence/je1_discovery.json",
+      "saved_at_utc": "2026-10-17T12:01:33.320709+00:00",
+      "sha256": "06f62fb4750d7efa588b19d227c4b994e7b6cf313c6315b8a8d6562ebe8c43ef"
+    },
+    {
+      "file": "evidence/je1_final_checks.json",
+      "saved_at_utc": "2026-10-17T12:03:59.049956+00:00",
+      "sha256": "317dac303360209d61042d18a9e6f60d5fa590c1f34dbfffcd66c0744d33e38c"
+    },
+    {
+      "file": "evidence/je1_followup_search.json",
+      "saved_at_utc": "2026-10-17T12:02:20.938506+00:00",
+      "sha256": "abbe860aedab34f88e15330ded189444b1e08fe36e08a26f66bb84bf82eadc95"
+    },
+    {
+      "file": "evidence/je1_market_context.json",
+      "saved_at_utc": "2026-10-17T12:03:28.035399+00:00",
+      "sha256": "ab0b4048a3a9526bed5127dde9271129d71ffe70cd3948663c7ed735dc62ea50"
+    },
+    {
+      "file": "evidence/je1_material_search.json",
+      "saved_at_utc": "2026-10-17T12:01:57.755579+00:00",
+      "sha256": "436a3e4086ad98d0d7a0f4af7b34daef43aefb10735e01cdc1aca9750a38f179"
+    },
+    {
+      "file": "evidence/je1_older_events.json",
+      "saved_at_utc": "2026-10-17T12:03:58.565979+00:00",
+      "sha256": "0ba7455c72d686178323d119158888c92bb16c098b95611d3d40671db817789b"
+    },
+    {
+      "file": "evidence/je1_primary_bodies.json",
+      "saved_at_utc": "2026-10-17T12:08:44.376437+00:00",
+      "sha256": "6f25f03b2408e22eff6087d3de795764f95bf4a3983f037cbbd0580f58b451ac"
+    },
+    {
+      "file": "evidence/je1_primary_checks.json",
+      "saved_at_utc": "2026-10-17T12:02:52.705035+00:00",
+      "sha256": "94cbf53e71be91807f1d4783ce0d23a33fa434e29ea92d28f01b76e3d1735957"
+    },
+    {
+      "file": "evidence/je1_primary_discovery.json",
+      "saved_at_utc": "2026-10-17T12:02:51.625085+00:00",
+      "sha256": "6e41211252435e595baa05dd08829838b81c51880e34be53f1407389b3cff866"
+    },
+    {
+      "file": "evidence/je1_primary_links.json",
+      "saved_at_utc": "2026-10-17T12:02:52.193059+00:00",
+      "sha256": "b9ccefe0b755deee9bdeb986856e5303ac5405ca2f3cb35d7b9542799f1bcec9"
+    },
+    {
+      "file": "evidence/je1_timing_search.json",
+      "saved_at_utc": "2026-10-17T12:02:20.450529+00:00",
+      "sha256": "2c5d0b8532ab958cb5c6d8dd27b0697dbd59e10860655d0b5051de6303f9d578"
+    },
+    {
+      "file": "evidence/je1_timing_verification.json",
+      "saved_at_utc": "2026-10-17T12:03:08.936284+00:00",
+      "sha256": "252fc319a0ad47a4f496b22db793cf0f018a7228b167506cd8576b96dffaeee2"
+    }
+  ]
+}
