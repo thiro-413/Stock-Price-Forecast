@@ -4,10 +4,12 @@
   "standard_trading_days_per_batch": 3,
   "count_across_phases": true,
   "count_final_short_batch_as_one": true,
-  "completed_batches_in_chat": 0,
-  "completed_batch_ids_in_chat": [],
-  "counting_starts": "next_new_chat",
-  "next_authorized_batch": ["2026-07-23", "2026-07-24", "2026-07-27"],
-  "handoff_prepared": true,
-  "note": "このチャットでの分析は停止済み。次の新しいチャットから0回で開始し、分析バッチの完了時のみ加算。7回で引き継ぎ記録と再開文を準備。ユーザーが新しいチャットへ移ったと確認した時点で回数をリセットする。各バッチの続行確認・コミット・プッシュは継続。"
+  "completed_batches_in_chat": 1,
+  "completed_batch_ids_in_chat": [
+    "july_prediction_batch06"
+  ],
+  "counting_starts": "current_new_chat",
+  "next_authorized_batch": [],
+  "handoff_prepared": false,
+  "note": "引き継ぎ後の新チャットで7/23・24・27を完了し1回。次の7/28・29・30は続行回答待ち。予測比較・不的中原因分析をまたいで7回ごとに引き継ぐ。"
 }

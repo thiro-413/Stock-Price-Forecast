@@ -1,0 +1,283 @@
+{
+  "date": "2026-07-23",
+  "hits": 3,
+  "precision_at_10": 0.3,
+  "recall_at_10": 0.3,
+  "exact_rank_hits": 1,
+  "predictions": [
+    {
+      "predicted_rank": 1,
+      "code": "5576",
+      "actual_rank": null,
+      "result": "outside_top10",
+      "name": "オービーシステム",
+      "score": 6,
+      "previous_close": 3065.0,
+      "actual_close": 2947.0,
+      "actual_return_pct": -3.8499184339314874,
+      "actual_source": "https://96ut.com/stock/jikei.php?code=5576&year=2026",
+      "material_types": [
+        "earnings_up"
+      ],
+      "missing_momentum": true,
+      "price_status": "traded_close",
+      "actual_source_note": ""
+    },
+    {
+      "predicted_rank": 2,
+      "code": "6890",
+      "actual_rank": 6,
+      "result": "hit_top10",
+      "name": "〖フェローテク",
+      "score": 6,
+      "previous_close": 7440.0,
+      "actual_close": 8940.0,
+      "actual_return_pct": 20.161290322580648,
+      "actual_source": "https://kabu.kininew.net/fiveup/8052.html",
+      "material_types": [
+        "earnings_up"
+      ],
+      "missing_momentum": true,
+      "price_status": "traded_close",
+      "actual_source_note": ""
+    },
+    {
+      "predicted_rank": 3,
+      "code": "1518",
+      "actual_rank": 3,
+      "result": "hit_top10",
+      "name": "三井松島ＨＤ",
+      "score": 5,
+      "previous_close": 1553.0,
+      "actual_close": 1953.0,
+      "actual_return_pct": 25.756600128783003,
+      "actual_source": "https://kabu.kininew.net/fiveup/8052.html",
+      "material_types": [
+        "earnings_up"
+      ],
+      "missing_momentum": true,
+      "price_status": "traded_close",
+      "actual_source_note": ""
+    },
+    {
+      "predicted_rank": 4,
+      "code": "3091",
+      "actual_rank": null,
+      "result": "outside_top10",
+      "name": "ブロンコＢ",
+      "score": 5,
+      "previous_close": 2398.0,
+      "actual_close": 2453.0,
+      "actual_return_pct": 2.2935779816513735,
+      "actual_source": "https://96ut.com/stock/jikei.php?code=3091&year=2026",
+      "material_types": [
+        "earnings_up"
+      ],
+      "missing_momentum": true,
+      "price_status": "traded_close",
+      "actual_source_note": ""
+    },
+    {
+      "predicted_rank": 5,
+      "code": "323A",
+      "actual_rank": null,
+      "result": "outside_top10",
+      "name": "フライヤー",
+      "score": 5,
+      "previous_close": 370.0,
+      "actual_close": 387.0,
+      "actual_return_pct": 4.594594594594592,
+      "actual_source": "https://96ut.com/stock/jikei.php?code=323A&year=2026",
+      "material_types": [
+        "contract"
+      ],
+      "missing_momentum": true,
+      "price_status": "traded_close",
+      "actual_source_note": ""
+    },
+    {
+      "predicted_rank": 6,
+      "code": "4684",
+      "actual_rank": null,
+      "result": "outside_top10",
+      "name": "オービック",
+      "score": 5,
+      "previous_close": 4176.0,
+      "actual_close": 4161.0,
+      "actual_return_pct": -0.35919540229885083,
+      "actual_source": "https://96ut.com/stock/jikei.php?code=4684&year=2026",
+      "material_types": [
+        "earnings_up"
+      ],
+      "missing_momentum": true,
+      "price_status": "traded_close",
+      "actual_source_note": ""
+    },
+    {
+      "predicted_rank": 7,
+      "code": "4733",
+      "actual_rank": null,
+      "result": "outside_top10",
+      "name": "オービックビジネスコンサルタント",
+      "score": 5,
+      "previous_close": 6840.0,
+      "actual_close": 7015.0,
+      "actual_return_pct": 2.558479532163749,
+      "actual_source": "https://96ut.com/stock/jikei.php?code=4733&year=2026",
+      "material_types": [
+        "earnings_up"
+      ],
+      "missing_momentum": true,
+      "price_status": "traded_close",
+      "actual_source_note": ""
+    },
+    {
+      "predicted_rank": 8,
+      "code": "4890",
+      "actual_rank": 10,
+      "result": "hit_top10",
+      "name": "坪田ラボ",
+      "score": 5,
+      "previous_close": 233.0,
+      "actual_close": 273.0,
+      "actual_return_pct": 17.16738197424892,
+      "actual_source": "https://kabu.kininew.net/fiveup/8052.html",
+      "material_types": [
+        "contract"
+      ],
+      "missing_momentum": true,
+      "price_status": "traded_close",
+      "actual_source_note": ""
+    },
+    {
+      "predicted_rank": 9,
+      "code": "6227",
+      "actual_rank": null,
+      "result": "outside_top10",
+      "name": "ＡＩメカテック",
+      "score": 5,
+      "previous_close": 6630.0,
+      "actual_close": 7240.0,
+      "actual_return_pct": 9.200603318250366,
+      "actual_source": "https://kabu.kininew.net/fiveup/8052.html",
+      "material_types": [
+        "contract"
+      ],
+      "missing_momentum": true,
+      "price_status": "traded_close",
+      "actual_source_note": ""
+    },
+    {
+      "predicted_rank": 10,
+      "code": "4073",
+      "actual_rank": null,
+      "result": "outside_top10",
+      "name": "ジィ・シィ",
+      "score": 4.835,
+      "previous_close": 516.0,
+      "actual_close": 480.0,
+      "actual_return_pct": -6.976744186046513,
+      "actual_source": "https://96ut.com/stock/jikei.php?code=4073&year=2026",
+      "material_types": [
+        "contract"
+      ],
+      "missing_momentum": false,
+      "price_status": "traded_close",
+      "actual_source_note": ""
+    }
+  ],
+  "missed_winners": [
+    {
+      "code": "5103",
+      "name": "昭和ＨＤ",
+      "market": "S",
+      "close": 21.0,
+      "change": 7.0,
+      "return_pct": 50.0,
+      "volume": 5339100,
+      "reported_return_pct": 50.0,
+      "previous_close": 14.0,
+      "url": "https://kabu.kininew.net/fiveup/8052.html",
+      "actual_rank": 1
+    },
+    {
+      "code": "2459",
+      "name": "アウン",
+      "market": "S",
+      "close": 211.0,
+      "change": 50.0,
+      "return_pct": 31.055900621118013,
+      "volume": 1236800,
+      "reported_return_pct": 31.06,
+      "previous_close": 161.0,
+      "url": "https://kabu.kininew.net/fiveup/8052.html",
+      "actual_rank": 2
+    },
+    {
+      "code": "5242",
+      "name": "アイズ",
+      "market": "G",
+      "close": 1990.0,
+      "change": 400.0,
+      "return_pct": 25.157232704402517,
+      "volume": 181400,
+      "reported_return_pct": 25.16,
+      "previous_close": 1590.0,
+      "url": "https://kabu.kininew.net/fiveup/8052.html",
+      "actual_rank": 4
+    },
+    {
+      "code": "593A",
+      "name": "ティアフォー",
+      "market": "G",
+      "close": 1240.0,
+      "change": 225.0,
+      "return_pct": 22.167487684729064,
+      "volume": 40755300,
+      "reported_return_pct": 22.17,
+      "previous_close": 1015.0,
+      "url": "https://kabu.kininew.net/fiveup/8052.html",
+      "actual_rank": 5
+    },
+    {
+      "code": "584A",
+      "name": "ＬｉＮＫＸ",
+      "market": "G",
+      "close": 3070.0,
+      "change": 504.0,
+      "return_pct": 19.641465315666405,
+      "volume": 1224300,
+      "reported_return_pct": 19.64,
+      "previous_close": 2566.0,
+      "url": "https://kabu.kininew.net/fiveup/8052.html",
+      "actual_rank": 7
+    },
+    {
+      "code": "6380",
+      "name": "オリチェン",
+      "market": "S",
+      "close": 4350.0,
+      "change": 680.0,
+      "return_pct": 18.52861035422343,
+      "volume": 57800,
+      "reported_return_pct": 18.53,
+      "previous_close": 3670.0,
+      "url": "https://kabu.kininew.net/fiveup/8052.html",
+      "actual_rank": 8
+    },
+    {
+      "code": "2354",
+      "name": "ＹＥデジタル",
+      "market": "S",
+      "close": 1440.0,
+      "change": 220.0,
+      "return_pct": 18.0327868852459,
+      "volume": 8740800,
+      "reported_return_pct": 18.03,
+      "previous_close": 1220.0,
+      "url": "https://kabu.kininew.net/fiveup/8052.html",
+      "actual_rank": 9
+    }
+  ],
+  "note": "上位10外の正確な順位は全銘柄実績がない限り算出しない。利益率とは異なる。"
+}

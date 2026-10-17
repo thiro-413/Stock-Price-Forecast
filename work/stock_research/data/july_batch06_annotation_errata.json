@@ -1,0 +1,24 @@
+{
+  "discovered_after_sealing": "2026-07-24 prediction; before intentional retrieval of that day's actual ranking",
+  "scope": "入力の説明文の転記誤り。固定モデルの数値特徴・分類・得点・選出順位への影響なし。封印済みファイルを維持し、正誤を別記する。",
+  "corrections": [
+    {
+      "date": "2026-07-24",
+      "code": "6999",
+      "incorrect_annotation": "通期経常4900→8800百万円、年間配当50→74円",
+      "correct_annotation": "通期経常3300→6040百万円、年間配当39→63円。中間・通期の上方修正という分類は同じ。",
+      "source_file": "evidence/jb6_pdf24_6999.json",
+      "score_impact": 0
+    },
+    {
+      "date": "2026-07-24",
+      "code": "3242",
+      "incorrect_annotation": "前期経常予想5400→5900百万円",
+      "correct_annotation": "前期経常予想2850→3100百万円（8.8%上方修正）。",
+      "source_file": "evidence/jb6_pdf24_3242.json",
+      "score_impact": 0
+    }
+  ],
+  "sealed_inputs_overwritten": false,
+  "rule": "資料を取得しただけで説明文の全数値を確認したと扱わない。以降の入力と報告では原資料に確認済みの値だけを記す。"
+}

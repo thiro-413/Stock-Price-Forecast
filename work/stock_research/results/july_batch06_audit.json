@@ -1,0 +1,61 @@
+{
+  "old_manifest_file_checks": 495,
+  "old_seals_unchanged": true,
+  "days": [
+    {
+      "date": "2026-07-23",
+      "seal": "217335e758f9797a138e981ab8c6ec3eb09dfb4081580a977d302a01d415f600",
+      "input_sha256": "85a72e62cd90ce28e1de2be8fdb2214eb7eae2b0c3a958a895fdead22c8ae710",
+      "cutoff_gate": "passed",
+      "candidate_count": 69,
+      "unverified_exclusions": 8,
+      "hits": 3,
+      "traded_closes": 10
+    },
+    {
+      "date": "2026-07-24",
+      "seal": "2f090bebed7f4ab283666caf08b0c2016e0051fbba647b68f6985a8316782fc0",
+      "input_sha256": "fd46b8765648fa3461439065ccd873796f33c6a457dd517e2899dcc88de58ee8",
+      "cutoff_gate": "passed",
+      "candidate_count": 66,
+      "unverified_exclusions": 9,
+      "hits": 1,
+      "traded_closes": 10
+    },
+    {
+      "date": "2026-07-27",
+      "seal": "563ab24bdaaa886ec2226a4951e45cdf6400de21dd8ac05cca0837e287b2e63f",
+      "input_sha256": "1937806ce6207d537ca78c133d7020b61aab1ceb612b0891c7b30ebbde6cc1eb",
+      "cutoff_gate": "passed",
+      "candidate_count": 56,
+      "unverified_exclusions": 11,
+      "hits": 0,
+      "traded_closes": 10
+    }
+  ],
+  "all_30_actual_statuses_verified": true,
+  "traded_close_count": 30,
+  "no_regular_trade_count": 0,
+  "top10_corroborated_each_day": 10,
+  "frozen_code_sha256": "c5060225df69b56370b1c5ed7617ad04baed1d5dd5b00efbfc27d8a46e8cb874",
+  "frozen_model_sha256": "f5df7418010ab4a68bf2c9e0c82fc5ce0f6a0d8b04fcf4a00a7b3e6e264d13ad",
+  "annotation_errata_count": 2,
+  "annotation_score_impact": 0,
+  "full_tse_universe": false,
+  "blind_test": false,
+  "new_evidence_secret_pattern_scan": "passed",
+  "new_redactions": 0,
+  "notes": [
+    "一部の多重open後の参照ID解決で別資料やエラーを取得。該当試行は保存し、不適合資料を入力に不使用。各採用資料を単独取得し社名・日付・本文を確認。",
+    "23日別表の福証3047、24日名証3260、27日名証3260・福証3047・ETN2050を除外。不足は日付付き時系列で照合。",
+    "27日原表150行・普通株146行へ取得窓を補完。",
+    "9478は当日終値532円・前日552円をTraders/みずほ証券の日付付き検索保存データで確認。",
+    "7175・8707の既知速報と同一利益値は初回適格日を維持。",
+    "6999・3242の説明文転記誤りを別紙訂正、封印済み入力は保持。"
+  ],
+  "next_days": [
+    "2026-07-28",
+    "2026-07-29",
+    "2026-07-30"
+  ]
+}

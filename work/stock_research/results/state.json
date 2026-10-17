@@ -2,16 +2,16 @@
   "phase": "july_prediction",
   "completed_batch": 8,
   "next_days": [
-    "2026-07-23",
-    "2026-07-24",
-    "2026-07-27"
+    "2026-07-28",
+    "2026-07-29",
+    "2026-07-30"
   ],
   "requires_user_continue": true,
   "july_predictions_created": true,
   "screening_prompt_created": false,
   "model_status": "frozen",
   "data_hash": "e2bb8e0b62cf21252ccd5a6b5469c447ac28c748aef152930a4deb527bfec10d",
-  "july_completed_batch": 5,
+  "july_completed_batch": 6,
   "july_completed_days": [
     "2026-07-01",
     "2026-07-02",
@@ -27,7 +27,10 @@
     "2026-07-16",
     "2026-07-17",
     "2026-07-21",
-    "2026-07-22"
+    "2026-07-22",
+    "2026-07-23",
+    "2026-07-24",
+    "2026-07-27"
   ],
   "error_analysis_started": false
 }

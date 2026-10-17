@@ -1,0 +1,134 @@
+{
+  "date": "2026-07-27",
+  "top10_verified": true,
+  "verification_scope": "別集計表の東証普通株と照合。不足の7/23=4890、7/24=4564、7/27=4833・6330・7819を日付付き時系列で補完。全原票からの独立再ソートではない。",
+  "sources": [
+    "https://kabu.kininew.net/fiveup/8070.html",
+    "https://uiblog.hatenablog.com/entry/2026/07/27/195717",
+    "https://96ut.com/stock/jikei.php?code=4833&year=2026",
+    "https://96ut.com/stock/jikei.php?code=6330&year=2026",
+    "https://96ut.com/stock/jikei.php?code=7819&year=2026"
+  ],
+  "top10": [
+    {
+      "code": "4052",
+      "name": "フィーチャ",
+      "market": "G",
+      "close": 401.0,
+      "change": 80.0,
+      "return_pct": 24.922118380062305,
+      "volume": 1761000,
+      "reported_return_pct": 24.92,
+      "previous_close": 321.0,
+      "url": "https://kabu.kininew.net/fiveup/8070.html"
+    },
+    {
+      "code": "5242",
+      "name": "アイズ",
+      "market": "G",
+      "close": 2709.0,
+      "change": 500.0,
+      "return_pct": 22.634676324128566,
+      "volume": 98800,
+      "reported_return_pct": 22.63,
+      "previous_close": 2209.0,
+      "url": "https://kabu.kininew.net/fiveup/8070.html"
+    },
+    {
+      "code": "5253",
+      "name": "カバー",
+      "market": "G",
+      "close": 1650.0,
+      "change": 300.0,
+      "return_pct": 22.22222222222222,
+      "volume": 6710300,
+      "reported_return_pct": 22.22,
+      "previous_close": 1350.0,
+      "url": "https://kabu.kininew.net/fiveup/8070.html"
+    },
+    {
+      "code": "6993",
+      "name": "大黒屋",
+      "market": "S",
+      "close": 101.0,
+      "change": 18.0,
+      "return_pct": 21.686746987951807,
+      "volume": 37214700,
+      "reported_return_pct": 21.69,
+      "previous_close": 83.0,
+      "url": "https://kabu.kininew.net/fiveup/8070.html"
+    },
+    {
+      "code": "8995",
+      "name": "誠建設",
+      "market": "S",
+      "close": 943.0,
+      "change": 150.0,
+      "return_pct": 18.915510718789406,
+      "volume": 166100,
+      "reported_return_pct": 18.92,
+      "previous_close": 793.0,
+      "url": "https://kabu.kininew.net/fiveup/8070.html"
+    },
+    {
+      "code": "5240",
+      "name": "ｍｏｎｏＡＩ",
+      "market": "G",
+      "close": 250.0,
+      "change": 37.0,
+      "return_pct": 17.370892018779344,
+      "volume": 3861500,
+      "reported_return_pct": 17.37,
+      "previous_close": 213.0,
+      "url": "https://kabu.kininew.net/fiveup/8070.html"
+    },
+    {
+      "code": "3445",
+      "name": "ＲＳテクノ",
+      "market": "P",
+      "close": 7100.0,
+      "change": 830.0,
+      "return_pct": 13.237639553429027,
+      "volume": 498700,
+      "reported_return_pct": 13.24,
+      "previous_close": 6270.0,
+      "url": "https://kabu.kininew.net/fiveup/8070.html"
+    },
+    {
+      "code": "4833",
+      "name": "Ｄｅｆコン",
+      "market": "G",
+      "close": 48.0,
+      "change": 5.0,
+      "return_pct": 11.627906976744185,
+      "volume": 2591400,
+      "reported_return_pct": 11.63,
+      "previous_close": 43.0,
+      "url": "https://kabu.kininew.net/fiveup/8070.html"
+    },
+    {
+      "code": "6330",
+      "name": "東洋エンジ",
+      "market": "P",
+      "close": 2095.0,
+      "change": 211.0,
+      "return_pct": 11.199575371549894,
+      "volume": 6172400,
+      "reported_return_pct": 11.2,
+      "previous_close": 1884.0,
+      "url": "https://kabu.kininew.net/fiveup/8070.html"
+    },
+    {
+      "code": "7819",
+      "name": "粧美堂",
+      "market": "S",
+      "close": 995.0,
+      "change": 99.0,
+      "return_pct": 11.049107142857142,
+      "volume": 119300,
+      "reported_return_pct": 11.05,
+      "previous_close": 896.0,
+      "url": "https://kabu.kininew.net/fiveup/8070.html"
+    }
+  ]
+}

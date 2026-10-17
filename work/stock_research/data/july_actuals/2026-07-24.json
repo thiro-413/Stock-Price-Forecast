@@ -1,0 +1,132 @@
+{
+  "date": "2026-07-24",
+  "top10_verified": true,
+  "verification_scope": "別集計表の東証普通株と照合。不足の7/23=4890、7/24=4564、7/27=4833・6330・7819を日付付き時系列で補完。全原票からの独立再ソートではない。",
+  "sources": [
+    "https://kabu.kininew.net/fiveup/8060.html",
+    "https://uiblog.hatenablog.com/entry/2026/07/24/195005",
+    "https://96ut.com/stock/jikei.php?code=4564&year=2026"
+  ],
+  "top10": [
+    {
+      "code": "5240",
+      "name": "ｍｏｎｏＡＩ",
+      "market": "G",
+      "close": 213.0,
+      "change": 50.0,
+      "return_pct": 30.67484662576687,
+      "volume": 5119600,
+      "reported_return_pct": 30.67,
+      "previous_close": 163.0,
+      "url": "https://kabu.kininew.net/fiveup/8060.html"
+    },
+    {
+      "code": "4424",
+      "name": "Ａｍａｚｉａ",
+      "market": "G",
+      "close": 379.0,
+      "change": 51.0,
+      "return_pct": 15.548780487804878,
+      "volume": 3661100,
+      "reported_return_pct": 15.55,
+      "previous_close": 328.0,
+      "url": "https://kabu.kininew.net/fiveup/8060.html"
+    },
+    {
+      "code": "1518",
+      "name": "三井松島ＨＤ",
+      "market": "P",
+      "close": 2241.0,
+      "change": 288.0,
+      "return_pct": 14.746543778801843,
+      "volume": 3839800,
+      "reported_return_pct": 14.75,
+      "previous_close": 1953.0,
+      "url": "https://kabu.kininew.net/fiveup/8060.html"
+    },
+    {
+      "code": "1723",
+      "name": "日本電技",
+      "market": "S",
+      "close": 2510.0,
+      "change": 318.0,
+      "return_pct": 14.507299270072993,
+      "volume": 1004100,
+      "reported_return_pct": 14.51,
+      "previous_close": 2192.0,
+      "url": "https://kabu.kininew.net/fiveup/8060.html"
+    },
+    {
+      "code": "7034",
+      "name": "プロレド",
+      "market": "P",
+      "close": 453.0,
+      "change": 54.0,
+      "return_pct": 13.533834586466165,
+      "volume": 297300,
+      "reported_return_pct": 13.53,
+      "previous_close": 399.0,
+      "url": "https://kabu.kininew.net/fiveup/8060.html"
+    },
+    {
+      "code": "6999",
+      "name": "ＫＯＡ",
+      "market": "P",
+      "close": 2782.0,
+      "change": 288.0,
+      "return_pct": 11.547714514835606,
+      "volume": 7739400,
+      "reported_return_pct": 11.55,
+      "previous_close": 2494.0,
+      "url": "https://kabu.kininew.net/fiveup/8060.html"
+    },
+    {
+      "code": "8541",
+      "name": "愛媛銀",
+      "market": "P",
+      "close": 2794.0,
+      "change": 286.0,
+      "return_pct": 11.403508771929825,
+      "volume": 2043100,
+      "reported_return_pct": 11.4,
+      "previous_close": 2508.0,
+      "url": "https://kabu.kininew.net/fiveup/8060.html"
+    },
+    {
+      "code": "2354",
+      "name": "ＹＥデジタル",
+      "market": "S",
+      "close": 1600.0,
+      "change": 160.0,
+      "return_pct": 11.11111111111111,
+      "volume": 5026400,
+      "reported_return_pct": 11.11,
+      "previous_close": 1440.0,
+      "url": "https://kabu.kininew.net/fiveup/8060.html"
+    },
+    {
+      "code": "5242",
+      "name": "アイズ",
+      "market": "G",
+      "close": 2209.0,
+      "change": 219.0,
+      "return_pct": 11.00502512562814,
+      "volume": 253600,
+      "reported_return_pct": 11.01,
+      "previous_close": 1990.0,
+      "url": "https://kabu.kininew.net/fiveup/8060.html"
+    },
+    {
+      "code": "4564",
+      "name": "オンコセラピ",
+      "market": "G",
+      "close": 21.0,
+      "change": 2.0,
+      "return_pct": 10.526315789473685,
+      "volume": 192136100,
+      "reported_return_pct": 10.53,
+      "previous_close": 19.0,
+      "url": "https://kabu.kininew.net/fiveup/8060.html"
+    }
+  ]
+}

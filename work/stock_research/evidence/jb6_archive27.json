@@ -1,0 +1,9 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "Internal Error ()\n【turn667446view0】 [wordlim: 200] Source: open({\"ref_id\":\"https://uiblog.hatenablog.com/archive/2026/07/27\",\"lineno\":null}); Total lines: 1\nL0: URL https://uiblog.hatenablog.com/archive/2026/07/27 is not accessible via this tool.\n"
+    }
+  ],
+  "isError": false
+}

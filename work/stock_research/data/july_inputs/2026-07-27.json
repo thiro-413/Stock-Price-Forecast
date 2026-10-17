@@ -1,0 +1,1282 @@
+{
+  "date": "2026-07-27",
+  "coverage": {
+    "universe": "前日5%以上上昇の東証普通株＋取得ニュース掲載普通株。原開示照合未了のニュースのみ候補は除外",
+    "price_rows": 36,
+    "news_rows": 32,
+    "union_rows": 67,
+    "full_tse": false,
+    "long_ohlcv": false,
+    "revision_archive_limit": "日付付き原開示の内容を当時記事と照合。第三者タイムスタンプによる改訂不存在の証明ではない。",
+    "missing_return": "5%以上表にない銘柄の前日騰落率は未取得、0点。0%と認定しない。",
+    "future_exposure": "非盲検の過去再現。検索の偶発的な将来記事表示あり、入力に不採用。"
+  },
+  "evidence": [
+    {
+      "id": "price_2026-07-24",
+      "url": "https://kabu.kininew.net/fiveup/8060.html",
+      "available_at": "2026-07-24T23:59:59+09:00",
+      "version_verified": true,
+      "timestamp_evidence": "前営業日の引け後公表日付き価格表。日付精度のため当日末を採用。動的関連欄は不使用。全原票による完全性保証はなし。",
+      "role": "predictor"
+    },
+    {
+      "id": "release_4424_2026-07-01",
+      "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260630/20260629583588.pdf",
+      "available_at": "2026-06-30T15:30:59+09:00",
+      "version_verified": true,
+      "timestamp_evidence": "6/30原開示PDFの純損失縮小を当時記事と照合。営業改善ではなく新株予約権戻入益24百万円。発行ではないため希薄化ペナルティなし",
+      "role": "predictor"
+    },
+    {
+      "id": "release_1518_2026-07-23",
+      "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260722/20260722597578.pdf",
+      "available_at": "2026-07-22T16:00:59+09:00",
+      "version_verified": true,
+      "timestamp_evidence": "7/22原開示の社名・日付・本文を当時記事と照合、公表時刻は開示一覧等で確認。経常10000→10400百万円、年間配当74→130円。買収効果・株式譲渡益含む。最大材料点のみ。",
+      "role": "predictor"
+    },
+    {
+      "id": "release_6999_2026-07-24",
+      "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260723/20260722597191.pdf",
+      "available_at": "2026-07-23T15:30:59+09:00",
+      "version_verified": true,
+      "timestamp_evidence": "7/23原資料・時刻・当時記事を照合。通期経常3300→6040百万円、年間配当39→63円。7/24入力説明文の転記誤りは別紙正誤表を参照。",
+      "role": "predictor"
+    },
+    {
+      "id": "release_8541_2026-07-27",
+      "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260724/20260724598845.pdf",
+      "available_at": "2026-07-24T15:30:59+09:00",
+      "version_verified": true,
+      "timestamp_evidence": "7/24原発信の社名・日付・本文を当時記事と照合、公表時刻を転載一覧等で確認。経営統合に向けた基本合意、最終契約未締結。確定買収と区別。",
+      "role": "predictor"
+    },
+    {
+      "id": "release_5242_2026-07-03",
+      "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260702/20260702586861.pdf",
+      "available_at": "2026-07-02T15:30:59+09:00",
+      "version_verified": true,
+      "timestamp_evidence": "7/2原開示本文と開示一覧・当時記事を照合。ファクタリング新サービス、影響軽微。",
+      "role": "predictor"
+    },
+    {
+      "id": "release_8918_2026-07-10",
+      "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260709/20260709590385.pdf",
+      "available_at": "2026-07-09T15:30:59+09:00",
+      "version_verified": true,
+      "timestamp_evidence": "7/9原開示本文と日付、TDnet転載一覧・当時記事の公表時刻を照合。1Q経常黒字転換、通期据置。",
+      "role": "predictor"
+    },
+    {
+      "id": "release_4733_2026-07-23",
+      "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260722/20260721596926.pdf",
+      "available_at": "2026-07-22T15:30:59+09:00",
+      "version_verified": true,
+      "timestamp_evidence": "7/22原開示の社名・日付・本文を当時記事と照合、公表時刻は開示一覧等で確認。1Q経常20.8%増、通期据置。",
+      "role": "predictor"
+    },
+    {
+      "id": "release_6159_2026-07-24",
+      "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260723/20260723597988.pdf",
+      "available_at": "2026-07-23T16:20:59+09:00",
+      "version_verified": true,
+      "timestamp_evidence": "日付付き原発信の本文と当時記事・公表時刻を照合。7/24朝のToSTNeT-3取得予定、結果は不使用。",
+      "role": "predictor"
+    },
+    {
+      "id": "release_5618_2026-07-24",
+      "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260723/20260722597156.pdf",
+      "available_at": "2026-07-23T16:30:59+09:00",
+      "version_verified": true,
+      "timestamp_evidence": "日付付き原発信の本文と当時記事・公表時刻を照合。NEW PHASE80%取得、4300万円。",
+      "role": "predictor"
+    },
+    {
+      "id": "release_504A_2026-07-24",
+      "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260723/20260723598303.pdf",
+      "available_at": "2026-07-23T16:30:59+09:00",
+      "version_verified": true,
+      "timestamp_evidence": "日付付き原発信の本文と当時記事・公表時刻を照合。EVERSANAとの米国市場展開契約。医薬品販売承認ではない。",
+      "role": "predictor"
+    },
+    {
+      "id": "release_2656_2026-07-27",
+      "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260724/20260724599437.pdf",
+      "available_at": "2026-07-24T16:40:59+09:00",
+      "version_verified": true,
+      "timestamp_evidence": "7/24原発信の社名・日付・本文を当時記事と照合、公表時刻を転載一覧等で確認。Blue Goatsとの基本合意。8月の本契約予定を確定受注とは扱わない。",
+      "role": "predictor"
+    },
+    {
+      "id": "release_3386_2026-07-27",
+      "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260724/20260724599233.pdf",
+      "available_at": "2026-07-24T15:30:59+09:00",
+      "version_verified": true,
+      "timestamp_evidence": "7/24原発信の社名・日付・本文を当時記事と照合、公表時刻を転載一覧等で確認。中間・通期経常予想を上方修正。",
+      "role": "predictor"
+    },
+    {
+      "id": "release_9107_2026-07-27",
+      "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260724/20260724599046.pdf",
+      "available_at": "2026-07-24T15:30:59+09:00",
+      "version_verified": true,
+      "timestamp_evidence": "7/24原発信の社名・日付・本文を当時記事と照合、公表時刻を転載一覧等で確認。通期経常1000→1350億円、35%上方修正。",
+      "role": "predictor"
+    },
+    {
+      "id": "unverified_2428",
+      "url": "https://s.kabutan.jp/",
+      "available_at": "2026-07-24T23:59:59+09:00",
+      "version_verified": false,
+      "timestamp_evidence": "日付付き記事で候補抽出したが原開示照合未了。採点対象から除外。",
+      "role": "predictor"
+    },
+    {
+      "id": "release_4833_2026-07-27",
+      "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260724/20260723598202.pdf",
+      "available_at": "2026-07-24T16:00:59+09:00",
+      "version_verified": true,
+      "timestamp_evidence": "7/24原発信の社名・日付・本文を当時記事と照合、公表時刻を転載一覧等で確認。AIエージェント支援の新サービス提供開始。",
+      "role": "predictor"
+    },
+    {
+      "id": "release_6629_2026-07-27",
+      "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260724/20260716595094.pdf",
+      "available_at": "2026-07-24T16:00:59+09:00",
+      "version_verified": true,
+      "timestamp_evidence": "7/24原発信の社名・日付・本文を当時記事と照合、公表時刻を転載一覧等で確認。原短信1Q利益を確認。記事は黒字転換、PDF抽出では前年の負符号が欠落し得る。改善方向は共通。",
+      "role": "predictor"
+    },
+    {
+      "id": "unverified_2871",
+      "url": "https://s.kabutan.jp/",
+      "available_at": "2026-07-24T23:59:59+09:00",
+      "version_verified": false,
+      "timestamp_evidence": "日付付き記事で候補抽出したが原開示照合未了。採点対象から除外。",
+      "role": "predictor"
+    },
+    {
+      "id": "release_2911_2026-07-27",
+      "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260724/20260723598376.pdf",
+      "available_at": "2026-07-24T15:30:59+09:00",
+      "version_verified": true,
+      "timestamp_evidence": "7/24原発信の社名・日付・本文を当時記事と照合、公表時刻を転載一覧等で確認。有価証券売却益の計上見込み、asset_gain。",
+      "role": "predictor"
+    },
+    {
+      "id": "release_4169_2026-07-27",
+      "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260724/20260724599067.pdf",
+      "available_at": "2026-07-24T15:30:59+09:00",
+      "version_verified": true,
+      "timestamp_evidence": "7/24原発信の社名・日付・本文を当時記事と照合、公表時刻を転載一覧等で確認。ダーウィン全株取得の補足原資料。顧客受注とは区別。",
+      "role": "predictor"
+    },
+    {
+      "id": "unverified_4301",
+      "url": "https://s.kabutan.jp/",
+      "available_at": "2026-07-24T23:59:59+09:00",
+      "version_verified": false,
+      "timestamp_evidence": "日付付き記事で候補抽出したが原開示照合未了。採点対象から除外。",
+      "role": "predictor"
+    },
+    {
+      "id": "release_4776_2026-07-27",
+      "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260724/20260722597440.pdf",
+      "available_at": "2026-07-24T15:30:59+09:00",
+      "version_verified": true,
+      "timestamp_evidence": "7/24原発信の社名・日付・本文を当時記事と照合、公表時刻を転載一覧等で確認。6月連結売上高前年比14.1%増、速報値。",
+      "role": "predictor"
+    },
+    {
+      "id": "release_4829_2026-07-27",
+      "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260724/20260724598976.pdf",
+      "available_at": "2026-07-24T17:00:59+09:00",
+      "version_verified": true,
+      "timestamp_evidence": "7/24原発信の社名・日付・本文を当時記事と照合、公表時刻を転載一覧等で確認。蓄電池事業の合弁会社を新設決議、jv_mou。",
+      "role": "predictor"
+    },
+    {
+      "id": "unverified_4838",
+      "url": "https://s.kabutan.jp/",
+      "available_at": "2026-07-24T23:59:59+09:00",
+      "version_verified": false,
+      "timestamp_evidence": "日付付き記事で候補抽出したが原開示照合未了。採点対象から除外。",
+      "role": "predictor"
+    },
+    {
+      "id": "release_6420_2026-07-27",
+      "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260724/20260723598747.pdf",
+      "available_at": "2026-07-24T16:00:59+09:00",
+      "version_verified": true,
+      "timestamp_evidence": "7/24原発信の社名・日付・本文を当時記事と照合、公表時刻を転載一覧等で確認。インドに新設JVを決議。既存会社の買収とは区別。",
+      "role": "predictor"
+    },
+    {
+      "id": "unverified_6557",
+      "url": "https://s.kabutan.jp/",
+      "available_at": "2026-07-24T23:59:59+09:00",
+      "version_verified": false,
+      "timestamp_evidence": "日付付き記事で候補抽出したが原開示照合未了。採点対象から除外。",
+      "role": "predictor"
+    },
+    {
+      "id": "release_7175_2026-07-21",
+      "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260717/20260717595771.pdf",
+      "available_at": "2026-07-17T15:30:59+09:00",
+      "version_verified": true,
+      "timestamp_evidence": "7/17原開示本文・日付と転載時刻、7/20・21記事を照合。1Q経常速報776百万円、前年205百万円。正式発表の将来値不使用。",
+      "role": "predictor"
+    },
+    {
+      "id": "unverified_8377",
+      "url": "https://s.kabutan.jp/",
+      "available_at": "2026-07-24T23:59:59+09:00",
+      "version_verified": false,
+      "timestamp_evidence": "日付付き記事で候補抽出したが原開示照合未了。採点対象から除外。",
+      "role": "predictor"
+    },
+    {
+      "id": "release_8707_2026-07-21",
+      "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260717/20260717595540.pdf",
+      "available_at": "2026-07-17T16:30:59+09:00",
+      "version_verified": true,
+      "timestamp_evidence": "7/17原開示本文・日付と転載時刻、7/20・21記事を照合。1Q経常速報4687百万円、前年比増益。正式発表の将来値不使用。",
+      "role": "predictor"
+    },
+    {
+      "id": "release_9029_2026-07-27",
+      "url": "https://tdnet-pdf.kabutan.jp/20260724/140120260723598215.pdf",
+      "available_at": "2026-07-24T15:30:59+09:00",
+      "version_verified": true,
+      "timestamp_evidence": "7/24原発信の社名・日付・本文を当時記事と照合、公表時刻を転載一覧等で確認。1Q経常28.5%増、通期据置。",
+      "role": "predictor"
+    },
+    {
+      "id": "unverified_9788",
+      "url": "https://s.kabutan.jp/",
+      "available_at": "2026-07-24T23:59:59+09:00",
+      "version_verified": false,
+      "timestamp_evidence": "日付付き記事で候補抽出したが原開示照合未了。採点対象から除外。",
+      "role": "predictor"
+    },
+    {
+      "id": "unverified_3111",
+      "url": "https://s.kabutan.jp/",
+      "available_at": "2026-07-24T23:59:59+09:00",
+      "version_verified": false,
+      "timestamp_evidence": "日付付き記事で候補抽出したが原開示照合未了。採点対象から除外。",
+      "role": "predictor"
+    },
+    {
+      "id": "unverified_7422",
+      "url": "https://s.kabutan.jp/",
+      "available_at": "2026-07-24T23:59:59+09:00",
+      "version_verified": false,
+      "timestamp_evidence": "日付付き記事で候補抽出したが原開示照合未了。採点対象から除外。",
+      "role": "predictor"
+    },
+    {
+      "id": "unverified_1964",
+      "url": "https://s.kabutan.jp/",
+      "available_at": "2026-07-24T23:59:59+09:00",
+      "version_verified": false,
+      "timestamp_evidence": "日付付き記事で候補抽出したが原開示照合未了。採点対象から除外。",
+      "role": "predictor"
+    },
+    {
+      "id": "release_2693_2026-07-27",
+      "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260724/20260722597202.pdf",
+      "available_at": "2026-07-24T15:30:59+09:00",
+      "version_verified": true,
+      "timestamp_evidence": "7/24原発信の社名・日付・本文を当時記事と照合、公表時刻を転載一覧等で確認。中間と通期の経常上方修正だが通期純利益170→50百万円は下方修正。earnings_upとnegative_material-4を併用。",
+      "role": "predictor"
+    },
+    {
+      "id": "release_2804_2026-07-27",
+      "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260724/20260723598662.pdf",
+      "available_at": "2026-07-24T16:30:59+09:00",
+      "version_verified": true,
+      "timestamp_evidence": "7/24原発信の社名・日付・本文を当時記事と照合、公表時刻を転載一覧等で確認。1Q経常増益、最終は減益。新たな予想下方修正とは区別。",
+      "role": "predictor"
+    },
+    {
+      "id": "release_4063_2026-07-27",
+      "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260724/20260724598982.pdf",
+      "available_at": "2026-07-24T15:30:59+09:00",
+      "version_verified": true,
+      "timestamp_evidence": "7/24原発信の社名・日付・本文を当時記事と照合、公表時刻を転載一覧等で確認。非開示だった通期増益予想と増配を発表。",
+      "role": "predictor"
+    },
+    {
+      "id": "release_4519_2026-07-27",
+      "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260724/20260723598715.pdf",
+      "available_at": "2026-07-24T16:00:59+09:00",
+      "version_verified": true,
+      "timestamp_evidence": "7/24原発信の社名・日付・本文を当時記事と照合、公表時刻を転載一覧等で確認。IFRS中間利益19.2%増、通期据置。",
+      "role": "predictor"
+    },
+    {
+      "id": "release_6653_2026-07-27",
+      "url": "https://finance-frontend-pc-dist.west.edge.storage-yahoo.jp/disclosure/20260724/20260723598687.pdf",
+      "available_at": "2026-07-24T17:00:59+09:00",
+      "version_verified": true,
+      "timestamp_evidence": "7/24原発信の社名・日付・本文を当時記事と照合、公表時刻を転載一覧等で確認。通期経常予想5.9%増額、増配。",
+      "role": "predictor"
+    },
+    {
+      "id": "release_6858_2026-07-27",
+      "url": "https://tdnet-pdf.kabutan.jp/20260724/140120260724599221.pdf",
+      "available_at": "2026-07-24T15:30:59+09:00",
+      "version_verified": true,
+      "timestamp_evidence": "7/24原発信の社名・日付・本文を当時記事と照合、公表時刻を転載一覧等で確認。中間経常は前年-38→573百万円、通期据置。",
+      "role": "predictor"
+    },
+    {
+      "id": "release_8060_2026-07-27",
+      "url": "https://tdnet-pdf.kabutan.jp/20260724/140120260721596814.pdf",
+      "available_at": "2026-07-24T15:30:59+09:00",
+      "version_verified": true,
+      "timestamp_evidence": "7/24原発信の社名・日付・本文を当時記事と照合、公表時刻を転載一覧等で確認。中間経常増益、通期経常640億円へ修正。",
+      "role": "predictor"
+    },
+    {
+      "id": "unverified_9256",
+      "url": "https://s.kabutan.jp/",
+      "available_at": "2026-07-24T23:59:59+09:00",
+      "version_verified": false,
+      "timestamp_evidence": "日付付き記事で候補抽出したが原開示照合未了。採点対象から除外。",
+      "role": "predictor"
+    }
+  ],
+  "candidates": [
+    {
+      "code": "5240",
+      "name": "ｍｏｎｏＡＩ",
+      "market": "G",
+      "eligible_ordinary": true,
+      "previous_return_pct": 30.67,
+      "evidence_ids": [
+        "price_2026-07-24"
+      ],
+      "events": []
+    },
+    {
+      "code": "4424",
+      "name": "Ａｍａｚｉａ",
+      "market": "G",
+      "eligible_ordinary": true,
+      "previous_return_pct": 15.55,
+      "evidence_ids": [
+        "price_2026-07-24",
+        "release_4424_2026-07-01"
+      ],
+      "events": [
+        {
+          "evidence_id": "release_4424_2026-07-01",
+          "type": "earnings_up",
+          "first_eligible_session": "2026-07-01"
+        }
+      ]
+    },
+    {
+      "code": "1518",
+      "name": "三井松島ＨＤ",
+      "market": "P",
+      "eligible_ordinary": true,
+      "previous_return_pct": 14.75,
+      "evidence_ids": [
+        "price_2026-07-24",
+        "release_1518_2026-07-23"
+      ],
+      "events": [
+        {
+          "evidence_id": "release_1518_2026-07-23",
+          "type": "earnings_up",
+          "first_eligible_session": "2026-07-23"
+        }
+      ]
+    },
+    {
+      "code": "1723",
+      "name": "日本電技",
+      "market": "S",
+      "eligible_ordinary": true,
+      "previous_return_pct": 14.51,
+      "evidence_ids": [
+        "price_2026-07-24"
+      ],
+      "events": []
+    },
+    {
+      "code": "7034",
+      "name": "プロレド",
+      "market": "P",
+      "eligible_ordinary": true,
+      "previous_return_pct": 13.53,
+      "evidence_ids": [
+        "price_2026-07-24"
+      ],
+      "events": []
+    },
+    {
+      "code": "6999",
+      "name": "ＫＯＡ",
+      "market": "P",
+      "eligible_ordinary": true,
+      "previous_return_pct": 11.55,
+      "evidence_ids": [
+        "price_2026-07-24",
+        "release_6999_2026-07-24"
+      ],
+      "events": [
+        {
+          "evidence_id": "release_6999_2026-07-24",
+          "type": "earnings_up",
+          "first_eligible_session": "2026-07-24"
+        }
+      ]
+    },
+    {
+      "code": "8541",
+      "name": "愛媛銀",
+      "market": "P",
+      "eligible_ordinary": true,
+      "previous_return_pct": 11.4,
+      "evidence_ids": [
+        "price_2026-07-24",
+        "release_8541_2026-07-27"
+      ],
+      "events": [
+        {
+          "evidence_id": "release_8541_2026-07-27",
+          "type": "jv_mou",
+          "first_eligible_session": "2026-07-27"
+        }
+      ]
+    },
+    {
+      "code": "2354",
+      "name": "ＹＥデジタル",
+      "market": "S",
+      "eligible_ordinary": true,
+      "previous_return_pct": 11.11,
+      "evidence_ids": [
+        "price_2026-07-24"
+      ],
+      "events": []
+    },
+    {
+      "code": "5242",
+      "name": "アイズ",
+      "market": "G",
+      "eligible_ordinary": true,
+      "previous_return_pct": 11.01,
+      "evidence_ids": [
+        "price_2026-07-24",
+        "release_5242_2026-07-03"
+      ],
+      "events": [
+        {
+          "evidence_id": "release_5242_2026-07-03",
+          "type": "product",
+          "first_eligible_session": "2026-07-03"
+        }
+      ]
+    },
+    {
+      "code": "4564",
+      "name": "オンコセラピ",
+      "market": "G",
+      "eligible_ordinary": true,
+      "previous_return_pct": 10.53,
+      "evidence_ids": [
+        "price_2026-07-24"
+      ],
+      "events": []
+    },
+    {
+      "code": "8918",
+      "name": "ランド",
+      "market": "S",
+      "eligible_ordinary": true,
+      "previous_return_pct": 10.0,
+      "evidence_ids": [
+        "price_2026-07-24",
+        "release_8918_2026-07-10"
+      ],
+      "events": [
+        {
+          "evidence_id": "release_8918_2026-07-10",
+          "type": "earnings_up",
+          "first_eligible_session": "2026-07-10"
+        }
+      ]
+    },
+    {
+      "code": "4733",
+      "name": "ＯＢＣ",
+      "market": "P",
+      "eligible_ordinary": true,
+      "previous_return_pct": 8.88,
+      "evidence_ids": [
+        "price_2026-07-24",
+        "release_4733_2026-07-23"
+      ],
+      "events": [
+        {
+          "evidence_id": "release_4733_2026-07-23",
+          "type": "earnings_up",
+          "first_eligible_session": "2026-07-23"
+        }
+      ]
+    },
+    {
+      "code": "3697",
+      "name": "ＳＨＩＦＴ",
+      "market": "P",
+      "eligible_ordinary": true,
+      "previous_return_pct": 8.21,
+      "evidence_ids": [
+        "price_2026-07-24"
+      ],
+      "events": []
+    },
+    {
+      "code": "6993",
+      "name": "大黒屋",
+      "market": "S",
+      "eligible_ordinary": true,
+      "previous_return_pct": 7.79,
+      "evidence_ids": [
+        "price_2026-07-24"
+      ],
+      "events": []
+    },
+    {
+      "code": "3841",
+      "name": "ジーダット",
+      "market": "S",
+      "eligible_ordinary": true,
+      "previous_return_pct": 7.51,
+      "evidence_ids": [
+        "price_2026-07-24"
+      ],
+      "events": []
+    },
+    {
+      "code": "9399",
+      "name": "ビート",
+      "market": "S",
+      "eligible_ordinary": true,
+      "previous_return_pct": 7.14,
+      "evidence_ids": [
+        "price_2026-07-24"
+      ],
+      "events": []
+    },
+    {
+      "code": "8247",
+      "name": "大和デ",
+      "market": "S",
+      "eligible_ordinary": true,
+      "previous_return_pct": 7.12,
+      "evidence_ids": [
+        "price_2026-07-24"
+      ],
+      "events": []
+    },
+    {
+      "code": "6159",
+      "name": "ミクロン",
+      "market": "S",
+      "eligible_ordinary": true,
+      "previous_return_pct": 6.91,
+      "evidence_ids": [
+        "price_2026-07-24",
+        "release_6159_2026-07-24"
+      ],
+      "events": [
+        {
+          "evidence_id": "release_6159_2026-07-24",
+          "type": "buyback",
+          "first_eligible_session": "2026-07-24"
+        }
+      ]
+    },
+    {
+      "code": "9602",
+      "name": "東宝",
+      "market": "P",
+      "eligible_ordinary": true,
+      "previous_return_pct": 6.48,
+      "evidence_ids": [
+        "price_2026-07-24"
+      ],
+      "events": []
+    },
+    {
+      "code": "1965",
+      "name": "テクノ菱和",
+      "market": "S",
+      "eligible_ordinary": true,
+      "previous_return_pct": 6.14,
+      "evidence_ids": [
+        "price_2026-07-24"
+      ],
+      "events": []
+    },
+    {
+      "code": "3187",
+      "name": "ミラタップ",
+      "market": "G",
+      "eligible_ordinary": true,
+      "previous_return_pct": 6.12,
+      "evidence_ids": [
+        "price_2026-07-24"
+      ],
+      "events": []
+    },
+    {
+      "code": "5618",
+      "name": "ナイル",
+      "market": "G",
+      "eligible_ordinary": true,
+      "previous_return_pct": 6.04,
+      "evidence_ids": [
+        "price_2026-07-24",
+        "release_5618_2026-07-24"
+      ],
+      "events": [
+        {
+          "evidence_id": "release_5618_2026-07-24",
+          "type": "acquisition",
+          "first_eligible_session": "2026-07-24"
+        }
+      ]
+    },
+    {
+      "code": "7363",
+      "name": "ベビカレ",
+      "market": "G",
+      "eligible_ordinary": true,
+      "previous_return_pct": 5.99,
+      "evidence_ids": [
+        "price_2026-07-24"
+      ],
+      "events": []
+    },
+    {
+      "code": "7551",
+      "name": "ウェッズ",
+      "market": "S",
+      "eligible_ordinary": true,
+      "previous_return_pct": 5.94,
+      "evidence_ids": [
+        "price_2026-07-24"
+      ],
+      "events": []
+    },
+    {
+      "code": "6548",
+      "name": "旅工房",
+      "market": "G",
+      "eligible_ordinary": true,
+      "previous_return_pct": 5.88,
+      "evidence_ids": [
+        "price_2026-07-24"
+      ],
+      "events": []
+    },
+    {
+      "code": "3046",
+      "name": "ＪＩＮＳＨＤ",
+      "market": "P",
+      "eligible_ordinary": true,
+      "previous_return_pct": 5.82,
+      "evidence_ids": [
+        "price_2026-07-24"
+      ],
+      "events": []
+    },
+    {
+      "code": "3994",
+      "name": "マネフォ",
+      "market": "P",
+      "eligible_ordinary": true,
+      "previous_return_pct": 5.69,
+      "evidence_ids": [
+        "price_2026-07-24"
+      ],
+      "events": []
+    },
+    {
+      "code": "7030",
+      "name": "スプリックス",
+      "market": "S",
+      "eligible_ordinary": true,
+      "previous_return_pct": 5.63,
+      "evidence_ids": [
+        "price_2026-07-24"
+      ],
+      "events": []
+    },
+    {
+      "code": "3652",
+      "name": "ＤＭＰ",
+      "market": "G",
+      "eligible_ordinary": true,
+      "previous_return_pct": 5.47,
+      "evidence_ids": [
+        "price_2026-07-24"
+      ],
+      "events": []
+    },
+    {
+      "code": "195A",
+      "name": "マスカットＧ",
+      "market": "G",
+      "eligible_ordinary": true,
+      "previous_return_pct": 5.44,
+      "evidence_ids": [
+        "price_2026-07-24"
+      ],
+      "events": []
+    },
+    {
+      "code": "9115",
+      "name": "明海グループ",
+      "market": "S",
+      "eligible_ordinary": true,
+      "previous_return_pct": 5.44,
+      "evidence_ids": [
+        "price_2026-07-24"
+      ],
+      "events": []
+    },
+    {
+      "code": "504A",
+      "name": "イノバセル",
+      "market": "G",
+      "eligible_ordinary": true,
+      "previous_return_pct": 5.41,
+      "evidence_ids": [
+        "price_2026-07-24",
+        "release_504A_2026-07-24"
+      ],
+      "events": [
+        {
+          "evidence_id": "release_504A_2026-07-24",
+          "type": "contract",
+          "first_eligible_session": "2026-07-24"
+        }
+      ]
+    },
+    {
+      "code": "173A",
+      "name": "ハンモック",
+      "market": "G",
+      "eligible_ordinary": true,
+      "previous_return_pct": 5.32,
+      "evidence_ids": [
+        "price_2026-07-24"
+      ],
+      "events": []
+    },
+    {
+      "code": "3907",
+      "name": "シリコンスタ",
+      "market": "S",
+      "eligible_ordinary": true,
+      "previous_return_pct": 5.31,
+      "evidence_ids": [
+        "price_2026-07-24"
+      ],
+      "events": []
+    },
+    {
+      "code": "3810",
+      "name": "ＣＳＨＤ",
+      "market": "S",
+      "eligible_ordinary": true,
+      "previous_return_pct": 5.26,
+      "evidence_ids": [
+        "price_2026-07-24"
+      ],
+      "events": []
+    },
+    {
+      "code": "9973",
+      "name": "ＫＯＺＯＨＤ",
+      "market": "S",
+      "eligible_ordinary": true,
+      "previous_return_pct": 5.0,
+      "evidence_ids": [
+        "price_2026-07-24"
+      ],
+      "events": []
+    },
+    {
+      "code": "2656",
+      "name": "ベクターホールディングス",
+      "market": "S",
+      "eligible_ordinary": true,
+      "previous_return_pct": null,
+      "evidence_ids": [
+        "release_2656_2026-07-27"
+      ],
+      "events": [
+        {
+          "evidence_id": "release_2656_2026-07-27",
+          "type": "jv_mou",
+          "first_eligible_session": "2026-07-27"
+        }
+      ]
+    },
+    {
+      "code": "3386",
+      "name": "コスモ・バイオ",
+      "market": "S",
+      "eligible_ordinary": true,
+      "previous_return_pct": null,
+      "evidence_ids": [
+        "release_3386_2026-07-27"
+      ],
+      "events": [
+        {
+          "evidence_id": "release_3386_2026-07-27",
+          "type": "earnings_up",
+          "first_eligible_session": "2026-07-27"
+        }
+      ]
+    },
+    {
+      "code": "9107",
+      "name": "川崎汽船",
+      "market": "P",
+      "eligible_ordinary": true,
+      "previous_return_pct": null,
+      "evidence_ids": [
+        "release_9107_2026-07-27"
+      ],
+      "events": [
+        {
+          "evidence_id": "release_9107_2026-07-27",
+          "type": "earnings_up",
+          "first_eligible_session": "2026-07-27"
+        }
+      ]
+    },
+    {
+      "code": "2428",
+      "name": "ウェルネット",
+      "market": "S",
+      "eligible_ordinary": true,
+      "previous_return_pct": null,
+      "evidence_ids": [
+        "unverified_2428"
+      ],
+      "events": []
+    },
+    {
+      "code": "4833",
+      "name": "Ｄｅｆ　ｃｏｎｓｕｌｔｉｎｇ",
+      "market": "G",
+      "eligible_ordinary": true,
+      "previous_return_pct": null,
+      "evidence_ids": [
+        "release_4833_2026-07-27"
+      ],
+      "events": [
+        {
+          "evidence_id": "release_4833_2026-07-27",
+          "type": "product",
+          "first_eligible_session": "2026-07-27"
+        }
+      ]
+    },
+    {
+      "code": "6629",
+      "name": "テクノホライゾン",
+      "market": "S",
+      "eligible_ordinary": true,
+      "previous_return_pct": null,
+      "evidence_ids": [
+        "release_6629_2026-07-27"
+      ],
+      "events": [
+        {
+          "evidence_id": "release_6629_2026-07-27",
+          "type": "earnings_up",
+          "first_eligible_session": "2026-07-27"
+        }
+      ]
+    },
+    {
+      "code": "2871",
+      "name": "ニチレイ",
+      "market": "P",
+      "eligible_ordinary": true,
+      "previous_return_pct": null,
+      "evidence_ids": [
+        "unverified_2871"
+      ],
+      "events": []
+    },
+    {
+      "code": "2911",
+      "name": "旭松食品",
+      "market": "S",
+      "eligible_ordinary": true,
+      "previous_return_pct": null,
+      "evidence_ids": [
+        "release_2911_2026-07-27"
+      ],
+      "events": [
+        {
+          "evidence_id": "release_2911_2026-07-27",
+          "type": "asset_gain",
+          "first_eligible_session": "2026-07-27"
+        }
+      ]
+    },
+    {
+      "code": "4169",
+      "name": "ＥＮＥＣＨＡＮＧＥ",
+      "market": "G",
+      "eligible_ordinary": true,
+      "previous_return_pct": null,
+      "evidence_ids": [
+        "release_4169_2026-07-27"
+      ],
+      "events": [
+        {
+          "evidence_id": "release_4169_2026-07-27",
+          "type": "acquisition",
+          "first_eligible_session": "2026-07-27"
+        }
+      ]
+    },
+    {
+      "code": "4301",
+      "name": "アミューズ",
+      "market": "P",
+      "eligible_ordinary": true,
+      "previous_return_pct": null,
+      "evidence_ids": [
+        "unverified_4301"
+      ],
+      "events": []
+    },
+    {
+      "code": "4776",
+      "name": "サイボウズ",
+      "market": "P",
+      "eligible_ordinary": true,
+      "previous_return_pct": null,
+      "evidence_ids": [
+        "release_4776_2026-07-27"
+      ],
+      "events": [
+        {
+          "evidence_id": "release_4776_2026-07-27",
+          "type": "monthly_sales",
+          "first_eligible_session": "2026-07-27"
+        }
+      ]
+    },
+    {
+      "code": "4829",
+      "name": "日本エンタープライズ",
+      "market": "S",
+      "eligible_ordinary": true,
+      "previous_return_pct": null,
+      "evidence_ids": [
+        "release_4829_2026-07-27"
+      ],
+      "events": [
+        {
+          "evidence_id": "release_4829_2026-07-27",
+          "type": "jv_mou",
+          "first_eligible_session": "2026-07-27"
+        }
+      ]
+    },
+    {
+      "code": "4838",
+      "name": "スペースシャワーＳＫＩＹＡＫＩホールディングス",
+      "market": "S",
+      "eligible_ordinary": true,
+      "previous_return_pct": null,
+      "evidence_ids": [
+        "unverified_4838"
+      ],
+      "events": []
+    },
+    {
+      "code": "6420",
+      "name": "ガリレイホールディングス",
+      "market": "P",
+      "eligible_ordinary": true,
+      "previous_return_pct": null,
+      "evidence_ids": [
+        "release_6420_2026-07-27"
+      ],
+      "events": [
+        {
+          "evidence_id": "release_6420_2026-07-27",
+          "type": "jv_mou",
+          "first_eligible_session": "2026-07-27"
+        }
+      ]
+    },
+    {
+      "code": "6557",
+      "name": "ＡＩＡＩグループ",
+      "market": "G",
+      "eligible_ordinary": true,
+      "previous_return_pct": null,
+      "evidence_ids": [
+        "unverified_6557"
+      ],
+      "events": []
+    },
+    {
+      "code": "7175",
+      "name": "今村証券",
+      "market": "S",
+      "eligible_ordinary": true,
+      "previous_return_pct": null,
+      "evidence_ids": [
+        "release_7175_2026-07-21"
+      ],
+      "events": [
+        {
+          "evidence_id": "release_7175_2026-07-21",
+          "type": "earnings_up",
+          "first_eligible_session": "2026-07-21"
+        }
+      ]
+    },
+    {
+      "code": "8377",
+      "name": "ほくほくフィナンシャルグループ",
+      "market": "P",
+      "eligible_ordinary": true,
+      "previous_return_pct": null,
+      "evidence_ids": [
+        "unverified_8377"
+      ],
+      "events": []
+    },
+    {
+      "code": "8707",
+      "name": "岩井コスモホールディングス",
+      "market": "P",
+      "eligible_ordinary": true,
+      "previous_return_pct": null,
+      "evidence_ids": [
+        "release_8707_2026-07-21"
+      ],
+      "events": [
+        {
+          "evidence_id": "release_8707_2026-07-21",
+          "type": "earnings_up",
+          "first_eligible_session": "2026-07-21"
+        }
+      ]
+    },
+    {
+      "code": "9029",
+      "name": "ヒガシホールディングス",
+      "market": "S",
+      "eligible_ordinary": true,
+      "previous_return_pct": null,
+      "evidence_ids": [
+        "release_9029_2026-07-27"
+      ],
+      "events": [
+        {
+          "evidence_id": "release_9029_2026-07-27",
+          "type": "earnings_up",
+          "first_eligible_session": "2026-07-27"
+        }
+      ]
+    },
+    {
+      "code": "9788",
+      "name": "ナック",
+      "market": "P",
+      "eligible_ordinary": true,
+      "previous_return_pct": null,
+      "evidence_ids": [
+        "unverified_9788"
+      ],
+      "events": []
+    },
+    {
+      "code": "3111",
+      "name": "オーミケンシ",
+      "market": "S",
+      "eligible_ordinary": true,
+      "previous_return_pct": null,
+      "evidence_ids": [
+        "unverified_3111"
+      ],
+      "events": []
+    },
+    {
+      "code": "7422",
+      "name": "東邦レマック",
+      "market": "S",
+      "eligible_ordinary": true,
+      "previous_return_pct": null,
+      "evidence_ids": [
+        "unverified_7422"
+      ],
+      "events": []
+    },
+    {
+      "code": "1964",
+      "name": "中外炉工業",
+      "market": "P",
+      "eligible_ordinary": true,
+      "previous_return_pct": null,
+      "evidence_ids": [
+        "unverified_1964"
+      ],
+      "events": []
+    },
+    {
+      "code": "2693",
+      "name": "ＹＫＴ",
+      "market": "S",
+      "eligible_ordinary": true,
+      "previous_return_pct": null,
+      "evidence_ids": [
+        "release_2693_2026-07-27"
+      ],
+      "events": [
+        {
+          "evidence_id": "release_2693_2026-07-27",
+          "type": "earnings_up",
+          "first_eligible_session": "2026-07-27"
+        }
+      ],
+      "negative_material": true
+    },
+    {
+      "code": "2804",
+      "name": "ブルドックソース",
+      "market": "P",
+      "eligible_ordinary": true,
+      "previous_return_pct": null,
+      "evidence_ids": [
+        "release_2804_2026-07-27"
+      ],
+      "events": [
+        {
+          "evidence_id": "release_2804_2026-07-27",
+          "type": "earnings_up",
+          "first_eligible_session": "2026-07-27"
+        }
+      ]
+    },
+    {
+      "code": "4063",
+      "name": "信越化学工業",
+      "market": "P",
+      "eligible_ordinary": true,
+      "previous_return_pct": null,
+      "evidence_ids": [
+        "release_4063_2026-07-27"
+      ],
+      "events": [
+        {
+          "evidence_id": "release_4063_2026-07-27",
+          "type": "earnings_up",
+          "first_eligible_session": "2026-07-27"
+        }
+      ]
+    },
+    {
+      "code": "4519",
+      "name": "中外製薬",
+      "market": "P",
+      "eligible_ordinary": true,
+      "previous_return_pct": null,
+      "evidence_ids": [
+        "release_4519_2026-07-27"
+      ],
+      "events": [
+        {
+          "evidence_id": "release_4519_2026-07-27",
+          "type": "earnings_up",
+          "first_eligible_session": "2026-07-27"
+        }
+      ]
+    },
+    {
+      "code": "6653",
+      "name": "正興電機製作所",
+      "market": "P",
+      "eligible_ordinary": true,
+      "previous_return_pct": null,
+      "evidence_ids": [
+        "release_6653_2026-07-27"
+      ],
+      "events": [
+        {
+          "evidence_id": "release_6653_2026-07-27",
+          "type": "earnings_up",
+          "first_eligible_session": "2026-07-27"
+        }
+      ]
+    },
+    {
+      "code": "6858",
+      "name": "小野測器",
+      "market": "S",
+      "eligible_ordinary": true,
+      "previous_return_pct": null,
+      "evidence_ids": [
+        "release_6858_2026-07-27"
+      ],
+      "events": [
+        {
+          "evidence_id": "release_6858_2026-07-27",
+          "type": "earnings_up",
+          "first_eligible_session": "2026-07-27"
+        }
+      ]
+    },
+    {
+      "code": "8060",
+      "name": "キヤノンマーケティングジャパン",
+      "market": "P",
+      "eligible_ordinary": true,
+      "previous_return_pct": null,
+      "evidence_ids": [
+        "release_8060_2026-07-27"
+      ],
+      "events": [
+        {
+          "evidence_id": "release_8060_2026-07-27",
+          "type": "earnings_up",
+          "first_eligible_session": "2026-07-27"
+        }
+      ]
+    },
+    {
+      "code": "9256",
+      "name": "サクシード",
+      "market": "G",
+      "eligible_ordinary": true,
+      "previous_return_pct": null,
+      "evidence_ids": [
+        "unverified_9256"
+      ],
+      "events": []
+    }
+  ]
+}
