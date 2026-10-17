@@ -1,0 +1,595 @@
+{
+  "note": "保存時刻は取得直後のファイルmtimeで、公表日時とは異なる。第三者による事前予測証明ではない。",
+  "files": [
+    {
+      "file": "evidence/jb8_actual31.json",
+      "saved_at_utc": "2026-10-17T11:34:20.620363+00:00",
+      "sha256": "ede508c975265ab01e050624946f56c27ca5a0a3116950713bd179bb2d1290e2"
+    },
+    {
+      "file": "evidence/jb8_actual31_combined.json",
+      "saved_at_utc": "2026-10-17T11:35:05.901078+00:00",
+      "sha256": "68b949cbd7f89f82f6e7e068468c6142a3f31fa8aed6f99aea8a38811c4c600f"
+    },
+    {
+      "file": "evidence/jb8_actual31_part175.json",
+      "saved_at_utc": "2026-10-17T11:34:35.399677+00:00",
+      "sha256": "150d611f8cd1e181f2f785dc755bf0933039fc695925232dc4001ac203c25821"
+    },
+    {
+      "file": "evidence/jb8_actual31_part300.json",
+      "saved_at_utc": "2026-10-17T11:34:36.343634+00:00",
+      "sha256": "c5a8715c440c25b75dd0cfe034628d3180e064b67fa9d3bb5ca42e24d04743af"
+    },
+    {
+      "file": "evidence/jb8_actual31_part390.json",
+      "saved_at_utc": "2026-10-17T11:34:37.379586+00:00",
+      "sha256": "02658eec2cf1c3c04f02b084648fd283e4f4ee5c2edbf31b0e71148862dfe9cd"
+    },
+    {
+      "file": "evidence/jb8_comparison_search.json",
+      "saved_at_utc": "2026-10-17T11:40:11.035638+00:00",
+      "sha256": "69a9335af82d90ce34f6a2d2deca409beecbeb723ed9e4501a09f16d63d14c05"
+    },
+    {
+      "file": "evidence/jb8_evening31.json",
+      "saved_at_utc": "2026-10-17T11:28:21.545018+00:00",
+      "sha256": "441fdac60c083de6b1aec3904b5533c178279a7cfae6b9f29837b496052d29a4"
+    },
+    {
+      "file": "evidence/jb8_hist_2327.json",
+      "saved_at_utc": "2026-10-17T11:35:14.261881+00:00",
+      "sha256": "54509ade4c6b701ade6cfd41dc16be1fdc11ce32f88c4be03da65d666b5d0a86"
+    },
+    {
+      "file": "evidence/jb8_hist_2579.json",
+      "saved_at_utc": "2026-10-17T11:35:13.765904+00:00",
+      "sha256": "87caefed92d28ad31a214ea0d66c61288be94b63b84bd73dd734e260834d29eb"
+    },
+    {
+      "file": "evidence/jb8_hist_299A.json",
+      "saved_at_utc": "2026-10-17T11:35:08.154163+00:00",
+      "sha256": "b4164fddafe65195fc7c158b2388daa54b5d06b15c68b03918d4a9b279ffed79"
+    },
+    {
+      "file": "evidence/jb8_hist_4308.json",
+      "saved_at_utc": "2026-10-17T11:35:07.654186+00:00",
+      "sha256": "7f877d7cd93a46e7ad955d89917a64b44129ccd0dc6ac6dbab0a20e75bb44c50"
+    },
+    {
+      "file": "evidence/jb8_hist_4498.json",
+      "saved_at_utc": "2026-10-17T11:35:08.638141+00:00",
+      "sha256": "fe7e3a35ab58778430d6ff016d0790663837b5bea755ae41cdff6685fb38f060"
+    },
+    {
+      "file": "evidence/jb8_hist_5698.json",
+      "saved_at_utc": "2026-10-17T11:35:11.098027+00:00",
+      "sha256": "5c687c912ed26dbff30ee3c1c3721634722eb5d82e568de7391217f82a3cb2dc"
+    },
+    {
+      "file": "evidence/jb8_hist_6504.json",
+      "saved_at_utc": "2026-10-17T11:35:11.594004+00:00",
+      "sha256": "1c93cad7f4c71ed32585c156b50092a548e4fddf798fd60ae234cec8a84d9eed"
+    },
+    {
+      "file": "evidence/jb8_hist_6912.json",
+      "saved_at_utc": "2026-10-17T11:35:12.081981+00:00",
+      "sha256": "d6debad6592dfb7ed344d379f4cfb386ff742a2175073f7627473860e3b7bbfa"
+    },
+    {
+      "file": "evidence/jb8_hist_6946.json",
+      "saved_at_utc": "2026-10-17T11:35:09.122118+00:00",
+      "sha256": "7b1383db4cf4504c18c57a654e966420c17bab2106b24737a04b193259a2537f"
+    },
+    {
+      "file": "evidence/jb8_hist_6997.json",
+      "saved_at_utc": "2026-10-17T11:35:13.269927+00:00",
+      "sha256": "ce8a692101451520c24b124f90b03ae74824029c0946aea680a690d0918033e4"
+    },
+    {
+      "file": "evidence/jb8_hist_9709.json",
+      "saved_at_utc": "2026-10-17T11:35:10.490055+00:00",
+      "sha256": "381531c8db77ea7fff37fa25d8789ceb33a42fb2d324d74be8b601ea60d4d432"
+    },
+    {
+      "file": "evidence/jb8_hist_alt9709.json",
+      "saved_at_utc": "2026-10-17T11:35:26.277324+00:00",
+      "sha256": "f932cb0cafa743e84d7e991242a4540004931af1d0682694fb53a1ac82e972a4"
+    },
+    {
+      "file": "evidence/jb8_list31_2327.json",
+      "saved_at_utc": "2026-10-17T11:29:31.165920+00:00",
+      "sha256": "061372cdccff2487fc973143b2c31296db3d97e2c1952f579460d5450f5d7a28"
+    },
+    {
+      "file": "evidence/jb8_list31_2579.json",
+      "saved_at_utc": "2026-10-17T11:29:32.985838+00:00",
+      "sha256": "b087a0471b99b182571648fb35f2edefb6639961a55f25fced4ccb43e9cfbeec"
+    },
+    {
+      "file": "evidence/jb8_list31_2914.json",
+      "saved_at_utc": "2026-10-17T11:29:02.067190+00:00",
+      "sha256": "ef77cd7981feaef9ebb7f1c5c95ef7aa4075b41c2b26e75a3ff7087066a41dec"
+    },
+    {
+      "file": "evidence/jb8_list31_299A.json",
+      "saved_at_utc": "2026-10-17T11:28:42.996030+00:00",
+      "sha256": "57cd68764f423ada0b5f3d13f1801b1d887e5407630102dc172a898ac713271e"
+    },
+    {
+      "file": "evidence/jb8_list31_3626.json",
+      "saved_at_utc": "2026-10-17T11:29:41.753420+00:00",
+      "sha256": "bf494b4e361ccbb4a89a3fb1c0d7157e95be455760bedc2ddff75108420de06c"
+    },
+    {
+      "file": "evidence/jb8_list31_4212.json",
+      "saved_at_utc": "2026-10-17T11:29:12.082806+00:00",
+      "sha256": "ad76d58f2db1f5dcff27f5c74e85ac69f22327ef8c7ba86e8c7c8ac31a99e274"
+    },
+    {
+      "file": "evidence/jb8_list31_4308.json",
+      "saved_at_utc": "2026-10-17T11:29:14.022725+00:00",
+      "sha256": "93b3b2c2c05116c171e1ce89cefaf30dfbc5de8eef66f2b2b260eb23f0f9e450"
+    },
+    {
+      "file": "evidence/jb8_list31_4498.json",
+      "saved_at_utc": "2026-10-17T11:29:15.906642+00:00",
+      "sha256": "b1093c3030f34a2f650e8043e3e5fd2f8eea9987694c5b05ee570b007a5ab2b6"
+    },
+    {
+      "file": "evidence/jb8_list31_4661.json",
+      "saved_at_utc": "2026-10-17T11:29:17.618567+00:00",
+      "sha256": "309408a4cb95af4f821930cadbd15122146f23933dfc967d27e02ae34b60fefb"
+    },
+    {
+      "file": "evidence/jb8_list31_5333.json",
+      "saved_at_utc": "2026-10-17T11:28:44.639955+00:00",
+      "sha256": "89e94d4e3c25120d859b22a46d2be4a3abae0800dea1218795bafddd407ec6b2"
+    },
+    {
+      "file": "evidence/jb8_list31_5698.json",
+      "saved_at_utc": "2026-10-17T11:28:45.471917+00:00",
+      "sha256": "021a5b64166984d5be350014c022670124a049c850f262698930341f8ca3faa9"
+    },
+    {
+      "file": "evidence/jb8_list31_6080.json",
+      "saved_at_utc": "2026-10-17T11:29:43.645332+00:00",
+      "sha256": "a8a97472c00a1234a15ee3de60328adaede6785eab58c10e16ed87f5968de005"
+    },
+    {
+      "file": "evidence/jb8_list31_6305.json",
+      "saved_at_utc": "2026-10-17T11:29:45.477246+00:00",
+      "sha256": "422df53a423260379850218eddaf72a22e2f4b876bfaeb0ede229a69dcf1b4eb"
+    },
+    {
+      "file": "evidence/jb8_list31_6371.json",
+      "saved_at_utc": "2026-10-17T11:29:47.597146+00:00",
+      "sha256": "ca9d657d4257e17c8687f04a5f863a16b07ef376337bac72da16e5ca7c732bb1"
+    },
+    {
+      "file": "evidence/jb8_list31_6454.json",
+      "saved_at_utc": "2026-10-17T11:29:49.417062+00:00",
+      "sha256": "cbd2d7d9823ba1c9852a85be569c33693921ec6d478bd4c836de984bea747805"
+    },
+    {
+      "file": "evidence/jb8_list31_6471.json",
+      "saved_at_utc": "2026-10-17T11:28:46.407874+00:00",
+      "sha256": "1a5607d09470ac321c648246822d0e8f1fb758c21d539d4e2a1c65b61e20e9c9"
+    },
+    {
+      "file": "evidence/jb8_list31_6504.json",
+      "saved_at_utc": "2026-10-17T11:29:19.770466+00:00",
+      "sha256": "42acec2d28c6051090c318545a102dbc5bf09db45338f64a934c4b63303cebcb"
+    },
+    {
+      "file": "evidence/jb8_list31_6752.json",
+      "saved_at_utc": "2026-10-17T11:28:48.419783+00:00",
+      "sha256": "891c39d4171adc3b71f1623a5be86128687ab1668b8dd73840ddf5176a886ba7"
+    },
+    {
+      "file": "evidence/jb8_list31_6754.json",
+      "saved_at_utc": "2026-10-17T11:28:50.275699+00:00",
+      "sha256": "9cb39823fb9790a4ef01dd3d5812c25fe89285cf5e4258bd042fb1d77c943ad0"
+    },
+    {
+      "file": "evidence/jb8_list31_6912.json",
+      "saved_at_utc": "2026-10-17T11:28:52.515598+00:00",
+      "sha256": "4da62eb7b04db4be787fbfefce263cf05f4d351869befdb7ac3d8844a80ac5bd"
+    },
+    {
+      "file": "evidence/jb8_list31_6946.json",
+      "saved_at_utc": "2026-10-17T11:28:54.443512+00:00",
+      "sha256": "6a66434e08b991a683c18514582e224452c3e3907b258517742b86302cb2bdce"
+    },
+    {
+      "file": "evidence/jb8_list31_6971.json",
+      "saved_at_utc": "2026-10-17T11:28:56.127444+00:00",
+      "sha256": "b476553823c08a7e173ce60b026ea8a4861e4be8da9eb3dab473eec2eaeb05e4"
+    },
+    {
+      "file": "evidence/jb8_list31_7148.json",
+      "saved_at_utc": "2026-10-17T11:29:21.486383+00:00",
+      "sha256": "625c3b593ff8d7dcd037240bea4c6d7737c9665f91d733adc86eb08f5e90638e"
+    },
+    {
+      "file": "evidence/jb8_list31_7241.json",
+      "saved_at_utc": "2026-10-17T11:29:23.382293+00:00",
+      "sha256": "f70c5bdb24b4cb1c9b4478fd049d48101c777e1d3e5d29bb40e2050c068a9be5"
+    },
+    {
+      "file": "evidence/jb8_list31_7575.json",
+      "saved_at_utc": "2026-10-17T11:28:58.043366+00:00",
+      "sha256": "f8af296abfc00217664c27340217c720cc61b12633b264c70e5318ce29992a21"
+    },
+    {
+      "file": "evidence/jb8_list31_7976.json",
+      "saved_at_utc": "2026-10-17T11:29:25.138216+00:00",
+      "sha256": "a739e91e358f85c5f51ea018ebfa4bfa5202b173bb6c0af64a3ddd16391d226c"
+    },
+    {
+      "file": "evidence/jb8_list31_8035.json",
+      "saved_at_utc": "2026-10-17T11:29:00.271273+00:00",
+      "sha256": "e4bff17d921e445a71649e45b9eea5c4b25afb36d3bf4ebb7a5ef079869c6c93"
+    },
+    {
+      "file": "evidence/jb8_list31_8174.json",
+      "saved_at_utc": "2026-10-17T11:29:51.356972+00:00",
+      "sha256": "3357acea7f55f51ddfd08fafaf211454dbca1d98a2e6560d940b253521201fc8"
+    },
+    {
+      "file": "evidence/jb8_list31_8309.json",
+      "saved_at_utc": "2026-10-17T11:29:53.132890+00:00",
+      "sha256": "a64f877c9de6fb168d3eafddfba7d66f0b94fe3500faec8b77ef90404214807f"
+    },
+    {
+      "file": "evidence/jb8_list31_8411.json",
+      "saved_at_utc": "2026-10-17T11:29:27.002127+00:00",
+      "sha256": "96e41dc7f18b8e29691e7286a86b4812247b2f8dfa75e5e6d96569f87d827c4f"
+    },
+    {
+      "file": "evidence/jb8_list31_8424.json",
+      "saved_at_utc": "2026-10-17T11:29:29.338002+00:00",
+      "sha256": "ccd3fde4a12fa3aaffe244a9b329cdd39954e0b5c593dce6d4d31f3a3894ec11"
+    },
+    {
+      "file": "evidence/jb8_list31_8425.json",
+      "saved_at_utc": "2026-10-17T11:29:55.116798+00:00",
+      "sha256": "51b8baf00bd339bc11d29807fc98c2bbc6cf1b9ccd43c40c26ca3964b9bc2940"
+    },
+    {
+      "file": "evidence/jb8_list31_9101.json",
+      "saved_at_utc": "2026-10-17T11:29:56.892716+00:00",
+      "sha256": "b5a278b0350410d6af8c5a1b334fd7e4833f4276a91f70377a51731b14a3bcbc"
+    },
+    {
+      "file": "evidence/jb8_list31_9709.json",
+      "saved_at_utc": "2026-10-17T11:29:57.780675+00:00",
+      "sha256": "c10de6a5b011d6fb71342c34ef6beab7bdbfa16188fdb92d665f665bfa7eeb16"
+    },
+    {
+      "file": "evidence/jb8_list31_9766.json",
+      "saved_at_utc": "2026-10-17T11:29:58.660634+00:00",
+      "sha256": "c9c58a6cb8a3a5b18dd2cfcb2112e380d3b66f37b9f714558b768be16cbdbf1d"
+    },
+    {
+      "file": "evidence/jb8_list31_extra2811.json",
+      "saved_at_utc": "2026-10-17T11:30:27.675235+00:00",
+      "sha256": "39dcf39ca126a98414277b03fc4febc3111b9423189f2d09e481afa5e3e632d3"
+    },
+    {
+      "file": "evidence/jb8_list31_extra4092.json",
+      "saved_at_utc": "2026-10-17T11:30:18.195704+00:00",
+      "sha256": "92fa1ae780f62d1c2623eec14c807cec638135e2a5dc37b5d45ec93fa2c6fed1"
+    },
+    {
+      "file": "evidence/jb8_list31_extra4492.json",
+      "saved_at_utc": "2026-10-17T11:30:24.371406+00:00",
+      "sha256": "64c9aa840be85450b1b3304361bf5bbeaf14e109a9b89ebe23d5fed335928def"
+    },
+    {
+      "file": "evidence/jb8_list31_extra5333.json",
+      "saved_at_utc": "2026-10-17T11:30:10.436069+00:00",
+      "sha256": "86aaafa8a4ab0293f1b413ab853434cd09e149cc84a9b83d4326608f4a79c9a8"
+    },
+    {
+      "file": "evidence/jb8_list31_extra5449.json",
+      "saved_at_utc": "2026-10-17T11:30:25.519346+00:00",
+      "sha256": "7cfd5ad5ca99259d383d2cfab0bef4a220c41b61d327b3666835b039eba41fc0"
+    },
+    {
+      "file": "evidence/jb8_list31_extra5698.json",
+      "saved_at_utc": "2026-10-17T11:30:12.627964+00:00",
+      "sha256": "9b20be37c1e4910b5f3eb608c27e04360f8a4df297da580af7229d8987955657"
+    },
+    {
+      "file": "evidence/jb8_list31_extra6379.json",
+      "saved_at_utc": "2026-10-17T11:30:20.439599+00:00",
+      "sha256": "8e35973fe73b5485e0763f52f2b43083530f0514280f9631faba32e29e165bf1"
+    },
+    {
+      "file": "evidence/jb8_list31_extra9101.json",
+      "saved_at_utc": "2026-10-17T11:30:14.415881+00:00",
+      "sha256": "302dea53386e198ffce36b37832fb753e34c5dbe348ffe4b390646baa5d4bad5"
+    },
+    {
+      "file": "evidence/jb8_list31_extra9621.json",
+      "saved_at_utc": "2026-10-17T11:30:22.615497+00:00",
+      "sha256": "b01ece143c8a861a452c90ef9d3401b1478fcbbfc8d51051dd6dae9a72d5c7f3"
+    },
+    {
+      "file": "evidence/jb8_list31_extra9709.json",
+      "saved_at_utc": "2026-10-17T11:30:16.247795+00:00",
+      "sha256": "867e1e1c09a0b258c87c0a6a0db903b26092c27cf0632a29813cd7e9b902c286"
+    },
+    {
+      "file": "evidence/jb8_list31_retry2811.json",
+      "saved_at_utc": "2026-10-17T11:31:03.217546+00:00",
+      "sha256": "4592f958eedde5d06e32209a1b7330ee54123fb952bd715c32d5713c464eb09b"
+    },
+    {
+      "file": "evidence/jb8_list31_retry4492.json",
+      "saved_at_utc": "2026-10-17T11:31:02.261591+00:00",
+      "sha256": "9273be361723e6ea043c15c4286d90f00895ad1f8c869c295d926a3553a1a321"
+    },
+    {
+      "file": "evidence/jb8_margin_search.json",
+      "saved_at_utc": "2026-10-17T11:32:21.645905+00:00",
+      "sha256": "9b090a592c3103420f859621ecfb752c730067716324dd6e776aaf7c522b2059"
+    },
+    {
+      "file": "evidence/jb8_morning31.json",
+      "saved_at_utc": "2026-10-17T11:28:20.557064+00:00",
+      "sha256": "4082bda22cc762e0694ed98b4e12d19953519ffaf28d96db78633fdb08bcda0e"
+    },
+    {
+      "file": "evidence/jb8_pdf31_2327.json",
+      "saved_at_utc": "2026-10-17T11:29:32.189874+00:00",
+      "sha256": "a1b76e80304966d825c5fec026bdeb292f1c61618feeba033d89a4a024692316"
+    },
+    {
+      "file": "evidence/jb8_pdf31_2579.json",
+      "saved_at_utc": "2026-10-17T11:29:34.105788+00:00",
+      "sha256": "bd383da3f6e117b9f26788b2088a5259369e24b369d463ae0a1312ba5abdee87"
+    },
+    {
+      "file": "evidence/jb8_pdf31_2914.json",
+      "saved_at_utc": "2026-10-17T11:29:03.055178+00:00",
+      "sha256": "2714bc185191360c3f3fc780dee8e01bfdf779c77405c52b7db1cc51032a72f9"
+    },
+    {
+      "file": "evidence/jb8_pdf31_299A.json",
+      "saved_at_utc": "2026-10-17T11:28:43.855991+00:00",
+      "sha256": "09e35640dccffa1ae4104938ac5f67c97033861cde44f35c3c5e057eb977a7f5"
+    },
+    {
+      "file": "evidence/jb8_pdf31_3626.json",
+      "saved_at_utc": "2026-10-17T11:29:42.777373+00:00",
+      "sha256": "1c5afaf5bf97c42ac44d078abf424e6d40348bdbe22fc3d2387db405ebbf2c24"
+    },
+    {
+      "file": "evidence/jb8_pdf31_4212.json",
+      "saved_at_utc": "2026-10-17T11:29:13.082766+00:00",
+      "sha256": "76db526d152a0c46fde6ca4df2c899f53c176d77b9323c2ab47de8efd995c37d"
+    },
+    {
+      "file": "evidence/jb8_pdf31_4308.json",
+      "saved_at_utc": "2026-10-17T11:29:15.014681+00:00",
+      "sha256": "d204a7ca4a241d2adbe97c606db68ede51215eff7314efe51d385345d9ea8104"
+    },
+    {
+      "file": "evidence/jb8_pdf31_4498.json",
+      "saved_at_utc": "2026-10-17T11:29:16.758605+00:00",
+      "sha256": "c1a1240d4811300c60b2c355a6b16cbbaa3c251c191103d34371d98115cbbf1c"
+    },
+    {
+      "file": "evidence/jb8_pdf31_4661.json",
+      "saved_at_utc": "2026-10-17T11:29:18.946506+00:00",
+      "sha256": "9552aba626bf0ff5cb0b486154c2e0e3143c200c99a8de71b89cfbb4e9e8d3fb"
+    },
+    {
+      "file": "evidence/jb8_pdf31_6080.json",
+      "saved_at_utc": "2026-10-17T11:29:44.633285+00:00",
+      "sha256": "b23ae7d7a8de840aae1cec226c6f7f7f27571a4d35e968818718b22c207ae8e6"
+    },
+    {
+      "file": "evidence/jb8_pdf31_6305.json",
+      "saved_at_utc": "2026-10-17T11:29:46.449200+00:00",
+      "sha256": "cfa3a8b8bf2d66debf963661062cbf01bdaabe1dfcc38876d577bac20e2043be"
+    },
+    {
+      "file": "evidence/jb8_pdf31_6371.json",
+      "saved_at_utc": "2026-10-17T11:29:48.529102+00:00",
+      "sha256": "db51d7328fe05d88eb4c0fcae39110ee7398e49ede7ee4a8a8acc46bf8ffb915"
+    },
+    {
+      "file": "evidence/jb8_pdf31_6454.json",
+      "saved_at_utc": "2026-10-17T11:29:50.385017+00:00",
+      "sha256": "cfa5295d6aac139608dba56f578624b54dbbdf2f8b9fdfb215d498ad19ac92eb"
+    },
+    {
+      "file": "evidence/jb8_pdf31_6471.json",
+      "saved_at_utc": "2026-10-17T11:28:47.399830+00:00",
+      "sha256": "ac0db5f189dc3dad8d689efe188b13a16b2057d8ca57ac41d4aa0f19d7b3efc6"
+    },
+    {
+      "file": "evidence/jb8_pdf31_6504.json",
+      "saved_at_utc": "2026-10-17T11:29:20.666423+00:00",
+      "sha256": "97eaa875d0495610770228d1fb018db53071a7def8f726771565d0eee3053223"
+    },
+    {
+      "file": "evidence/jb8_pdf31_6752.json",
+      "saved_at_utc": "2026-10-17T11:28:49.419738+00:00",
+      "sha256": "f0b96dccd3cb457cf3a3127aadb650f5854aaa0d63469a713aec79765994ca09"
+    },
+    {
+      "file": "evidence/jb8_pdf31_6754.json",
+      "saved_at_utc": "2026-10-17T11:28:51.659637+00:00",
+      "sha256": "6e88a2bf4fbb04ab89312965ef284ba80afbdc141b87d0934ac67f1468af68df"
+    },
+    {
+      "file": "evidence/jb8_pdf31_6912.json",
+      "saved_at_utc": "2026-10-17T11:28:53.323562+00:00",
+      "sha256": "3d30163a65da1170bc3940c9b87c8511db33c1acae1f5866b164a56f710a96b4"
+    },
+    {
+      "file": "evidence/jb8_pdf31_6946.json",
+      "saved_at_utc": "2026-10-17T11:28:55.299477+00:00",
+      "sha256": "c8e933f083d4464f7f679bf6947a2928d70f9fb65d393ec421852fd716906849"
+    },
+    {
+      "file": "evidence/jb8_pdf31_6971.json",
+      "saved_at_utc": "2026-10-17T11:28:57.151402+00:00",
+      "sha256": "a716cb991f95a83235244792e1c019510b791c68f62bbe4faebd08f75a8ebbf4"
+    },
+    {
+      "file": "evidence/jb8_pdf31_7148.json",
+      "saved_at_utc": "2026-10-17T11:29:22.514334+00:00",
+      "sha256": "37192230aed81f153d35a4efc8457aa44488eafb38c35320d8a538ee11f922ff"
+    },
+    {
+      "file": "evidence/jb8_pdf31_7241.json",
+      "saved_at_utc": "2026-10-17T11:29:24.302252+00:00",
+      "sha256": "20b0f59913b1caa33739925ffd99369e9d8e6aef9bb3a80bb4ad4c06cba5e442"
+    },
+    {
+      "file": "evidence/jb8_pdf31_7575.json",
+      "saved_at_utc": "2026-10-17T11:28:59.367312+00:00",
+      "sha256": "504c3f1b8c8590b5052da473bdb22886ce6364d053dddbf89802cfac84abb415"
+    },
+    {
+      "file": "evidence/jb8_pdf31_7976.json",
+      "saved_at_utc": "2026-10-17T11:29:26.174170+00:00",
+      "sha256": "d07bb77780c235fedd1be166ad1bf77ef4f402ab16a2459ddaea64bed08efcf3"
+    },
+    {
+      "file": "evidence/jb8_pdf31_8035.json",
+      "saved_at_utc": "2026-10-17T11:29:01.131233+00:00",
+      "sha256": "fd3e755b0f720ed6695bc20117730e42f4c1344388d42ba8a036fa866a10b377"
+    },
+    {
+      "file": "evidence/jb8_pdf31_8174.json",
+      "saved_at_utc": "2026-10-17T11:29:52.272930+00:00",
+      "sha256": "bd0a102986511a589bc979ad04c2c8331f601a7fd6f8457e67c38ac3e4d4efc1"
+    },
+    {
+      "file": "evidence/jb8_pdf31_8309.json",
+      "saved_at_utc": "2026-10-17T11:29:54.232839+00:00",
+      "sha256": "41bc4e0eecd3ebdc8d08a89a1506fe2db6c52bbb65410c6b7dd3677c450ff0fb"
+    },
+    {
+      "file": "evidence/jb8_pdf31_8411.json",
+      "saved_at_utc": "2026-10-17T11:29:28.486046+00:00",
+      "sha256": "87db8aab75be93e27ff28514a490f751b089064c1831d9835a62f4e290ba8ee7"
+    },
+    {
+      "file": "evidence/jb8_pdf31_8424.json",
+      "saved_at_utc": "2026-10-17T11:29:30.329957+00:00",
+      "sha256": "26cdcd51266436ff843d463e369f6e17875ebb9b74083f86757b47731f28adb1"
+    },
+    {
+      "file": "evidence/jb8_pdf31_8425.json",
+      "saved_at_utc": "2026-10-17T11:29:55.988758+00:00",
+      "sha256": "ace5bd4dc6029e3000d1cd19db32e413ed1866308549a8c55b691436e459f05a"
+    },
+    {
+      "file": "evidence/jb8_pdf31_9766.json",
+      "saved_at_utc": "2026-10-17T11:29:59.872574+00:00",
+      "sha256": "11d8211cf19640bd19d0970cb1697ea165eeee6b88c18666403497892ab70f2a"
+    },
+    {
+      "file": "evidence/jb8_pdf31_alt8174.json",
+      "saved_at_utc": "2026-10-17T11:30:47.934257+00:00",
+      "sha256": "b4c44e0840fda991101f349fd7f8d1a35ef7692d1d724a008e5e3127563d36d7"
+    },
+    {
+      "file": "evidence/jb8_pdf31_extra4092.json",
+      "saved_at_utc": "2026-10-17T11:30:19.159659+00:00",
+      "sha256": "38a166a48bc34f8fa6deae449189ec5fddfb9749b12e2abe1da8464709a0b663"
+    },
+    {
+      "file": "evidence/jb8_pdf31_extra5333.json",
+      "saved_at_utc": "2026-10-17T11:30:11.456019+00:00",
+      "sha256": "a6c2150eab71070eeadf0c4cbee1ee4c6f5ba3d7d36a5b21fae7528e733b67a3"
+    },
+    {
+      "file": "evidence/jb8_pdf31_extra5449.json",
+      "saved_at_utc": "2026-10-17T11:30:26.615288+00:00",
+      "sha256": "063ff5f183d3f5f5dd5a07cee6c599b5d1d2a2ad327063d202a052d85b6805e1"
+    },
+    {
+      "file": "evidence/jb8_pdf31_extra5698.json",
+      "saved_at_utc": "2026-10-17T11:30:13.459925+00:00",
+      "sha256": "235f74a02d7f894c6c8f94ae8a03d0befcf814e4b921de7a8b871a8a79eb076d"
+    },
+    {
+      "file": "evidence/jb8_pdf31_extra6379.json",
+      "saved_at_utc": "2026-10-17T11:30:21.335557+00:00",
+      "sha256": "cfbfef20d852712b271f63bc0a3e1723a55dc1c2aba607697744bb8bdcc522fa"
+    },
+    {
+      "file": "evidence/jb8_pdf31_extra9101.json",
+      "saved_at_utc": "2026-10-17T11:30:15.243842+00:00",
+      "sha256": "fb8f048e0e21412ff8ab4d64b2e81924045dc665b3300b02b21b9da60b2f7e33"
+    },
+    {
+      "file": "evidence/jb8_pdf31_extra9621.json",
+      "saved_at_utc": "2026-10-17T11:30:23.459454+00:00",
+      "sha256": "08fa92928b85fdf6b3a0ac111cd58f78e87a0e089aacb94b2125724d3889d214"
+    },
+    {
+      "file": "evidence/jb8_pdf31_extra9709.json",
+      "saved_at_utc": "2026-10-17T11:30:17.255748+00:00",
+      "sha256": "2c3b25997aab7a8bf3fbeccea9951d75e233f9003690fc9f02afb00f37637aad"
+    },
+    {
+      "file": "evidence/jb8_pdf31_final4492.json",
+      "saved_at_utc": "2026-10-17T11:31:26.412479+00:00",
+      "sha256": "9232b72f463872b2134808cf69c9479e5e715e9eb9d89da8d15370be162c96d5"
+    },
+    {
+      "file": "evidence/jb8_pdf31_prior299A.json",
+      "saved_at_utc": "2026-10-17T11:31:53.991193+00:00",
+      "sha256": "f86f7e4624e76ad0a332ac0b9d231655a07c9bfb850adb1547cc16d536785a28"
+    },
+    {
+      "file": "evidence/jb8_pdf31_prior7148.json",
+      "saved_at_utc": "2026-10-17T11:31:52.899243+00:00",
+      "sha256": "d6e77e8e08f14b4791322925d1ed4a89f4d24b7b8c000deec15b87b002be33ef"
+    },
+    {
+      "file": "evidence/jb8_pdf31_retry2811.json",
+      "saved_at_utc": "2026-10-17T11:31:04.225499+00:00",
+      "sha256": "be784c9d357b4c410e594fa3863b0ecda69f6513018876e639e0bfbabf86b848"
+    },
+    {
+      "file": "evidence/jb8_search31.json",
+      "saved_at_utc": "2026-10-17T11:28:08.513620+00:00",
+      "sha256": "be5d5726bd595877cb4129d4ff9b47ed12f7c3dd280dffd485fa798d8f7daa52"
+    },
+    {
+      "file": "evidence/jb8_secondary31.json",
+      "saved_at_utc": "2026-10-17T11:34:34.379725+00:00",
+      "sha256": "a64795ea78421c1c2aa85bab706457e41930168af5e132cac457df97e003e302"
+    },
+    {
+      "file": "evidence/jb8_supervision1382.json",
+      "saved_at_utc": "2026-10-17T11:34:08.048948+00:00",
+      "sha256": "8d67229f163c4efa9261a94af844403c5021c35d7bc8b3c1c480baf5742bd3ee"
+    },
+    {
+      "file": "evidence/jb8_supervision5103.json",
+      "saved_at_utc": "2026-10-17T11:34:07.172988+00:00",
+      "sha256": "555c7236930e85900d7bd38269ad74833be2b8b0640ffbc1befe8733f898e674"
+    },
+    {
+      "file": "evidence/jb8_supervision_primary.json",
+      "saved_at_utc": "2026-10-17T11:33:12.395542+00:00",
+      "sha256": "82b1a61c02242a36cbe8d5a57ab4941aa17606fb76008771a634796b6568d9ba"
+    },
+    {
+      "file": "evidence/jb8_supervision_search.json",
+      "saved_at_utc": "2026-10-17T11:32:54.152393+00:00",
+      "sha256": "a5d7eb37f758bb925a95998d3bf696dbd1fe2a8a437e191a23790fa07a875b24"
+    }
+  ]
+}

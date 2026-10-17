@@ -66,6 +66,11 @@
       "original_sha256": null,
       "published_sha256": "f0980ae2c4a33781836517fb1dc1252e96b934c77e74112483a8b08c8dc6fbd0",
       "note": "署名付きURLを除去後、公開記録への追記時にパス解決エラーとなったため除去前ハッシュは保存されていない。予測入力に使用しない検索結果。"
+    },
+    {
+      "file": "evidence/jb8_comparison_search.json",
+      "original_sha256": "d7dbc28e88c7de6a9cbebc801d96cd84dbfad288a8d3a527734b7038480d4e84",
+      "published_sha256": "69a9335af82d90ce34f6a2d2deca409beecbeb723ed9e4501a09f16d63d14c05"
     }
   ]
 }

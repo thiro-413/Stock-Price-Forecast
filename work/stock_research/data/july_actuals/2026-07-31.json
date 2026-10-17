@@ -1,0 +1,132 @@
+{
+  "date": "2026-07-31",
+  "top10_verified": true,
+  "verification_scope": "別集計表からETN2033を除外し、不足6997を7/30→31時系列で照合。全原票からの独立再ソートではない。",
+  "sources": [
+    "https://kabu.kininew.net/fiveup/8104.html",
+    "https://uiblog.hatenablog.com/entry/2026/08/01/135734",
+    "https://96ut.com/stock/jikei.php?code=6997&year=2026"
+  ],
+  "top10": [
+    {
+      "code": "4052",
+      "name": "フィーチャ",
+      "market": "G",
+      "close": 342.0,
+      "change": 80.0,
+      "return_pct": 30.53435114503817,
+      "volume": 1379200,
+      "reported_return_pct": 30.53,
+      "previous_close": 262.0,
+      "url": "https://kabu.kininew.net/fiveup/8104.html"
+    },
+    {
+      "code": "2737",
+      "name": "トーメンデバ",
+      "market": "P",
+      "close": 21150.0,
+      "change": 4000.0,
+      "return_pct": 23.323615160349853,
+      "volume": 12100,
+      "reported_return_pct": 23.32,
+      "previous_close": 17150.0,
+      "url": "https://kabu.kininew.net/fiveup/8104.html"
+    },
+    {
+      "code": "5367",
+      "name": "ニッカトー",
+      "market": "S",
+      "close": 1230.0,
+      "change": 229.0,
+      "return_pct": 22.877122877122876,
+      "volume": 2605100,
+      "reported_return_pct": 22.88,
+      "previous_close": 1001.0,
+      "url": "https://kabu.kininew.net/fiveup/8104.html"
+    },
+    {
+      "code": "4461",
+      "name": "一工薬",
+      "market": "P",
+      "close": 12620.0,
+      "change": 2290.0,
+      "return_pct": 22.168441432720233,
+      "volume": 842200,
+      "reported_return_pct": 22.17,
+      "previous_close": 10330.0,
+      "url": "https://kabu.kininew.net/fiveup/8104.html"
+    },
+    {
+      "code": "4220",
+      "name": "リケンテクノ",
+      "market": "P",
+      "close": 2216.0,
+      "change": 400.0,
+      "return_pct": 22.026431718061673,
+      "volume": 170600,
+      "reported_return_pct": 22.03,
+      "previous_close": 1816.0,
+      "url": "https://kabu.kininew.net/fiveup/8104.html"
+    },
+    {
+      "code": "4062",
+      "name": "イビデン",
+      "market": "P",
+      "close": 16650.0,
+      "change": 3000.0,
+      "return_pct": 21.978021978021978,
+      "volume": 1063700,
+      "reported_return_pct": 21.98,
+      "previous_close": 13650.0,
+      "url": "https://kabu.kininew.net/fiveup/8104.html"
+    },
+    {
+      "code": "6912",
+      "name": "菊水ＨＤ",
+      "market": "S",
+      "close": 2264.0,
+      "change": 400.0,
+      "return_pct": 21.459227467811157,
+      "volume": 7600,
+      "reported_return_pct": 21.46,
+      "previous_close": 1864.0,
+      "url": "https://kabu.kininew.net/fiveup/8104.html"
+    },
+    {
+      "code": "6855",
+      "name": "電子材料",
+      "market": "S",
+      "close": 6090.0,
+      "change": 1000.0,
+      "return_pct": 19.64636542239686,
+      "volume": 671200,
+      "reported_return_pct": 19.65,
+      "previous_close": 5090.0,
+      "url": "https://kabu.kininew.net/fiveup/8104.html"
+    },
+    {
+      "code": "6752",
+      "name": "パナＨＤ",
+      "market": "P",
+      "close": 4284.0,
+      "change": 700.0,
+      "return_pct": 19.53125,
+      "volume": 3715000,
+      "reported_return_pct": 19.53,
+      "previous_close": 3584.0,
+      "url": "https://kabu.kininew.net/fiveup/8104.html"
+    },
+    {
+      "code": "6997",
+      "name": "日ケミコン",
+      "market": "P",
+      "close": 3120.0,
+      "change": 492.0,
+      "return_pct": 18.72146118721461,
+      "volume": 2390400,
+      "reported_return_pct": 18.72,
+      "previous_close": 2628.0,
+      "url": "https://kabu.kininew.net/fiveup/8104.html"
+    }
+  ]
+}

@@ -1,0 +1,228 @@
+{
+  "period": "2026-07",
+  "days": [
+    "2026-07-01",
+    "2026-07-02",
+    "2026-07-03",
+    "2026-07-06",
+    "2026-07-07",
+    "2026-07-08",
+    "2026-07-09",
+    "2026-07-10",
+    "2026-07-13",
+    "2026-07-14",
+    "2026-07-15",
+    "2026-07-16",
+    "2026-07-17",
+    "2026-07-21",
+    "2026-07-22",
+    "2026-07-23",
+    "2026-07-24",
+    "2026-07-27",
+    "2026-07-28",
+    "2026-07-29",
+    "2026-07-30",
+    "2026-07-31"
+  ],
+  "completed_sessions": 22,
+  "prediction_count": 220,
+  "hits": 27,
+  "outside_top10": 193,
+  "precision_at_10": 0.12272727272727273,
+  "recall_at_10": 0.12272727272727273,
+  "exact_rank_hits": 4,
+  "baseline_rule": "前営業日の東証普通株上昇率上位10継続。7/1の前日は検証済み6/30のbatch08_data.jsonを使用。",
+  "baseline_hits": 39,
+  "baseline_prediction_count": 220,
+  "baseline_precision_at_10": 0.17727272727272728,
+  "traded_close_count": 219,
+  "no_regular_trade_count": 1,
+  "full_tse_universe": false,
+  "blind_test": false,
+  "error_analysis_started": false,
+  "screening_prompt_created": false,
+  "daily": [
+    {
+      "date": "2026-07-01",
+      "hits": 2,
+      "prediction_count": 10,
+      "precision_at_10": 0.2,
+      "exact_rank_hits": 0,
+      "baseline_hits": 2
+    },
+    {
+      "date": "2026-07-02",
+      "hits": 1,
+      "prediction_count": 10,
+      "precision_at_10": 0.1,
+      "exact_rank_hits": 0,
+      "baseline_hits": 2
+    },
+    {
+      "date": "2026-07-03",
+      "hits": 1,
+      "prediction_count": 10,
+      "precision_at_10": 0.1,
+      "exact_rank_hits": 0,
+      "baseline_hits": 1
+    },
+    {
+      "date": "2026-07-06",
+      "hits": 2,
+      "prediction_count": 10,
+      "precision_at_10": 0.2,
+      "exact_rank_hits": 0,
+      "baseline_hits": 3
+    },
+    {
+      "date": "2026-07-07",
+      "hits": 1,
+      "prediction_count": 10,
+      "precision_at_10": 0.1,
+      "exact_rank_hits": 0,
+      "baseline_hits": 1
+    },
+    {
+      "date": "2026-07-08",
+      "hits": 1,
+      "prediction_count": 10,
+      "precision_at_10": 0.1,
+      "exact_rank_hits": 0,
+      "baseline_hits": 1
+    },
+    {
+      "date": "2026-07-09",
+      "hits": 1,
+      "prediction_count": 10,
+      "precision_at_10": 0.1,
+      "exact_rank_hits": 0,
+      "baseline_hits": 0
+    },
+    {
+      "date": "2026-07-10",
+      "hits": 1,
+      "prediction_count": 10,
+      "precision_at_10": 0.1,
+      "exact_rank_hits": 0,
+      "baseline_hits": 4
+    },
+    {
+      "date": "2026-07-13",
+      "hits": 1,
+      "prediction_count": 10,
+      "precision_at_10": 0.1,
+      "exact_rank_hits": 1,
+      "baseline_hits": 3
+    },
+    {
+      "date": "2026-07-14",
+      "hits": 2,
+      "prediction_count": 10,
+      "precision_at_10": 0.2,
+      "exact_rank_hits": 1,
+      "baseline_hits": 2
+    },
+    {
+      "date": "2026-07-15",
+      "hits": 0,
+      "prediction_count": 10,
+      "precision_at_10": 0.0,
+      "exact_rank_hits": 0,
+      "baseline_hits": 1
+    },
+    {
+      "date": "2026-07-16",
+      "hits": 1,
+      "prediction_count": 10,
+      "precision_at_10": 0.1,
+      "exact_rank_hits": 0,
+      "baseline_hits": 0
+    },
+    {
+      "date": "2026-07-17",
+      "hits": 1,
+      "prediction_count": 10,
+      "precision_at_10": 0.1,
+      "exact_rank_hits": 1,
+      "baseline_hits": 3
+    },
+    {
+      "date": "2026-07-21",
+      "hits": 1,
+      "prediction_count": 10,
+      "precision_at_10": 0.1,
+      "exact_rank_hits": 0,
+      "baseline_hits": 3
+    },
+    {
+      "date": "2026-07-22",
+      "hits": 3,
+      "prediction_count": 10,
+      "precision_at_10": 0.3,
+      "exact_rank_hits": 0,
+      "baseline_hits": 2
+    },
+    {
+      "date": "2026-07-23",
+      "hits": 3,
+      "prediction_count": 10,
+      "precision_at_10": 0.3,
+      "exact_rank_hits": 1,
+      "baseline_hits": 1
+    },
+    {
+      "date": "2026-07-24",
+      "hits": 1,
+      "prediction_count": 10,
+      "precision_at_10": 0.1,
+      "exact_rank_hits": 0,
+      "baseline_hits": 3
+    },
+    {
+      "date": "2026-07-27",
+      "hits": 0,
+      "prediction_count": 10,
+      "precision_at_10": 0.0,
+      "exact_rank_hits": 0,
+      "baseline_hits": 2
+    },
+    {
+      "date": "2026-07-28",
+      "hits": 1,
+      "prediction_count": 10,
+      "precision_at_10": 0.1,
+      "exact_rank_hits": 0,
+      "baseline_hits": 1
+    },
+    {
+      "date": "2026-07-29",
+      "hits": 2,
+      "prediction_count": 10,
+      "precision_at_10": 0.2,
+      "exact_rank_hits": 0,
+      "baseline_hits": 1
+    },
+    {
+      "date": "2026-07-30",
+      "hits": 0,
+      "prediction_count": 10,
+      "precision_at_10": 0.0,
+      "exact_rank_hits": 0,
+      "baseline_hits": 1
+    },
+    {
+      "date": "2026-07-31",
+      "hits": 1,
+      "prediction_count": 10,
+      "precision_at_10": 0.1,
+      "exact_rank_hits": 0,
+      "baseline_hits": 2
+    }
+  ],
+  "next_phase": "july_error_analysis",
+  "next_days": [
+    "2026-07-01",
+    "2026-07-02",
+    "2026-07-03"
+  ]
+}

@@ -1,0 +1,11 @@
+﻿date,predicted_rank,code,actual_rank,result,name,score,previous_close,actual_close,actual_return_pct,actual_source,material_types,missing_momentum,price_status
+2026-07-31,1,6946,,outside_top10,日本アビオ,6.527,4990.0,5310.0,6.412825651302612,https://kabu.kininew.net/fiveup/8104.html,['earnings_up'],False,traded_close
+2026-07-31,2,299A,,outside_top10,クラシル,6,1069.0,1164.0,8.886810102899911,https://kabu.kininew.net/fiveup/8104.html,['earnings_up'],True,traded_close
+2026-07-31,3,4308,,outside_top10,Ｊストリーム,6,358.0,356.0,-0.5586592178770999,https://96ut.com/stock/jikei.php?code=4308&year=2026,['earnings_up'],True,traded_close
+2026-07-31,4,4498,,outside_top10,サイバートラスト,6,1193.0,1243.0,4.191114836546528,https://96ut.com/stock/jikei.php?code=4498&year=2026,['earnings_up'],True,traded_close
+2026-07-31,5,5698,,outside_top10,エンビプロ・ホールディングス,6,750.0,812.0,8.266666666666666,https://kabu.kininew.net/fiveup/8104.html,['earnings_up'],True,traded_close
+2026-07-31,6,6912,7,hit_top10,菊水ホールディングス,6,1864.0,2264.0,21.459227467811147,https://kabu.kininew.net/fiveup/8104.html,['earnings_up'],True,traded_close
+2026-07-31,7,9709,,outside_top10,ＮＣＳ＆Ａ,6,1303.0,1378.0,5.755947812739826,https://kabu.kininew.net/fiveup/8104.html,['earnings_up'],True,traded_close
+2026-07-31,8,6504,,outside_top10,富士電機,5.54,12695.0,14285.0,12.52461599054746,https://kabu.kininew.net/fiveup/8104.html,['earnings_up'],False,traded_close
+2026-07-31,9,2327,,outside_top10,日鉄ソリューションズ,5,3931.0,3915.0,-0.4070211142202962,https://96ut.com/stock/jikei.php?code=2327&year=2026,['earnings_up'],True,traded_close
+2026-07-31,10,2579,,outside_top10,コカ・コーラ　ボトラーズジャパンホールディングス,5,4491.0,3828.0,-14.762859051436205,https://96ut.com/stock/jikei.php?code=2579&year=2026,['earnings_up'],True,traded_close

@@ -1,0 +1,30 @@
+{
+  "old_manifest_file_checks": 1048,
+  "old_seals_unchanged": true,
+  "seal": "4d176f65be7bff2aca687ae95d91bbf253bf725e12a58df8c072ae1aaacc9c60",
+  "input_sha256": "20936e0b9c56b1d78a4663b5c9009f11de3e90eccda6096f46f7cba423ac1dd2",
+  "cutoff_gate": "passed",
+  "candidate_count": 98,
+  "unverified_exclusions": 9,
+  "all_score_components_verified": true,
+  "hits": 1,
+  "exact_rank_hits": 0,
+  "all_10_traded_closes_verified": true,
+  "top10_corroborated": 10,
+  "ordinary_ranking_rows": 330,
+  "month_sessions": 22,
+  "month_predictions": 220,
+  "month_hits": 27,
+  "month_baseline_hits": 39,
+  "month_traded_close_count": 219,
+  "month_no_regular_trade_count": 1,
+  "full_tse_universe": false,
+  "blind_test": false,
+  "new_evidence_secret_pattern_scan": "passed",
+  "new_redactions": 0,
+  "next_days": [
+    "2026-07-01",
+    "2026-07-02",
+    "2026-07-03"
+  ]
+}

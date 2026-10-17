@@ -1,0 +1,25 @@
+{
+  "299A": {
+    "previous_basis": "non-consolidated",
+    "current_basis": "consolidated",
+    "ordinary_profit_million_yen": [
+      745,
+      910
+    ],
+    "note": "約22%増は同じ連結範囲での成長率ではない。原短信2件を照合。"
+  },
+  "7148": {
+    "previous_ytd_3q": 20186,
+    "current_ytd_3q": 17648,
+    "previous_ytd_2q": 15828,
+    "current_ytd_2q": 11885,
+    "previous_q3": 4358,
+    "current_q3": 5763,
+    "growth_pct": 32.23955943093162
+  },
+  "new_supervision_flags": [
+    "1382",
+    "5103"
+  ],
+  "prior_seals_unchanged": true
+}
