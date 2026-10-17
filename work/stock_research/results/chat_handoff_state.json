@@ -1,0 +1,13 @@
+{
+  "policy_set_on_jst": "2026-10-17",
+  "handoff_every_completed_batches": 7,
+  "standard_trading_days_per_batch": 3,
+  "count_across_phases": true,
+  "count_final_short_batch_as_one": true,
+  "completed_batches_in_chat": 0,
+  "completed_batch_ids_in_chat": [],
+  "counting_starts": "next_new_chat",
+  "next_authorized_batch": ["2026-07-23", "2026-07-24", "2026-07-27"],
+  "handoff_prepared": true,
+  "note": "このチャットでの分析は停止済み。次の新しいチャットから0回で開始し、分析バッチの完了時のみ加算。7回で引き継ぎ記録と再開文を準備。ユーザーが新しいチャットへ移ったと確認した時点で回数をリセットする。各バッチの続行確認・コミット・プッシュは継続。"
+}
